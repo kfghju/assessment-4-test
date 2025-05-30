@@ -1,0 +1,3961 @@
+﻿Name,Age,Overall rating,Potential,Team & Contract,Height,Weight,Best position,Value,Wage,Short passing,Dribbling,Stamina,Total goalkeeping,Full Name
+"L. Messi
+CF RW",27,93,93,"FC Barcelona
+2004 ~ 2018","170cm / 5'7""",72kg / 159lbs,CAM,100500000.0,550000.0,89,96,77,54,Lionel Messi
+"Cristiano Ronaldo
+LW ST",29,92,92,"Real Madrid
+2009 ~ 2018","185cm / 6'1""",80kg / 176lbs,ST,79000000.0,375000.0,82,93,89,58,C. Ronaldo dos Santos Aveiro
+"A. Robben
+RM LM RW",30,90,90,"FC Bayern München
+2009 ~ 2017","180cm / 5'11""",80kg / 176lbs,CAM,54500000.0,275000.0,86,93,78,49,Arjen Robben
+"M. Neuer
+GK",28,90,90,"FC Bayern München
+2011 ~ 2019","193cm / 6'4""",92kg / 203lbs,GK,63500000.0,300000.0,42,25,44,440,Manuel Neuer
+"Z. Ibrahimović
+ST",32,89,89,"Paris Saint-Germain
+2012 ~ 2016","195cm / 6'5""",95kg / 209lbs,ST,34500000.0,275000.0,84,87,78,59,Zlatan Ibrahimović
+"Iniesta
+CM",30,89,89,"FC Barcelona
+2002 ~ 2018","171cm / 5'7""",68kg / 150lbs,CAM,36000000.0,250000.0,93,92,78,45,Andrés Iniesta Luján
+"L. Suárez
+ST CF RW",27,89,89,"FC Barcelona
+2014 ~ 2019","182cm / 6'0""",85kg / 187lbs,CAM,49500000.0,300000.0,82,90,86,153,Luis Suárez
+"E. Hazard
+LM",23,88,90,"Chelsea
+2012 ~ 2020","173cm / 5'8""",74kg / 163lbs,CAM,40500000.0,210000.0,86,93,74,45,Eden Hazard
+"B. Schweinsteiger
+CM CDM",29,88,88,"FC Bayern München
+2002 ~ 2016","183cm / 6'0""",79kg / 174lbs,CM,39000000.0,200000.0,88,81,86,65,Bastian Schweinsteiger
+"F. Ribéry
+LM",31,88,88,"FC Bayern München
+2007 ~ 2017","170cm / 5'7""",72kg / 159lbs,CAM,33000000.0,200000.0,89,92,72,47,Franck Ribéry
+"S. Agüero
+ST",26,87,89,"Manchester City
+2011 ~ 2019","172cm / 5'8""",74kg / 163lbs,CF,45500000.0,230000.0,84,89,69,59,Sergio Agüero
+"David Silva
+CAM LM",28,87,87,"Manchester City
+2010 ~ 2019","170cm / 5'7""",67kg / 148lbs,CAM,40000000.0,230000.0,88,87,68,5,David Josué Jimenez Silva
+"Thiago Silva
+CB",29,87,87,"Paris Saint-Germain
+2012 ~ 2018","183cm / 6'0""",79kg / 174lbs,CB,29000000.0,190000.0,79,68,80,45,Thiago Emiliano da Silva
+"P. Lahm
+CDM RB CM",30,87,87,"FC Bayern München
+2002 ~ 2018","170cm / 5'7""",66kg / 146lbs,RWB,24500000.0,190000.0,88,82,86,47,Philipp Lahm
+"J. Boateng
+CB RB",25,87,89,"FC Bayern München
+2011 ~ 2018","192cm / 6'4""",90kg / 198lbs,CB,35500000.0,200000.0,77,67,73,45,Jérôme Boateng
+"R. Lewandowski
+ST LW",25,87,89,"FC Bayern München
+2014 ~ 2019","185cm / 6'1""",79kg / 174lbs,ST,44000000.0,210000.0,83,84,75,51,Robert Lewandowski
+"Sergio Ramos
+CB",28,87,87,"Real Madrid
+2005 ~ 2017","183cm / 6'0""",75kg / 165lbs,CB,31500000.0,220000.0,76,52,82,46,Sergio Ramos García
+"G. Bale
+RW RM",24,87,91,"Real Madrid
+2013 ~ 2019","183cm / 6'0""",74kg / 163lbs,RW,42500000.0,210000.0,84,87,90,52,Gareth Bale
+"L. Modrić
+CM",28,87,87,"Real Madrid
+2012 ~ 2018","174cm / 5'9""",65kg / 143lbs,CM,36500000.0,220000.0,88,86,86,52,Luka Modrić
+"M. Özil
+CAM LW",25,86,87,"Arsenal
+2013 ~ 2018","183cm / 6'0""",76kg / 168lbs,CAM,44000000.0,190000.0,87,86,64,50,Mesut Özil
+"T. Courtois
+GK",22,86,90,"Chelsea
+2011 ~ 2019","199cm / 6'6""",88kg / 194lbs,GK,27000000.0,170000.0,32,25,38,414,Thibaut Courtois
+"V. Kompany
+CB",28,86,86,"Manchester City
+2008 ~ 2019","192cm / 6'4""",85kg / 187lbs,CB,31500000.0,220000.0,80,64,70,38,Vincent Kompany
+"W. Rooney
+ST CM CAM",28,86,86,"Manchester United
+2004 ~ 2019","176cm / 5'9""",83kg / 183lbs,ST,40000000.0,230000.0,80,80,89,49,Wayne Rooney
+"Falcao
+ST",28,86,86,"Manchester United
+2013 ~ 2018","177cm / 5'10""",72kg / 159lbs,ST,40000000.0,230000.0,69,78,71,43,Radamel Falcao García Zarate
+"De Gea
+GK",23,86,89,"Manchester United
+2011 ~ 2016","193cm / 6'4""",82kg / 181lbs,GK,31000000.0,180000.0,31,25,25,425,David De Gea Quintana
+"T. Müller
+CF RM CAM ST",24,86,88,"FC Bayern München
+2008 ~ 2019","186cm / 6'1""",75kg / 165lbs,CF,42500000.0,210000.0,85,78,90,52,Thomas Müller
+"M. Hummels
+CB",25,86,88,"Borussia Dortmund
+2009 ~ 2017","192cm / 6'4""",90kg / 198lbs,CB,35500000.0,200000.0,80,68,67,42,Mats Hummels
+"M. Reus
+LM CAM",25,86,88,"Borussia Dortmund
+2012 ~ 2019","181cm / 5'11""",73kg / 161lbs,CAM,40000000.0,180000.0,86,88,76,61,Marco Reus
+"Xavi
+CM",34,86,86,"FC Barcelona
+1998 ~ 2020","170cm / 5'7""",67kg / 148lbs,CAM,15500000.0,160000.0,93,80,60,46,Xavier Hernández Creus
+"Neymar
+LW",22,86,91,"FC Barcelona
+2013 ~ 2018","174cm / 5'9""",68kg / 150lbs,LW,31000000.0,210000.0,72,94,86,59,Neymar da Silva Santos Jr.
+"J. Rodríguez
+CAM RM CM",22,86,92,"Real Madrid
+2014 ~ 2020","180cm / 5'11""",75kg / 165lbs,CAM,35000000.0,190000.0,83,86,73,64,James Rodríguez
+"Santi Cazorla
+CAM CM LM",29,85,85,"Arsenal
+2012 ~ 2017","168cm / 5'6""",66kg / 146lbs,CAM,22500000.0,160000.0,86,87,65,42,Santiago Cazorla González
+"A. Sánchez
+RW LW",25,85,87,"Arsenal
+2014 ~ 2019","169cm / 5'7""",62kg / 137lbs,RW,26500000.0,170000.0,80,88,86,60,Alexis Sánchez
+"P. Čech
+GK",32,85,85,"Chelsea
+2004 ~ 2016","196cm / 6'5""",90kg / 198lbs,GK,18000000.0,170000.0,35,25,32,407,Petr Čech
+"Cesc Fàbregas
+CM CAM",27,85,85,"Chelsea
+2014 ~ 2019","175cm / 5'9""",74kg / 163lbs,CM,23000000.0,180000.0,92,81,83,54,Francesc Fàbregas i Soler
+"Diego Costa
+ST",25,85,86,"Chelsea
+2014 ~ 2019","188cm / 6'2""",81kg / 179lbs,ST,26500000.0,170000.0,65,82,85,55,Diego da Silva Costa
+"Y. Touré
+CM CDM",31,85,85,"Manchester City
+2010 ~ 2017","189cm / 6'2""",90kg / 198lbs,CM,17000000.0,170000.0,86,81,93,53,Yaya Touré
+"R. van Persie
+ST",30,85,85,"Manchester United
+2012 ~ 2016","187cm / 6'2""",71kg / 157lbs,ST,21000000.0,170000.0,82,82,73,39,Robin van Persie
+"Juan Mata
+CAM RM",26,85,85,"Manchester United
+2014 ~ 2018","170cm / 5'7""",63kg / 139lbs,CAM,27000000.0,190000.0,86,85,79,46,Juan Manuel Mata García
+"Á. Di María
+CAM CM RM",26,85,85,"Manchester United
+2014 ~ 2019","180cm / 5'11""",70kg / 154lbs,LM,27000000.0,200000.0,81,87,78,51,Ángel Di María
+"H. Lloris
+GK",27,85,85,"Tottenham Hotspur
+2012 ~ 2019","188cm / 6'2""",78kg / 172lbs,GK,21000000.0,160000.0,27,25,41,405,Hugo Lloris
+"E. Cavani
+ST LW RW",27,85,85,"Paris Saint-Germain
+2013 ~ 2018","184cm / 6'0""",71kg / 157lbs,ST,25500000.0,200000.0,74,80,90,53,Edinson Cavani
+"Xabi Alonso
+CDM CM",32,85,85,"FC Bayern München
+2014 ~ 2016","183cm / 6'0""",80kg / 176lbs,CM,11500000.0,170000.0,91,77,64,45,Xabier Alonso Olano
+"M. Götze
+CAM LM CM",22,85,90,"FC Bayern München
+2013 ~ 2017","176cm / 5'9""",72kg / 159lbs,CAM,21000000.0,150000.0,86,90,71,49,Mario Götze
+"K. De Bruyne
+CAM LM RM",23,85,88,"VfL Wolfsburg
+2014 ~ 2019","181cm / 5'11""",76kg / 168lbs,CAM,23000000.0,140000.0,87,85,85,56,Kevin De Bruyne
+"A. Vidal
+CM CDM CAM",27,85,87,"Juventus
+2011 ~ 2017","180cm / 5'11""",75kg / 165lbs,CM,23000000.0,190000.0,85,80,93,16,Arturo Vidal
+"Sergio Busquets
+CDM",25,85,88,"FC Barcelona
+2008 ~ 2019","189cm / 6'2""",76kg / 168lbs,CDM,20000000.0,170000.0,83,74,86,48,Sergio Busquets Burgos
+"K. Benzema
+ST",26,85,87,"Real Madrid
+2009 ~ 2019","187cm / 6'2""",79kg / 174lbs,CF,27000000.0,200000.0,84,82,74,41,Karim Benzema
+"T. Kroos
+CM CDM",24,85,88,"Real Madrid
+2014 ~ 2020","182cm / 6'0""",78kg / 172lbs,CM,23000000.0,170000.0,90,82,76,51,Toni Kroos
+"Oscar
+CAM RM",22,84,88,"Chelsea
+2012 ~ 2019","179cm / 5'10""",67kg / 148lbs,CAM,21000000.0,150000.0,85,84,76,61,Oscar dos Santos Emboaba
+"S. Nasri
+LM RM",27,84,84,"Manchester City
+2011 ~ 2019","175cm / 5'9""",75kg / 165lbs,LM,23000000.0,180000.0,86,86,72,50,Samir Nasri
+"M. Benatia
+CB",27,84,86,"FC Bayern München
+2014 ~ 2019","190cm / 6'3""",92kg / 203lbs,CB,20500000.0,170000.0,65,59,76,37,Medhi Benatia
+"Javi Martinez
+CB CDM CM",25,84,85,"FC Bayern München
+2012 ~ 2017","190cm / 6'3""",81kg / 179lbs,CB,21000000.0,160000.0,77,65,72,45,Javier Martínez Aginaga
+"G. Chiellini
+CB",29,84,84,"Juventus
+2005 ~ 2018","186cm / 6'1""",76kg / 168lbs,CB,17500000.0,150000.0,53,56,75,15,Giorgio Chiellini
+"P. Pogba
+CM",21,84,91,"Juventus
+2012 ~ 2019","188cm / 6'2""",80kg / 176lbs,CAM,18500000.0,140000.0,85,88,87,20,Paul Pogba
+"G. Higuaín
+ST",26,84,86,"Napoli
+2013 ~ 2018","184cm / 6'0""",82kg / 181lbs,ST,27000000.0,170000.0,70,81,70,39,Gonzalo Higuaín
+"A. Turan
+RM LM",27,84,87,"Atlético Madrid
+2011 ~ 2017","177cm / 5'10""",76kg / 168lbs,CAM,23000000.0,180000.0,86,87,76,52,Arda Turan
+"D. Godín
+CB",28,84,84,"Atlético Madrid
+2010 ~ 2018","186cm / 6'1""",78kg / 172lbs,CB,19000000.0,180000.0,73,53,73,49,Diego Godín
+"Piqué
+CB",27,84,87,"FC Barcelona
+2008 ~ 2019","193cm / 6'4""",85kg / 187lbs,CB,20500000.0,190000.0,84,50,69,58,Gerard Piqué Bernabeu
+"Casillas
+GK",33,84,84,"Real Madrid
+1999 ~ 2017","185cm / 6'1""",84kg / 185lbs,GK,16500000.0,140000.0,21,25,43,400,Iker Casillas Fernández
+"S. Khedira
+CDM CM",27,84,86,"Real Madrid
+2010 ~ 2015","189cm / 6'2""",85kg / 187lbs,CDM,19500000.0,180000.0,85,60,88,48,Sami Khedira
+"J. Terry
+CB",33,83,83,"Chelsea
+1998 ~ 2016","187cm / 6'2""",90kg / 198lbs,CB,7000000.0,100000.0,63,45,67,48,John Terry
+"N. Matić
+CDM",25,83,86,"Chelsea
+2014 ~ 2019","194cm / 6'4""",84kg / 185lbs,CDM,14500000.0,120000.0,84,78,90,57,Nemanja Matić
+"D. Sturridge
+ST RW",24,83,86,"Liverpool
+2013 ~ 2019","183cm / 6'0""",76kg / 168lbs,ST,18500000.0,120000.0,75,84,72,49,Daniel Sturridge
+"P. Zabaleta
+RB",29,83,83,"Manchester City
+2008 ~ 2017","178cm / 5'10""",76kg / 168lbs,RB,12500000.0,130000.0,79,73,85,51,Pablo Zabaleta
+"J. Hart
+GK",27,83,83,"Manchester City
+2006 ~ 2019","196cm / 6'5""",91kg / 201lbs,GK,15000000.0,150000.0,32,25,28,405,Joe Hart
+"E. Džeko
+ST",28,83,83,"Manchester City
+2011 ~ 2018","193cm / 6'4""",84kg / 185lbs,ST,17000000.0,160000.0,72,82,72,63,Edin Džeko
+"Victor Valdés
+GK",32,83,83,"Manchester United
+2015 ~ 2016","183cm / 6'0""",78kg / 172lbs,GK,13000000.0,130000.0,27,25,34,410,Victor Valdés Arribas
+"João Moutinho
+CM CAM",27,83,83,"AS Monaco
+2013 ~ 2018","170cm / 5'7""",61kg / 134lbs,CM,16500000.0,110000.0,86,81,91,69,João Filipe Moutinho
+"S. Sirigu
+GK",27,83,83,"Paris Saint-Germain
+2011 ~ 2018","192cm / 6'4""",80kg / 176lbs,GK,15000000.0,150000.0,23,25,34,403,Salvatore Sirigu
+"B. Matuidi
+CDM CM",27,83,85,"Paris Saint-Germain
+2011 ~ 2018","175cm / 5'9""",70kg / 154lbs,CDM,14000000.0,150000.0,84,73,94,48,Blaise Matuidi
+"David Luiz
+CB",27,83,84,"Paris Saint-Germain
+2014 ~ 2019","189cm / 6'2""",84kg / 185lbs,CB,14500000.0,160000.0,78,70,75,54,David Luiz Moreira Marinho
+"M. Verratti
+CM CDM",21,83,90,"Paris Saint-Germain
+2012 ~ 2019","165cm / 5'5""",60kg / 132lbs,CM,13500000.0,110000.0,89,90,81,64,Marco Verratti
+"S. Ruffier
+GK",27,83,84,"AS Saint-Étienne
+2011 ~ 2018","188cm / 6'2""",90kg / 198lbs,GK,15000000.0,130000.0,33,25,37,409,Stéphane Ruffier
+"D. Alaba
+LB CM CDM CB",22,83,88,"FC Bayern München
+2010 ~ 2018","180cm / 5'11""",76kg / 168lbs,LM,11500000.0,120000.0,85,81,88,50,David Alaba
+"B. Leno
+GK",22,83,86,"Bayer 04 Leverkusen
+2012 ~ 2018","190cm / 6'3""",82kg / 181lbs,GK,11500000.0,100000.0,36,25,43,413,Bernd Leno
+"K. Huntelaar
+ST",30,83,83,"FC Schalke 04
+2010 ~ 2017","186cm / 6'1""",83kg / 183lbs,ST,15000000.0,140000.0,74,69,68,45,Klaas-Jan Huntelaar
+"J. Farfán
+RM ST",29,83,83,"FC Schalke 04
+2008 ~ 2016","178cm / 5'10""",84kg / 185lbs,RW,14500000.0,130000.0,82,86,77,59,Jefferson Farfán
+"Naldo
+CB",31,83,83,"VfL Wolfsburg
+2012 ~ 2015","198cm / 6'6""",89kg / 196lbs,CB,10000000.0,110000.0,76,60,60,60,Ronaldo Aparecido Rodrigues
+"S. Handanovič
+GK",29,83,83,"Inter
+2012 ~ 2016","193cm / 6'4""",89kg / 196lbs,GK,16000000.0,120000.0,33,25,41,401,Samir Handanovič
+"G. Buffon
+GK",36,83,83,"Juventus
+2001 ~ 2017","191cm / 6'3""",83kg / 183lbs,GK,7000000.0,110000.0,37,20,39,393,Gianluigi Buffon
+"A. Barzagli
+CB",33,83,83,"Juventus
+2011 ~ 2016","186cm / 6'1""",79kg / 174lbs,CB,7000000.0,100000.0,65,52,69,16,Andrea Barzagli
+"C. Marchisio
+CM CDM",28,83,83,"Juventus
+2007 ~ 2016","179cm / 5'10""",76kg / 168lbs,CM,15500000.0,150000.0,85,82,87,17,Claudio Marchisio
+"A. Candreva
+RW",27,83,85,"Lazio
+2012 ~ 2019","181cm / 5'11""",72kg / 159lbs,RM,18500000.0,130000.0,82,85,93,46,Antonio Candreva
+"D. De Rossi
+CDM",30,83,83,"Roma
+2002 ~ 2017","185cm / 6'1""",83kg / 183lbs,CDM,10500000.0,110000.0,82,69,84,49,Daniele De Rossi
+"M. Pjanić
+CM",24,83,85,"Roma
+2011 ~ 2018","180cm / 5'11""",74kg / 163lbs,CAM,16500000.0,110000.0,89,83,76,42,Miralem Pjanić
+"Miranda
+CB",29,83,83,"Atlético Madrid
+2011 ~ 2016","186cm / 6'1""",76kg / 168lbs,CB,12500000.0,130000.0,64,49,71,53,João Miranda de Souza Filho
+"M. Mandžukić
+ST",28,83,83,"Atlético Madrid
+2014 ~ 2018","187cm / 6'2""",84kg / 185lbs,ST,17000000.0,160000.0,74,75,84,46,Mario Mandžukić
+"J. Mascherano
+CB CDM",30,83,83,"FC Barcelona
+2010 ~ 2018","174cm / 5'9""",73kg / 161lbs,CB,11500000.0,130000.0,78,58,87,34,Javier Mascherano
+"Dani Alves
+RB",31,83,83,"FC Barcelona
+2008 ~ 2015","172cm / 5'8""",70kg / 154lbs,RWB,10000000.0,140000.0,83,81,79,38,Daniel Alves da Silva
+"I. Rakitić
+CAM CM",26,83,84,"FC Barcelona
+2014 ~ 2019","184cm / 6'0""",78kg / 172lbs,RM,19500000.0,160000.0,85,81,79,51,Ivan Rakitić
+"C. Bravo
+GK",31,83,83,"FC Barcelona
+2014 ~ 2018","184cm / 6'0""",80kg / 176lbs,GK,14000000.0,120000.0,32,25,44,416,Claudio Bravo
+"Pedro
+LW RW",26,83,86,"FC Barcelona
+2008 ~ 2016","167cm / 5'6""",62kg / 137lbs,LW,18000000.0,160000.0,83,84,78,52,Pedro Rodríguez Ledesma
+"Pepe
+CB",31,83,83,"Real Madrid
+2007 ~ 2016","188cm / 6'2""",81kg / 179lbs,CB,10000000.0,130000.0,67,58,75,47,Képler Laveran Lima Ferreira
+"Isco
+CAM CM LM",22,83,88,"Real Madrid
+2013 ~ 2018","176cm / 5'9""",74kg / 163lbs,CAM,15000000.0,120000.0,87,87,73,51,Francisco Román Alarcón Suárez
+"C. Vela
+RW ST CAM",25,83,86,"Real Sociedad
+2012 ~ 2018","177cm / 5'10""",75kg / 165lbs,RW,19000000.0,120000.0,80,86,64,53,Carlos Vela
+"Negredo
+ST",28,83,83,"Valencia CF
+2015 ~ 2018","186cm / 6'1""",86kg / 190lbs,ST,17000000.0,140000.0,76,75,72,48,Álvaro Negredo Sánchez
+"N. Otamendi
+CB",26,83,86,"Valencia CF
+2014 ~ 2019","183cm / 6'0""",81kg / 179lbs,CB,16000000.0,120000.0,69,60,78,48,Nicolás Otamendi
+"P. Mertesacker
+CB",29,82,82,"Arsenal
+2011 ~ 2017","198cm / 6'6""",90kg / 198lbs,CB,12500000.0,130000.0,71,39,64,50,Per Mertesacker
+"L. Koscielny
+CB",28,82,82,"Arsenal
+2010 ~ 2019","186cm / 6'1""",75kg / 165lbs,CB,13500000.0,150000.0,75,62,73,51,Laurent Koscielny
+"A. Ramsey
+CM CDM",23,82,86,"Arsenal
+2008 ~ 2019","177cm / 5'10""",70kg / 154lbs,CM,15000000.0,130000.0,84,81,93,40,Aaron Ramsey
+"Willian
+RM CAM",25,82,84,"Chelsea
+2013 ~ 2018","175cm / 5'9""",75kg / 165lbs,RM,17000000.0,120000.0,82,88,86,59,Willian Borges da Silva
+"J. Cuadrado
+RM ST LM",26,82,84,"Chelsea
+2015 ~ 2019","176cm / 5'9""",66kg / 146lbs,RW,18000000.0,150000.0,79,90,80,38,Juan Cuadrado
+"Coutinho
+CAM LW CM",22,82,86,"Liverpool
+2013 ~ 2020","171cm / 5'7""",68kg / 150lbs,CAM,15000000.0,100000.0,85,87,73,48,Philippe Coutinho Correia
+"J. Vertonghen
+CB LB",27,82,82,"Tottenham Hotspur
+2012 ~ 2016","189cm / 6'2""",86kg / 190lbs,CB,14500000.0,130000.0,80,66,79,44,Jan Vertonghen
+"C. Eriksen
+CAM LM",22,82,86,"Tottenham Hotspur
+2013 ~ 2018","177cm / 5'10""",71kg / 157lbs,RM,15000000.0,110000.0,84,84,87,43,Christian Eriksen
+"A. Begović
+GK",27,82,82,"Stoke City
+2010 ~ 2016","200cm / 6'7""",83kg / 183lbs,GK,15000000.0,110000.0,26,25,36,401,Asmir Begović
+"A. Lacazette
+ST RW",23,82,86,"Olympique Lyonnais
+2009 ~ 2018","175cm / 5'9""",73kg / 161lbs,ST,16500000.0,130000.0,76,85,77,37,Alexandre Lacazette
+"J. Toulalan
+CDM CM",30,82,82,"AS Monaco
+2013 ~ 2017","183cm / 6'0""",77kg / 170lbs,CDM,10500000.0,90000.0,82,69,88,45,Jérémy Toulalan
+"Lucas
+RW RM",21,82,87,"Paris Saint-Germain
+2013 ~ 2017","172cm / 5'8""",72kg / 159lbs,RW,15000000.0,120000.0,78,88,72,54,Lucas Rodrigues M. Silva
+"S. Mandanda
+GK",29,82,82,"Olympique de Marseille
+2007 ~ 2016","185cm / 6'1""",82kg / 181lbs,GK,16000000.0,130000.0,31,25,31,402,Steve Mandanda
+"J. Błaszczykowski
+RM",28,82,82,"Borussia Dortmund
+2007 ~ 2018","175cm / 5'9""",71kg / 157lbs,RM,15500000.0,150000.0,82,83,78,59,Jakub Błaszczykowski
+"Sokratis
+CB RB LB",26,82,84,"Borussia Dortmund
+2013 ~ 2018","185cm / 6'1""",85kg / 187lbs,CB,16000000.0,140000.0,66,60,72,36,Sokratis Papastathopoulos
+"Ł. Piszczek
+RB",29,82,82,"Borussia Dortmund
+2010 ~ 2017","184cm / 6'0""",78kg / 172lbs,RB,12500000.0,120000.0,76,74,87,57,Łukasz Piszczek
+"İ. Gündoğan
+CM CDM CAM",23,82,86,"Borussia Dortmund
+2011 ~ 2016","180cm / 5'11""",79kg / 174lbs,CM,15000000.0,130000.0,86,85,72,48,İlkay Gündoğan
+"S. Kagawa
+CAM LM CF",25,82,84,"Borussia Dortmund
+2014 ~ 2018","172cm / 5'8""",64kg / 141lbs,CAM,19000000.0,140000.0,84,87,81,50,Shinji Kagawa
+"B. Höwedes
+CB RB LB",26,82,83,"FC Schalke 04
+2007 ~ 2017","187cm / 6'2""",82kg / 181lbs,CB,16000000.0,140000.0,74,60,69,46,Benedikt Höwedes
+"N. Vidić
+CB",32,82,82,"Inter
+2014 ~ 2016","190cm / 6'3""",88kg / 194lbs,CB,9000000.0,130000.0,56,43,52,40,Nemanja Vidić
+"M. Hamšik
+CAM",26,82,84,"Napoli
+2007 ~ 2016","183cm / 6'0""",79kg / 174lbs,CAM,19500000.0,140000.0,86,81,78,46,Marek Hamšik
+"D. Mertens
+CAM LW",27,82,85,"Napoli
+2013 ~ 2018","169cm / 5'7""",61kg / 134lbs,RW,18500000.0,130000.0,81,87,76,39,Dries Mertens
+"G. Rossi
+ST",27,82,82,"Fiorentina
+2013 ~ 2017","173cm / 5'8""",72kg / 159lbs,CAM,18500000.0,140000.0,77,83,65,39,Giuseppe Rossi
+"Gabi
+CM CDM",30,82,82,"Atlético Madrid
+2011 ~ 2017","180cm / 5'11""",74kg / 163lbs,CM,13500000.0,130000.0,85,73,82,43,Gabriel Fernández Arenas
+"Koke
+LM RM CM CAM",22,82,85,"Atlético Madrid
+2011 ~ 2019","178cm / 5'10""",74kg / 163lbs,LM,13500000.0,110000.0,86,79,82,54,Jorge Resurrección
+"A. Griezmann
+ST CAM LM",23,82,88,"Atlético Madrid
+2014 ~ 2020","176cm / 5'9""",67kg / 148lbs,ST,16500000.0,130000.0,77,86,75,63,Antoine Griezmann
+"M. ter Stegen
+GK",22,82,86,"FC Barcelona
+2014 ~ 2019","187cm / 6'2""",85kg / 187lbs,GK,11500000.0,110000.0,30,25,35,409,Marc-André ter Stegen
+"Marcelo
+LB",26,82,85,"Real Madrid
+2007 ~ 2018","174cm / 5'9""",75kg / 165lbs,LWB,16000000.0,150000.0,80,83,82,36,Marcelo Vieira da Silva
+"Aduriz
+ST",33,82,82,"Athletic Club
+2012 ~ 2017","182cm / 6'0""",78kg / 172lbs,ST,10500000.0,60000.0,75,72,73,57,Aritz Aduriz Zubeldia
+"Diego Alves
+GK",29,82,82,"Valencia CF
+2011 ~ 2019","188cm / 6'2""",83kg / 183lbs,GK,16000000.0,100000.0,33,25,43,405,Diego Alves Carreira
+"S. Feghouli
+RM RW",24,82,86,"Valencia CF
+2010 ~ 2016","177cm / 5'10""",71kg / 157lbs,RM,16500000.0,110000.0,77,87,85,48,Sofiane Feghouli
+"J. Wilshere
+CM CDM LM",22,81,84,"Arsenal
+2009 ~ 2018","172cm / 5'8""",68kg / 150lbs,CAM,9500000.0,100000.0,84,84,82,56,Jack Wilshere
+"C. Benteke
+ST",23,81,84,"Aston Villa
+2012 ~ 2017","190cm / 6'3""",83kg / 183lbs,ST,12000000.0,80000.0,72,75,77,44,Christian Benteke
+"Filipe Luís
+LB",28,81,81,"Chelsea
+2014 ~ 2017","182cm / 6'0""",77kg / 170lbs,LWB,9500000.0,110000.0,75,77,89,49,Filipe Luís Kasmirski
+"G. Cahill
+CB",28,81,81,"Chelsea
+2012 ~ 2017","193cm / 6'4""",86kg / 190lbs,CB,9500000.0,110000.0,65,58,68,43,Gary Cahill
+"B. Ivanović
+RB CB",30,81,81,"Chelsea
+2008 ~ 2016","185cm / 6'1""",91kg / 201lbs,CB,8000000.0,100000.0,66,57,78,56,Branislav Ivanović
+"Azpilicueta
+LB RB",24,81,83,"Chelsea
+2012 ~ 2019","178cm / 5'10""",75kg / 165lbs,LB,10500000.0,100000.0,79,70,85,43,César Azpilicueta Tanco
+"Ramires
+CDM CM",27,81,81,"Chelsea
+2010 ~ 2017","180cm / 5'11""",70kg / 154lbs,RWB,10000000.0,120000.0,83,82,94,48,Ramires Santos do Nascimen.
+"L. Baines
+LB",29,81,81,"Everton
+2007 ~ 2018","170cm / 5'7""",70kg / 154lbs,LWB,9000000.0,70000.0,84,77,85,58,Leighton Baines
+"Fernandinho
+CM CDM",29,81,81,"Manchester City
+2013 ~ 2017","176cm / 5'9""",67kg / 148lbs,CM,10500000.0,100000.0,83,80,82,48,Fernando Luiz Rosa
+"Jesús Navas
+RM",28,81,81,"Manchester City
+2013 ~ 2017","170cm / 5'7""",60kg / 132lbs,RM,11000000.0,120000.0,77,82,79,55,Jesús Navas González
+"S. Jovetić
+ST CAM",24,81,84,"Manchester City
+2013 ~ 2018","183cm / 6'0""",79kg / 174lbs,CAM,13000000.0,110000.0,82,85,75,40,Stevan Jovetić
+"W. Bony
+ST",25,81,84,"Manchester City
+2015 ~ 2019","182cm / 6'0""",91kg / 201lbs,ST,13500000.0,110000.0,68,74,78,41,Wilfried Bony
+"M. Schneiderlin
+CDM CM",24,81,85,"Southampton
+2008 ~ 2017","181cm / 5'11""",75kg / 165lbs,CDM,10000000.0,70000.0,82,73,90,50,Morgan Schneiderlin
+"V. Enyeama
+GK",31,81,81,"Lille OSC
+2011 ~ 2017","182cm / 6'0""",87kg / 192lbs,GK,10000000.0,80000.0,39,25,35,403,Vincent Enyeama
+"M. Gonalons
+CDM CB",25,81,84,"Olympique Lyonnais
+2009 ~ 2018","187cm / 6'2""",76kg / 168lbs,CDM,10500000.0,100000.0,78,67,91,46,Maxime Gonalons
+"T. Motta
+CDM CM",31,81,81,"Paris Saint-Germain
+2012 ~ 2016","187cm / 6'2""",83kg / 183lbs,CDM,6500000.0,100000.0,84,73,79,46,Thiago Motta
+"J. Pastore
+CM LW RW",25,81,86,"Paris Saint-Germain
+2011 ~ 2016","187cm / 6'2""",78kg / 172lbs,CAM,12000000.0,110000.0,86,87,78,51,Javier Pastore
+"A. Gignac
+ST",28,81,81,"Olympique de Marseille
+2010 ~ 2015","186cm / 6'1""",84kg / 185lbs,ST,12000000.0,130000.0,74,75,68,61,André-Pierre Gignac
+"D. Payet
+CAM LM",27,81,82,"Olympique de Marseille
+2013 ~ 2017","175cm / 5'9""",77kg / 170lbs,RM,13000000.0,130000.0,82,83,71,61,Dimitri Payet
+"Dante
+CB",30,81,81,"FC Bayern München
+2012 ~ 2017","188cm / 6'2""",87kg / 192lbs,CB,8000000.0,100000.0,76,68,65,51,Dante Bonfim Costa Santos
+"Thiago
+CM CAM CDM",23,81,85,"FC Bayern München
+2013 ~ 2017","174cm / 5'9""",70kg / 154lbs,CAM,10500000.0,110000.0,87,88,66,46,Thiago Alcântara
+"R. Weidenfeller
+GK",33,81,81,"Borussia Dortmund
+2002 ~ 2016","188cm / 6'2""",85kg / 187lbs,GK,8500000.0,80000.0,31,25,32,382,Roman Weidenfeller
+"N. Şahin
+CM CDM",25,81,83,"Borussia Dortmund
+2014 ~ 2018","180cm / 5'11""",72kg / 159lbs,CM,12000000.0,110000.0,84,81,68,59,Nuri Şahin
+"N. Subotić
+CB",25,81,83,"Borussia Dortmund
+2008 ~ 2018","193cm / 6'4""",88kg / 194lbs,CB,11000000.0,110000.0,65,47,69,35,Neven Subotić
+"P. Aubameyang
+ST RM RW",25,81,83,"Borussia Dortmund
+2013 ~ 2018","187cm / 6'2""",77kg / 170lbs,RW,13500000.0,110000.0,75,80,79,48,Pierre-Emerick Aubameyang
+"Y. Sommer
+GK",25,81,84,"Borussia Mönchengladbach
+2014 ~ 2019","183cm / 6'0""",79kg / 174lbs,GK,11000000.0,70000.0,40,25,45,398,Yann Sommer
+"L. Bender
+CM CDM",25,81,83,"Bayer 04 Leverkusen
+2009 ~ 2019","184cm / 6'0""",77kg / 170lbs,CDM,12000000.0,90000.0,83,73,94,44,Lars Bender
+"Luiz Gustavo
+CDM",26,81,82,"VfL Wolfsburg
+2013 ~ 2018","187cm / 6'2""",80kg / 176lbs,CB,10500000.0,110000.0,79,70,85,52,Luiz Gustavo Dias
+"R. Rodriguez
+LB",21,81,86,"VfL Wolfsburg
+2012 ~ 2019","180cm / 5'11""",77kg / 170lbs,LB,8000000.0,80000.0,79,76,78,66,Ricardo Rodriguez
+"Roberto Firmino
+CAM CF",22,81,86,"TSG 1899 Hoffenheim
+2011 ~ 2017","181cm / 5'11""",76kg / 168lbs,CAM,10500000.0,60000.0,84,87,76,44,Roberto Firmino Barbosa de Oliveira
+"Diego López
+GK",32,81,81,"AC Milan
+2014 ~ 2018","196cm / 6'5""",87kg / 192lbs,GK,9000000.0,100000.0,28,25,42,400,Diego López Rodríguez
+"Gervinho
+LW RW",27,81,81,"Roma
+2013 ~ 2018","179cm / 5'10""",68kg / 150lbs,LW,12000000.0,110000.0,72,83,91,54,Gervais Yao Kouassi
+"Leandro Castán
+CB",27,81,82,"Roma
+2012 ~ 2018","184cm / 6'0""",80kg / 176lbs,CB,10500000.0,100000.0,59,49,72,34,Leandro Castán da Silva
+"R. Nainggolan
+CM",26,81,84,"Roma
+2014 ~ 2018","176cm / 5'9""",65kg / 143lbs,CM,12500000.0,100000.0,82,79,90,55,Radja Nainggolan
+"K. Strootman
+CM",24,81,85,"Roma
+2013 ~ 2018","186cm / 6'1""",78kg / 172lbs,CM,12000000.0,90000.0,83,74,86,43,Kevin Strootman
+"S. Eto'o
+ST",33,81,81,"Sampdoria
+2015 ~ 2018","179cm / 5'10""",75kg / 165lbs,ST,7500000.0,50000.0,72,81,68,53,Samuel Eto'o
+"Borja Valero
+CM",29,81,81,"Fiorentina
+2012 ~ 2019","175cm / 5'9""",73kg / 161lbs,CM,10500000.0,80000.0,88,78,76,34,Borja Valero Iglesias
+"Jordi Alba
+LB",25,81,85,"FC Barcelona
+2012 ~ 2017","170cm / 5'7""",68kg / 150lbs,LWB,11000000.0,110000.0,78,80,92,60,Jordi Alba Ramos
+"J. Hernández
+ST",26,81,83,"Real Madrid
+2010 ~ 2016","175cm / 5'9""",71kg / 157lbs,ST,14000000.0,130000.0,67,74,75,58,Javier Hernández
+"R. Varane
+CB",21,81,88,"Real Madrid
+2011 ~ 2020","191cm / 6'3""",78kg / 172lbs,CB,8000000.0,100000.0,73,57,70,50,Raphaël Varane
+"Parejo
+CM CDM CAM",25,81,86,"Valencia CF
+2011 ~ 2016","180cm / 5'11""",75kg / 165lbs,CM,12000000.0,90000.0,91,79,82,48,Daniel Parejo Muñoz
+"C. Bacca
+ST",27,81,81,"Sevilla FC
+2013 ~ 2018","181cm / 5'11""",77kg / 170lbs,ST,13000000.0,110000.0,72,80,73,45,Carlos Bacca
+"T. Rosický
+CAM RM",33,80,80,"Arsenal
+2006 ~ 2016","178cm / 5'10""",65kg / 143lbs,CAM,7500000.0,80000.0,83,84,68,55,Tomáš Rosický
+"M. Debuchy
+RB",28,80,80,"Arsenal
+2014 ~ 2017","177cm / 5'10""",76kg / 168lbs,RB,9500000.0,110000.0,77,72,89,49,Mathieu Debuchy
+"T. Walcott
+RM",25,80,82,"Arsenal
+2006 ~ 2016","176cm / 5'9""",68kg / 150lbs,RW,12000000.0,100000.0,77,81,75,45,Theo Walcott
+"O. Giroud
+ST",27,80,80,"Arsenal
+2012 ~ 2017","192cm / 6'4""",88kg / 194lbs,ST,13000000.0,120000.0,76,68,79,49,Olivier Giroud
+"L. Rémy
+ST",27,80,80,"Chelsea
+2014 ~ 2018","185cm / 6'1""",80kg / 176lbs,ST,13000000.0,120000.0,77,73,75,60,Loïc Rémy
+"P. Jagielka
+CB",31,80,80,"Everton
+2007 ~ 2017","183cm / 6'0""",83kg / 183lbs,CB,7500000.0,60000.0,71,49,78,169,Phil Jagielka
+"K. Mirallas
+LM RM",26,80,80,"Everton
+2012 ~ 2016","182cm / 6'0""",70kg / 154lbs,RW,12500000.0,80000.0,80,84,76,60,Kevin Mirallas
+"S. Coleman
+RB",25,80,82,"Everton
+2009 ~ 2019","177cm / 5'10""",77kg / 170lbs,RB,11000000.0,60000.0,77,77,90,50,Séamus Coleman
+"J. McCarthy
+CDM CM",23,80,83,"Everton
+2013 ~ 2018","180cm / 5'11""",72kg / 159lbs,CDM,8500000.0,60000.0,82,78,91,54,James McCarthy
+"R. Lukaku
+ST",21,80,86,"Everton
+2014 ~ 2019","190cm / 6'3""",94kg / 207lbs,ST,10500000.0,60000.0,67,77,73,54,Romelu Lukaku
+"M. Škrtel
+CB",29,80,80,"Liverpool
+2008 ~ 2016","191cm / 6'3""",81kg / 179lbs,CB,9000000.0,80000.0,65,46,75,44,Martin Škrtel
+"S. Mignolet
+GK",26,80,80,"Liverpool
+2013 ~ 2018","193cm / 6'4""",87kg / 192lbs,GK,11500000.0,100000.0,38,25,31,389,Simon Mignolet
+"A. Lallana
+CAM RW LM",26,80,81,"Liverpool
+2014 ~ 2019","172cm / 5'8""",73kg / 161lbs,CAM,14000000.0,100000.0,83,85,83,54,Adam Lallana
+"M. Sakho
+CB",24,80,81,"Liverpool
+2013 ~ 2018","187cm / 6'2""",83kg / 183lbs,CB,10500000.0,90000.0,72,50,72,50,Mamadou Sakho
+"M. Balotelli
+ST",23,80,83,"Liverpool
+2014 ~ 2017","189cm / 6'2""",86kg / 190lbs,ST,12000000.0,100000.0,73,81,72,12,Mario Balotelli
+"R. Sterling
+CAM ST RW",19,80,86,"Liverpool
+2010 ~ 2017","170cm / 5'7""",69kg / 152lbs,RW,10000000.0,80000.0,77,86,75,63,Raheem Sterling
+"A. Valencia
+RM RB RWB",28,80,80,"Manchester United
+2009 ~ 2017","181cm / 5'11""",78kg / 172lbs,RM,11000000.0,110000.0,78,81,82,46,Antonio Valencia
+"D. Tadić
+LM RM CAM",25,80,82,"Southampton
+2014 ~ 2018","181cm / 5'11""",76kg / 168lbs,LM,12000000.0,60000.0,82,82,78,56,Dušan Tadić
+"A. Song
+CDM CM",26,80,80,"West Ham United
+2012 ~ 2017","185cm / 6'1""",74kg / 163lbs,CDM,10500000.0,80000.0,76,65,86,58,Alexandre Song
+"J. Defoe
+ST",31,80,80,"Sunderland
+2015 ~ 2018","170cm / 5'7""",70kg / 154lbs,ST,10000000.0,60000.0,67,77,74,47,Jermain Defoe
+"Bojan
+CAM ST RW",23,80,83,"Stoke City
+2014 ~ 2018","170cm / 5'7""",65kg / 143lbs,CAM,12000000.0,70000.0,76,86,67,48,Bojan Krkic Perez
+"C. Carrasso
+GK",32,80,80,"FC Girondins de Bordeaux
+2009 ~ 2017","187cm / 6'2""",87kg / 192lbs,GK,9000000.0,80000.0,24,25,31,399,Cédric Carrasso
+"A. Lopes
+GK",23,80,85,"Olympique Lyonnais
+2010 ~ 2016","184cm / 6'0""",81kg / 179lbs,GK,9500000.0,90000.0,32,25,33,395,Anthony Lopes
+"D. Berbatov
+ST CAM",33,80,80,"AS Monaco
+2014 ~ 2015","189cm / 6'2""",75kg / 165lbs,CAM,7500000.0,50000.0,85,82,53,53,Dimitar Berbatov
+"D. Subašić
+GK",29,80,80,"AS Monaco
+2012 ~ 2019","191cm / 6'3""",84kg / 185lbs,GK,11500000.0,60000.0,24,25,32,400,Danijel Subašić
+"Y. Cabaye
+CM CDM",28,80,80,"Paris Saint-Germain
+2014 ~ 2017","175cm / 5'9""",72kg / 159lbs,CM,11000000.0,110000.0,83,74,80,54,Yohan Cabaye
+"Marquinhos
+CB RB",20,80,87,"Paris Saint-Germain
+2013 ~ 2018","183cm / 6'0""",75kg / 165lbs,CB,8000000.0,80000.0,75,65,79,47,Marcos Aoas Corrêa
+"L. Perrin
+CB",28,80,80,"AS Saint-Étienne
+2003 ~ 2018","180cm / 5'11""",76kg / 168lbs,CB,9500000.0,90000.0,74,62,74,50,Loïc Perrin
+"José Reina
+GK",31,80,80,"FC Bayern München
+2014 ~ 2017","188cm / 6'2""",92kg / 203lbs,GK,10000000.0,90000.0,25,25,34,406,José Manuel Reina Páez
+"H. Badstuber
+CB LB",25,80,82,"FC Bayern München
+2009 ~ 2017","190cm / 6'3""",84kg / 185lbs,CB,11000000.0,100000.0,77,45,50,48,Holger Badstuber
+"S. Bender
+CDM",25,80,82,"Borussia Dortmund
+2009 ~ 2017","185cm / 6'1""",72kg / 159lbs,CB,10500000.0,90000.0,81,60,93,57,Sven Bender
+"H. Mkhitaryan
+RM LM CAM",25,80,83,"Borussia Dortmund
+2013 ~ 2017","178cm / 5'10""",72kg / 159lbs,RM,12000000.0,90000.0,76,86,85,42,Henrikh Mkhitaryan
+"S. Kießling
+ST",30,80,80,"Bayer 04 Leverkusen
+2006 ~ 2017","191cm / 6'3""",80kg / 176lbs,ST,10500000.0,80000.0,76,69,86,41,Stefan Kießling
+"G. Castro
+CM RB RM",27,80,81,"Bayer 04 Leverkusen
+2005 ~ 2016","172cm / 5'8""",73kg / 161lbs,CM,12000000.0,90000.0,83,80,82,60,Gonzalo Castro
+"K. Bellarabi
+RM RW CF",24,80,83,"Bayer 04 Leverkusen
+2011 ~ 2020","183cm / 6'0""",78kg / 172lbs,RW,12000000.0,80000.0,79,88,70,50,Karim Bellarabi
+"J. Draxler
+LM CAM RM",20,80,85,"FC Schalke 04
+2011 ~ 2018","187cm / 6'2""",75kg / 165lbs,RW,9500000.0,80000.0,82,86,69,50,Julian Draxler
+"D. Benaglio
+GK",30,80,80,"VfL Wolfsburg
+2008 ~ 2016","194cm / 6'4""",89kg / 196lbs,GK,10500000.0,80000.0,32,25,43,386,Diego Benaglio
+"A. Schürrle
+LM RM",23,80,83,"VfL Wolfsburg
+2015 ~ 2019","183cm / 6'0""",72kg / 159lbs,RW,10500000.0,90000.0,79,85,76,51,André Schürrle
+"K. Trapp
+GK",23,80,84,"Eintracht Frankfurt
+2012 ~ 2019","189cm / 6'2""",77kg / 170lbs,GK,9500000.0,60000.0,25,25,45,399,Kevin Trapp
+"R. Palacio
+ST",32,80,80,"Inter
+2012 ~ 2016","175cm / 5'9""",70kg / 154lbs,RW,9000000.0,100000.0,79,83,79,82,Rodrigo Palacio
+"X. Shaqiri
+CAM LM RM",22,80,84,"Inter
+2015 ~ 2019","169cm / 5'7""",72kg / 159lbs,LW,10500000.0,90000.0,79,85,78,59,Xherdan Shaqiri
+"G. Medel
+CDM CM",26,80,82,"Inter
+2014 ~ 2018","171cm / 5'7""",76kg / 168lbs,CDM,10500000.0,110000.0,78,65,92,42,Gary Medel
+"Llorente
+ST",29,80,80,"Juventus
+2013 ~ 2017","195cm / 6'5""",90kg / 198lbs,ST,11500000.0,100000.0,70,69,75,13,Fernando Javier Llorente Torres
+"M. Cáceres
+CB RB",27,80,82,"Juventus
+2012 ~ 2016","182cm / 6'0""",77kg / 170lbs,CB,10500000.0,110000.0,62,60,78,15,Martín Cáceres
+"L. Bonucci
+CB",27,80,82,"Juventus
+2010 ~ 2017","190cm / 6'3""",82kg / 181lbs,CB,10500000.0,110000.0,71,65,75,13,Leonardo Bonucci
+"M. Klose
+ST",36,80,80,"Lazio
+2011 ~ 2016","184cm / 6'0""",84kg / 185lbs,ST,1300000.0,80000.0,71,73,53,47,Miroslav Klose
+"L. Biglia
+CDM CM",28,80,80,"Lazio
+2013 ~ 2018","178cm / 5'10""",74kg / 163lbs,CDM,9000000.0,90000.0,86,73,82,52,Lucas Biglia
+"Alex
+CB",32,80,80,"AC Milan
+2014 ~ 2016","188cm / 6'2""",92kg / 203lbs,CB,6500000.0,100000.0,60,50,64,46,Alex Rodrigo Dias da Costa
+"Raúl Albiol
+CB",28,80,80,"Napoli
+2013 ~ 2017","190cm / 6'3""",82kg / 181lbs,CB,9500000.0,90000.0,71,54,62,36,Raúl Albiol Tortajada
+"José Callejón
+CAM",27,80,82,"Napoli
+2013 ~ 2018","178cm / 5'10""",73kg / 161lbs,RW,13000000.0,100000.0,76,81,80,44,José María Callejón Bueno
+"F. Totti
+CF LW",37,80,80,"Roma
+1993 ~ 2016","180cm / 5'11""",82kg / 181lbs,CAM,1200000.0,70000.0,90,80,55,53,Francesco Totti
+"S. Doumbia
+ST",26,80,82,"Roma
+2015 ~ 2019","178cm / 5'10""",74kg / 163lbs,ST,14000000.0,100000.0,75,81,94,53,Seydou Doumbia
+"K. Glik
+CB",26,80,82,"Torino
+2011 ~ 2017","190cm / 6'3""",80kg / 176lbs,CB,11000000.0,70000.0,59,34,69,47,Kamil Glik
+"M. Gomez
+ST",28,80,80,"Fiorentina
+2013 ~ 2017","189cm / 6'2""",88kg / 194lbs,ST,12000000.0,110000.0,68,69,66,41,Mario Gomez
+"Tiago
+CM CDM",33,80,80,"Atlético Madrid
+2011 ~ 2016","183cm / 6'0""",71kg / 157lbs,CM,6500000.0,80000.0,84,70,75,48,Tiago Cardoso Mendes
+"Fernando Torres
+ST",30,80,80,"Atlético Madrid
+Jun 30, 2016 On loan","186cm / 6'1""",78kg / 172lbs,ST,10500000.0,100000.0,75,82,70,54,Fernando José Torres Sanz
+"Moyá
+GK",30,80,80,"Atlético Madrid
+2014 ~ 2017","189cm / 6'2""",82kg / 181lbs,GK,10500000.0,90000.0,31,25,30,405,Miguel Ángel Moyá Rumbo
+"J. Mathieu
+CB LB",30,80,80,"FC Barcelona
+2014 ~ 2018","189cm / 6'2""",84kg / 185lbs,CB,8000000.0,90000.0,66,45,66,51,Jérémy Mathieu
+"A. Laporte
+CB",20,80,85,"Athletic Club
+2012 ~ 2018","189cm / 6'2""",85kg / 187lbs,CB,8000000.0,50000.0,68,43,74,45,Aymeric Laporte
+"Kiko Casilla
+GK",27,80,80,"RCD Espanyol
+2011 ~ 2015","191cm / 6'3""",84kg / 185lbs,GK,10500000.0,90000.0,29,25,43,400,Francisco Casilla Cortés
+"P. Piatti
+LW LM",25,80,84,"Valencia CF
+2011 ~ 2016","163cm / 5'4""",63kg / 139lbs,LW,12000000.0,90000.0,80,82,75,49,Pablo Piatti
+"E. Pérez
+CM RM CDM",28,80,80,"Valencia CF
+2015 ~ 2019","177cm / 5'10""",77kg / 170lbs,RWB,11000000.0,90000.0,81,79,92,55,Enzo Pérez
+"Rodrigo
+ST RW RM",23,80,86,"Valencia CF
+2014 ~ 2019","181cm / 5'11""",77kg / 170lbs,ST,12000000.0,90000.0,73,79,75,46,Rodrigo Moreno Machado
+"Paco Alcácer
+ST",20,80,86,"Valencia CF
+2010 ~ 2020","176cm / 5'9""",71kg / 157lbs,ST,10500000.0,70000.0,75,70,77,53,Francisco Alcácer García
+"É. Banega
+CAM CDM",26,80,85,"Sevilla FC
+2014 ~ 2016","174cm / 5'9""",71kg / 157lbs,CAM,14000000.0,100000.0,86,81,69,45,Éver Banega
+"Beto
+GK",32,80,80,"Sevilla FC
+2013 ~ 2017","182cm / 6'0""",81kg / 179lbs,GK,9000000.0,80000.0,36,25,40,400,António Alberto Bastos Pimparel
+"G. Krychowiak
+CDM",24,80,84,"Sevilla FC
+2014 ~ 2018","186cm / 6'1""",85kg / 187lbs,CB,10000000.0,80000.0,79,52,82,50,Grzegorz Krychowiak
+"Sergio Asenjo
+GK",25,80,83,"Villarreal CF
+2014 ~ 2019","182cm / 6'0""",84kg / 185lbs,GK,11000000.0,60000.0,38,25,43,399,Sergio Asenjo Andrés
+"M. Musacchio
+CB CDM",23,80,86,"Villarreal CF
+2010 ~ 2018","182cm / 6'0""",80kg / 176lbs,CB,9000000.0,60000.0,73,43,76,46,Mateo Musacchio
+"Camacho
+CDM CM",24,80,83,"Málaga CF
+2010 ~ 2019","182cm / 6'0""",75kg / 165lbs,CDM,10000000.0,60000.0,82,64,90,55,Ignacio Camacho Barnola
+"Mikel Arteta
+CDM",32,79,79,"Arsenal
+2011 ~ 2015","175cm / 5'9""",64kg / 141lbs,CM,4099999.9999999995,100000.0,87,75,67,61,Mikel Arteta Amatriain
+"R. Vlaar
+CB",29,79,79,"Aston Villa
+2012 ~ 2015","189cm / 6'2""",79kg / 174lbs,CB,6000000.0,60000.0,73,60,75,46,Ron Vlaar
+"G. Barry
+CDM",33,79,79,"Everton
+2014 ~ 2017","183cm / 6'0""",79kg / 174lbs,CDM,3000000.0,40000.0,83,64,79,48,Gareth Barry
+"T. Howard
+GK",35,79,79,"Everton
+2007 ~ 2018","191cm / 6'3""",88kg / 194lbs,GK,4700000.0,40000.0,32,25,26,393,Tim Howard
+"Lucas Leiva
+CDM CM",27,79,79,"Liverpool
+2007 ~ 2017","179cm / 5'10""",73kg / 161lbs,CDM,7000000.0,100000.0,80,69,77,37,Lucas Pezzini Leiva
+"J. Henderson
+CM RM",24,79,84,"Liverpool
+2011 ~ 2020","182cm / 6'0""",67kg / 148lbs,CM,8000000.0,80000.0,83,74,91,44,Jordan Henderson
+"D. Lovren
+CB",24,79,81,"Liverpool
+2014 ~ 2019","188cm / 6'2""",84kg / 185lbs,CB,7500000.0,80000.0,69,63,70,53,Dejan Lovren
+"Alberto Moreno
+LWB LB LM",21,79,84,"Liverpool
+2014 ~ 2019","171cm / 5'7""",65kg / 143lbs,LWB,5500000.0,70000.0,77,77,85,54,Alberto Moreno Pérez
+"M. Demichelis
+CB",33,79,79,"Manchester City
+2013 ~ 2016","184cm / 6'0""",78kg / 172lbs,CB,3400000.0,80000.0,67,54,49,38,Martín Demichelis
+"J. Milner
+RM LM CM",28,79,79,"Manchester City
+2010 ~ 2015","176cm / 5'9""",70kg / 154lbs,RM,7500000.0,110000.0,84,76,91,38,James Milner
+"B. Sagna
+RB",31,79,79,"Manchester City
+2014 ~ 2017","176cm / 5'9""",72kg / 159lbs,RB,5000000.0,100000.0,78,73,81,40,Bacary Sagna
+"E. Mangala
+CB",23,79,83,"Manchester City
+2014 ~ 2019","187cm / 6'2""",84kg / 185lbs,CB,6500000.0,90000.0,60,55,77,48,Eliaquim Mangala
+"M. Carrick
+CM CDM",32,79,79,"Manchester United
+2006 ~ 2016","188cm / 6'2""",74kg / 163lbs,CM,5500000.0,100000.0,86,71,74,60,Michael Carrick
+"D. Blind
+CDM LB CM",24,79,83,"Manchester United
+2014 ~ 2018","180cm / 5'11""",72kg / 159lbs,CDM,7000000.0,100000.0,82,72,92,50,Daley Blind
+"Ander Herrera
+CM CAM",24,79,84,"Manchester United
+2014 ~ 2018","182cm / 6'0""",73kg / 161lbs,CAM,8000000.0,90000.0,88,83,68,53,Ander Herrera Agüera
+"M. Rojo
+CB LB",24,79,82,"Manchester United
+2014 ~ 2019","186cm / 6'1""",82kg / 181lbs,CB,7500000.0,100000.0,65,64,78,47,Marcos Rojo
+"R. Cabella
+RM CAM",24,79,83,"Newcastle United
+2014 ~ 2020","172cm / 5'8""",66kg / 146lbs,RW,8000000.0,60000.0,77,85,73,55,Rémy Cabella
+"M. Vorm
+GK",30,79,79,"Tottenham Hotspur
+2014 ~ 2018","183cm / 6'0""",87kg / 192lbs,GK,7500000.0,80000.0,38,25,43,393,Michel Vorm
+"Soldado
+ST",29,79,79,"Tottenham Hotspur
+2013 ~ 2017","179cm / 5'10""",72kg / 159lbs,ST,8000000.0,90000.0,70,75,75,50,Roberto Soldado Rillo
+"M. Dembélé
+CM CDM",26,79,79,"Tottenham Hotspur
+2012 ~ 2017","185cm / 6'1""",82kg / 181lbs,CM,9000000.0,100000.0,83,84,82,66,Moussa Dembélé
+"D. N'Doye
+ST",29,79,79,"Hull City
+2015 ~ 2017","186cm / 6'1""",81kg / 179lbs,ST,8000000.0,60000.0,67,73,84,55,Dame N'Doye
+"R. Mavuba
+CDM",30,79,79,"Lille OSC
+2008 ~ 2015","172cm / 5'8""",74kg / 163lbs,CDM,5000000.0,80000.0,79,69,86,45,Rio Antonio Mavuba
+"S. Kjær
+CB",25,79,80,"Lille OSC
+2013 ~ 2017","189cm / 6'2""",90kg / 198lbs,CB,7500000.0,80000.0,76,42,70,54,Simon Kjær
+"M. Baša
+CB",31,79,79,"Lille OSC
+2011 ~ 2019","189cm / 6'2""",86kg / 190lbs,CB,5000000.0,80000.0,75,54,69,49,Marko Baša
+"Y. Gourcuff
+CAM CM LW",27,79,79,"Olympique Lyonnais
+2010 ~ 2015","185cm / 6'1""",79kg / 174lbs,CAM,9000000.0,120000.0,83,84,40,45,Yoann Gourcuff
+"N. Fékir
+CAM ST LW",20,79,86,"Olympique Lyonnais
+2013 ~ 2019","173cm / 5'8""",72kg / 159lbs,CAM,7500000.0,80000.0,79,86,80,61,Nabil Fékir
+"E. Lavezzi
+LW RW",29,79,79,"Paris Saint-Germain
+2012 ~ 2016","173cm / 5'8""",75kg / 165lbs,LW,7000000.0,100000.0,77,82,72,48,Ezequiel Lavezzi
+"B. Costil
+GK",26,79,81,"Stade Rennais FC
+2011 ~ 2017","187cm / 6'2""",83kg / 183lbs,GK,8000000.0,80000.0,34,25,28,396,Benoît Costil
+"A. Ayew
+LM CM",24,79,82,"Olympique de Marseille
+2007 ~ 2015","176cm / 5'9""",72kg / 159lbs,LM,8000000.0,100000.0,77,79,88,45,André Ayew
+"N. Nkoulou
+CB",24,79,82,"Olympique de Marseille
+2011 ~ 2016","180cm / 5'11""",77kg / 170lbs,CB,7500000.0,100000.0,76,63,73,36,Nicolas Nkoulou
+"C. Immobile
+ST",24,79,83,"Borussia Dortmund
+2014 ~ 2019","181cm / 5'11""",85kg / 187lbs,ST,9000000.0,100000.0,68,74,77,42,Ciro Immobile
+"M. Stranzl
+CB",34,79,79,"Borussia Mönchengladbach
+2011 ~ 2016","191cm / 6'3""",83kg / 183lbs,CB,2300000.0,40000.0,68,47,64,40,Martin Stranzl
+"Raffael
+CF",29,79,79,"Borussia Mönchengladbach
+2013 ~ 2017","174cm / 5'9""",69kg / 152lbs,CAM,8000000.0,60000.0,81,86,77,54,Raffael Caetano de Araújo
+"M. Kruse
+CF ST",26,79,81,"Borussia Mönchengladbach
+2013 ~ 2017","180cm / 5'11""",76kg / 168lbs,CAM,9500000.0,80000.0,79,82,84,46,Max Kruse
+"G. Xhaka
+CM CAM",21,79,83,"Borussia Mönchengladbach
+2012 ~ 2019","185cm / 6'1""",82kg / 181lbs,CM,6500000.0,50000.0,80,74,79,46,Granit Xhaka
+"R. Bürki
+GK",23,79,83,"SC Freiburg
+2014 ~ 2018","187cm / 6'2""",83kg / 183lbs,GK,6500000.0,60000.0,37,25,36,393,Roman Bürki
+"Ö. Toprak
+CB",24,79,82,"Bayer 04 Leverkusen
+2011 ~ 2018","186cm / 6'1""",83kg / 183lbs,CB,7500000.0,80000.0,74,62,65,52,Ömer Toprak
+"K. Boateng
+CM CAM CDM ST",27,79,81,"FC Schalke 04
+2013 ~ 2017","186cm / 6'1""",86kg / 190lbs,ST,8000000.0,110000.0,80,80,78,49,Kevin-Prince Boateng
+"R. Fährmann
+GK",25,79,82,"FC Schalke 04
+2011 ~ 2019","196cm / 6'5""",95kg / 209lbs,GK,7500000.0,90000.0,25,25,33,387,Ralf Fährmann
+"E. Choupo-Moting
+ST LM RM",25,79,82,"FC Schalke 04
+2014 ~ 2017","191cm / 6'3""",87kg / 192lbs,ST,9500000.0,100000.0,77,85,75,44,Eric Maxim Choupo-Moting
+"I. Perišić
+LM RM",25,79,82,"VfL Wolfsburg
+2013 ~ 2017","187cm / 6'2""",81kg / 179lbs,ST,8500000.0,80000.0,78,78,77,38,Ivan Perišić
+"R. Zieler
+GK",25,79,83,"Hannover 96
+2010 ~ 2017","188cm / 6'2""",83kg / 183lbs,GK,7500000.0,60000.0,24,25,32,385,Ron-Robert Zieler
+"L. Stindl
+CAM CM RM",25,79,81,"Hannover 96
+2010 ~ 2016","180cm / 5'11""",78kg / 172lbs,CAM,9500000.0,70000.0,81,75,84,48,Lars Stindl
+"K. Volland
+RM ST CF",21,79,84,"TSG 1899 Hoffenheim
+2011 ~ 2019","179cm / 5'10""",82kg / 181lbs,CAM,6500000.0,50000.0,79,79,90,43,Kevin Volland
+"F. Guarín
+CM CDM CF",28,79,80,"Inter
+2012 ~ 2017","183cm / 6'0""",77kg / 170lbs,CAM,7500000.0,110000.0,81,84,88,61,Fredy Guarín
+"Hernanes
+CM",29,79,79,"Inter
+2014 ~ 2018","180cm / 5'11""",76kg / 168lbs,CAM,7000000.0,100000.0,86,84,65,48,A. Hernanes de Carvalho A. Lima
+"P. Evra
+LB LM",33,79,79,"Juventus
+2014 ~ 2016","173cm / 5'8""",76kg / 168lbs,LB,3400000.0,80000.0,76,75,79,21,Patrice Evra
+"K. Asamoah
+LM CM",25,79,83,"Juventus
+2012 ~ 2017","178cm / 5'10""",78kg / 172lbs,LW,8500000.0,90000.0,79,84,87,16,Kwadwo Asamoah
+"R. Pereyra
+CAM CM",23,79,85,"Juventus
+2014 ~ 2018","184cm / 6'0""",78kg / 172lbs,RM,8000000.0,90000.0,82,84,89,44,Roberto Pereyra
+"S. Mauri
+CAM LW CM",34,79,79,"Lazio
+2015 ~ 2016","184cm / 6'0""",79kg / 174lbs,CAM,4099999.9999999995,60000.0,81,74,66,39,Stefano Mauri
+"F. Marchetti
+GK",31,79,79,"Lazio
+2011 ~ 2016","188cm / 6'2""",82kg / 181lbs,GK,7000000.0,80000.0,35,25,34,384,Federico Marchetti
+"F. Djordjevic
+ST",26,79,82,"Lazio
+2014 ~ 2018","186cm / 6'1""",80kg / 176lbs,ST,9500000.0,90000.0,71,68,78,43,Filip Djordjevic
+"S. de Vrij
+CB",22,79,84,"Lazio
+2014 ~ 2018","189cm / 6'2""",78kg / 172lbs,CB,5500000.0,80000.0,71,63,72,52,Stefan de Vrij
+"N. de Jong
+CDM CM",29,79,79,"AC Milan
+2012 ~ 2015","174cm / 5'9""",72kg / 159lbs,CDM,6000000.0,100000.0,77,65,80,14,Nigel de Jong
+"G. Inler
+CDM CM",30,79,79,"Napoli
+2011 ~ 2016","183cm / 6'0""",80kg / 176lbs,CDM,5000000.0,80000.0,81,72,79,41,Gökhan Inler
+"L. Insigne
+CAM CF",23,79,85,"Napoli
+2010 ~ 2017","163cm / 5'4""",59kg / 130lbs,RM,8000000.0,90000.0,78,84,77,45,Lorenzo Insigne
+"Maicon
+RB",32,79,79,"Roma
+2013 ~ 2016","184cm / 6'0""",77kg / 170lbs,RWB,4500000.0,80000.0,81,77,78,41,Maicon Douglas Sisenando
+"K. Manolas
+CB",23,79,84,"Roma
+2014 ~ 2019","186cm / 6'1""",79kg / 174lbs,CB,6500000.0,80000.0,59,54,79,49,Kostas Manolas
+"Joaquín
+RM",32,79,79,"Fiorentina
+2013 ~ 2016","179cm / 5'10""",75kg / 165lbs,RW,5500000.0,80000.0,80,82,70,45,Joaquín Sánchez Rodríguez
+"G. Rodríguez
+CB",30,79,79,"Fiorentina
+2012 ~ 2017","182cm / 6'0""",79kg / 174lbs,CB,5500000.0,80000.0,70,60,66,48,Gonzalo Rodríguez
+"Juanfran
+RB",29,79,79,"Atlético Madrid
+2011 ~ 2018","180cm / 5'11""",72kg / 159lbs,RWB,6000000.0,100000.0,71,80,88,57,Juan Francisco Torres Belén
+"Mario Suárez
+CM CDM",27,79,81,"Atlético Madrid
+2010 ~ 2017","188cm / 6'2""",80kg / 176lbs,CDM,8000000.0,110000.0,84,72,83,56,Mario Suárez Mata
+"Raúl García
+CAM RM ST",27,79,79,"Atlético Madrid
+2007 ~ 2018","184cm / 6'0""",81kg / 179lbs,CAM,9000000.0,110000.0,84,78,79,70,Raúl García Escudero
+"T. Vermaelen
+CB LB",28,79,79,"FC Barcelona
+2014 ~ 2019","183cm / 6'0""",80kg / 176lbs,CB,6500000.0,110000.0,77,58,67,47,Thomas Vermaelen
+"Arbeloa
+RB",31,79,79,"Real Madrid
+2009 ~ 2016","184cm / 6'0""",79kg / 174lbs,RB,5000000.0,100000.0,77,58,84,46,Álvaro Arbeloa Coca
+"Fábio Coentrão
+LB",26,79,82,"Real Madrid
+2011 ~ 2017","179cm / 5'10""",70kg / 154lbs,LB,8000000.0,110000.0,74,80,86,60,Fábio Alexandre Silva Coentrão
+"Illarramendi
+CM CDM",24,79,84,"Real Madrid
+2013 ~ 2019","179cm / 5'10""",76kg / 168lbs,CM,8000000.0,90000.0,84,75,79,54,Asier Illarramendi
+"K. Navas
+GK",27,79,79,"Real Madrid
+2014 ~ 2020","185cm / 6'1""",78kg / 172lbs,GK,7500000.0,110000.0,29,25,41,380,Keylor Navas
+"Carvajal
+RB",22,79,83,"Real Madrid
+2013 ~ 2019","173cm / 5'8""",73kg / 161lbs,RWB,5500000.0,90000.0,80,76,87,65,Daniel Carvajal Ramos
+"Muniaín
+LW CAM",21,79,84,"Athletic Club
+2009 ~ 2017","169cm / 5'7""",63kg / 139lbs,LW,6500000.0,60000.0,72,82,71,45,Iker Muniaín Goñi
+"Nolito
+LW LM",27,79,79,"RC Celta
+2013 ~ 2019","175cm / 5'9""",73kg / 161lbs,LW,8000000.0,80000.0,76,84,69,53,Manuel Agudo Durán
+"Sergio García
+ST CAM",31,79,79,"RCD Espanyol
+2010 ~ 2018","174cm / 5'9""",72kg / 159lbs,CF,7000000.0,80000.0,78,84,59,51,Sergio García de la Fuente
+"Xabi Prieto
+RW CAM",30,79,79,"Real Sociedad
+2003 ~ 2017","186cm / 6'1""",76kg / 168lbs,CAM,7500000.0,80000.0,82,80,64,42,Xabier Prieto Argarate
+"Canales
+CAM LW LM",23,79,83,"Real Sociedad
+2014 ~ 2018","179cm / 5'10""",65kg / 143lbs,CAM,8000000.0,90000.0,85,81,68,63,Sergio Canales Madrazo
+"Iñigo Martínez
+CB",23,79,83,"Real Sociedad
+2011 ~ 2017","181cm / 5'11""",77kg / 170lbs,CB,6500000.0,80000.0,68,52,78,58,Iñigo Martínez Berridi
+"Javi Fuego
+CDM CM",30,79,79,"Valencia CF
+2013 ~ 2017","181cm / 5'11""",76kg / 168lbs,CDM,5000000.0,70000.0,76,61,87,53,Javier Fuego Martínez
+"Daniel Carriço
+CB CDM",25,79,79,"Sevilla FC
+2014 ~ 2018","180cm / 5'11""",80kg / 176lbs,CB,7500000.0,80000.0,77,61,79,61,Daniel Filipe Martins Carriço
+"Vitolo
+LM",24,79,82,"Sevilla FC
+2013 ~ 2017","184cm / 6'0""",79kg / 174lbs,LM,8000000.0,80000.0,79,80,74,60,Víctor Machín Pérez
+"Bruno
+CM CDM",30,79,79,"Villarreal CF
+2005 ~ 2020","184cm / 6'0""",74kg / 163lbs,CM,6500000.0,60000.0,84,69,79,46,Bruno Soriano Llido
+"G. Ochoa
+GK",28,79,79,"Málaga CF
+2014 ~ 2017","185cm / 6'1""",78kg / 172lbs,GK,7500000.0,80000.0,26,25,34,388,Guillermo Ochoa
+"Pedro León
+RM RW CAM",27,79,80,"Getafe CF
+2013 ~ 2017","183cm / 6'0""",73kg / 161lbs,RM,8000000.0,80000.0,82,81,62,59,Pedro León Sánchez Gil
+"Guaita
+GK",27,79,80,"Getafe CF
+2014 ~ 2018","190cm / 6'3""",81kg / 179lbs,GK,7500000.0,80000.0,38,25,32,390,Vicente Guaita Panadero
+"D. Welbeck
+ST LM",23,78,83,"Arsenal
+2014 ~ 2019","185cm / 6'1""",73kg / 161lbs,ST,8000000.0,80000.0,82,80,84,48,Danny Welbeck
+"W. Szczęsny
+GK",24,78,81,"Arsenal
+2006 ~ 2018","196cm / 6'5""",84kg / 185lbs,GK,7500000.0,80000.0,31,25,38,386,Wojciech Szczęsny
+"A. Oxlade-Chamberlain
+RM RW",20,78,84,"Arsenal
+2011 ~ 2017","175cm / 5'9""",70kg / 154lbs,RW,6500000.0,70000.0,76,85,75,44,Alex Oxlade-Chamberlain
+"B. Guzan
+GK",29,78,78,"Aston Villa
+2008 ~ 2017","193cm / 6'4""",95kg / 209lbs,GK,8000000.0,50000.0,25,25,30,378,Brad Guzan
+"J. Mikel
+CDM",27,78,78,"Chelsea
+2006 ~ 2017","188cm / 6'2""",83kg / 183lbs,CB,7000000.0,100000.0,78,69,90,62,John Obi Mikel
+"S. Pienaar
+LM",32,78,78,"Everton
+2012 ~ 2016","170cm / 5'7""",66kg / 146lbs,LM,5500000.0,50000.0,81,81,69,54,Steven Pienaar
+"A. Lennon
+RM",27,78,78,"Everton
+2015 ~ 2018","165cm / 5'5""",63kg / 139lbs,RW,8000000.0,60000.0,77,83,75,50,Aaron Lennon
+"A. McGeady
+RM RW",28,78,78,"Everton
+2014 ~ 2018","177cm / 5'10""",71kg / 157lbs,RW,7500000.0,70000.0,73,88,74,45,Aiden McGeady
+"R. Barkley
+CAM LM",20,78,86,"Everton
+2010 ~ 2018","189cm / 6'2""",76kg / 168lbs,CAM,7500000.0,45000.0,83,84,74,46,Ross Barkley
+"L. Marković
+RM LM",20,78,85,"Liverpool
+2014 ~ 2019","175cm / 5'9""",66kg / 146lbs,RW,6500000.0,50000.0,77,86,72,40,Lazar Marković
+"W. Caballero
+GK",32,78,78,"Manchester City
+2014 ~ 2017","186cm / 6'1""",80kg / 176lbs,GK,6500000.0,80000.0,32,25,44,385,Willy Caballero
+"G. Clichy
+LB",28,78,78,"Manchester City
+2011 ~ 2017","176cm / 5'9""",65kg / 143lbs,LWB,6500000.0,100000.0,69,70,82,42,Gaël Clichy
+"Fernando
+CDM CM",26,78,78,"Manchester City
+2014 ~ 2018","185cm / 6'1""",76kg / 168lbs,CB,7500000.0,90000.0,75,70,84,50,Fernando Reges
+"A. Kolarov
+LB",28,78,78,"Manchester City
+2010 ~ 2018","187cm / 6'2""",83kg / 183lbs,LB,6500000.0,90000.0,77,77,77,56,Aleksandar Kolarov
+"A. Young
+LM LWB",28,78,78,"Manchester United
+2011 ~ 2016","175cm / 5'9""",65kg / 143lbs,RW,7500000.0,100000.0,73,82,69,67,Ashley Young
+"J. Evans
+CB",26,78,78,"Manchester United
+2006 ~ 2016","189cm / 6'2""",80kg / 176lbs,CB,8000000.0,90000.0,75,38,74,62,Jonny Evans
+"C. Smalling
+CB RB",24,78,83,"Manchester United
+2010 ~ 2019","192cm / 6'4""",81kg / 179lbs,CB,7500000.0,80000.0,71,63,75,66,Chris Smalling
+"P. Jones
+CB RB",22,78,82,"Manchester United
+2011 ~ 2016","185cm / 6'1""",71kg / 157lbs,CB,5500000.0,70000.0,76,58,79,46,Phil Jones
+"F. Coloccini
+CB",32,78,78,"Newcastle United
+2008 ~ 2016","184cm / 6'0""",83kg / 183lbs,CB,4500000.0,60000.0,70,60,66,58,Fabricio Coloccini
+"T. Krul
+GK",26,78,79,"Newcastle United
+2007 ~ 2017","193cm / 6'4""",83kg / 183lbs,GK,8000000.0,60000.0,35,25,42,386,Tim Krul
+"C. Tioté
+CDM CM",28,78,78,"Newcastle United
+2010 ~ 2017","180cm / 5'11""",86kg / 190lbs,CB,6500000.0,60000.0,77,72,91,37,Cheick Tioté
+"A. Taarabt
+CAM LM",25,78,80,"Queens Park Rangers
+2010 ~ 2016","178cm / 5'10""",85kg / 187lbs,RW,9500000.0,60000.0,80,85,55,19,Adel Taarabt
+"José Fonte
+CB",30,78,78,"Southampton
+2010 ~ 2017","187cm / 6'2""",81kg / 179lbs,CB,5500000.0,50000.0,62,58,69,45,José Miguel da Rocha Fonte
+"T. Alderweireld
+CB CDM",25,78,82,"Southampton
+2013 ~ 2017","186cm / 6'1""",75kg / 165lbs,CB,7500000.0,50000.0,76,60,74,61,Toby Alderweireld
+"E. Adebayor
+ST",30,78,78,"Tottenham Hotspur
+2012 ~ 2016","191cm / 6'3""",82kg / 181lbs,ST,7500000.0,80000.0,77,79,70,51,Emmanuel Adebayor
+"E. Lamela
+RM CAM",22,78,84,"Tottenham Hotspur
+2013 ~ 2018","183cm / 6'0""",70kg / 154lbs,CAM,6500000.0,60000.0,80,86,69,52,Erik Lamela
+"E. Capoue
+CDM CB",25,78,79,"Tottenham Hotspur
+2013 ~ 2017","189cm / 6'2""",80kg / 176lbs,CDM,7000000.0,70000.0,76,73,92,55,Etienne Capoue
+"F. Fazio
+CB",27,78,78,"Tottenham Hotspur
+2014 ~ 2018","195cm / 6'5""",91kg / 201lbs,CB,7500000.0,80000.0,65,47,67,49,Federico Fazio
+"H. Kane
+ST CF",20,78,84,"Tottenham Hotspur
+2010 ~ 2020","188cm / 6'2""",65kg / 143lbs,ST,7500000.0,60000.0,72,76,84,49,Harry Kane
+"E. Cambiasso
+CDM CM",33,78,78,"Leicester City
+2014 ~ 2015","177cm / 5'10""",78kg / 172lbs,CDM,3000000.0,35000.0,82,69,69,46,Esteban Cambiasso
+"J. Lescott
+CB",31,78,78,"West Bromwich Albion
+2014 ~ 2016","188cm / 6'2""",89kg / 196lbs,CB,5000000.0,50000.0,64,56,67,42,Joleon Lescott
+"B. Foster
+GK",31,78,78,"West Bromwich Albion
+2012 ~ 2018","193cm / 6'4""",90kg / 198lbs,GK,7000000.0,50000.0,35,25,32,388,Ben Foster
+"R. Shawcross
+CB",26,78,78,"Stoke City
+2008 ~ 2018","191cm / 6'3""",76kg / 168lbs,CB,8000000.0,60000.0,62,41,79,52,Ryan Shawcross
+"S. N'Zonzi
+CDM CM",25,78,82,"Stoke City
+2012 ~ 2016","190cm / 6'3""",75kg / 165lbs,CDM,7000000.0,50000.0,83,74,79,63,Steven N'Zonzi
+"A. Williams
+CB",29,78,78,"Swansea City
+2008 ~ 2018","181cm / 5'11""",91kg / 201lbs,CB,6000000.0,50000.0,69,56,73,45,Ashley Williams
+"G. Sigurðsson
+CAM LM",24,78,81,"Swansea City
+2014 ~ 2018","186cm / 6'1""",78kg / 172lbs,CAM,9000000.0,60000.0,79,75,74,53,Gylfi Sigurðsson
+"C. Beauvue
+ST LM RM",26,78,81,"En Avant Guingamp
+2013 ~ 2017","174cm / 5'9""",66kg / 146lbs,ST,9500000.0,60000.0,72,78,72,62,Claudio Beauvue
+"C. Jallet
+RB",30,78,78,"Olympique Lyonnais
+2014 ~ 2017","178cm / 5'10""",70kg / 154lbs,RB,5500000.0,80000.0,78,69,84,37,Christophe Jallet
+"C. Grenier
+CAM CM",23,78,82,"Olympique Lyonnais
+2008 ~ 2016","186cm / 6'1""",72kg / 159lbs,CAM,8000000.0,80000.0,81,80,68,47,Clément Grenier
+"A. Abdennour
+CB",24,78,80,"AS Monaco
+2014 ~ 2018","187cm / 6'2""",84kg / 185lbs,CB,7500000.0,50000.0,71,56,75,45,Aymen Abdennour
+"Y. Ferreira Carrasco
+LW",20,78,84,"AS Monaco
+2012 ~ 2019","180cm / 5'11""",66kg / 146lbs,LW,6500000.0,40000.0,76,81,74,44,Yannick Ferreira Carrasco
+"R. Riou
+GK",26,78,81,"FC Nantes
+2012 ~ 2018","189cm / 6'2""",80kg / 176lbs,GK,8000000.0,60000.0,41,25,32,395,Rémy Riou
+"P. Djilobodji
+CB",25,78,83,"FC Nantes
+2010 ~ 2016","193cm / 6'4""",82kg / 181lbs,CB,7500000.0,50000.0,69,41,69,45,Papy Mison Djilobodji
+"C. Pizarro
+ST CAM",35,78,78,"FC Bayern München
+2012 ~ 2015","184cm / 6'0""",84kg / 185lbs,ST,3000000.0,70000.0,73,77,50,46,Claudio Pizarro
+"S. Rode
+CDM CM",23,78,82,"FC Bayern München
+2014 ~ 2017","179cm / 5'10""",73kg / 161lbs,CDM,6000000.0,80000.0,79,74,87,44,Sebastian Rode
+"A. Ramos
+ST",28,78,78,"Borussia Dortmund
+2014 ~ 2018","186cm / 6'1""",81kg / 179lbs,ST,8500000.0,100000.0,68,76,75,51,Adrián Ramos
+"M. Schmelzer
+LB",26,78,79,"Borussia Dortmund
+2008 ~ 2017","181cm / 5'11""",74kg / 163lbs,LB,8000000.0,90000.0,73,68,84,51,Marcel Schmelzer
+"T. Jantschke
+CB RB CDM",24,78,80,"Borussia Mönchengladbach
+2009 ~ 2018","177cm / 5'10""",77kg / 170lbs,CB,7500000.0,50000.0,73,62,79,38,Tony Jantschke
+"P. Herrmann
+RM LM",23,78,83,"Borussia Mönchengladbach
+2010 ~ 2019","179cm / 5'10""",70kg / 154lbs,RW,7500000.0,50000.0,76,81,69,50,Patrick Herrmann
+"R. Adler
+GK",29,78,78,"Hamburger SV
+2012 ~ 2017","191cm / 6'3""",87kg / 192lbs,GK,8000000.0,50000.0,38,25,22,386,René Adler
+"I. Olić
+ST",34,78,78,"Hamburger SV
+2015 ~ 2016","182cm / 6'0""",85kg / 187lbs,ST,4099999.9999999995,45000.0,72,73,87,34,Ivica Olić
+"H. Çalhanoğlu
+CAM CF CM",20,78,83,"Bayer 04 Leverkusen
+2014 ~ 2019","176cm / 5'9""",73kg / 161lbs,CAM,7500000.0,60000.0,78,78,68,45,Hakan Çalhanoğlu
+"S. Sam
+RM RW CF",26,78,83,"FC Schalke 04
+2014 ~ 2018","174cm / 5'9""",68kg / 150lbs,LW,9000000.0,90000.0,77,83,66,57,Sidney Sam
+"J. Matip
+CB CDM",22,78,81,"FC Schalke 04
+2009 ~ 2016","195cm / 6'5""",90kg / 198lbs,CB,5500000.0,70000.0,79,62,75,48,Joel Matip
+"S. Kalou
+ST RW",28,78,78,"Hertha BSC
+2014 ~ 2017","185cm / 6'1""",79kg / 174lbs,ST,8500000.0,70000.0,75,86,77,39,Salomon Kalou
+"V. Stocker
+CAM LM ST",25,78,81,"Hertha BSC
+2014 ~ 2018","179cm / 5'10""",72kg / 159lbs,LW,9500000.0,60000.0,76,80,73,34,Valentin Stocker
+"J. Geis
+CDM CM",20,78,85,"1. FSV Mainz 05
+2013 ~ 2017","181cm / 5'11""",81kg / 179lbs,CDM,5000000.0,35000.0,78,70,82,63,Johannes Geis
+"Vieirinha
+RM RB",28,78,78,"VfL Wolfsburg
+2012 ~ 2018","172cm / 5'8""",73kg / 161lbs,RW,7500000.0,80000.0,75,86,73,56,Adelino André Vieira de Freitas
+"A. Meier
+ST CAM CM",31,78,78,"Eintracht Frankfurt
+2004 ~ 2017","196cm / 6'5""",84kg / 185lbs,ST,7000000.0,60000.0,78,73,73,43,Alexander Meier
+"O. Baumann
+GK",24,78,81,"TSG 1899 Hoffenheim
+2014 ~ 2018","187cm / 6'2""",82kg / 181lbs,GK,7500000.0,50000.0,29,25,32,383,Oliver Baumann
+"D. Baier
+CDM",30,78,78,"FC Augsburg
+2010 ~ 2016","175cm / 5'9""",73kg / 161lbs,CDM,5000000.0,50000.0,81,75,82,36,Daniel Baier
+"Morata
+ST",21,78,86,"Juventus
+2014 ~ 2019","187cm / 6'2""",80kg / 176lbs,ST,7500000.0,70000.0,70,80,78,43,Alvaro Borja Morata Martín
+"M. Parolo
+CM CDM",29,78,78,"Lazio
+2014 ~ 2019","186cm / 6'1""",82kg / 181lbs,CM,7000000.0,70000.0,79,72,81,39,Marco Parolo
+"Felipe Anderson
+LW RW CAM",21,78,87,"Lazio
+2013 ~ 2020","178cm / 5'10""",69kg / 152lbs,LW,6500000.0,60000.0,75,86,70,38,Felipe Anderson Pereira Gomes
+"R. Montolivo
+CM CDM",29,78,78,"AC Milan
+2012 ~ 2016","182cm / 6'0""",79kg / 174lbs,CM,7000000.0,80000.0,84,73,68,14,Riccardo Montolivo
+"J. Ménez
+CF LW",27,78,78,"AC Milan
+2014 ~ 2017","182cm / 6'0""",73kg / 161lbs,RW,9000000.0,100000.0,75,86,68,23,Jérémy Ménez
+"A. Cerci
+CF RW",26,78,78,"AC Milan
+2015 ~ 2017","180cm / 5'11""",78kg / 172lbs,LW,9500000.0,100000.0,78,84,70,46,Alessio Cerci
+"S. El Shaarawy
+LW",21,78,84,"AC Milan
+2011 ~ 2018","178cm / 5'10""",72kg / 159lbs,LW,6500000.0,80000.0,70,83,72,16,Stephan El Shaarawy
+"Varela
+LW RW",29,78,78,"Parma
+2009 ~ 2016","179cm / 5'10""",79kg / 174lbs,LW,7000000.0,60000.0,71,83,64,53,Silvestre Gonçalves Varela
+"M. De Sanctis
+GK",37,78,78,"Roma
+2013 ~ 2016","190cm / 6'3""",82kg / 181lbs,GK,2500000.0,50000.0,24,25,23,373,Morgan De Sanctis
+"S. Keita
+CDM CM",34,78,78,"Roma
+2014 ~ 2015","183cm / 6'0""",75kg / 165lbs,CDM,1900000.0,60000.0,80,63,73,32,Seydou Keita
+"D. Astori
+CB",27,78,79,"Roma
+2008 ~ 2018","188cm / 6'2""",80kg / 176lbs,CB,7500000.0,80000.0,58,42,69,15,Davide Astori
+"V. Ibarbo
+RW ST",24,78,81,"Roma
+2011 ~ 2017","188cm / 6'2""",78kg / 172lbs,RW,9000000.0,70000.0,72,85,79,15,Víctor Ibarbo
+"F. Quagliarella
+ST",31,78,78,"Torino
+2014 ~ 2017","180cm / 5'11""",79kg / 174lbs,ST,7000000.0,60000.0,70,74,69,21,Fabio Quagliarella
+"A. Di Natale
+ST",36,78,78,"Udinese
+2004 ~ 2015","170cm / 5'7""",68kg / 150lbs,CAM,925000.0,35000.0,80,81,55,49,Antonio Di Natale
+"Allan
+CDM CM",23,78,81,"Udinese
+2012 ~ 2017","175cm / 5'9""",73kg / 161lbs,CDM,6000000.0,50000.0,76,76,92,39,Allan Marques Loureiro
+"E. Viviano
+GK",28,78,78,"Sampdoria
+Jun 1, 2016 On loan","195cm / 6'5""",90kg / 198lbs,GK,7500000.0,60000.0,27,25,29,380,Emiliano Viviano
+"Eder
+LW CF",27,78,79,"Sampdoria
+2012 ~ 2017","178cm / 5'10""",74kg / 163lbs,LW,8000000.0,70000.0,77,80,72,45,Eder Citadin Martins
+"Neto
+GK",24,78,82,"Fiorentina
+2011 ~ 2015","191cm / 6'3""",83kg / 183lbs,GK,7500000.0,60000.0,30,25,38,388,Norberto Murara Neto
+"S. Savić
+CB",23,78,82,"Fiorentina
+2012 ~ 2019","186cm / 6'1""",73kg / 161lbs,CB,6500000.0,70000.0,64,54,68,61,Stefan Savić
+"M. Perin
+GK",21,78,85,"Genoa
+2010 ~ 2017","188cm / 6'2""",74kg / 163lbs,GK,6000000.0,60000.0,32,25,30,385,Mattia Perin
+"A. Consigli
+GK",27,78,81,"Sassuolo
+2014 ~ 2018","189cm / 6'2""",82kg / 181lbs,GK,7500000.0,60000.0,30,25,31,388,Andrea Consigli
+"D. Berardi
+RW CF",19,78,83,"Sassuolo
+2012 ~ 2019","183cm / 6'0""",72kg / 159lbs,RW,7000000.0,40000.0,73,82,77,22,Domenico Berardi
+"Jesús Gámez
+LB RB",29,78,78,"Atlético Madrid
+2014 ~ 2017","182cm / 6'0""",77kg / 170lbs,LB,6000000.0,80000.0,70,62,90,50,Jesús Gámez Duarte
+"Rafinha
+CM RW RM",21,78,82,"FC Barcelona
+2014 ~ 2018","174cm / 5'9""",71kg / 157lbs,CAM,6500000.0,70000.0,81,84,78,47,Rafael Alcântara
+"Beñat
+CM CAM CDM",27,78,81,"Athletic Club
+2013 ~ 2018","175cm / 5'9""",72kg / 159lbs,CM,8000000.0,60000.0,81,72,77,54,Beñat Etxebarria Urkiaga
+"Mikel San José
+CM CB CDM",25,78,81,"Athletic Club
+2010 ~ 2018","186cm / 6'1""",77kg / 170lbs,CM,8500000.0,50000.0,78,76,72,45,Mikel San José Domínguez
+"Susaeta
+RW RM",26,78,81,"Athletic Club
+2007 ~ 2017","179cm / 5'10""",68kg / 150lbs,RW,9500000.0,70000.0,81,77,79,38,Markel Susaeta Laskurain
+"Iturraspe
+CDM CM",25,78,80,"Athletic Club
+2008 ~ 2019","187cm / 6'2""",75kg / 165lbs,CDM,7000000.0,50000.0,80,73,82,38,Ander Iturraspe Derteano
+"De Marcos
+RB RW CAM CM",25,78,82,"Athletic Club
+2009 ~ 2019","180cm / 5'11""",76kg / 168lbs,RW,7500000.0,50000.0,76,70,91,46,Oscar De Marcos Arana
+"H. Moreno
+CB",26,78,81,"RCD Espanyol
+2011 ~ 2016","184cm / 6'0""",80kg / 176lbs,CB,8000000.0,80000.0,71,48,75,55,Héctor Moreno
+"Agirretxe
+ST",27,78,78,"Real Sociedad
+2005 ~ 2018","187cm / 6'2""",77kg / 170lbs,ST,9000000.0,80000.0,67,74,74,50,Imanol Agirretxe Arruti
+"Mikel Gonzalez
+CB",28,78,78,"Real Sociedad
+2005 ~ 2017","190cm / 6'3""",79kg / 174lbs,CB,6500000.0,80000.0,71,44,76,53,Mikel González Martínez
+"G. Castro
+LW RW",29,78,78,"Real Sociedad
+2012 ~ 2016","176cm / 5'9""",70kg / 154lbs,LW,7000000.0,70000.0,72,81,66,59,Gonzalo Castro
+"S. Mustafi
+CB",22,78,85,"Valencia CF
+2014 ~ 2019","184cm / 6'0""",82kg / 181lbs,CB,5500000.0,60000.0,73,41,75,46,Shkodran Mustafi
+"N. Pareja
+CB",30,78,78,"Sevilla FC
+2013 ~ 2017","181cm / 5'11""",74kg / 163lbs,CB,5500000.0,70000.0,72,60,68,65,Nicolás Pareja
+"Coke
+RB",27,78,80,"Sevilla FC
+2011 ~ 2018","176cm / 5'9""",72kg / 159lbs,RB,7500000.0,80000.0,74,69,83,49,Jorge Andújar Moreno
+"K. Gameiro
+ST",27,78,78,"Sevilla FC
+2013 ~ 2018","178cm / 5'10""",72kg / 159lbs,CAM,9000000.0,90000.0,77,71,71,33,Kévin Gameiro
+"B. Trémoulinas
+LB",28,78,78,"Sevilla FC
+2014 ~ 2017","172cm / 5'8""",65kg / 143lbs,LM,6500000.0,80000.0,80,74,89,52,Benoît Trémoulinas
+"Iborra
+CDM CAM CM",26,78,80,"Sevilla FC
+2013 ~ 2018","195cm / 6'5""",88kg / 194lbs,CDM,7500000.0,80000.0,78,64,79,49,Vicente Iborra de la Fuente
+"Arribas
+CB",25,78,81,"Sevilla FC
+2014 ~ 2016","182cm / 6'0""",74kg / 163lbs,CB,7500000.0,60000.0,67,45,75,54,Alejandro Arribas Garrido
+"I. Uche
+ST CF RW",30,78,78,"Villarreal CF
+2011 ~ 2015","175cm / 5'9""",73kg / 161lbs,ST,7500000.0,60000.0,62,80,79,54,Ikechukwu Uche
+"L. Vietto
+ST",20,78,85,"Villarreal CF
+2014 ~ 2019","173cm / 5'8""",70kg / 154lbs,ST,7500000.0,40000.0,74,81,80,51,Luciano Vietto
+"D. Ospina
+GK",25,77,82,"Arsenal
+2014 ~ 2018","183cm / 6'0""",79kg / 174lbs,GK,5000000.0,80000.0,35,25,29,388,David Ospina
+"Nacho Monreal
+LB CB",28,77,77,"Arsenal
+2013 ~ 2017","178cm / 5'10""",72kg / 159lbs,LWB,4600000.0,90000.0,76,72,85,24,Ignacio Monreal Eraso
+"K. Gibbs
+LB",24,77,79,"Arsenal
+2007 ~ 2018","178cm / 5'10""",70kg / 154lbs,LWB,4900000.0,80000.0,77,77,77,44,Kieran Gibbs
+"Gabriel
+CB",23,77,82,"Arsenal
+2015 ~ 2020","187cm / 6'2""",72kg / 159lbs,CB,4400000.0,80000.0,68,59,74,53,Gabriel Armando de Abreu
+"K. Touré
+CB",33,77,77,"Liverpool
+2013 ~ 2016","178cm / 5'10""",76kg / 168lbs,CB,2300000.0,50000.0,70,52,66,51,Kolo Touré
+"M. Fellaini
+CM CDM",26,77,77,"Manchester United
+2013 ~ 2018","194cm / 6'4""",85kg / 187lbs,CM,6000000.0,100000.0,78,73,86,49,Marouane Fellaini
+"P. Cissé
+ST",29,77,77,"Newcastle United
+2012 ~ 2017","183cm / 6'0""",73kg / 161lbs,ST,5500000.0,60000.0,73,72,66,50,Papiss Demba Cissé
+"M. Sissoko
+CAM CM RM",24,77,81,"Newcastle United
+2013 ~ 2019","187cm / 6'2""",83kg / 183lbs,RM,6000000.0,60000.0,79,79,92,46,Moussa Sissoko
+"S. de Jong
+CAM ST",25,77,79,"Newcastle United
+2014 ~ 2020","185cm / 6'1""",80kg / 176lbs,ST,6500000.0,60000.0,76,72,86,56,Siem de Jong
+"C. Austin
+ST",24,77,81,"Queens Park Rangers
+2013 ~ 2016","188cm / 6'2""",84kg / 185lbs,ST,6000000.0,50000.0,58,65,74,44,Charlie Austin
+"G. Pellè
+ST",28,77,77,"Southampton
+2014 ~ 2017","194cm / 6'4""",84kg / 185lbs,ST,6000000.0,70000.0,64,63,76,58,Graziano Pellè
+"Y. Kaboul
+CB",28,77,77,"Tottenham Hotspur
+2010 ~ 2016","191cm / 6'3""",87kg / 192lbs,CB,4600000.0,80000.0,70,51,71,40,Younès Kaboul
+"K. Walker
+RB",24,77,81,"Tottenham Hotspur
+2009 ~ 2019","178cm / 5'10""",70kg / 154lbs,RB,4900000.0,70000.0,72,73,88,52,Kyle Walker
+"N. Chadli
+LM LW",24,77,80,"Tottenham Hotspur
+2013 ~ 2017","189cm / 6'2""",86kg / 190lbs,LM,5500000.0,70000.0,77,82,84,53,Nacer Chadli
+"A. Carroll
+ST",25,77,80,"West Ham United
+2013 ~ 2019","191cm / 6'3""",79kg / 174lbs,ST,6500000.0,60000.0,64,66,75,51,Andy Carroll
+"Adrián
+GK",27,77,77,"West Ham United
+2013 ~ 2016","188cm / 6'2""",77kg / 170lbs,GK,5000000.0,60000.0,20,25,38,381,Adrián San Miguel Castillo
+"A. Johnson
+RM LM",26,77,77,"Sunderland
+2012 ~ 2016","175cm / 5'9""",63kg / 139lbs,LW,6000000.0,60000.0,78,84,71,48,Adam Johnson
+"E. Giaccherini
+LM CM",29,77,77,"Sunderland
+2013 ~ 2017","167cm / 5'6""",60kg / 132lbs,LM,4900000.0,50000.0,80,83,75,55,Emanuele Giaccherini
+"R. Álvarez
+RM CF",26,77,77,"Sunderland
+2011 ~ 2016","188cm / 6'2""",84kg / 185lbs,RM,6000000.0,60000.0,81,84,75,46,Ricardo Álvarez
+"S. Sessègnon
+CAM RM LM",30,77,77,"West Bromwich Albion
+2013 ~ 2016","168cm / 5'6""",75kg / 165lbs,CAM,5000000.0,60000.0,76,82,79,51,Stéphane Sessègnon
+"C. Yacob
+CDM CM",26,77,77,"West Bromwich Albion
+2012 ~ 2015","181cm / 5'11""",73kg / 161lbs,CDM,5000000.0,60000.0,82,65,83,36,Claudio Yacob
+"M. Arnautović
+LM RM",25,77,79,"Stoke City
+2013 ~ 2017","192cm / 6'4""",83kg / 183lbs,RW,6000000.0,50000.0,75,82,68,59,Marko Arnautović
+"M. Diouf
+ST RM",26,77,77,"Stoke City
+2014 ~ 2018","185cm / 6'1""",79kg / 174lbs,ST,6500000.0,70000.0,66,64,69,58,Mame Diouf
+"G. Ramirez
+CAM RM",23,77,81,"Hull City
+2012 ~ 2016","183cm / 6'0""",78kg / 172lbs,CAM,5500000.0,60000.0,77,81,69,46,Gastón Ramirez
+"B. Gomis
+ST",28,77,77,"Swansea City
+2014 ~ 2018","184cm / 6'0""",77kg / 170lbs,ST,6000000.0,70000.0,70,68,70,51,Bafétimbi Gomis
+"Ł. Fabiański
+GK",29,77,77,"Swansea City
+2014 ~ 2018","190cm / 6'3""",83kg / 183lbs,GK,5500000.0,50000.0,25,25,25,382,Łukasz Fabiański
+"C. Diabaté
+ST",26,77,78,"FC Girondins de Bordeaux
+2009 ~ 2016","194cm / 6'4""",88kg / 194lbs,ST,6500000.0,80000.0,72,70,75,33,Cheick Diabaté
+"W. Khazri
+CAM LM",23,77,81,"FC Girondins de Bordeaux
+2014 ~ 2018","182cm / 6'0""",76kg / 168lbs,CAM,5500000.0,70000.0,77,79,66,36,Wahbi Khazri
+"M. Biševac
+CB",30,77,77,"Olympique Lyonnais
+2012 ~ 2016","185cm / 6'1""",85kg / 187lbs,CB,3800000.0,70000.0,73,47,74,59,Milan Biševac
+"S. Umtiti
+CB LB",20,77,83,"Olympique Lyonnais
+2012 ~ 2017","181cm / 5'11""",75kg / 165lbs,CB,3800000.0,60000.0,73,68,83,61,Samuel Umtiti
+"M. Stekelenburg
+GK",31,77,77,"AS Monaco
+May 25, 2016 On loan","197cm / 6'6""",92kg / 203lbs,GK,4700000.0,50000.0,38,25,30,388,Maarten Stekelenburg
+"G. Kondogbia
+CDM CM",21,77,83,"AS Monaco
+2013 ~ 2018","188cm / 6'2""",80kg / 176lbs,CDM,3600000.0,40000.0,79,75,85,48,Geoffrey Kondogbia
+"L. Kurzawa
+LB",21,77,85,"AS Monaco
+2012 ~ 2018","182cm / 6'0""",74kg / 163lbs,LB,3800000.0,40000.0,79,75,80,50,Layvin Kurzawa
+"A. Mounier
+LW LM",26,77,79,"Montpellier HSC
+2012 ~ 2016","174cm / 5'9""",69kg / 152lbs,LW,6000000.0,70000.0,76,77,84,53,Anthony Mounier
+"Maxwell
+LB",32,77,77,"Paris Saint-Germain
+2012 ~ 2016","176cm / 5'9""",73kg / 161lbs,LB,3100000.0,80000.0,81,74,84,43,Maxwell Scherer Cabelino Andrade
+"G. van der Wiel
+RB",26,77,80,"Paris Saint-Germain
+2012 ~ 2016","181cm / 5'11""",69kg / 152lbs,RM,5500000.0,100000.0,76,74,84,41,Gregory van der Wiel
+"S. Aurier
+RB RM CB",21,77,82,"Paris Saint-Germain
+2012 ~ 2018","176cm / 5'9""",76kg / 168lbs,RB,3800000.0,70000.0,75,73,88,52,Serge Aurier
+"G. Imbula
+CDM CM",21,77,82,"Olympique de Marseille
+2013 ~ 2018","186cm / 6'1""",77kg / 170lbs,CDM,3600000.0,70000.0,81,81,82,45,Giannelli Imbula
+"F. Thauvin
+RM CAM RW",21,77,83,"Olympique de Marseille
+2013 ~ 2018","179cm / 5'10""",70kg / 154lbs,LW,4500000.0,70000.0,77,83,68,47,Florian Thauvin
+"W. Ben Yedder
+ST CF",23,77,81,"Toulouse FC
+2010 ~ 2017","170cm / 5'7""",68kg / 150lbs,RW,5500000.0,50000.0,79,81,74,37,Wissam Ben Yedder
+"M. Erdinç
+ST",27,77,77,"AS Saint-Étienne
+2013 ~ 2017","181cm / 5'11""",85kg / 187lbs,ST,6000000.0,90000.0,74,75,76,48,Mevlüt Erdinç
+"M. Gradel
+LW LM RW",26,77,79,"AS Saint-Étienne
+2011 ~ 2017","175cm / 5'9""",69kg / 152lbs,LW,6000000.0,80000.0,70,83,77,48,Max-Alain Gradel
+"R. Hamouma
+RW RM CAM",27,77,79,"AS Saint-Étienne
+2012 ~ 2016","177cm / 5'10""",74kg / 163lbs,RW,6000000.0,80000.0,74,80,72,54,Romain Hamouma
+"Rafinha
+RB",28,77,77,"FC Bayern München
+2011 ~ 2017","172cm / 5'8""",68kg / 150lbs,RWB,4600000.0,90000.0,79,77,78,60,Márcio Rafael Ferreira de Souza
+"Bernat
+LB LM",21,77,84,"FC Bayern München
+2014 ~ 2019","170cm / 5'7""",67kg / 148lbs,LWB,3800000.0,70000.0,81,80,79,51,Juan Bernat Velasco
+"K. Kampl
+RM CAM CM",23,77,82,"Borussia Dortmund
+2015 ~ 2019","180cm / 5'11""",65kg / 143lbs,RM,5000000.0,80000.0,75,86,86,48,Kevin Kampl
+"I. Traoré
+RM LM",26,77,79,"Borussia Mönchengladbach
+2014 ~ 2018","172cm / 5'8""",61kg / 134lbs,LW,6000000.0,60000.0,73,86,67,33,Ibrahima Traoré
+"Álvaro Domínguez
+CB LB",25,77,82,"Borussia Mönchengladbach
+2012 ~ 2017","189cm / 6'2""",83kg / 183lbs,CB,5000000.0,50000.0,69,60,78,61,Álvaro Domínguez Soto
+"T. Hazard
+LM CAM",21,77,85,"Borussia Mönchengladbach
+2015 ~ 2019","174cm / 5'9""",69kg / 152lbs,LM,4500000.0,40000.0,77,82,75,32,Thorgan Hazard
+"C. Kramer
+CDM CM",23,77,82,"Borussia Mönchengladbach
+2011 ~ 2019","189cm / 6'2""",82kg / 181lbs,CDM,4099999.9999999995,50000.0,75,76,95,39,Christoph Kramer
+"R. van der Vaart
+CM CAM CDM",31,77,77,"Hamburger SV
+2012 ~ 2015","176cm / 5'9""",74kg / 163lbs,CAM,4099999.9999999995,60000.0,82,77,72,55,Rafael van der Vaart
+"J. Drobný
+GK",34,77,77,"Hamburger SV
+2010 ~ 2017","192cm / 6'4""",90kg / 198lbs,GK,3600000.0,35000.0,34,25,28,360,Jaroslav Drobný
+"V. Behrami
+CDM CM",29,77,77,"Hamburger SV
+2014 ~ 2017","185cm / 6'1""",78kg / 172lbs,CDM,3900000.0,50000.0,75,72,83,51,Valon Behrami
+"P. Lasogga
+ST",22,77,81,"Hamburger SV
+2014 ~ 2019","189cm / 6'2""",88kg / 194lbs,ST,5000000.0,50000.0,64,67,66,41,Pierre-Michel Lasogga
+"K. Papadopoulos
+CB",22,77,84,"Bayer 04 Leverkusen
+2015 ~ 2020","183cm / 6'0""",85kg / 187lbs,CB,3800000.0,60000.0,56,43,64,47,Kyriakos Papadopoulos
+"S. Reinartz
+CDM CB",25,77,79,"Bayer 04 Leverkusen
+2008 ~ 2015","189cm / 6'2""",87kg / 192lbs,CB,4900000.0,70000.0,76,42,91,59,Stefan Reinartz
+"M. Höger
+CM CDM RB",24,77,80,"FC Schalke 04
+2011 ~ 2016","182cm / 6'0""",83kg / 183lbs,CM,5500000.0,80000.0,78,76,87,55,Marco Höger
+"M. Nastasić
+CB",21,77,82,"FC Schalke 04
+2015 ~ 2019","188cm / 6'2""",83kg / 183lbs,CB,3800000.0,70000.0,68,34,72,61,Matija Nastasić
+"C. Gentner
+CM CDM CAM",28,77,77,"VfB Stuttgart
+2010 ~ 2016","189cm / 6'2""",81kg / 179lbs,CM,5000000.0,60000.0,78,72,88,52,Christian Gentner
+"V. Ibišević
+ST",29,77,77,"VfB Stuttgart
+2012 ~ 2017","188cm / 6'2""",82kg / 181lbs,ST,5500000.0,60000.0,72,69,54,66,Vedad Ibišević
+"S. Ulreich
+GK",25,77,79,"VfB Stuttgart
+2008 ~ 2017","192cm / 6'4""",84kg / 185lbs,GK,5000000.0,50000.0,32,25,31,375,Sven Ulreich
+"Z. Junuzović
+CM CAM CDM LM",26,77,79,"SV Werder Bremen
+2012 ~ 2018","172cm / 5'8""",69kg / 152lbs,RM,6000000.0,60000.0,78,77,94,53,Zlatko Junuzović
+"F. Di Santo
+ST",25,77,80,"SV Werder Bremen
+2013 ~ 2016","193cm / 6'4""",88kg / 194lbs,ST,6500000.0,50000.0,72,76,75,41,Franco Di Santo
+"S. Okazaki
+ST",28,77,77,"1. FSV Mainz 05
+2013 ~ 2016","174cm / 5'9""",76kg / 168lbs,ST,6000000.0,70000.0,73,78,84,37,Shinji Okazaki
+"A. Hunt
+CAM CM LM",27,77,77,"VfL Wolfsburg
+2014 ~ 2017","183cm / 6'0""",73kg / 161lbs,CAM,6000000.0,80000.0,80,78,77,60,Aaron Hunt
+"B. Dost
+ST",25,77,80,"VfL Wolfsburg
+2012 ~ 2017","196cm / 6'5""",78kg / 172lbs,ST,6500000.0,70000.0,67,54,63,47,Bas Dost
+"D. Caligiuri
+RM LM",26,77,79,"VfL Wolfsburg
+2013 ~ 2017","182cm / 6'0""",79kg / 174lbs,RM,6000000.0,80000.0,76,83,75,50,Daniel Caligiuri
+"J. Guilavogui
+CDM CM",23,77,82,"VfL Wolfsburg
+Jun 30, 2016 On loan","188cm / 6'2""",77kg / 170lbs,CDM,4099999.9999999995,60000.0,76,68,79,56,Josuha Guilavogui
+"R. Knoche
+CB",22,77,82,"VfL Wolfsburg
+2011 ~ 2017","190cm / 6'3""",77kg / 170lbs,CB,3800000.0,60000.0,70,46,65,54,Robin Knoche
+"C. Zambrano
+CB",24,77,80,"Eintracht Frankfurt
+2012 ~ 2015","185cm / 6'1""",78kg / 172lbs,CB,4900000.0,50000.0,72,67,75,60,Carlos Zambrano
+"P. Schwegler
+CDM CM",27,77,78,"TSG 1899 Hoffenheim
+2014 ~ 2017","178cm / 5'10""",74kg / 163lbs,CM,4700000.0,60000.0,82,75,77,51,Pirmin Schwegler
+"A. Modeste
+ST",26,77,79,"TSG 1899 Hoffenheim
+2013 ~ 2016","186cm / 6'1""",83kg / 183lbs,ST,6500000.0,70000.0,70,72,60,41,Anthony Modeste
+"G. Denis
+ST",32,77,77,"Atalanta
+2011 ~ 2017","182cm / 6'0""",87kg / 192lbs,ST,4300000.0,60000.0,67,69,70,42,Germán Denis
+"L. Cigarini
+CM",28,77,77,"Atalanta
+2013 ~ 2018","175cm / 5'9""",72kg / 159lbs,CM,5000000.0,60000.0,86,74,75,45,Luca Cigarini
+"L. Podolski
+LM LW ST",29,77,77,"Inter
+2012 ~ 2016","182cm / 6'0""",83kg / 183lbs,ST,4900000.0,80000.0,79,80,61,48,Lukas Podolski
+"A. Ranocchia
+CB",26,77,79,"Inter
+2010 ~ 2015","195cm / 6'5""",81kg / 179lbs,CB,5500000.0,90000.0,69,63,65,60,Andrea Ranocchia
+"Juan Jesus
+CB",23,77,83,"Inter
+2012 ~ 2016","185cm / 6'1""",83kg / 183lbs,CB,4400000.0,80000.0,52,58,79,47,Juan Guilherme Nunes Jesus
+"M. Icardi
+ST",21,77,86,"Inter
+2013 ~ 2018","181cm / 5'11""",75kg / 165lbs,ST,5000000.0,70000.0,62,69,67,38,Mauro Icardi
+"S. Lichtsteiner
+RM RB",30,77,77,"Juventus
+2011 ~ 2017","180cm / 5'11""",77kg / 170lbs,RM,4500000.0,80000.0,76,75,93,14,Stephan Lichtsteiner
+"A. Ogbonna
+CB",26,77,80,"Juventus
+2013 ~ 2018","191cm / 6'3""",86kg / 190lbs,CB,5500000.0,90000.0,55,48,69,16,Angelo Ogbonna
+"S. Radu
+LB",27,77,79,"Lazio
+2008 ~ 2016","183cm / 6'0""",79kg / 174lbs,CB,4900000.0,80000.0,71,65,77,47,Stefan Radu
+"S. Lulić
+CM LM LW LB",28,77,77,"Lazio
+2011 ~ 2017","183cm / 6'0""",75kg / 165lbs,RM,5000000.0,80000.0,77,79,91,41,Senad Lulić
+"G. Paletta
+CB",28,77,77,"AC Milan
+2015 ~ 2018","190cm / 6'3""",80kg / 176lbs,CB,4600000.0,90000.0,55,35,65,50,Gabriel Paletta
+"A. Rami
+CB",28,77,77,"AC Milan
+2014 ~ 2017","190cm / 6'3""",88kg / 194lbs,CB,4600000.0,90000.0,56,53,64,16,Adil Rami
+"K. Honda
+RW CAM",28,77,77,"AC Milan
+2014 ~ 2017","182cm / 6'0""",76kg / 168lbs,LM,6000000.0,100000.0,82,78,78,14,Keisuke Honda
+"G. Bonaventura
+CM LW",24,77,81,"AC Milan
+2014 ~ 2019","180cm / 5'11""",75kg / 165lbs,CAM,5500000.0,80000.0,80,80,80,55,Giacomo Bonaventura
+"M. Destro
+ST",23,77,82,"AC Milan
+2013 ~ 2017","178cm / 5'10""",72kg / 159lbs,ST,5500000.0,80000.0,68,69,68,50,Mattia Destro
+"J. De Guzmán
+CAM CM",26,77,80,"Napoli
+2014 ~ 2018","173cm / 5'8""",70kg / 154lbs,CAM,6500000.0,80000.0,78,78,69,41,Jonathan De Guzmán
+"M. Gabbiadini
+CAM CF RW",22,77,84,"Napoli
+2015 ~ 2019","186cm / 6'1""",81kg / 179lbs,CAM,5000000.0,60000.0,72,78,75,39,Manolo Gabbiadini
+"A. Mirante
+GK",30,77,77,"Parma
+2009 ~ 2015","193cm / 6'4""",79kg / 174lbs,GK,5000000.0,50000.0,34,25,33,376,Antonio Mirante
+"M. Yanga-M'Biwa
+CB RB",25,77,79,"Roma
+2013 ~ 2018","184cm / 6'0""",77kg / 170lbs,CB,5000000.0,70000.0,67,61,73,42,Mapou Yanga-M'Biwa
+"A. Ljajić
+LW RW CF",22,77,82,"Roma
+2013 ~ 2017","182cm / 6'0""",74kg / 163lbs,LW,4500000.0,60000.0,75,81,68,40,Adem Ljajić
+"A. Florenzi
+RW RB CM",23,77,82,"Roma
+2010 ~ 2019","173cm / 5'8""",67kg / 148lbs,RW,5500000.0,70000.0,78,76,85,43,Alessandro Florenzi
+"O. Karnezis
+GK",28,77,77,"Udinese
+2013 ~ 2018","190cm / 6'3""",84kg / 185lbs,GK,5000000.0,60000.0,21,25,33,382,Orestis Karnezis
+"P. Dybala
+ST",20,77,85,"Palermo FC
+2012 ~ 2016","177cm / 5'10""",69kg / 152lbs,CAM,5000000.0,40000.0,76,84,75,45,Paulo Dybala
+"A. Aquilani
+CM",29,77,77,"Fiorentina
+2012 ~ 2015","186cm / 6'1""",77kg / 170lbs,CAM,4900000.0,70000.0,86,76,68,51,Alberto Aquilani
+"M. Badelj
+CDM CM",25,77,78,"Fiorentina
+2014 ~ 2017","186cm / 6'1""",76kg / 168lbs,CDM,4900000.0,70000.0,80,77,79,47,Milan Badelj
+"M. Salah
+RM",22,77,84,"Fiorentina
+2014 ~ 2020","175cm / 5'9""",72kg / 159lbs,LW,4500000.0,60000.0,74,85,77,57,Mohamed Salah
+"D. Perotti
+LW RW",25,77,80,"Genoa
+2014 ~ 2018","179cm / 5'10""",70kg / 154lbs,LW,6000000.0,70000.0,73,85,73,36,Diego Perotti
+"S. Zaza
+ST",23,77,82,"Sassuolo
+2013 ~ 2019","186cm / 6'1""",81kg / 179lbs,ST,5500000.0,50000.0,65,76,69,40,Simone Zaza
+"Siqueira
+LB",28,77,77,"Atlético Madrid
+2014 ~ 2018","183cm / 6'0""",76kg / 168lbs,LWB,4600000.0,90000.0,74,82,86,41,Guilherme Madalena Siqueira
+"C. Ansaldi
+LB",27,77,77,"Atlético Madrid
+2013 ~ 2017","181cm / 5'11""",76kg / 168lbs,LB,4900000.0,90000.0,74,71,92,52,Cristian Ansaldi
+"J. Oblak
+GK",21,77,82,"Atlético Madrid
+2014 ~ 2020","186cm / 6'1""",87kg / 192lbs,GK,3900000.0,70000.0,28,25,41,380,Jan Oblak
+"Montoya
+RB",23,77,83,"FC Barcelona
+2011 ~ 2018","174cm / 5'9""",72kg / 159lbs,RWB,4400000.0,80000.0,77,72,88,48,Martín Montoya Torralbo
+"Iraizoz
+GK",33,77,77,"Athletic Club
+2007 ~ 2016","191cm / 6'3""",89kg / 196lbs,GK,3900000.0,35000.0,28,25,33,389,Gorka Iraizoz Moreno
+"Mikel Rico
+CM CAM CDM",29,77,77,"Athletic Club
+2013 ~ 2018","178cm / 5'10""",76kg / 168lbs,CDM,4900000.0,45000.0,80,64,92,45,Mikel Rico Moreno
+"Balenziaga
+LB",26,77,78,"Athletic Club
+2013 ~ 2019","177cm / 5'10""",76kg / 168lbs,LB,5500000.0,60000.0,76,70,88,44,Mikel Balenziaga
+"Ibai Gómez
+LW CAM",24,77,80,"Athletic Club
+2010 ~ 2017","177cm / 5'10""",72kg / 159lbs,LW,5500000.0,50000.0,65,80,79,48,Ibai Gómez Pérez
+"F. Orellana
+RW LW CAM",28,77,77,"RC Celta
+2013 ~ 2017","171cm / 5'7""",70kg / 154lbs,RW,6000000.0,70000.0,70,84,63,60,Fabián Orellana
+"Granero
+CM CAM RM",26,77,81,"Real Sociedad
+2014 ~ 2018","180cm / 5'11""",75kg / 165lbs,CM,6000000.0,80000.0,82,72,67,53,Esteban Granero Molina
+"Tito
+RB LB",28,77,77,"Rayo Vallecano
+2009 ~ 2016","174cm / 5'9""",62kg / 137lbs,RB,4600000.0,60000.0,68,63,86,58,Roberto Román Triguero
+"E. Insua
+LB",25,77,82,"Rayo Vallecano
+2013 ~ 2016","179cm / 5'10""",85kg / 187lbs,LB,5000000.0,50000.0,75,74,78,49,Emiliano Insua
+"Reyes
+RM LM LW",30,77,77,"Sevilla FC
+2012 ~ 2015","176cm / 5'9""",72kg / 159lbs,LW,4500000.0,70000.0,78,82,55,57,José Antonio Reyes Calderón
+"Víctor Ruíz
+CB CDM CM",25,77,81,"Villarreal CF
+2015 ~ 2019","184cm / 6'0""",80kg / 176lbs,CB,5000000.0,50000.0,70,53,68,41,Víctor Ruíz Torre
+"D. Cheryshev
+LM LW",23,77,83,"Villarreal CF
+2012 ~ 2017","178cm / 5'10""",75kg / 165lbs,LM,5000000.0,50000.0,80,76,81,47,Denis Cheryshev
+"Moi Gómez
+LM RM",20,77,84,"Villarreal CF
+2010 ~ 2018","174cm / 5'9""",65kg / 143lbs,LM,4500000.0,35000.0,80,79,75,44,Moisés Gómez Bordonado
+"Weligton
+CB",34,77,77,"Málaga CF
+2007 ~ 2015","186cm / 6'1""",71kg / 157lbs,CB,1600000.0,30000.0,65,47,55,44,Weligton Robson Pena de Oliveira
+"N. Amrabat
+ST LM CAM",27,77,77,"Málaga CF
+2015 ~ 2017","178cm / 5'10""",77kg / 170lbs,RW,6000000.0,60000.0,73,83,79,46,Nordin Amrabat
+"Diego Castro
+LM RM CAM ST",31,77,77,"Getafe CF
+2011 ~ 2015","174cm / 5'9""",70kg / 154lbs,RW,4099999.9999999995,50000.0,72,83,66,46,Diego Castro Giménez
+"C. Sánchez
+CDM CM",28,76,76,"Aston Villa
+2014 ~ 2018","182cm / 6'0""",82kg / 181lbs,CDM,4300000.0,60000.0,77,69,89,39,Carlos Sánchez
+"F. Delph
+CM CDM",24,76,80,"Aston Villa
+2009 ~ 2019","174cm / 5'9""",60kg / 132lbs,LM,5500000.0,50000.0,79,83,89,45,Fabian Delph
+"S. Distin
+CB",36,76,76,"Everton
+2009 ~ 2015","192cm / 6'4""",88kg / 194lbs,CB,0.0,30000.0,65,52,67,39,Sylvain Distin
+"A. Koné
+ST",30,76,76,"Everton
+2013 ~ 2016","182cm / 6'0""",81kg / 179lbs,ST,5000000.0,60000.0,64,79,73,37,Arouna Koné
+"L. Osman
+CM LM CAM",33,76,76,"Everton
+2000 ~ 2016","173cm / 5'8""",64kg / 141lbs,CAM,3000000.0,35000.0,82,81,69,49,Leon Osman
+"S. Naismith
+CAM RM CF",27,76,76,"Everton
+2012 ~ 2019","178cm / 5'10""",72kg / 159lbs,CAM,6000000.0,70000.0,72,77,85,51,Steven Naismith
+"D. Gibson
+CM CDM",26,76,76,"Everton
+2012 ~ 2016","180cm / 5'11""",80kg / 176lbs,CM,6000000.0,60000.0,81,71,76,50,Darron Gibson
+"C. Atsu
+LW CAM RW",22,76,81,"Everton
+2013 ~ 2018","172cm / 5'8""",68kg / 150lbs,LW,4500000.0,45000.0,76,80,66,51,Christian Atsu
+"R. Lambert
+ST",32,76,76,"Liverpool
+2014 ~ 2016","188cm / 6'2""",77kg / 170lbs,ST,4300000.0,70000.0,65,64,71,57,Rickie Lambert
+"J. Allen
+CM CDM",24,76,81,"Liverpool
+2012 ~ 2017","168cm / 5'6""",62kg / 137lbs,CM,5500000.0,70000.0,83,76,79,44,Joe Allen
+"A. Lindegaard
+GK",30,76,76,"Manchester United
+2011 ~ 2016","193cm / 6'4""",79kg / 174lbs,GK,5000000.0,80000.0,25,25,45,380,Anders Lindegaard
+"Rafael
+RB",23,76,78,"Manchester United
+2008 ~ 2016","172cm / 5'8""",78kg / 172lbs,RWB,4400000.0,80000.0,78,73,83,42,Rafael Pereira da Silva
+"D. Janmaat
+RB",24,76,80,"Newcastle United
+2014 ~ 2020","185cm / 6'1""",80kg / 176lbs,RB,4900000.0,50000.0,69,73,92,45,Daryl Janmaat
+"R. Green
+GK",34,76,76,"Queens Park Rangers
+2012 ~ 2016","191cm / 6'3""",93kg / 205lbs,GK,3600000.0,35000.0,25,25,26,375,Rob Green
+"M. Zárate
+ST CAM",27,76,76,"Queens Park Rangers
+2014 ~ 2017","176cm / 5'9""",76kg / 168lbs,CAM,6000000.0,70000.0,71,83,70,52,Mauro Zárate
+"L. Fer
+CM LM",24,76,81,"Queens Park Rangers
+2014 ~ 2017","188cm / 6'2""",79kg / 174lbs,CM,5500000.0,50000.0,78,74,91,56,Leroy Fer
+"Sandro
+CDM CM",25,76,77,"Queens Park Rangers
+2014 ~ 2017","187cm / 6'2""",75kg / 165lbs,CB,4900000.0,50000.0,74,70,81,56,Sandro R. G. Cordeiro
+"E. Vargas
+RM ST",24,76,80,"Queens Park Rangers
+2012 ~ 2015","175cm / 5'9""",70kg / 154lbs,RW,5500000.0,50000.0,73,82,78,49,Eduardo Vargas
+"S. Davis
+CM RM",29,76,76,"Southampton
+2012 ~ 2018","173cm / 5'8""",72kg / 159lbs,RM,4900000.0,50000.0,82,75,86,44,Steven Davis
+"S. Long
+ST",27,76,76,"Southampton
+2014 ~ 2018","180cm / 5'11""",81kg / 179lbs,ST,6000000.0,70000.0,61,71,84,50,Shane Long
+"V. Wanyama
+CDM CM",23,76,80,"Southampton
+2013 ~ 2017","188cm / 6'2""",76kg / 168lbs,CB,4099999.9999999995,50000.0,73,71,84,54,Victor Wanyama
+"N. Clyne
+RB",23,76,80,"Southampton
+2012 ~ 2016","175cm / 5'9""",67kg / 148lbs,RWB,4400000.0,50000.0,73,75,87,51,Nathaniel Clyne
+"B. Stambouli
+CDM CM",23,76,80,"Tottenham Hotspur
+2014 ~ 2018","180cm / 5'11""",80kg / 176lbs,CDM,4099999.9999999995,60000.0,76,66,83,57,Benjamin Stambouli
+"V. Chiricheş
+CB RB",24,76,79,"Tottenham Hotspur
+2013 ~ 2018","184cm / 6'0""",78kg / 172lbs,CB,4900000.0,60000.0,76,65,71,50,Vlad Chiricheş
+"S. Downing
+CAM RM LM",29,76,76,"West Ham United
+2013 ~ 2017","180cm / 5'11""",65kg / 143lbs,LM,5500000.0,60000.0,75,81,77,58,Stewart Downing
+"Nenê
+LW CAM",32,76,76,"West Ham United
+2015 ~ 2015","181cm / 5'11""",70kg / 154lbs,LW,3700000.0,50000.0,80,79,58,48,Anderson Luis De Carvalho
+"S. Fletcher
+ST",27,76,76,"Sunderland
+2012 ~ 2016","186cm / 6'1""",76kg / 168lbs,ST,6000000.0,70000.0,66,69,78,56,Steven Fletcher
+"J. Rodwell
+CM",23,76,82,"Sunderland
+2014 ~ 2019","188cm / 6'2""",71kg / 157lbs,CM,5000000.0,50000.0,80,76,82,52,Jack Rodwell
+"J. Olsson
+CB",31,76,76,"West Bromwich Albion
+2008 ~ 2016","193cm / 6'4""",84kg / 185lbs,CB,3400000.0,50000.0,73,46,62,57,Jonas Olsson
+"Y. Mulumbu
+CDM CM",27,76,76,"West Bromwich Albion
+2009 ~ 2015","177cm / 5'10""",76kg / 168lbs,CDM,4700000.0,60000.0,80,73,86,64,Youssouf Mulumbu
+"S. Dann
+CB",27,76,76,"Crystal Palace
+2014 ~ 2017","191cm / 6'3""",79kg / 174lbs,CB,4900000.0,60000.0,68,37,74,42,Scott Dann
+"P. Crouch
+ST",33,76,76,"Stoke City
+2011 ~ 2017","201cm / 6'7""",84kg / 185lbs,ST,3600000.0,45000.0,78,68,70,53,Peter Crouch
+"J. Cork
+CDM CM",25,76,78,"Swansea City
+2015 ~ 2018","185cm / 6'1""",69kg / 152lbs,CDM,4900000.0,50000.0,79,72,81,47,Jack Cork
+"J. Montero
+LW LM",24,76,78,"Swansea City
+2014 ~ 2018","173cm / 5'8""",70kg / 154lbs,LW,5500000.0,50000.0,71,82,74,56,Jefferson Montero
+"L. Sané
+CB CDM",27,76,78,"FC Girondins de Bordeaux
+2008 ~ 2017","192cm / 6'4""",77kg / 170lbs,CB,4900000.0,80000.0,74,66,78,38,Lamine Sané
+"F. Balmont
+CM",34,76,76,"Lille OSC
+2008 ~ 2017","168cm / 5'6""",72kg / 159lbs,CDM,2200000.0,50000.0,82,73,79,49,Florent Balmont
+"I. Gueye
+CDM CM",24,76,83,"Lille OSC
+2010 ~ 2018","174cm / 5'9""",66kg / 146lbs,CDM,4700000.0,60000.0,77,72,85,42,Idrissa Gueye
+"Ricardo Carvalho
+CB",36,76,76,"AS Monaco
+2013 ~ 2015","183cm / 6'0""",79kg / 174lbs,CB,0.0,35000.0,73,50,32,56,Ricardo Alberto Silv. de Carvalho
+"A. Raggi
+CB RB",30,76,76,"AS Monaco
+2012 ~ 2018","187cm / 6'2""",82kg / 181lbs,CB,3800000.0,50000.0,70,60,64,51,Andrea Raggi
+"L. Traoré
+ST",24,76,79,"AS Monaco
+2014 ~ 2018","203cm / 6'8""",87kg / 192lbs,ST,6000000.0,60000.0,60,73,73,54,Lacina Traoré
+"Hilton
+CB",36,76,76,"Montpellier HSC
+2011 ~ 2016","180cm / 5'11""",78kg / 172lbs,CB,0.0,30000.0,74,57,75,50,Vitorino Hilton da Silva
+"O. Vizcarrondo
+CB",30,76,76,"FC Nantes
+2013 ~ 2016","191cm / 6'3""",84kg / 185lbs,CB,3800000.0,45000.0,62,32,60,51,Oswaldo Vizcarrondo
+"J. Veretout
+CM CDM CAM",21,76,84,"FC Nantes
+2010 ~ 2017","177cm / 5'10""",67kg / 148lbs,CM,4500000.0,40000.0,81,74,80,42,Jordan Veretout
+"O. Toivonen
+ST",27,76,76,"Stade Rennais FC
+2014 ~ 2017","191cm / 6'3""",75kg / 165lbs,ST,6000000.0,70000.0,75,70,78,44,Ola Toivonen
+"R. Alessandrini
+LM LW",25,76,80,"Olympique de Marseille
+2014 ~ 2018","173cm / 5'8""",70kg / 154lbs,LW,6000000.0,80000.0,74,77,77,52,Romain Alessandrini
+"M. Batshuayi
+ST",20,76,81,"Olympique de Marseille
+2014 ~ 2019","185cm / 6'1""",78kg / 172lbs,ST,5000000.0,70000.0,61,80,67,52,Michy Batshuayi
+"A. Mandi
+RB",22,76,79,"Stade de Reims
+2010 ~ 2017","184cm / 6'0""",78kg / 172lbs,RB,3800000.0,40000.0,75,61,73,59,Aïssa Mandi
+"J. Clément
+CDM",29,76,76,"AS Saint-Étienne
+2011 ~ 2016","180cm / 5'11""",78kg / 172lbs,CDM,3900000.0,70000.0,79,60,82,59,Jérémy Clément
+"M. Sall
+CB",28,76,76,"AS Saint-Étienne
+2006 ~ 2017","191cm / 6'3""",96kg / 212lbs,CB,4600000.0,80000.0,61,50,72,59,Moustapha Sall
+"D. Wass
+RM RB",25,76,79,"Thonon Évian
+2011 ~ 2016","181cm / 5'11""",74kg / 163lbs,RM,6000000.0,50000.0,76,75,80,51,Daniel Wass
+"A. Hahn
+RM",23,76,78,"Borussia Mönchengladbach
+2014 ~ 2018","185cm / 6'1""",80kg / 176lbs,ST,5000000.0,50000.0,72,73,90,62,André Hahn
+"V. Darida
+CM CDM",23,76,81,"SC Freiburg
+2013 ~ 2018","172cm / 5'8""",66kg / 146lbs,CM,5000000.0,50000.0,78,77,92,69,Vladimir Darida
+"L. Holtby
+CAM CM LM",23,76,80,"Hamburger SV
+2014 ~ 2018","176cm / 5'9""",72kg / 159lbs,LM,5500000.0,60000.0,79,77,85,47,Lewis Holtby
+"T. Horn
+GK",21,76,84,"1. FC Köln
+2011 ~ 2019","192cm / 6'4""",83kg / 183lbs,GK,3900000.0,40000.0,34,25,31,381,Timo Horn
+"J. Drmić
+ST RM",21,76,81,"Bayer 04 Leverkusen
+2014 ~ 2019","181cm / 5'11""",71kg / 157lbs,ST,5000000.0,60000.0,74,79,69,45,Josip Drmić
+"H. Son
+LM CF",21,76,83,"Bayer 04 Leverkusen
+2013 ~ 2018","183cm / 6'0""",76kg / 168lbs,LM,4500000.0,60000.0,74,84,69,48,Heung Min Son
+"D. Aogo
+CDM LB LM",27,76,77,"FC Schalke 04
+2014 ~ 2017","184cm / 6'0""",85kg / 187lbs,LWB,4700000.0,90000.0,78,76,78,50,Dennis Aogo
+"A. Uchida
+RWB RB",26,76,77,"FC Schalke 04
+2010 ~ 2018","176cm / 5'9""",70kg / 154lbs,RWB,5500000.0,90000.0,77,74,83,65,Atsuto Uchida
+"M. Meyer
+CAM CM",18,76,87,"FC Schalke 04
+2012 ~ 2018","173cm / 5'8""",68kg / 150lbs,RM,4500000.0,45000.0,79,83,74,53,Maximilian Meyer
+"M. Harnik
+RM ST LM",27,76,77,"VfB Stuttgart
+2010 ~ 2016","185cm / 6'1""",75kg / 165lbs,ST,5500000.0,60000.0,76,76,86,52,Martin Harnik
+"A. Maxim
+CAM CF",23,76,80,"VfB Stuttgart
+2013 ~ 2017","177cm / 5'10""",73kg / 161lbs,RM,5500000.0,50000.0,80,81,64,45,Alexandru Maxim
+"T. Kraft
+GK",25,76,78,"Hertha BSC
+2011 ~ 2015","187cm / 6'2""",78kg / 172lbs,GK,5000000.0,50000.0,34,25,44,368,Thomas Kraft
+"L. Karius
+GK",21,76,82,"1. FSV Mainz 05
+2012 ~ 2018","189cm / 6'2""",75kg / 165lbs,GK,3900000.0,40000.0,34,25,40,381,Loris Karius
+"C. Träsch
+RB CDM",26,76,79,"VfL Wolfsburg
+2011 ~ 2018","180cm / 5'11""",75kg / 165lbs,RB,5500000.0,80000.0,76,68,90,55,Christian Träsch
+"S. Jung
+RB",24,76,80,"VfL Wolfsburg
+2014 ~ 2018","179cm / 5'10""",72kg / 159lbs,RWB,4900000.0,70000.0,77,71,83,44,Sebastian Jung
+"D. Ya Konan
+ST RM",30,76,76,"Hannover 96
+2015 ~ 2015","174cm / 5'9""",74kg / 163lbs,RW,5000000.0,60000.0,75,81,59,49,Didier Ya Konan
+"S. Aigner
+RM ST",26,76,77,"Eintracht Frankfurt
+2012 ~ 2018","185cm / 6'1""",72kg / 159lbs,RM,6000000.0,60000.0,77,76,68,53,Stefan Aigner
+"H. Seferović
+ST LM",22,76,82,"Eintracht Frankfurt
+2014 ~ 2017","187cm / 6'2""",84kg / 185lbs,ST,5000000.0,45000.0,68,70,67,51,Haris Seferović
+"E. Polanski
+CDM CM",28,76,76,"TSG 1899 Hoffenheim
+2013 ~ 2017","183cm / 6'0""",78kg / 172lbs,CDM,4300000.0,60000.0,76,64,79,41,Eugen Polanski
+"Á. Szalai
+ST",26,76,77,"TSG 1899 Hoffenheim
+2014 ~ 2018","193cm / 6'4""",91kg / 201lbs,ST,6500000.0,70000.0,70,73,74,52,Ádám Szalai
+"S. Rudy
+CM CDM RB",24,76,79,"TSG 1899 Hoffenheim
+2010 ~ 2017","179cm / 5'10""",73kg / 161lbs,CM,5500000.0,50000.0,78,77,78,51,Sebastian Rudy
+"A. Gómez
+LM",26,76,78,"Atalanta
+2014 ~ 2017","165cm / 5'5""",68kg / 150lbs,RW,6000000.0,60000.0,69,81,69,41,Alejandro Gómez
+"M. Kovačić
+CM",20,76,86,"Inter
+2013 ~ 2019","181cm / 5'11""",75kg / 165lbs,RM,4500000.0,60000.0,85,86,75,29,Mateo Kovačić
+"A. Matri
+ST",29,76,76,"Juventus
+2013 ~ 2017","183cm / 6'0""",80kg / 176lbs,ST,5500000.0,80000.0,64,65,75,16,Alessandro Matri
+"Rômulo
+CM RB",27,76,78,"Juventus
+2014 ~ 2016","178cm / 5'10""",72kg / 159lbs,RM,5500000.0,90000.0,79,78,86,38,Rômulo Souza Orestes Caldeira
+"L. Cana
+CB",30,76,76,"Lazio
+2011 ~ 2016","186cm / 6'1""",77kg / 170lbs,CB,3800000.0,70000.0,67,49,68,54,Lorik Cana
+"D. Basta
+RB RM",29,76,76,"Lazio
+2014 ~ 2018","185cm / 6'1""",75kg / 165lbs,RB,4200000.0,70000.0,73,75,79,52,Dušan Basta
+"Maurício
+CB",25,76,79,"Lazio
+2015 ~ 2019","185cm / 6'1""",83kg / 183lbs,CB,5000000.0,60000.0,65,54,70,44,Maurício Santos Nascimento
+"C. Abbiati
+GK",36,76,76,"AC Milan
+2008 ~ 2015","191cm / 6'3""",92kg / 203lbs,GK,2400000.0,60000.0,34,25,34,375,Christian Abbiati
+"P. Mexès
+CB",32,76,76,"AC Milan
+2011 ~ 2016","187cm / 6'2""",82kg / 181lbs,CB,3100000.0,80000.0,64,56,64,14,Philippe Mexès
+"C. Zapata
+CB",27,76,76,"AC Milan
+2013 ~ 2016","187cm / 6'2""",82kg / 181lbs,CB,4900000.0,90000.0,55,45,68,14,Cristian Zapata
+"Michu
+ST CAM",28,76,76,"Napoli
+2012 ~ 2016","185cm / 6'1""",80kg / 176lbs,ST,6000000.0,80000.0,75,67,72,48,Miguel Pérez Cuesta
+"W. Gargano
+CDM CM",29,76,76,"Napoli
+2007 ~ 2016","168cm / 5'6""",65kg / 143lbs,CDM,3900000.0,70000.0,75,62,92,32,Walter Gargano
+"K. Koulibaly
+CB",23,76,82,"Napoli
+2014 ~ 2019","195cm / 6'5""",89kg / 196lbs,CB,4400000.0,60000.0,53,31,75,38,Kalidou Koulibaly
+"David López
+CDM CM",24,76,80,"Napoli
+2014 ~ 2019","185cm / 6'1""",83kg / 183lbs,CDM,4700000.0,60000.0,78,68,86,49,David López Silva
+"Jorginho
+CDM CM",22,76,83,"Napoli
+2014 ~ 2018","180cm / 5'11""",65kg / 143lbs,CM,3600000.0,60000.0,84,76,79,51,Luiz Frello Filho Jorge
+"A. Cole
+LB",33,76,76,"Roma
+2014 ~ 2016","176cm / 5'9""",66kg / 146lbs,LWB,2300000.0,60000.0,77,71,78,42,Ashley Cole
+"J. Iturbe
+RW",21,76,82,"Roma
+2014 ~ 2019","172cm / 5'8""",68kg / 150lbs,RW,5000000.0,60000.0,67,84,62,42,Juan Manuel Iturbe
+"N. Maksimović
+CB",22,76,81,"Torino
+2014 ~ 2018","193cm / 6'4""",82kg / 181lbs,CB,3800000.0,40000.0,60,48,67,47,Nikola Maksimović
+"Danilo
+CB",30,76,76,"Udinese
+2011 ~ 2018","185cm / 6'1""",75kg / 165lbs,CB,3800000.0,50000.0,50,40,55,36,Danilo Larangeira
+"T. Heurtaux
+CB RB",25,76,78,"Udinese
+2012 ~ 2017","183cm / 6'0""",78kg / 172lbs,CB,5000000.0,50000.0,55,50,65,43,Thomas Heurtaux
+"M. Valdifiori
+CDM CM",28,76,76,"Empoli
+2008 ~ 2017","180cm / 5'11""",71kg / 157lbs,CDM,4300000.0,60000.0,81,68,80,44,Mirko Valdifiori
+"S. Sorrentino
+GK",35,76,76,"Palermo FC
+2013 ~ 2016","185cm / 6'1""",82kg / 181lbs,GK,3200000.0,35000.0,35,25,28,372,Stefano Sorrentino
+"F. Vázquez
+CF CAM",25,76,79,"Palermo FC
+2012 ~ 2019","187cm / 6'2""",81kg / 179lbs,CAM,6500000.0,50000.0,78,84,76,53,Franco Vázquez
+"J. Basanta
+CB",30,76,76,"Fiorentina
+2014 ~ 2016","188cm / 6'2""",78kg / 172lbs,CB,3800000.0,70000.0,62,54,60,46,José María Basanta
+"M. Fernández
+CM CAM",28,76,76,"Fiorentina
+2012 ~ 2016","178cm / 5'10""",72kg / 159lbs,RM,5000000.0,80000.0,80,83,74,40,Matías Fernández
+"J. Iličić
+CF RW",26,76,76,"Fiorentina
+2013 ~ 2017","190cm / 6'3""",79kg / 174lbs,CAM,6500000.0,80000.0,80,80,69,47,Josip Iličić
+"A. Costa
+CM",29,76,76,"Genoa
+Jun 30, 2016 On loan","176cm / 5'9""",70kg / 154lbs,CM,4900000.0,70000.0,77,74,82,51,Alberto Costa
+"Adriano
+LB RB",29,76,76,"FC Barcelona
+2010 ~ 2017","173cm / 5'8""",73kg / 161lbs,LM,4200000.0,80000.0,79,79,75,62,Adriano Correia Claro
+"Marc Bartra
+CB RB",23,76,81,"FC Barcelona
+2011 ~ 2017","183cm / 6'0""",74kg / 163lbs,CB,4400000.0,80000.0,79,59,64,53,Marc Bartra Aregall
+"Jesé
+LM ST RW",21,76,83,"Real Madrid
+2013 ~ 2017","178cm / 5'10""",73kg / 161lbs,RW,4500000.0,70000.0,74,84,69,49,Jesé Rodríguez Ruíz
+"Gurpegi
+CB CDM",33,76,76,"Athletic Club
+2002 ~ 2015","181cm / 5'11""",75kg / 165lbs,CB,2300000.0,30000.0,78,44,73,61,Carlos Gurpegi Nausia
+"Charles
+ST",30,76,76,"RC Celta
+2013 ~ 2017","177cm / 5'10""",75kg / 165lbs,ST,5000000.0,50000.0,54,72,69,48,Charles Dias De Oliveira
+"A. Fernández
+CM RW",28,76,76,"RC Celta
+2012 ~ 2016","177cm / 5'10""",71kg / 157lbs,CAM,5000000.0,60000.0,78,75,66,48,Augusto Fernández
+"J. Larrivey
+ST",29,76,76,"RC Celta
+2014 ~ 2017","185cm / 6'1""",82kg / 181lbs,ST,5500000.0,50000.0,57,64,63,54,Joaquín Larrivey
+"F. Caicedo
+ST",25,76,81,"RCD Espanyol
+2014 ~ 2016","183cm / 6'0""",84kg / 185lbs,ST,6500000.0,70000.0,67,73,71,40,Felipe Caicedo
+"Carlos Martínez
+RB",28,76,76,"Real Sociedad
+2007 ~ 2018","189cm / 6'2""",79kg / 174lbs,RB,4600000.0,80000.0,66,67,87,44,Carlos Martínez Díaz
+"Rubén Pardo
+CM",21,76,82,"Real Sociedad
+2011 ~ 2018","182cm / 6'0""",68kg / 150lbs,CAM,4500000.0,60000.0,88,75,67,41,Rubén Pardo Gutiérrez
+"G. Rulli
+GK",22,76,84,"Real Sociedad
+2014 ~ 2019","189cm / 6'2""",80kg / 176lbs,GK,3900000.0,60000.0,31,25,42,376,Gerónimo Rulli
+"Barragán
+RB",27,76,79,"Valencia CF
+2011 ~ 2017","182cm / 6'0""",76kg / 168lbs,RB,4900000.0,80000.0,66,60,81,38,Antonio Barragán Fernández
+"André Gomes
+CM CAM LM",20,76,83,"Valencia CF
+2014 ~ 2019","188cm / 6'2""",83kg / 183lbs,CM,4500000.0,50000.0,80,78,78,44,André Filipe Tavares Gomes
+"Gayà
+LB LM",19,76,84,"Valencia CF
+2012 ~ 2020","171cm / 5'7""",63kg / 139lbs,LWB,3400000.0,50000.0,75,74,82,48,José Luís Gayà Peña
+"Amaya
+CB",31,76,76,"Rayo Vallecano
+2014 ~ 2018","192cm / 6'4""",86kg / 190lbs,CB,3400000.0,45000.0,61,34,64,52,Antonio Amaya Carazo
+"Trashorras
+CM CAM CDM",33,76,76,"Rayo Vallecano
+2011 ~ 2015","179cm / 5'10""",71kg / 157lbs,CM,3000000.0,30000.0,84,74,67,60,Roberto Trashorras Gayoso
+"Bueno
+CAM ST",26,76,77,"Rayo Vallecano
+2013 ~ 2015","178cm / 5'10""",64kg / 141lbs,CAM,6500000.0,60000.0,74,78,56,46,Alberto Bueno Calvo
+"Leo Baptistao
+ST",21,76,81,"Rayo Vallecano
+Jun 30, 2016 On loan","181cm / 5'11""",71kg / 157lbs,CF,5000000.0,45000.0,73,82,68,41,Leonardo Carrilho Baptistão
+"Fernando Navarro
+LB CB",32,76,76,"Sevilla FC
+2008 ~ 2016","176cm / 5'9""",70kg / 154lbs,CB,3100000.0,60000.0,67,61,79,40,Fernando Navarro Corbacho
+"Iago Aspas
+ST CAM",26,76,76,"Sevilla FC
+2013 ~ 2018","176cm / 5'9""",67kg / 148lbs,CAM,6500000.0,80000.0,74,81,69,57,Iago Aspas Juncal
+"Deulofeu
+RM RW",20,76,83,"Sevilla FC
+2014 ~ 2016","179cm / 5'10""",73kg / 161lbs,RW,4500000.0,50000.0,66,88,76,59,Gerard Deulofeu Lázaro
+"Aleix Vidal
+RM RB LM",24,76,80,"Sevilla FC
+2014 ~ 2019","176cm / 5'9""",70kg / 154lbs,RM,5500000.0,60000.0,73,80,89,42,Aleix Vidal Parreu
+"Denis Suarez
+CAM LW CM",20,76,83,"Sevilla FC
+2013 ~ 2017","181cm / 5'11""",72kg / 159lbs,CAM,5000000.0,60000.0,80,80,68,43,Denis Suárez Fernández
+"J. Dos Santos
+RM CM CDM",24,76,82,"Villarreal CF
+2014 ~ 2019","172cm / 5'8""",74kg / 163lbs,CAM,5500000.0,50000.0,84,75,68,54,Jonathan Dos Santos
+"P. Diop
+CDM",28,76,76,"Levante UD
+2012 ~ 2015","180cm / 5'11""",73kg / 161lbs,CDM,4300000.0,60000.0,75,63,79,49,Papa Kouli Diop
+"Valera
+RB",29,76,76,"Getafe CF
+2011 ~ 2015","184cm / 6'0""",76kg / 168lbs,RB,4200000.0,45000.0,72,64,79,50,Juan Valera Espín
+"Piti
+RM LM CAM",33,76,76,"Granada CF
+2013 ~ 2016","179cm / 5'10""",79kg / 174lbs,CAM,3000000.0,2000.0,74,78,76,48,Francisco Medina Luna
+"J. Murillo
+CB",22,76,82,"Granada CF
+2013 ~ 2019","182cm / 6'0""",75kg / 165lbs,CB,3800000.0,15000.0,58,49,74,55,Jeison Murillo
+"M. Flamini
+CDM CM",30,75,75,"Arsenal
+2013 ~ 2015","178cm / 5'10""",67kg / 148lbs,CDM,2300000.0,50000.0,75,69,81,33,Mathieu Flamini
+"A. Diaby
+CDM CM",28,75,75,"Arsenal
+2006 ~ 2015","192cm / 6'4""",76kg / 168lbs,CAM,2800000.0,70000.0,73,78,73,49,Abou Diaby
+"F. Coquelin
+CDM CM",23,75,81,"Arsenal
+2008 ~ 2019","178cm / 5'10""",74kg / 163lbs,CDM,2700000.0,60000.0,77,72,79,46,Francis Coquelin
+"C. N'Zogbia
+CAM LM RM",28,75,75,"Aston Villa
+2011 ~ 2016","171cm / 5'7""",70kg / 154lbs,LW,3800000.0,50000.0,71,83,74,56,Charles N'Zogbia
+"T. Cleverley
+CM CDM CAM",24,75,78,"Aston Villa
+2008 ~ 2015","175cm / 5'9""",67kg / 148lbs,RM,3700000.0,35000.0,82,78,73,55,Tom Cleverley
+"J. Okore
+CB RB",21,75,81,"Aston Villa
+2013 ~ 2017","183cm / 6'0""",80kg / 176lbs,CB,2500000.0,30000.0,65,55,71,65,Jores Okore
+"K. Zouma
+CB RB",19,75,85,"Chelsea
+2014 ~ 2019","190cm / 6'3""",85kg / 187lbs,CB,2300000.0,45000.0,61,47,72,54,Kurt Zouma
+"J. Stones
+CB RB",20,75,82,"Everton
+2013 ~ 2019","188cm / 6'2""",75kg / 165lbs,CB,2500000.0,25000.0,76,65,76,46,John Stones
+"G. Johnson
+RB LB",29,75,75,"Liverpool
+2009 ~ 2015","182cm / 6'0""",70kg / 154lbs,RWB,2700000.0,50000.0,74,77,79,35,Glen Johnson
+"José Enrique
+LB",28,75,75,"Liverpool
+2011 ~ 2016","184cm / 6'0""",76kg / 168lbs,CB,3000000.0,60000.0,73,73,79,69,José Enrique Sánchez Díaz
+"F. Borini
+ST LM",23,75,78,"Liverpool
+2012 ~ 2017","180cm / 5'11""",74kg / 163lbs,ST,3700000.0,50000.0,74,76,75,38,Fabio Borini
+"L. Shaw
+LB",18,75,86,"Manchester United
+2014 ~ 2018","185cm / 6'1""",75kg / 165lbs,LWB,2100000.0,30000.0,74,78,75,44,Luke Shaw
+"A. Januzaj
+LM RM",19,75,86,"Manchester United
+2012 ~ 2018","180cm / 5'11""",75kg / 165lbs,LM,2700000.0,45000.0,74,84,55,50,Adnan Januzaj
+"S. Taylor
+CB",28,75,75,"Newcastle United
+2003 ~ 2016","186cm / 6'1""",91kg / 201lbs,CB,3000000.0,45000.0,63,38,69,50,Steven Taylor
+"R. Dunne
+CB",34,75,75,"Queens Park Rangers
+2013 ~ 2015","188cm / 6'2""",95kg / 209lbs,CB,1000000.0,25000.0,45,29,34,56,Richard Dunne
+"N. Kranjčar
+LM CAM",29,75,75,"Queens Park Rangers
+2012 ~ 2016","185cm / 6'1""",75kg / 165lbs,CAM,3200000.0,35000.0,81,81,62,40,Niko Kranjčar
+"M. Isla
+RB RM",26,75,76,"Queens Park Rangers
+2012 ~ 2017","177cm / 5'10""",72kg / 159lbs,RM,3500000.0,45000.0,71,75,84,31,Mauricio Isla
+"A. McCarthy
+GK",24,75,80,"Queens Park Rangers
+2014 ~ 2018","193cm / 6'4""",79kg / 174lbs,GK,3300000.0,35000.0,32,25,35,365,Alex McCarthy
+"S. Caulker
+CB",22,75,79,"Queens Park Rangers
+2014 ~ 2018","191cm / 6'3""",77kg / 170lbs,CB,2500000.0,30000.0,68,55,77,53,Steven Caulker
+"R. Bertrand
+LB",24,75,79,"Southampton
+2015 ~ 2019","179cm / 5'10""",85kg / 187lbs,LWB,3200000.0,35000.0,75,73,76,59,Ryan Bertrand
+"J. Rodriguez
+LM ST",24,75,79,"Southampton
+2012 ~ 2019","185cm / 6'1""",70kg / 154lbs,ST,3700000.0,35000.0,75,78,85,58,Jay Rodriguez
+"E. Elia
+LM RM",27,75,75,"Southampton
+2012 ~ 2016","176cm / 5'9""",77kg / 170lbs,RW,3700000.0,45000.0,72,86,72,48,Eljero Elia
+"F. Forster
+GK",26,75,75,"Southampton
+2014 ~ 2018","201cm / 6'7""",93kg / 205lbs,GK,3600000.0,40000.0,26,25,29,378,Fraser Forster
+"K. Nolan
+CAM CM",32,75,75,"West Ham United
+2011 ~ 2016","183cm / 6'0""",88kg / 194lbs,ST,2800000.0,40000.0,74,69,82,55,Kevin Nolan
+"M. Noble
+CM CDM",27,75,75,"West Ham United
+2004 ~ 2020","180cm / 5'11""",76kg / 168lbs,CM,3700000.0,45000.0,79,69,90,49,Mark Noble
+"M. Jarvis
+LM RM",28,75,75,"West Ham United
+2012 ~ 2017","170cm / 5'7""",73kg / 161lbs,RW,3400000.0,45000.0,73,80,72,34,Matt Jarvis
+"M. Amalfitano
+RM CM",29,75,75,"West Ham United
+2014 ~ 2017","176cm / 5'9""",68kg / 150lbs,RM,3200000.0,35000.0,78,76,68,43,Morgan Amalfitano
+"W. Reid
+CB",25,75,78,"West Ham United
+2010 ~ 2021","190cm / 6'3""",87kg / 192lbs,CB,3400000.0,35000.0,63,42,76,54,Winston Reid
+"E. Valencia
+ST",24,75,78,"West Ham United
+2014 ~ 2019","179cm / 5'10""",72kg / 159lbs,ST,4000000.0,40000.0,70,77,86,49,Enner Valencia
+"R. Huth
+CB",29,75,75,"Leicester City
+2015 ~ 2018","191cm / 6'3""",88kg / 194lbs,CB,2700000.0,35000.0,60,30,76,54,Robert Huth
+"L. Cattermole
+CDM CM",26,75,75,"Sunderland
+2009 ~ 2016","178cm / 5'10""",76kg / 168lbs,CB,3300000.0,45000.0,74,63,79,59,Lee Cattermole
+"C. Pantilimon
+GK",27,75,75,"Sunderland
+2014 ~ 2018","203cm / 6'8""",96kg / 212lbs,GK,3300000.0,40000.0,37,25,45,369,Costel Pantilimon
+"B. Ideye
+ST",25,75,78,"West Bromwich Albion
+2014 ~ 2017","181cm / 5'11""",78kg / 172lbs,ST,4200000.0,35000.0,67,73,79,52,Brown Ideye
+"J. Speroni
+GK",35,75,75,"Crystal Palace
+2004 ~ 2015","186cm / 6'1""",87kg / 192lbs,GK,2100000.0,20000.0,23,25,36,372,Julián Speroni
+"M. Chamakh
+ST CF CAM",30,75,75,"Crystal Palace
+2013 ~ 2016","185cm / 6'1""",70kg / 154lbs,ST,3300000.0,40000.0,76,71,78,56,Marouane Chamakh
+"M. Jedinák
+CDM CM",29,75,75,"Crystal Palace
+2011 ~ 2017","188cm / 6'2""",78kg / 172lbs,CB,2600000.0,30000.0,71,54,78,60,Mile Jedinák
+"Y. Bolasie
+LM LW RM",25,75,79,"Crystal Palace
+2012 ~ 2017","185cm / 6'1""",84kg / 185lbs,RW,3800000.0,35000.0,67,85,81,44,Yannick Bolasie
+"S. Sidwell
+CDM CM",31,75,75,"Stoke City
+2014 ~ 2016","178cm / 5'10""",80kg / 176lbs,CDM,2100000.0,35000.0,76,66,86,43,Steve Sidwell
+"G. Whelan
+CDM CM",30,75,75,"Stoke City
+2008 ~ 2017","180cm / 5'11""",80kg / 176lbs,CDM,2300000.0,35000.0,78,65,81,61,Glenn Whelan
+"S. Ireland
+CAM CM",27,75,75,"Stoke City
+2014 ~ 2017","173cm / 5'8""",66kg / 146lbs,CAM,4000000.0,50000.0,80,76,68,55,Stephen Ireland
+"V. Moses
+LM LW RM",23,75,79,"Stoke City
+2012 ~ 2016","177cm / 5'10""",85kg / 187lbs,LM,3300000.0,35000.0,66,83,79,51,Victor Moses
+"P. Wollscheid
+CB",25,75,78,"Stoke City
+2015 ~ 2018","194cm / 6'4""",88kg / 194lbs,CB,3400000.0,35000.0,60,32,62,43,Philipp Wollscheid
+"T. Huddlestone
+CM CDM",27,75,75,"Hull City
+2013 ~ 2016","188cm / 6'2""",78kg / 172lbs,CDM,3700000.0,45000.0,83,65,45,43,Tom Huddlestone
+"M. Dawson
+CB",30,75,75,"Hull City
+2014 ~ 2017","188cm / 6'2""",76kg / 168lbs,CB,2500000.0,35000.0,55,25,66,43,Michael Dawson
+"C. Davies
+CB",29,75,75,"Hull City
+2013 ~ 2016","188cm / 6'2""",89kg / 196lbs,CB,2700000.0,35000.0,64,42,73,46,Curtis Davies
+"W. Routledge
+LM LW",29,75,75,"Swansea City
+2011 ~ 2018","170cm / 5'7""",77kg / 170lbs,LM,3200000.0,35000.0,72,82,69,54,Wayne Routledge
+"L. Britton
+CM CDM",31,75,75,"Swansea City
+2011 ~ 2017","167cm / 5'6""",65kg / 143lbs,CDM,2700000.0,35000.0,84,75,75,50,Leon Britton
+"Àngel Rangel
+RB",31,75,75,"Swansea City
+2007 ~ 2017","180cm / 5'11""",82kg / 181lbs,RWB,2300000.0,35000.0,78,72,81,44,Àngel Rangel Zaragoza
+"C. Chantôme
+CM CDM",26,75,77,"FC Girondins de Bordeaux
+2015 ~ 2017","180cm / 5'11""",71kg / 157lbs,CDM,3900000.0,60000.0,80,72,79,53,Clément Chantôme
+"G. Sertic
+CDM CM",24,75,78,"FC Girondins de Bordeaux
+2010 ~ 2017","183cm / 6'0""",76kg / 168lbs,CM,3100000.0,45000.0,80,72,79,40,Grégory Sertic
+"Y. Sankharé
+CDM CM",24,75,79,"En Avant Guingamp
+2013 ~ 2017","185cm / 6'1""",71kg / 157lbs,CDM,3100000.0,35000.0,78,72,82,49,Younousse Sankharé
+"S. Corchia
+RB RM RW",23,75,80,"Lille OSC
+2014 ~ 2018","176cm / 5'9""",64kg / 141lbs,RB,2900000.0,50000.0,75,73,82,41,Sébastien Corchia
+"D. Origi
+ST LW RW",19,75,85,"Lille OSC
+2014 ~ 2019","185cm / 6'1""",75kg / 165lbs,ST,3100000.0,40000.0,74,77,60,65,Divock Origi
+"H. Bedimo
+LB",30,75,75,"Olympique Lyonnais
+2013 ~ 2016","180cm / 5'11""",80kg / 176lbs,LB,2500000.0,50000.0,72,73,78,55,Henri Bedimo
+"G. Fofana
+CM CDM RB CB",23,75,80,"Olympique Lyonnais
+2011 ~ 2017","182cm / 6'0""",74kg / 163lbs,CDM,3300000.0,50000.0,77,71,83,56,Gueïda Fofana
+"Fabinho
+RB CDM",20,75,84,"AS Monaco
+2012 ~ 2019","188cm / 6'2""",78kg / 172lbs,RB,2500000.0,25000.0,71,70,80,42,Fábio Henrique Tavares
+"Bernardo Silva
+RM CAM CM",19,75,84,"AS Monaco
+2015 ~ 2019","173cm / 5'8""",65kg / 143lbs,RM,2700000.0,25000.0,76,81,73,49,Bernardo Mota Carvalho e Silva
+"G. Jourdren
+GK",28,75,75,"Montpellier HSC
+2007 ~ 2016","181cm / 5'11""",81kg / 179lbs,GK,3400000.0,40000.0,34,25,37,366,Geoffrey Jourdren
+"D. Digard
+CDM",27,75,75,"OGC Nice
+2010 ~ 2016","183cm / 6'0""",76kg / 168lbs,CDM,3100000.0,40000.0,76,67,85,50,Didier Digard
+"L. Digne
+LB",20,75,80,"Paris Saint-Germain
+2013 ~ 2018","178cm / 5'10""",74kg / 163lbs,LB,2500000.0,50000.0,76,69,82,41,Lucas Digne
+"Mexer
+CB",25,75,78,"Stade Rennais FC
+2014 ~ 2017","185cm / 6'1""",78kg / 172lbs,CB,3400000.0,35000.0,66,58,72,48,Edson Andre Sitoe
+"A. Romao
+CDM CB",30,75,75,"Olympique de Marseille
+2013 ~ 2016","180cm / 5'11""",74kg / 163lbs,CDM,2300000.0,50000.0,73,64,90,44,Alaixys Romao
+"L. Ocampos
+RW LW",19,75,80,"Olympique de Marseille
+2015 ~ 2020","187cm / 6'2""",84kg / 185lbs,RW,3100000.0,50000.0,76,79,66,48,Lucas Ocampos
+"E. Didot
+CM CDM",30,75,75,"Toulouse FC
+2008 ~ 2017","175cm / 5'9""",69kg / 152lbs,CM,2900000.0,30000.0,81,70,77,55,Etienne Didot
+"J. Kana-Biyik
+CB",24,75,78,"Toulouse FC
+2015 ~ 2017","183cm / 6'0""",87kg / 192lbs,CB,3200000.0,35000.0,65,40,61,59,Jean-Armel Kana-Biyik
+"A. Ahamada
+GK",22,75,80,"Toulouse FC
+2010 ~ 2018","189cm / 6'2""",87kg / 192lbs,GK,2600000.0,30000.0,31,25,38,374,Ali Ahamada
+"R. Cohade
+CM",29,75,75,"AS Saint-Étienne
+2012 ~ 2017","180cm / 5'11""",74kg / 163lbs,CM,3200000.0,45000.0,80,74,76,57,Renaud Cohade
+"L. N'Guemo
+CDM CM",28,75,75,"AS Saint-Étienne
+2015 ~ 2015","173cm / 5'8""",70kg / 154lbs,CDM,2800000.0,60000.0,74,72,85,50,Landry N'Guemo
+"F. Lemoine
+CM CDM",27,75,77,"AS Saint-Étienne
+2011 ~ 2018","175cm / 5'9""",67kg / 148lbs,CDM,3700000.0,50000.0,80,72,83,50,Fabien Lemoine
+"Y. Mollo
+LW LM",24,75,78,"AS Saint-Étienne
+2014 ~ 2017","175cm / 5'9""",80kg / 176lbs,LW,3700000.0,50000.0,72,79,66,47,Yohan Mollo
+"T. Starke
+GK",33,75,75,"FC Bayern München
+2012 ~ 2016","194cm / 6'4""",98kg / 216lbs,GK,2600000.0,45000.0,38,25,39,369,Tom Starke
+"K. Großkreutz
+LM RB LB",25,75,77,"Borussia Dortmund
+2009 ~ 2016","186cm / 6'1""",72kg / 159lbs,RWB,3800000.0,60000.0,76,69,93,47,Kevin Großkreutz
+"M. Ginter
+CB CDM",20,75,84,"Borussia Dortmund
+2014 ~ 2019","189cm / 6'2""",87kg / 192lbs,CB,2500000.0,50000.0,74,62,74,41,Matthias Ginter
+"F. Johnson
+LM RB",26,75,76,"Borussia Mönchengladbach
+2014 ~ 2018","183cm / 6'0""",74kg / 163lbs,LM,3900000.0,45000.0,74,76,76,46,Fabian Johnson
+"H. Nordtveit
+CDM",24,75,79,"Borussia Mönchengladbach
+2011 ~ 2016","188cm / 6'2""",83kg / 183lbs,CB,3100000.0,35000.0,70,62,79,49,Håvard Nordtveit
+"A. Mehmedi
+CF ST LM",23,75,80,"SC Freiburg
+2014 ~ 2019","183cm / 6'0""",79kg / 174lbs,CF,3700000.0,35000.0,74,82,75,61,Admir Mehmedi
+"H. Westermann
+CB RB LB",30,75,75,"Hamburger SV
+2010 ~ 2015","190cm / 6'3""",87kg / 192lbs,CB,2500000.0,35000.0,62,54,72,44,Heiko Westermann
+"N. Müller
+RM ST LM",26,75,77,"Hamburger SV
+2014 ~ 2018","173cm / 5'8""",66kg / 146lbs,RW,3900000.0,40000.0,73,79,76,44,Nicolai Müller
+"K. Wimmer
+CB LB",21,75,81,"1. FC Köln
+2012 ~ 2019","187cm / 6'2""",85kg / 187lbs,CB,2500000.0,30000.0,72,62,65,56,Kevin Wimmer
+"D. Ginczek
+ST",23,75,79,"VfB Stuttgart
+2014 ~ 2018","191cm / 6'3""",86kg / 190lbs,ST,3700000.0,35000.0,58,65,55,51,Daniel Ginczek
+"D. Didavi
+CAM CM",24,75,78,"VfB Stuttgart
+2009 ~ 2016","179cm / 5'10""",74kg / 163lbs,CAM,4000000.0,35000.0,73,75,59,48,Daniel Didavi
+"S. Prödl
+CB",27,75,75,"SV Werder Bremen
+2008 ~ 2015","194cm / 6'4""",92kg / 203lbs,CB,3200000.0,45000.0,58,29,65,49,Sebastian Prödl
+"P. Skjelbred
+CM CDM CAM",27,75,78,"Hertha BSC
+2014 ~ 2017","175cm / 5'9""",74kg / 163lbs,CM,3700000.0,40000.0,76,76,87,39,Per Ciljan Skjelbred
+"F. Lustenberger
+CDM CB CM",26,75,76,"Hertha BSC
+2007 ~ 2017","180cm / 5'11""",70kg / 154lbs,CB,3300000.0,40000.0,77,63,73,49,Fabian Lustenberger
+"N. Bungert
+CB RB",27,75,75,"1. FSV Mainz 05
+2008 ~ 2016","188cm / 6'2""",75kg / 165lbs,CB,3200000.0,45000.0,71,50,67,49,Niko Bungert
+"Koo Ja Cheol
+LM CAM RM CM",25,75,78,"1. FSV Mainz 05
+2014 ~ 2018","183cm / 6'0""",75kg / 165lbs,CAM,3800000.0,35000.0,75,82,74,54,Ja Cheol Koo
+"J. Baumgartlinger
+CDM CM",26,75,77,"1. FSV Mainz 05
+2011 ~ 2019","183cm / 6'0""",82kg / 181lbs,CDM,3300000.0,40000.0,74,68,92,50,Julian Baumgartlinger
+"M. Schäfer
+LB LM",30,75,75,"VfL Wolfsburg
+2007 ~ 2017","184cm / 6'0""",75kg / 165lbs,LB,2500000.0,45000.0,76,73,78,48,Marcel Schäfer
+"N. Bendtner
+ST",26,75,76,"VfL Wolfsburg
+2014 ~ 2017","194cm / 6'4""",89kg / 196lbs,ST,4300000.0,60000.0,69,68,65,47,Nicklas Bendtner
+"M. Arnold
+CM CAM RM LM",20,75,83,"VfL Wolfsburg
+2011 ~ 2017","184cm / 6'0""",74kg / 163lbs,CAM,2900000.0,35000.0,76,77,76,46,Maximilian Arnold
+"L. Andreasen
+CDM CM CB",31,75,75,"Hannover 96
+2009 ~ 2015","188cm / 6'2""",81kg / 179lbs,CB,2100000.0,35000.0,75,67,70,44,Leon Andreasen
+"Joselu
+ST",24,75,79,"Hannover 96
+2014 ~ 2018","192cm / 6'4""",80kg / 176lbs,ST,4000000.0,35000.0,65,74,68,47,José Luis Sanmartín Mato
+"M. Schmiedebach
+CDM CM RM RB",25,75,78,"Hannover 96
+2009 ~ 2016","170cm / 5'7""",70kg / 154lbs,CDM,3200000.0,35000.0,77,76,90,57,Manuel Schmiedebach
+"L. Bittencourt
+LM RM",20,75,81,"Hannover 96
+2013 ~ 2017","171cm / 5'7""",62kg / 137lbs,LM,2900000.0,25000.0,76,79,78,57,Leonardo Bittencourt
+"João Pereira
+RB",30,75,75,"Hannover 96
+2015 ~ 2015","172cm / 5'8""",64kg / 141lbs,RWB,2500000.0,40000.0,70,71,80,48,João Pedro da Silva Pereira
+"H. Kiyotake
+LM CAM CM",24,75,79,"Hannover 96
+2014 ~ 2018","172cm / 5'8""",68kg / 150lbs,CAM,3700000.0,35000.0,78,77,59,49,Hiroshi Kiyotake
+"Bamba Anderson
+CB",26,75,78,"Eintracht Frankfurt
+2012 ~ 2018","188cm / 6'2""",80kg / 176lbs,CB,3500000.0,40000.0,75,64,67,54,Anderson Soares de Oliveira
+"Lucas Piazon
+LM",20,75,83,"Eintracht Frankfurt
+2012 ~ 2017","182cm / 6'0""",75kg / 165lbs,LM,2900000.0,25000.0,73,82,65,44,Lucas Domingues Piazon
+"D. Abraham
+CB",27,75,75,"TSG 1899 Hoffenheim
+2013 ~ 2016","188cm / 6'2""",83kg / 183lbs,CB,3200000.0,45000.0,67,55,71,40,David Abraham
+"E. Bičakčić
+CB",24,75,78,"TSG 1899 Hoffenheim
+2014 ~ 2017","185cm / 6'1""",84kg / 185lbs,CB,3200000.0,35000.0,64,34,58,59,Ermin Bičakčić
+"N. Süle
+CB",18,75,83,"TSG 1899 Hoffenheim
+2013 ~ 2017","195cm / 6'5""",93kg / 205lbs,CB,2100000.0,10000.0,63,41,63,53,Niklas Süle
+"H. Altintop
+CAM ST CM",31,75,75,"FC Augsburg
+2013 ~ 2017","185cm / 6'1""",75kg / 165lbs,CAM,3100000.0,40000.0,77,74,77,47,Halil Altintop
+"P. Verhaegh
+RB",30,75,75,"FC Augsburg
+2010 ~ 2018","178cm / 5'10""",72kg / 159lbs,RB,2500000.0,35000.0,74,73,84,47,Paul Verhaegh
+"R. Bobadilla
+ST RM",27,75,75,"FC Augsburg
+2013 ~ 2016","181cm / 5'11""",88kg / 194lbs,ST,4000000.0,45000.0,69,78,76,52,Raúl Bobadilla
+"A. Baba
+LB LM",19,75,82,"FC Augsburg
+2014 ~ 2018","179cm / 5'10""",70kg / 154lbs,LWB,2300000.0,25000.0,72,79,79,45,Abdul Rahman Baba
+"M. Pinilla
+ST",30,75,75,"Atalanta
+2015 ~ 2020","187cm / 6'2""",78kg / 172lbs,ST,3300000.0,40000.0,64,67,66,15,Mauricio Pinilla
+"Y. Benalouane
+CB RB",27,75,77,"Atalanta
+2014 ~ 2019","185cm / 6'1""",85kg / 187lbs,CB,3200000.0,40000.0,66,48,68,60,Yohan Benalouane
+"D. Baselli
+CM CDM",22,75,83,"Atalanta
+2013 ~ 2018","182cm / 6'0""",70kg / 154lbs,CM,2900000.0,30000.0,80,73,75,44,Daniele Baselli
+"M. Andreolli
+CB",28,75,75,"Inter
+2013 ~ 2017","187cm / 6'2""",81kg / 179lbs,CB,3000000.0,60000.0,56,34,65,42,Marco Andreolli
+"D. Santon
+LB RB",23,75,78,"Inter
+2015 ~ 2018","186cm / 6'1""",83kg / 183lbs,RWB,2900000.0,60000.0,75,78,85,57,Davide Santon
+"S. Pepe
+RM LM",30,75,75,"Juventus
+2010 ~ 2015","178cm / 5'10""",73kg / 161lbs,RW,2900000.0,50000.0,76,82,51,31,Simone Pepe
+"C. Ledesma
+CDM CM",31,75,75,"Lazio
+2006 ~ 2015","180cm / 5'11""",78kg / 172lbs,CM,2100000.0,45000.0,85,73,69,35,Cristian Ledesma
+"B. Keita
+LW RW",19,75,86,"Lazio
+2013 ~ 2018","181cm / 5'11""",77kg / 170lbs,LW,2700000.0,40000.0,70,82,75,51,Balde Diao Keita
+"M. Agazzi
+GK",29,75,75,"AC Milan
+2014 ~ 2017","189cm / 6'2""",85kg / 187lbs,GK,3600000.0,50000.0,37,25,22,372,Michael Agazzi
+"G. Pazzini
+ST",29,75,75,"AC Milan
+2012 ~ 2015","180cm / 5'11""",74kg / 163lbs,ST,3600000.0,60000.0,64,62,68,18,Giampaolo Pazzini
+"I. Abate
+RB",27,75,75,"AC Milan
+2009 ~ 2015","180cm / 5'11""",73kg / 161lbs,RWB,3200000.0,60000.0,72,76,90,12,Ignazio Abate
+"A. Poli
+CM",24,75,78,"AC Milan
+2013 ~ 2017","182cm / 6'0""",77kg / 170lbs,CM,3700000.0,60000.0,78,76,81,20,Andrea Poli
+"Henrique
+CB CDM RB",27,75,76,"Napoli
+2014 ~ 2017","185cm / 6'1""",73kg / 161lbs,CB,3200000.0,60000.0,67,64,73,54,Henrique Adriano Buss
+"F. Ghoulam
+LB",23,75,80,"Napoli
+2014 ~ 2018","188cm / 6'2""",80kg / 176lbs,LB,2900000.0,45000.0,73,73,80,43,Faouzi Ghoulam
+"D. Zapata
+ST",23,75,82,"Napoli
+2013 ~ 2018","186cm / 6'1""",80kg / 176lbs,ST,3700000.0,50000.0,59,71,72,35,Duván Zapata
+"A. Nocerino
+CM CDM",29,75,75,"Parma
+2011 ~ 2016","175cm / 5'9""",75kg / 165lbs,CM,3200000.0,35000.0,76,72,89,42,Antonio Nocerino
+"J. Holebas
+LB LM",30,75,75,"Roma
+2014 ~ 2017","184cm / 6'0""",77kg / 170lbs,LB,2500000.0,45000.0,69,72,84,66,Jose Holebas
+"E. Moretti
+CB",33,75,75,"Torino
+2013 ~ 2016","182cm / 6'0""",79kg / 174lbs,CB,1500000.0,25000.0,59,49,64,50,Emiliano Moretti
+"M. López
+ST",30,75,75,"Torino
+2015 ~ 2015","190cm / 6'3""",88kg / 194lbs,ST,3300000.0,40000.0,67,74,69,51,Maxi López
+"D. Padelli
+GK",28,75,75,"Torino
+2013 ~ 2017","191cm / 6'3""",82kg / 181lbs,GK,3400000.0,40000.0,25,25,30,365,Daniele Padelli
+"Bruno Peres
+RM RB",24,75,78,"Torino
+2014 ~ 2017","178cm / 5'10""",72kg / 159lbs,RWB,3700000.0,35000.0,74,78,89,42,Bruno da Silva Peres
+"C. Théréau
+ST",31,75,75,"Udinese
+2014 ~ 2016","189cm / 6'2""",78kg / 172lbs,ST,3100000.0,40000.0,72,75,74,42,Cyril Théréau
+"P. Hetemaj
+CM LM",27,75,77,"AC ChievoVerona
+2011 ~ 2017","175cm / 5'9""",76kg / 168lbs,RM,3700000.0,40000.0,77,74,90,42,Perparim Hetemaj
+"V. Birsa
+RM LM",27,75,75,"AC ChievoVerona
+2015 ~ 2018","184cm / 6'0""",81kg / 179lbs,CAM,3700000.0,45000.0,78,75,66,16,Valter Birsa
+"A. Paloschi
+ST",24,75,80,"AC ChievoVerona
+2011 ~ 2016","182cm / 6'0""",82kg / 181lbs,ST,4000000.0,35000.0,65,64,78,53,Alberto Paloschi
+"I. Fetfatzidis
+RM LM CF",23,75,80,"AC ChievoVerona
+2013 ~ 2017","164cm / 5'5""",64kg / 141lbs,LW,3300000.0,35000.0,74,84,72,45,Ioannis Fetfatzidis
+"R. Márquez
+CB",35,75,75,"Hellas Verona FC
+2014 ~ 2016","182cm / 6'0""",75kg / 165lbs,CB,550000.0,25000.0,62,43,53,48,Rafael Márquez
+"Fernandinho
+LW CAM RW",28,75,75,"Hellas Verona FC
+2014 ~ 2017","171cm / 5'7""",66kg / 146lbs,LW,3400000.0,45000.0,70,82,52,48,Luiz Fernando Pereira da Silva
+"L. Tonelli
+CB",24,75,77,"Empoli
+2010 ~ 2017","183cm / 6'0""",78kg / 172lbs,CB,3200000.0,35000.0,55,45,60,49,Lorenzo Tonelli
+"L. De Silvestri
+RB",26,75,78,"Sampdoria
+2014 ~ 2016","186cm / 6'1""",84kg / 185lbs,RB,3500000.0,45000.0,68,70,85,59,Lorenzo De Silvestri
+"S. Romero
+GK",27,75,77,"Sampdoria
+2011 ~ 2015","192cm / 6'4""",87kg / 192lbs,GK,3300000.0,50000.0,37,25,35,374,Sergio Romero
+"S. Okaka Chuka
+ST",24,75,79,"Sampdoria
+2014 ~ 2016","186cm / 6'1""",82kg / 181lbs,ST,4000000.0,35000.0,61,74,69,29,Stefano Okaka Chuka
+"E. Barreto
+CM CDM",29,75,75,"Palermo FC
+2011 ~ 2015","182cm / 6'0""",78kg / 172lbs,CM,3200000.0,35000.0,76,68,78,56,Edgar Barreto
+"G. González
+CB",26,75,77,"Palermo FC
+2014 ~ 2018","186cm / 6'1""",72kg / 159lbs,CB,3500000.0,40000.0,66,52,74,51,Giancarlo González
+"D. Pizarro
+CDM CM",34,75,75,"Fiorentina
+2012 ~ 2017","170cm / 5'7""",65kg / 143lbs,CM,850000.0,35000.0,86,76,60,36,David Pizarro
+"J. Vargas
+LM LB",30,75,75,"Fiorentina
+2008 ~ 2015","180cm / 5'11""",77kg / 170lbs,LW,2900000.0,45000.0,76,75,74,45,Juan Manuel Vargas
+"M. Richards
+RB CB",26,75,77,"Fiorentina
+2005 ~ 2015","180cm / 5'11""",82kg / 181lbs,CB,3500000.0,60000.0,68,62,74,57,Micah Richards
+"Iago Falqué
+RW LW",24,75,79,"Genoa
+2014 ~ 2018","174cm / 5'9""",68kg / 150lbs,RW,4000000.0,50000.0,75,83,69,49,Iago Falqué Silva
+"J. Kucka
+CM LW",27,75,76,"Genoa
+2011 ~ 2015","186cm / 6'1""",84kg / 185lbs,CDM,3700000.0,60000.0,77,74,85,49,Juraj Kucka
+"M. Lestienne
+LW",22,75,82,"Genoa
+2014 ~ 2019","176cm / 5'9""",63kg / 139lbs,LM,2900000.0,45000.0,74,76,91,49,Maxime Lestienne
+"Edenílson
+RM RB",24,75,78,"Genoa
+2014 ~ 2015","175cm / 5'9""",76kg / 168lbs,RM,3700000.0,45000.0,72,77,79,42,Edenílson Andrade dos Santos
+"Saúl
+CDM CB CM RM",19,75,82,"Atlético Madrid
+2012 ~ 2018","181cm / 5'11""",70kg / 154lbs,CDM,2100000.0,45000.0,82,55,72,46,Saúl Ñíguez Esclápez
+"Á. Correa
+ST CAM",19,75,86,"Atlético Madrid
+2014 ~ 2019","174cm / 5'9""",70kg / 154lbs,RW,3100000.0,50000.0,71,81,80,51,Ángel Correa
+"J. Giménez
+CB RB",19,75,85,"Atlético Madrid
+2013 ~ 2018","185cm / 6'1""",76kg / 168lbs,CB,2300000.0,45000.0,56,38,72,47,José María Giménez
+"Sergi Roberto
+CM CDM",22,75,84,"FC Barcelona
+2010 ~ 2019","178cm / 5'10""",71kg / 157lbs,CAM,2900000.0,50000.0,85,73,79,61,Sergio Roberto Carnicer
+"Fabricio
+GK",26,75,77,"RC Deportivo de La Coruña
+2013 ~ 2016","182cm / 6'0""",80kg / 176lbs,GK,3600000.0,60000.0,25,25,42,375,Fabricio Agosto Ramírez
+"Juan Dominguez
+CM CDM CAM",24,75,79,"RC Deportivo de La Coruña
+2009 ~ 2015","181cm / 5'11""",71kg / 157lbs,CM,3700000.0,50000.0,82,75,75,48,Juan Domínguez Lamas
+"Lucas Silva
+CDM CM",21,75,83,"Real Madrid
+2015 ~ 2020","182cm / 6'0""",80kg / 176lbs,CDM,2300000.0,50000.0,76,70,83,44,Lucas Silva Borges
+"Etxeita
+CB",26,75,76,"Athletic Club
+2013 ~ 2016","185cm / 6'1""",79kg / 174lbs,CB,3500000.0,40000.0,61,44,79,33,Xabier Etxeita Gorritxat.
+"M. Krohn-Dehli
+CM CDM CAM",31,75,75,"RC Celta
+2012 ~ 2015","170cm / 5'7""",68kg / 150lbs,CM,2700000.0,35000.0,77,72,79,55,Michael Krohn-Dehli
+"Alex López
+CM CAM CF",26,75,77,"RC Celta
+2010 ~ 2018","174cm / 5'9""",66kg / 146lbs,CAM,3900000.0,40000.0,81,69,78,43,Alejandro Lopez Sanchez
+"Hugo Mallo
+RB",23,75,82,"RC Celta
+2009 ~ 2019","173cm / 5'8""",69kg / 152lbs,RB,2900000.0,35000.0,67,66,78,49,Hugo Mallo Novegil
+"D. Colotto
+CB",33,75,75,"RCD Espanyol
+2012 ~ 2015","184cm / 6'0""",81kg / 179lbs,CB,1500000.0,35000.0,57,56,69,53,Diego Colotto
+"José Cañas
+CDM CM",27,75,77,"RCD Espanyol
+2014 ~ 2017","178cm / 5'10""",69kg / 152lbs,CDM,3100000.0,50000.0,76,45,82,50,José Alberto Cañas Ruíz-Herrera
+"Montañés
+LM RM",27,75,78,"RCD Espanyol
+2014 ~ 2018","172cm / 5'8""",70kg / 154lbs,LM,3700000.0,50000.0,70,81,77,57,Francisco Montañés Claverías
+"De la Bella
+LB",28,75,75,"Real Sociedad
+2009 ~ 2018","182cm / 6'0""",82kg / 181lbs,LWB,3000000.0,50000.0,72,70,88,47,Alberto de la Bella Madueño
+"A. Finnbogason
+ST",25,75,78,"Real Sociedad
+2014 ~ 2018","184cm / 6'0""",77kg / 170lbs,ST,4200000.0,50000.0,68,72,73,58,Alfreð Finnbogason
+"L. Orbán
+LB CB",25,75,80,"Valencia CF
+2014 ~ 2019","184cm / 6'0""",76kg / 168lbs,CB,3400000.0,45000.0,73,66,80,60,Lucas Orbán
+"Irureta
+GK",28,75,75,"SD Eibar
+2009 ~ 2016","180cm / 5'11""",74kg / 163lbs,GK,3400000.0,40000.0,31,25,42,380,Xabier Iruretagoiena
+"P. Tytoń
+GK",27,75,75,"Elche CF
+2012 ~ 2016","194cm / 6'4""",88kg / 194lbs,GK,3300000.0,45000.0,31,25,31,372,Przemysław Tytoń
+"Jonathas
+ST",25,75,78,"Elche CF
+2014 ~ 2016","190cm / 6'3""",85kg / 187lbs,ST,4200000.0,35000.0,62,73,74,41,Jonathas de Jesus Maurício
+"Víctor Rodríguez
+CAM RM LM",24,75,79,"Elche CF
+2014 ~ 2017","170cm / 5'7""",70kg / 154lbs,RW,4000000.0,35000.0,73,81,74,53,Víctor Rodríguez Romero
+"Cobeño
+GK",32,75,75,"Rayo Vallecano
+2012 ~ 2015","185cm / 6'1""",82kg / 181lbs,GK,2800000.0,30000.0,23,25,31,378,David Cobeño Iglesias
+"Baena
+CDM CM",25,75,78,"Rayo Vallecano
+2013 ~ 2015","181cm / 5'11""",81kg / 179lbs,CDM,3200000.0,35000.0,77,60,80,55,José Raúl Baena Urdiales
+"S. M'Bia
+CDM",28,75,75,"Sevilla FC
+2014 ~ 2015","189cm / 6'2""",82kg / 181lbs,CDM,2800000.0,60000.0,74,58,85,48,Stéphane M'Bia
+"Diogo Figueiras
+RB LB RM",22,75,81,"Sevilla FC
+2013 ~ 2017","168cm / 5'6""",64kg / 141lbs,RB,2500000.0,40000.0,72,71,79,59,Diogo José Figueiras
+"Mario Gaspar
+RB",23,75,80,"Villarreal CF
+2008 ~ 2019","182cm / 6'0""",80kg / 176lbs,RB,2900000.0,35000.0,70,67,84,48,Mario Gaspar Pérez Martínez
+"Tomás Pina
+CM CDM",26,75,78,"Villarreal CF
+2013 ~ 2018","185cm / 6'1""",78kg / 172lbs,CM,3900000.0,40000.0,80,69,78,48,Tomás Pina Isla
+"J. Campbell
+RM ST CAM LM",22,75,83,"Villarreal CF
+2011 ~ 2019","178cm / 5'10""",72kg / 159lbs,LW,2900000.0,30000.0,74,78,73,61,Joel Campbell
+"C. Kameni
+GK",30,75,75,"Málaga CF
+2012 ~ 2017","186cm / 6'1""",86kg / 190lbs,GK,3300000.0,35000.0,36,25,40,361,Carlos Idriss Kameni
+"Sergio Sánchez
+CB",28,75,75,"Málaga CF
+2011 ~ 2015","185cm / 6'1""",76kg / 168lbs,CB,3000000.0,40000.0,62,43,79,51,Sergio Sánchez Ortega
+"Lafita
+LM ST CAM",29,75,75,"Getafe CF
+2012 ~ 2017","187cm / 6'2""",73kg / 161lbs,LM,3200000.0,35000.0,75,77,69,52,Ángel Lafita Castillo
+"N. Ghilas
+ST LM RW",24,75,79,"Córdoba CF
+2013 ~ 2017","183cm / 6'0""",85kg / 187lbs,ST,4000000.0,35000.0,69,74,82,43,Nabil Ghilas
+"M. Iturra
+CDM",30,75,75,"Granada CF
+2013 ~ 2016","172cm / 5'8""",74kg / 163lbs,CDM,2300000.0,15000.0,75,62,85,52,Manuel Iturra
+"A. Nyom
+RB",26,75,78,"Granada CF
+2009 ~ 2018","189cm / 6'2""",81kg / 179lbs,RB,3500000.0,20000.0,64,61,86,47,Allan-Roméo Nyom
+"L. Bangoura
+RM LM",22,75,78,"Granada CF
+2011 ~ 2015","175cm / 5'9""",72kg / 159lbs,RW,2900000.0,10000.0,67,81,72,34,Lassane Bangoura
+"S. Given
+GK",38,74,74,"Aston Villa
+2011 ~ 2016","185cm / 6'1""",84kg / 185lbs,GK,600000.0,20000.0,37,25,29,366,Shay Given
+"C. Clark
+CB LB",24,74,77,"Aston Villa
+2008 ~ 2016","188cm / 6'2""",76kg / 168lbs,CB,3200000.0,35000.0,72,54,70,54,Ciaran Clark
+"Carles Gil
+RM CAM LM",21,74,83,"Aston Villa
+2015 ~ 2019","170cm / 5'7""",69kg / 152lbs,RM,2900000.0,30000.0,79,82,66,53,Carles Gil d. Vicent
+"A. Alcaraz
+CB",31,74,74,"Everton
+2013 ~ 2015","187cm / 6'2""",80kg / 176lbs,CB,2300000.0,35000.0,66,52,65,51,Antolín Alcaraz
+"Y. Gouffran
+LM RM",28,74,74,"Newcastle United
+2013 ~ 2017","176cm / 5'9""",76kg / 168lbs,ST,3400000.0,45000.0,76,76,71,51,Yoan Gouffran
+"V. Anita
+CDM CM",25,74,76,"Newcastle United
+2012 ~ 2017","168cm / 5'6""",65kg / 143lbs,CDM,3200000.0,35000.0,78,76,84,58,Vurnon Anita
+"J. Barton
+CM CDM",31,74,74,"Queens Park Rangers
+2011 ~ 2015","180cm / 5'11""",70kg / 154lbs,CM,2700000.0,35000.0,75,72,87,45,Joey Barton
+"A. Faurlín
+CM CDM",27,74,74,"Queens Park Rangers
+2009 ~ 2015","185cm / 6'1""",79kg / 174lbs,CM,3700000.0,40000.0,79,71,70,49,Alejandro Faurlín
+"N. Onuoha
+CB RB",27,74,74,"Queens Park Rangers
+2012 ~ 2016","188cm / 6'2""",78kg / 172lbs,CB,3200000.0,45000.0,65,57,64,53,Nedum Onuoha
+"F. Đuričić
+CAM LW",22,74,80,"Southampton
+2013 ~ 2018","181cm / 5'11""",73kg / 161lbs,CAM,3300000.0,30000.0,75,82,64,43,Filip Đuričić
+"F. Gardoş
+CB",25,74,77,"Southampton
+2014 ~ 2018","193cm / 6'4""",88kg / 194lbs,CB,3400000.0,35000.0,63,59,75,56,Florin Gardoş
+"J. Ward-Prowse
+CAM CM RM",19,74,85,"Southampton
+2011 ~ 2020","173cm / 5'8""",66kg / 146lbs,RM,3100000.0,30000.0,80,73,74,59,James Ward-Prowse
+"S. Mané
+LM CF LW RM",22,74,80,"Southampton
+2014 ~ 2018","175cm / 5'9""",75kg / 165lbs,RW,2900000.0,30000.0,72,81,65,51,Sadio Mané
+"D. Rose
+LB",23,74,78,"Tottenham Hotspur
+2007 ~ 2019","173cm / 5'8""",72kg / 159lbs,LWB,2900000.0,50000.0,71,75,80,50,Danny Rose
+"A. Townsend
+RM LM",22,74,80,"Tottenham Hotspur
+2009 ~ 2017","181cm / 5'11""",81kg / 179lbs,LW,2900000.0,40000.0,72,83,70,54,Andros Townsend
+"N. Bentaleb
+CM CDM",19,74,85,"Tottenham Hotspur
+2012 ~ 2018","187cm / 6'2""",68kg / 150lbs,CM,2700000.0,35000.0,79,74,78,54,Nabil Bentaleb
+"J. Collins
+CB",30,74,74,"West Ham United
+2012 ~ 2016","193cm / 6'4""",90kg / 198lbs,CB,2500000.0,35000.0,58,37,65,58,James Collins
+"K. Schmeichel
+GK",27,74,74,"Leicester City
+2011 ~ 2018","185cm / 6'1""",76kg / 168lbs,GK,3300000.0,40000.0,20,25,35,378,Kasper Schmeichel
+"J. O'Shea
+CB",33,74,74,"Sunderland
+2011 ~ 2017","190cm / 6'3""",84kg / 185lbs,CB,1500000.0,25000.0,60,45,66,55,John O'Shea
+"W. Brown
+CB",34,74,74,"Sunderland
+2011 ~ 2015","185cm / 6'1""",77kg / 170lbs,CB,1000000.0,25000.0,64,55,54,60,Wes Brown
+"A. Réveillère
+RB LB",34,74,74,"Sunderland
+2014 ~ 2015","180cm / 5'11""",77kg / 170lbs,RB,1000000.0,25000.0,75,60,63,51,Anthony Réveillère
+"D. Fletcher
+CM CDM",30,74,74,"West Bromwich Albion
+2015 ~ 2017","184cm / 6'0""",74kg / 163lbs,CB,2900000.0,35000.0,81,64,76,47,Darren Fletcher
+"C. Gardner
+CM CDM RB",27,74,74,"West Bromwich Albion
+2014 ~ 2017","176cm / 5'9""",82kg / 181lbs,CM,3700000.0,45000.0,75,69,91,55,Craig Gardner
+"J. Shackell
+CB",30,74,74,"Burnley
+2012 ~ 2016","193cm / 6'4""",83kg / 183lbs,CB,2500000.0,30000.0,67,57,76,33,Jason Shackell
+"D. Ings
+ST",21,74,81,"Burnley
+2011 ~ 2015","178cm / 5'10""",73kg / 161lbs,ST,3300000.0,30000.0,68,77,80,52,Danny Ings
+"J. Puncheon
+RM CAM LM",28,74,74,"Crystal Palace
+2014 ~ 2018","173cm / 5'8""",71kg / 157lbs,RM,3400000.0,40000.0,70,79,73,63,Jason Puncheon
+"J. Ward
+RB LB CDM",24,74,76,"Crystal Palace
+2012 ~ 2018","187cm / 6'2""",83kg / 183lbs,CB,3200000.0,35000.0,76,63,77,38,Joel Ward
+"P. Souaré
+LB LM",24,74,79,"Crystal Palace
+2015 ~ 2018","178cm / 5'10""",69kg / 152lbs,LB,3200000.0,35000.0,73,73,80,51,Pape Souaré
+"W. Zaha
+RW RM LM",21,74,80,"Crystal Palace
+2015 ~ 2020","180cm / 5'11""",66kg / 146lbs,RW,3300000.0,30000.0,60,83,78,56,Wilfried Zaha
+"G. Cameron
+RB CDM",28,74,74,"Stoke City
+2012 ~ 2016","191cm / 6'3""",84kg / 185lbs,CB,3000000.0,40000.0,76,72,77,48,Geoff Cameron
+"R. Snodgrass
+RM",26,74,74,"Hull City
+2014 ~ 2017","182cm / 6'0""",77kg / 170lbs,CAM,3900000.0,45000.0,74,80,79,54,Robert Snodgrass
+"N. Dyer
+RM RW",26,74,74,"Swansea City
+2009 ~ 2017","167cm / 5'6""",62kg / 137lbs,RW,3900000.0,45000.0,73,81,84,56,Nathan Dyer
+"Ki Sung Yueng
+CM CDM",25,74,77,"Swansea City
+2012 ~ 2018","186cm / 6'1""",75kg / 165lbs,CAM,3800000.0,35000.0,85,76,72,44,Sung Yueng Ki
+"J. Shelvey
+CM CDM",22,74,80,"Swansea City
+2013 ~ 2017","184cm / 6'0""",83kg / 183lbs,CM,2900000.0,30000.0,80,71,79,59,Jonjo Shelvey
+"Jordi Amat
+CB",22,74,80,"Swansea City
+2013 ~ 2018","185cm / 6'1""",83kg / 183lbs,CB,2500000.0,30000.0,65,49,73,41,Jordi Amat Maas
+"F. Fernández
+CB",25,74,79,"Swansea City
+2014 ~ 2018","190cm / 6'3""",83kg / 183lbs,CB,3400000.0,35000.0,56,30,68,58,Federico Fernández
+"Romaric
+CM CB CDM",31,74,74,"Sporting Club Bastia
+2013 ~ 2016","187cm / 6'2""",88kg / 194lbs,CM,2700000.0,30000.0,83,69,76,46,Koffi Romaric N'Dri
+"R. Boudebouz
+CAM CM",24,74,79,"Sporting Club Bastia
+2013 ~ 2016","177cm / 5'10""",72kg / 159lbs,LM,4000000.0,40000.0,76,78,71,57,Ryad Boudebouz
+"J. Plašil
+CM CDM",32,74,74,"FC Girondins de Bordeaux
+2009 ~ 2017","182cm / 6'0""",72kg / 159lbs,CM,2400000.0,45000.0,83,74,57,32,Jaroslav Plašil
+"Jussiê
+ST CAM",30,74,74,"FC Girondins de Bordeaux
+2007 ~ 2016","181cm / 5'11""",81kg / 179lbs,ST,3300000.0,50000.0,75,76,63,33,Jussiê Ferreira Vieira
+"N. Maurice-Belay
+LM",29,74,74,"FC Girondins de Bordeaux
+2011 ~ 2017","182cm / 6'0""",80kg / 176lbs,LM,3200000.0,45000.0,74,74,70,54,Nicolas Maurice-Belay
+"Mariano
+RB",28,74,74,"FC Girondins de Bordeaux
+2012 ~ 2016","177cm / 5'10""",69kg / 152lbs,RM,3000000.0,50000.0,75,74,81,51,Mariano Ferreira Filho
+"N. Pallois
+CB",26,74,77,"FC Girondins de Bordeaux
+2014 ~ 2018","190cm / 6'3""",85kg / 187lbs,CB,3500000.0,50000.0,71,58,71,57,Nicolas Pallois
+"D. Rolán
+ST RW RM",21,74,80,"FC Girondins de Bordeaux
+2013 ~ 2017","176cm / 5'9""",69kg / 152lbs,RW,3300000.0,45000.0,75,79,68,44,Diego Rolán
+"S. Marveaux
+CAM ST LM",28,74,74,"En Avant Guingamp
+2011 ~ 2016","172cm / 5'8""",66kg / 146lbs,LM,3800000.0,50000.0,79,79,68,44,Sylvain Marveaux
+"C. Mandanne
+ST CF",29,74,74,"En Avant Guingamp
+2012 ~ 2015","171cm / 5'7""",62kg / 137lbs,CAM,3600000.0,35000.0,73,76,72,59,Christophe Mandanne
+"C. Kerbrat
+CB",27,74,76,"En Avant Guingamp
+2011 ~ 2018","185cm / 6'1""",74kg / 163lbs,CB,3200000.0,40000.0,67,61,79,49,Christophe Kerbrat
+"S. Elana
+GK",33,74,74,"Lille OSC
+2012 ~ 2018","187cm / 6'2""",85kg / 187lbs,GK,2600000.0,30000.0,36,25,20,365,Steeve Elana
+"N. Roux
+ST",26,74,76,"Lille OSC
+2012 ~ 2016","182cm / 6'0""",78kg / 172lbs,ST,4300000.0,60000.0,74,70,72,44,Nolan Roux
+"M. Martin
+CM CAM",26,74,76,"Lille OSC
+2012 ~ 2019","171cm / 5'7""",68kg / 150lbs,CAM,3900000.0,60000.0,78,73,67,57,Marvin Martin
+"S. Boufal
+CAM RM LM",20,74,81,"Lille OSC
+2015 ~ 2019","170cm / 5'7""",60kg / 132lbs,CAM,3300000.0,40000.0,73,77,73,51,Sofiane Boufal
+"J. Ferri
+CM CDM",22,74,80,"Olympique Lyonnais
+2011 ~ 2017","172cm / 5'8""",70kg / 154lbs,CM,2900000.0,50000.0,78,69,74,54,Jordan Ferri
+"N. Dirar
+RM",28,74,74,"AS Monaco
+2012 ~ 2018","187cm / 6'2""",82kg / 181lbs,RW,3400000.0,40000.0,76,81,77,45,Nabil Dirar
+"V. Germain
+ST RW",24,74,77,"AS Monaco
+2005 ~ 2017","180cm / 5'11""",73kg / 161lbs,RW,4000000.0,35000.0,74,74,83,50,Valère Germain
+"A. Martial
+ST RW",18,74,84,"AS Monaco
+2013 ~ 2018","181cm / 5'11""",76kg / 168lbs,ST,2900000.0,15000.0,64,76,68,46,Anthony Martial
+"L. Barrios
+ST",29,74,74,"Montpellier HSC
+2013 ~ 2015","188cm / 6'2""",84kg / 185lbs,ST,3600000.0,40000.0,72,71,68,60,Lucas Barrios
+"M. Sanson
+CM CDM LM",19,74,77,"Montpellier HSC
+2013 ~ 2018","180cm / 5'11""",72kg / 159lbs,CM,2700000.0,25000.0,75,75,74,51,Morgan Sanson
+"S. Gakpé
+RM LM ST",27,74,75,"FC Nantes
+2011 ~ 2015","176cm / 5'9""",68kg / 150lbs,RW,3700000.0,45000.0,72,77,73,55,Serge Gakpé
+"A. Bedoya
+CAM CF RM",27,74,76,"FC Nantes
+2013 ~ 2019","178cm / 5'10""",73kg / 161lbs,CAM,4000000.0,45000.0,80,66,88,42,Alejandro Bedoya
+"M. Bodmer
+CB",31,74,74,"OGC Nice
+2013 ~ 2017","190cm / 6'3""",90kg / 198lbs,CB,2300000.0,35000.0,75,63,68,58,Mathieu Bodmer
+"E. Bauthéac
+LM LW CAM",26,74,76,"OGC Nice
+2012 ~ 2015","168cm / 5'6""",67kg / 148lbs,LM,3900000.0,45000.0,73,77,79,53,Eric Bauthéac
+"N. Douchez
+GK",34,74,74,"Paris Saint-Germain
+2011 ~ 2015","186cm / 6'1""",81kg / 179lbs,GK,2300000.0,45000.0,32,25,32,368,Nicolas Douchez
+"S. Armand
+CB",33,74,74,"Stade Rennais FC
+2013 ~ 2017","182cm / 6'0""",82kg / 181lbs,CB,1500000.0,25000.0,79,56,68,39,Sylvain Armand
+"K. Grosicki
+RW LW",26,74,76,"Stade Rennais FC
+2014 ~ 2017","177cm / 5'10""",75kg / 165lbs,RW,4300000.0,50000.0,72,73,67,61,Kamil Grosicki
+"R. Danzé
+RB CDM",27,74,74,"Stade Rennais FC
+2006 ~ 2016","184cm / 6'0""",73kg / 161lbs,RB,3200000.0,40000.0,72,65,78,42,Romain Danzé
+"C. M'Bengue
+LB",25,74,76,"Stade Rennais FC
+2013 ~ 2016","183cm / 6'0""",80kg / 176lbs,LB,3400000.0,35000.0,75,66,76,54,Cheikh M'Bengue
+"F. Diagne
+CB RB LB",24,74,78,"Stade Rennais FC
+2014 ~ 2017","185cm / 6'1""",78kg / 172lbs,CB,3200000.0,35000.0,69,70,62,50,Fallou Diagne
+"P. Ntep
+LW LM",21,74,82,"Stade Rennais FC
+2014 ~ 2017","180cm / 5'11""",75kg / 165lbs,LW,2900000.0,30000.0,67,82,67,42,Paul-Georges Ntep
+"J. Féret
+CAM CM",31,74,74,"Stade Malherbe Caen
+2014 ~ 2015","187cm / 6'2""",76kg / 168lbs,CAM,3100000.0,40000.0,76,73,66,56,Julien Féret
+"J. Ayew
+ST LM",22,74,78,"FC Lorient
+2014 ~ 2018","182cm / 6'0""",80kg / 176lbs,ST,3300000.0,35000.0,75,76,64,40,Jordan Ayew
+"R. Guerreiro
+LM LB",20,74,82,"FC Lorient
+2013 ~ 2017","170cm / 5'7""",67kg / 148lbs,LW,2900000.0,25000.0,75,77,69,40,Raphaël Guerreiro
+"R. Fanni
+CB RB",32,74,74,"Olympique de Marseille
+2011 ~ 2015","186cm / 6'1""",78kg / 172lbs,CB,2000000.0,60000.0,72,66,72,62,Rod Fanni
+"J. Morel
+CB LB",30,74,74,"Olympique de Marseille
+2011 ~ 2015","172cm / 5'8""",71kg / 157lbs,LB,2500000.0,50000.0,69,61,81,48,Jérémy Morel
+"A. Barrada
+CAM RM LM",25,74,78,"Olympique de Marseille
+2014 ~ 2018","179cm / 5'10""",73kg / 161lbs,RW,4200000.0,60000.0,69,77,70,42,Abdelaziz Barrada
+"B. Dja Djédjé
+RB RM",23,74,77,"Olympique de Marseille
+2014 ~ 2018","170cm / 5'7""",71kg / 157lbs,RB,2900000.0,50000.0,75,69,86,45,Brice Dja Djédjé
+"K. Agassa
+GK",35,74,74,"Stade de Reims
+2008 ~ 2015","190cm / 6'3""",85kg / 187lbs,GK,2100000.0,20000.0,25,25,32,362,Kossi Agassa
+"J. Placide
+GK",26,74,76,"Stade de Reims
+2013 ~ 2016","181cm / 5'11""",89kg / 196lbs,GK,3600000.0,40000.0,33,25,27,366,Johny Placide
+"B. Moukandjo
+RM LM ST",25,74,76,"Stade de Reims
+2014 ~ 2016","180cm / 5'11""",74kg / 163lbs,ST,3800000.0,35000.0,71,77,67,53,Benjamin Moukandjo
+"M. Braithwaite
+ST LM",23,74,80,"Toulouse FC
+2013 ~ 2017","180cm / 5'11""",77kg / 170lbs,RW,3700000.0,35000.0,67,78,80,48,Martin Braithwaite
+"F. Clerc
+RB",31,74,74,"AS Saint-Étienne
+2012 ~ 2015","186cm / 6'1""",77kg / 170lbs,RB,2300000.0,45000.0,72,64,79,46,François Clerc
+"R. van Wolfswinkel
+ST",25,74,78,"AS Saint-Étienne
+2013 ~ 2017","186cm / 6'1""",74kg / 163lbs,ST,4200000.0,50000.0,69,75,74,49,Ricky van Wolfswinkel
+"F. Tabanou
+LB LM LWB",25,74,79,"AS Saint-Étienne
+2013 ~ 2017","178cm / 5'10""",70kg / 154lbs,LM,3400000.0,45000.0,76,74,79,54,Franck Tabanou
+"B. Corgnet
+CAM RM CM",27,74,76,"AS Saint-Étienne
+2013 ~ 2017","180cm / 5'11""",75kg / 165lbs,CAM,4000000.0,60000.0,77,74,79,53,Benjamin Corgnet
+"E. Durm
+LB RB",22,74,80,"Borussia Dortmund
+2012 ~ 2019","183cm / 6'0""",73kg / 161lbs,RWB,2500000.0,50000.0,70,75,84,55,Erik Durm
+"M. Jojić
+CM CAM RM",22,74,79,"Borussia Dortmund
+2014 ~ 2018","177cm / 5'10""",73kg / 161lbs,CAM,2900000.0,50000.0,77,78,76,47,Miloš Jojić
+"R. Brouwers
+CB",32,74,74,"Borussia Mönchengladbach
+2007 ~ 2016","192cm / 6'4""",82kg / 181lbs,CB,2000000.0,35000.0,58,41,61,55,Roel Brouwers
+"O. Wendt
+LB",28,74,74,"Borussia Mönchengladbach
+2011 ~ 2016","181cm / 5'11""",82kg / 181lbs,LM,3000000.0,45000.0,76,74,77,50,Oscar Wendt
+"N. Petersen
+ST",25,74,76,"SC Freiburg
+2015 ~ 2019","188cm / 6'2""",80kg / 176lbs,ST,4200000.0,40000.0,62,68,73,48,Nils Petersen
+"J. Schmid
+LM RM",24,74,77,"SC Freiburg
+2011 ~ 2016","179cm / 5'10""",78kg / 172lbs,LM,3700000.0,35000.0,74,75,82,42,Jonathan Schmid
+"J. Djourou
+CB",27,74,75,"Hamburger SV
+2014 ~ 2016","191cm / 6'3""",87kg / 192lbs,CB,3200000.0,45000.0,70,59,55,60,Johan Djourou
+"A. Rudnevs
+ST",26,74,76,"Hamburger SV
+2012 ~ 2016","183cm / 6'0""",81kg / 179lbs,ST,4300000.0,45000.0,57,59,79,56,Artjoms Rudnevs
+"M. Beister
+RM CF LM ST",23,74,78,"Hamburger SV
+2009 ~ 2016","180cm / 5'11""",81kg / 179lbs,ST,3300000.0,35000.0,73,73,77,43,Maximilian Beister
+"K. Vogt
+CDM CM RB",22,74,77,"1. FC Köln
+2014 ~ 2017","194cm / 6'4""",85kg / 187lbs,CDM,2300000.0,30000.0,72,66,77,43,Kevin Vogt
+"A. Ujah
+ST",23,74,78,"1. FC Köln
+2013 ~ 2017","179cm / 5'10""",81kg / 179lbs,ST,3700000.0,35000.0,63,68,75,53,Anthony Ujah
+"J. Hector
+LB",24,74,79,"1. FC Köln
+2012 ~ 2018","185cm / 6'1""",73kg / 161lbs,LB,3200000.0,35000.0,73,76,78,50,Jonas Hector
+"R. Kruse
+RM ST LM",25,74,77,"Bayer 04 Leverkusen
+2013 ~ 2017","179cm / 5'10""",71kg / 157lbs,RW,3800000.0,45000.0,70,78,77,61,Robbie Kruse
+"R. Neustädter
+CDM CB",26,74,75,"FC Schalke 04
+2012 ~ 2016","190cm / 6'3""",83kg / 183lbs,CDM,3300000.0,60000.0,76,67,77,56,Roman Neustädter
+"J. Kirchhoff
+CDM CB",23,74,79,"FC Schalke 04
+2013 ~ 2016","195cm / 6'5""",90kg / 198lbs,CDM,2700000.0,50000.0,75,57,68,47,Jan Kirchhoff
+"D. Schwaab
+CB RB",25,74,75,"VfB Stuttgart
+2013 ~ 2016","186cm / 6'1""",76kg / 168lbs,CB,3400000.0,35000.0,72,62,72,45,Daniel Schwaab
+"A. Rüdiger
+CB",21,74,83,"VfB Stuttgart
+2011 ~ 2017","190cm / 6'3""",85kg / 187lbs,CB,2500000.0,30000.0,69,60,68,54,Antonio Rüdiger
+"F. Bartels
+RM ST CAM LM",27,74,74,"SV Werder Bremen
+2014 ~ 2017","176cm / 5'9""",69kg / 152lbs,RW,3700000.0,40000.0,73,76,84,46,Fin Bartels
+"Gálvez
+CB CDM",25,74,77,"SV Werder Bremen
+2014 ~ 2017","190cm / 6'3""",79kg / 174lbs,CB,3400000.0,35000.0,69,53,64,41,Alejandro Gálvez Jimena
+"J. Heitinga
+CB",30,74,74,"Hertha BSC
+2014 ~ 2016","182cm / 6'0""",72kg / 159lbs,CB,2500000.0,40000.0,72,43,66,54,John Heitinga
+"A. Baumjohann
+CAM",27,74,77,"Hertha BSC
+2013 ~ 2016","178cm / 5'10""",75kg / 165lbs,CAM,4000000.0,50000.0,75,76,66,40,Alexander Baumjohann
+"Ronny
+CAM",28,74,74,"Hertha BSC
+2010 ~ 2017","175cm / 5'9""",74kg / 163lbs,CAM,3800000.0,50000.0,79,74,49,60,Ronny Heberson Furtado de Araújo
+"S. Langkamp
+CB",26,74,75,"Hertha BSC
+2013 ~ 2016","191cm / 6'3""",85kg / 187lbs,CB,3500000.0,40000.0,63,39,68,47,Sebastian Langkamp
+"J. Hegeler
+CM CAM CB RM",26,74,76,"Hertha BSC
+2014 ~ 2017","193cm / 6'4""",86kg / 190lbs,CM,3900000.0,45000.0,77,74,76,56,Jens Hegeler
+"J. Schieber
+ST LM",25,74,77,"Hertha BSC
+2014 ~ 2018","186cm / 6'1""",85kg / 187lbs,ST,4200000.0,40000.0,70,71,70,50,Julian Schieber
+"P. Pekarík
+RB LB",27,74,74,"Hertha BSC
+2012 ~ 2018","176cm / 5'9""",70kg / 154lbs,RWB,3200000.0,45000.0,71,72,78,53,Peter Pekarík
+"T. Ciğerci
+CM CDM RM",22,74,77,"Hertha BSC
+2014 ~ 2017","185cm / 6'1""",80kg / 176lbs,CM,2900000.0,30000.0,75,77,90,50,Tolga Ciğerci
+"N. Noveski
+CB",35,74,74,"1. FSV Mainz 05
+2004 ~ 2015","190cm / 6'3""",87kg / 192lbs,CB,550000.0,25000.0,64,35,65,56,Nikolče Noveski
+"J. Hofmann
+RM LM",21,74,79,"1. FSV Mainz 05
+2012 ~ 2018","176cm / 5'9""",67kg / 148lbs,RW,2900000.0,30000.0,75,77,73,37,Jonas Hofmann
+"P. De Blasis
+LM RM ST CAM",26,74,77,"1. FSV Mainz 05
+2014 ~ 2017","165cm / 5'5""",66kg / 146lbs,RW,3900000.0,40000.0,73,80,78,43,Pablo De Blasis
+"P. Ochs
+RB RM",30,74,74,"VfL Wolfsburg
+2011 ~ 2015","179cm / 5'10""",71kg / 157lbs,RB,2500000.0,45000.0,73,69,75,53,Patrick Ochs
+"T. Klose
+CB",26,74,76,"VfL Wolfsburg
+2013 ~ 2017","193cm / 6'4""",87kg / 192lbs,CB,3500000.0,50000.0,71,40,63,56,Timm Klose
+"C. Schulz
+CB LB CDM",31,74,74,"Hannover 96
+2007 ~ 2016","185cm / 6'1""",80kg / 176lbs,CB,2300000.0,35000.0,70,52,61,41,Christian Schulz
+"E. Prib
+LM CM LB CDM",24,74,78,"Hannover 96
+2013 ~ 2017","180cm / 5'11""",77kg / 170lbs,LM,3700000.0,35000.0,74,75,77,40,Edgar Prib
+"A. Hoffmann
+CB CDM",21,74,79,"Hannover 96
+2013 ~ 2018","188cm / 6'2""",84kg / 185lbs,CB,2500000.0,30000.0,72,52,75,41,André Hoffmann
+"M. Russ
+CB CDM",28,74,74,"Eintracht Frankfurt
+2013 ~ 2016","190cm / 6'3""",75kg / 165lbs,CB,3000000.0,45000.0,72,39,67,47,Marco Russ
+"M. Hasebe
+CDM CM",30,74,74,"Eintracht Frankfurt
+2014 ~ 2016","177cm / 5'10""",72kg / 159lbs,CDM,2300000.0,35000.0,76,69,82,51,Makoto Hasebe
+"B. Oczipka
+LB",25,74,76,"Eintracht Frankfurt
+2012 ~ 2018","184cm / 6'0""",87kg / 192lbs,LB,3400000.0,35000.0,71,71,81,44,Bastian Oczipka
+"T. Elyounoussi
+LM LW",26,74,77,"TSG 1899 Hoffenheim
+2013 ~ 2017","172cm / 5'8""",66kg / 146lbs,RW,3900000.0,40000.0,68,81,83,48,Tarik Elyounoussi
+"A. Beck
+RB LB",27,74,75,"TSG 1899 Hoffenheim
+2008 ~ 2017","180cm / 5'11""",76kg / 168lbs,RB,3200000.0,45000.0,74,73,78,63,Andreas Beck
+"M. Feulner
+CM RM CDM RB",32,74,74,"FC Augsburg
+2014 ~ 2016","183cm / 6'0""",82kg / 181lbs,CM,2400000.0,35000.0,75,69,77,48,Markus Feulner
+"R. Klavan
+CB",28,74,74,"FC Augsburg
+2012 ~ 2017","186cm / 6'1""",85kg / 187lbs,CB,3000000.0,40000.0,72,51,75,54,Ragnar Klavan
+"T. Werner
+LM",28,74,74,"FC Augsburg
+2008 ~ 2017","177cm / 5'10""",67kg / 148lbs,LM,3400000.0,45000.0,74,73,78,59,Tobias Werner
+"M. Hitz
+GK",26,74,77,"FC Augsburg
+2013 ~ 2016","192cm / 6'4""",84kg / 185lbs,GK,3600000.0,40000.0,28,25,39,363,Marwin Hitz
+"G. Stendardo
+CB",33,74,74,"Atalanta
+2012 ~ 2015","190cm / 6'3""",89kg / 196lbs,CB,1500000.0,25000.0,53,28,34,35,Guglielmo Stendardo
+"H. Campagnaro
+RB CB",34,74,74,"Inter
+2013 ~ 2015","181cm / 5'11""",85kg / 187lbs,CB,1000000.0,45000.0,58,64,71,60,Hugo Campagnaro
+"Dodô
+LM LB",22,74,79,"Inter
+Jun 30, 2016 On loan","177cm / 5'10""",69kg / 152lbs,LM,2900000.0,50000.0,74,79,75,50,José Rodolfo Pires Ribeiro
+"M. Storari
+GK",37,74,74,"Juventus
+2010 ~ 2015","187cm / 6'2""",76kg / 168lbs,GK,1100000.0,40000.0,31,20,36,365,Marco Storari
+"M. Ciani
+CB",30,74,74,"Lazio
+2012 ~ 2015","192cm / 6'4""",88kg / 194lbs,CB,2500000.0,45000.0,55,37,65,47,Michaël Ciani
+"Ederson
+CAM CM",28,74,74,"Lazio
+2012 ~ 2017","181cm / 5'11""",74kg / 163lbs,RW,3800000.0,60000.0,77,82,60,48,Ederson Honorato Campos
+"L. Cavanda
+RB",23,74,80,"Lazio
+2010 ~ 2018","180cm / 5'11""",76kg / 168lbs,RWB,2900000.0,45000.0,71,78,84,48,Luis Pedro Cavanda
+"O. Onazi
+CM",21,74,80,"Lazio
+2010 ~ 2018","173cm / 5'8""",73kg / 161lbs,CM,2900000.0,40000.0,75,72,84,51,Ogenyi Onazi
+"S. Bocchetti
+CB",27,74,75,"AC Milan
+2013 ~ 2016","186cm / 6'1""",81kg / 179lbs,CB,3200000.0,60000.0,60,56,62,59,Salvatore Bocchetti
+"L. Antonelli
+LB LM",27,74,75,"AC Milan
+2015 ~ 2018","184cm / 6'0""",79kg / 174lbs,LWB,3200000.0,60000.0,73,75,79,42,Luca Antonelli
+"M. van Ginkel
+CM",21,74,82,"AC Milan
+2013 ~ 2018","186cm / 6'1""",82kg / 181lbs,CM,2900000.0,50000.0,78,73,84,53,Marco van Ginkel
+"Suso
+RM LM",20,74,82,"AC Milan
+2015 ~ 2019","176cm / 5'9""",70kg / 154lbs,LW,2900000.0,45000.0,73,85,55,51,Jesús Fernández Sáez
+"C. Maggio
+RB RM",32,74,74,"Napoli
+2008 ~ 2015","184cm / 6'0""",79kg / 174lbs,RM,2000000.0,45000.0,75,72,89,38,Christian Maggio
+"J. Zúñiga
+LB LM",28,74,74,"Napoli
+2009 ~ 2018","172cm / 5'8""",72kg / 159lbs,RM,3000000.0,60000.0,73,80,82,43,Juan Camilo Zúñiga
+"Rafael
+GK",24,74,79,"Napoli
+2013 ~ 2018","186cm / 6'1""",83kg / 183lbs,GK,3300000.0,50000.0,32,25,32,370,Rafael Cabral Barbosa
+"A. Lucarelli
+CB",36,74,74,"Parma
+2008 ~ 2015","182cm / 6'0""",78kg / 172lbs,CB,0.0,20000.0,57,38,33,49,Alessandro Lucarelli
+"N. Spolli
+CB",31,74,74,"Roma
+2009 ~ 2016","193cm / 6'4""",90kg / 198lbs,CB,2300000.0,45000.0,39,42,50,44,Nicolás Spolli
+"V. Torosidis
+RB LB",29,74,74,"Roma
+2013 ~ 2017","185cm / 6'1""",80kg / 176lbs,RB,2700000.0,45000.0,71,67,79,44,Vassilis Torosidis
+"A. Gazzi
+CDM CM",31,74,74,"Torino
+2012 ~ 2016","184cm / 6'0""",81kg / 179lbs,CDM,2100000.0,35000.0,76,67,75,43,Alessandro Gazzi
+"Amauri
+ST",34,74,74,"Torino
+2014 ~ 2016","186cm / 6'1""",83kg / 183lbs,ST,1800000.0,25000.0,72,78,55,30,Amauri Carvalho De Oliv.
+"G. Vives
+CM CDM",33,74,74,"Torino
+2011 ~ 2016","178cm / 5'10""",70kg / 154lbs,CDM,2000000.0,20000.0,80,68,74,47,Giuseppe Vives
+"Á. González
+CM RM",29,74,74,"Torino
+2010 ~ 2015","176cm / 5'9""",72kg / 159lbs,CM,3200000.0,30000.0,77,69,78,44,Álvaro González
+"M. Darmian
+LM RM",24,74,78,"Torino
+2011 ~ 2017","182cm / 6'0""",70kg / 154lbs,RB,3700000.0,35000.0,74,69,89,39,Matteo Darmian
+"O. El Kaddouri
+CM CAM",23,74,79,"Torino
+2012 ~ 2017","187cm / 6'2""",80kg / 176lbs,CAM,3300000.0,35000.0,79,79,75,35,Omar El Kaddouri
+"P. Kone
+CAM CF CM",26,74,74,"Udinese
+2014 ~ 2019","182cm / 6'0""",74kg / 163lbs,RM,4300000.0,45000.0,76,76,79,47,Panagiotis Kone
+"Bruno Fernandes
+CAM CM CF",19,74,82,"Udinese
+2013 ~ 2018","173cm / 5'8""",65kg / 143lbs,RM,3100000.0,30000.0,76,76,76,58,Bruno Miguel Borges Fernandes
+"A. Gamberini
+CB",32,74,74,"AC ChievoVerona
+2014 ~ 2017","185cm / 6'1""",80kg / 176lbs,CB,2000000.0,35000.0,55,41,60,57,Alessandro Gamberini
+"F. Bardi
+GK",22,74,79,"AC ChievoVerona
+2011 ~ 2017","188cm / 6'2""",82kg / 181lbs,GK,2600000.0,30000.0,30,25,29,357,Francesco Bardi
+"L. Toni
+ST",37,74,74,"Hellas Verona FC
+2013 ~ 2015","193cm / 6'4""",88kg / 194lbs,ST,375000.0,30000.0,67,55,34,39,Luca Toni
+"E. Hallfreðsson
+CM",30,74,74,"Hellas Verona FC
+2010 ~ 2017","185cm / 6'1""",83kg / 183lbs,CM,2900000.0,30000.0,78,70,85,45,Emil Hallfreðsson
+"D. Croce
+CM",31,74,74,"Empoli
+2012 ~ 2015","172cm / 5'8""",68kg / 150lbs,CM,2700000.0,30000.0,78,72,78,46,Daniele Croce
+"D. Rugani
+CB",19,74,85,"Empoli
+2015 ~ 2019","188cm / 6'2""",78kg / 172lbs,CB,2300000.0,25000.0,55,46,69,25,Daniele Rugani
+"R. Soriano
+CM CAM",23,74,82,"Sampdoria
+2009 ~ 2017","182cm / 6'0""",76kg / 168lbs,RM,3300000.0,35000.0,77,77,77,56,Roberto Soriano
+"A. Cossu
+LW CF",34,74,74,"Cagliari
+2008 ~ 2015","171cm / 5'7""",63kg / 139lbs,LW,1500000.0,25000.0,80,74,68,20,Andrea Cossu
+"A. Ekdal
+CM",24,74,80,"Cagliari
+2008 ~ 2016","186cm / 6'1""",82kg / 181lbs,CM,3700000.0,35000.0,76,75,78,20,Albin Ekdal
+"P. Mpoku
+LM",22,74,80,"Cagliari
+2015 ~ 2017","180cm / 5'11""",79kg / 174lbs,CAM,2900000.0,30000.0,72,79,76,44,Paul-José Mpoku
+"M. Sau
+CF",26,74,77,"Cagliari
+2007 ~ 2017","169cm / 5'7""",65kg / 143lbs,RW,4300000.0,45000.0,72,81,75,10,Marco Sau
+"Ž. Brkić
+GK",27,74,74,"Cagliari
+2011 ~ 2018","197cm / 6'6""",95kg / 209lbs,GK,3300000.0,45000.0,32,25,36,360,Željko Brkić
+"L. Rigoni
+CM CDM",29,74,74,"Palermo FC
+2014 ~ 2017","185cm / 6'1""",75kg / 165lbs,CM,3200000.0,35000.0,76,66,80,51,Luca Rigoni
+"M. Pasqual
+LB LM",32,74,74,"Fiorentina
+2005 ~ 2016","178cm / 5'10""",71kg / 157lbs,LWB,2000000.0,45000.0,76,66,76,32,Manuel Pasqual
+"K. Babacar
+ST",21,74,82,"Fiorentina
+2010 ~ 2016","185cm / 6'1""",76kg / 168lbs,ST,3300000.0,45000.0,60,68,76,45,Khouma Babacar
+"C. Tătăruşanu
+GK",28,74,74,"Fiorentina
+2014 ~ 2019","195cm / 6'5""",88kg / 194lbs,GK,3400000.0,50000.0,36,25,42,371,Ciprian Tătăruşanu
+"J. Kurtić
+CDM CM",25,74,75,"Fiorentina
+2013 ~ 2015","186cm / 6'1""",88kg / 194lbs,CDM,3200000.0,45000.0,76,68,82,49,Jasmin Kurtić
+"M. Borriello
+ST",32,74,74,"Genoa
+2015 ~ 2017","185cm / 6'1""",76kg / 168lbs,ST,2800000.0,50000.0,67,69,55,37,Marco Borriello
+"N. Burdisso
+CB",33,74,74,"Genoa
+2014 ~ 2015","182cm / 6'0""",81kg / 179lbs,CB,1500000.0,35000.0,53,39,55,47,Nicolás Burdisso
+"S. De Maio
+CB",27,74,77,"Genoa
+2013 ~ 2017","189cm / 6'2""",81kg / 179lbs,CB,3200000.0,50000.0,53,27,68,29,Sebastian De Maio
+"F. Roncaglia
+CB RB",27,74,76,"Genoa
+2012 ~ 2016","179cm / 5'10""",76kg / 168lbs,CB,3200000.0,60000.0,65,62,69,60,Facundo Roncaglia
+"F. Brienza
+CAM CF",35,74,74,"Cesena FC
+2014 ~ 2015","168cm / 5'6""",68kg / 150lbs,CAM,1300000.0,25000.0,74,77,50,32,Franco Brienza
+"P. Cannavaro
+CB",33,74,74,"Sassuolo
+2014 ~ 2017","185cm / 6'1""",83kg / 183lbs,CB,1500000.0,25000.0,61,44,49,41,Paolo Cannavaro
+"C. Natali
+CB",35,74,74,"Sassuolo
+2015 ~ 2015","192cm / 6'4""",89kg / 196lbs,CB,550000.0,25000.0,45,44,32,47,Cesare Natali
+"S. Taïder
+CM CDM",22,74,78,"Sassuolo
+2013 ~ 2017","180cm / 5'11""",77kg / 170lbs,CM,2900000.0,30000.0,79,75,79,53,Saphir Taïder
+"N. Sansone
+LW RW",22,74,80,"Sassuolo
+2014 ~ 2017","173cm / 5'8""",68kg / 150lbs,LW,2900000.0,30000.0,71,79,74,50,Nicola Sansone
+"Cani
+LM RM CAM",32,74,74,"Atlético Madrid
+2015 ~ 2017","180cm / 5'11""",75kg / 165lbs,LM,2400000.0,50000.0,73,78,68,46,Rubén Gracia Calmache
+"R. Jiménez
+ST",23,74,80,"Atlético Madrid
+2014 ~ 2020","190cm / 6'3""",76kg / 168lbs,ST,3700000.0,60000.0,70,71,79,50,Raúl Jiménez
+"Lucas Pérez
+CAM RM",25,74,77,"RC Deportivo de La Coruña
+2015 ~ 2019","180cm / 5'11""",78kg / 172lbs,CAM,4200000.0,60000.0,78,76,69,45,Lucas Pérez Martínez
+"Insua
+CB",20,74,82,"RC Deportivo de La Coruña
+2012 ~ 2018","187cm / 6'2""",79kg / 174lbs,CB,2500000.0,45000.0,70,35,52,44,Pablo Insua Blanco
+"Kike Sola
+ST CF",28,74,74,"Athletic Club
+2013 ~ 2018","184cm / 6'0""",80kg / 176lbs,ST,3800000.0,45000.0,76,69,61,26,Enrique Sola Clemente
+"Borja Viguera
+ST LW",27,74,74,"Athletic Club
+2014 ~ 2017","184cm / 6'0""",80kg / 176lbs,ST,4000000.0,45000.0,52,72,69,43,Borja Viguera Manzanares
+"Aurtenetxe
+LB CB",22,74,79,"Athletic Club
+2010 ~ 2017","182cm / 6'0""",82kg / 181lbs,LB,2500000.0,30000.0,70,62,86,55,Jon Aurtenetxe Borde
+"Borja Oubiña
+CM CDM",32,74,74,"RC Celta
+2008 ~ 2015","179cm / 5'10""",75kg / 165lbs,CM,2400000.0,30000.0,84,72,57,43,Borja Oubiña Meléndez
+"Sergio
+GK",27,74,74,"RC Celta
+2009 ~ 2016","179cm / 5'10""",75kg / 165lbs,GK,3300000.0,40000.0,36,25,44,369,Sergio Álvarez Conde
+"P. Hernández
+CAM CM",27,74,74,"RC Celta
+2014 ~ 2018","183cm / 6'0""",81kg / 179lbs,CAM,4000000.0,45000.0,78,78,76,50,Pablo Hernández
+"Salva Sevilla
+LM CM CAM",30,74,74,"RCD Espanyol
+2014 ~ 2019","178cm / 5'10""",70kg / 154lbs,CAM,2900000.0,45000.0,85,73,55,55,Salvador Sevilla López
+"C. Stuani
+ST RM CAM",27,74,74,"RCD Espanyol
+2012 ~ 2018","184cm / 6'0""",73kg / 161lbs,ST,4000000.0,60000.0,69,68,87,58,Christian Stuani
+"Victor Sánchez
+CDM CM",26,74,77,"RCD Espanyol
+2012 ~ 2015","174cm / 5'9""",72kg / 159lbs,CM,3300000.0,50000.0,82,64,77,42,Victor Sánchez Mata
+"Ansotegi
+CB",31,74,74,"Real Sociedad
+2006 ~ 2015","192cm / 6'4""",84kg / 185lbs,CB,2300000.0,45000.0,61,35,63,57,Jon Ansotegi Gorostola
+"Elustondo
+CM CB CDM",27,74,77,"Real Sociedad
+2006 ~ 2015","184cm / 6'0""",79kg / 174lbs,CM,3700000.0,50000.0,83,60,66,57,Gorka Elustondo Urkola
+"Zurutuza
+CM CAM",27,74,77,"Real Sociedad
+2008 ~ 2017","186cm / 6'1""",78kg / 172lbs,CAM,3700000.0,50000.0,85,80,70,51,David Zurutuza Veillet
+"Rúben Vezo
+CB",20,74,81,"Valencia CF
+2013 ~ 2018","183cm / 6'0""",80kg / 176lbs,CB,2500000.0,35000.0,68,44,70,47,Rúben Miguel Nunes Vezo
+"Manu Del Moral
+ST LM CAM",30,74,74,"SD Eibar
+2011 ~ 2016","185cm / 6'1""",77kg / 170lbs,ST,3300000.0,40000.0,71,73,74,56,Manuel Del Moral Fernández
+"Saúl Berjón
+LM ST RM",28,74,74,"SD Eibar
+2014 ~ 2016","178cm / 5'10""",83kg / 183lbs,RW,3400000.0,40000.0,76,78,60,48,Saúl Berjón Pérez
+"Manu Herrera
+GK",32,74,74,"Elche CF
+2012 ~ 2015","182cm / 6'0""",75kg / 165lbs,GK,2800000.0,30000.0,21,25,32,366,Manuel Herrera Yagüe
+"Mosquera
+CDM CM",26,74,75,"Elche CF
+2014 ~ 2017","184cm / 6'0""",77kg / 170lbs,CDM,3300000.0,40000.0,77,60,76,52,Pedro Mosquera Parada
+"Toño
+GK",34,74,74,"Rayo Vallecano
+2014 ~ 2015","182cm / 6'0""",80kg / 176lbs,GK,2300000.0,20000.0,25,21,44,370,Antonio Rodríguez Martínez
+"G. Kakuta
+LM RM",23,74,76,"Rayo Vallecano
+2009 ~ 2015","173cm / 5'8""",64kg / 141lbs,LM,3300000.0,35000.0,67,81,75,48,Gaël Kakuta
+"Manucho
+ST",31,74,74,"Rayo Vallecano
+2014 ~ 2017","187cm / 6'2""",83kg / 183lbs,ST,3100000.0,35000.0,63,66,66,49,Mateus Alberto Contreira Gonçalves
+"M. Barbosa
+GK",29,74,74,"Sevilla FC
+2014 ~ 2016","190cm / 6'3""",80kg / 176lbs,GK,3600000.0,45000.0,37,25,43,373,Mariano Barbosa
+"Manu Trigueros
+CM LM RM CAM",22,74,80,"Villarreal CF
+2011 ~ 2019","178cm / 5'10""",70kg / 154lbs,CM,2900000.0,30000.0,84,65,81,45,Manuel Trigueros Muñoz
+"A. Boka
+LB CDM",31,74,74,"Málaga CF
+2014 ~ 2016","166cm / 5'5""",65kg / 143lbs,LWB,2300000.0,35000.0,76,75,77,58,Arthur Boka
+"K. Uche
+ST",31,74,74,"Levante UD
+2015 ~ 2016","179cm / 5'10""",79kg / 174lbs,ST,3100000.0,40000.0,64,70,66,50,Kalu Uche
+"David Navarro
+CB",34,74,74,"Levante UD
+2012 ~ 2016","188cm / 6'2""",82kg / 181lbs,CB,1000000.0,20000.0,61,42,62,43,David Navarro Pedrós
+"L. Vyntra
+CB RB",33,74,74,"Levante UD
+2013 ~ 2015","184cm / 6'0""",76kg / 168lbs,CB,1500000.0,20000.0,62,48,67,44,Loukas Vyntra
+"Alexis
+CB LB RB",28,74,74,"Getafe CF
+2013 ~ 2017","183cm / 6'0""",75kg / 165lbs,CB,3000000.0,40000.0,71,45,65,55,Alexis Ruano Delgado
+"M. Lacen
+CM CDM",30,74,74,"Getafe CF
+2011 ~ 2015","175cm / 5'9""",72kg / 159lbs,CM,2900000.0,35000.0,83,74,75,54,Mehdi Lacen
+"P. Diawara
+ST",26,74,76,"Getafe CF
+2012 ~ 2016","180cm / 5'11""",76kg / 168lbs,ST,4300000.0,45000.0,59,70,76,49,Papá Babacar Diawara
+"Verza
+CDM CM CAM",27,74,74,"UD Almería
+2011 ~ 2015","181cm / 5'11""",78kg / 172lbs,CDM,3100000.0,40000.0,81,57,88,57,José Antonio García Rabasco
+"Rubén
+GK",30,74,74,"UD Almería
+2014 ~ 2015","187cm / 6'2""",80kg / 176lbs,GK,3300000.0,30000.0,23,25,42,376,Rubén Iván Martínez Andrade
+"F. Cartabia
+RM LM CAM CM",21,74,81,"Córdoba CF
+2012 ~ 2017","170cm / 5'7""",65kg / 143lbs,LW,2900000.0,30000.0,76,83,63,45,Federico Cartabia
+"Candeias
+RM LM LW",26,74,78,"Granada CF
+2014 ~ 2019","177cm / 5'10""",76kg / 168lbs,RW,3900000.0,20000.0,68,78,75,48,Daniel João Santos Candeias
+"Rubén Pérez
+CDM CM",25,74,79,"Granada CF
+2015 ~ 2019","178cm / 5'10""",70kg / 154lbs,CDM,3200000.0,15000.0,75,55,78,51,Rubén Salvador Pérez del Mármol
+"Y. El Arabi
+ST",27,74,74,"Granada CF
+2012 ~ 2017","183cm / 6'0""",84kg / 185lbs,ST,4000000.0,30000.0,65,84,60,45,Youssef El Arabi
+"J. Cole
+RM CAM",32,73,73,"Aston Villa
+2014 ~ 2016","176cm / 5'9""",73kg / 161lbs,CAM,1800000.0,35000.0,79,78,33,46,Joe Cole
+"K. Richardson
+LM LB",29,73,73,"Aston Villa
+2014 ~ 2016","175cm / 5'9""",69kg / 152lbs,LWB,2300000.0,35000.0,74,75,75,40,Kieran Richardson
+"G. Agbonlahor
+CF ST LM",27,73,73,"Aston Villa
+2003 ~ 2018","180cm / 5'11""",79kg / 174lbs,ST,2900000.0,50000.0,69,75,80,40,Gabriel Agbonlahor
+"A. Cissokho
+LB LWB",26,73,73,"Aston Villa
+2014 ~ 2018","181cm / 5'11""",75kg / 165lbs,CB,2500000.0,50000.0,62,61,78,52,Aly Cissokho
+"L. Kozák
+ST",25,73,75,"Aston Villa
+2013 ~ 2017","193cm / 6'4""",82kg / 181lbs,ST,3000000.0,35000.0,60,62,65,45,Libor Kozák
+"A. Weimann
+CF ST RM",22,73,78,"Aston Villa
+2008 ~ 2016","188cm / 6'2""",76kg / 168lbs,CF,2400000.0,35000.0,67,73,84,49,Andreas Weimann
+"M. Lowton
+RB",25,73,76,"Aston Villa
+2012 ~ 2017","180cm / 5'11""",78kg / 172lbs,RB,2400000.0,35000.0,70,68,83,38,Matthew Lowton
+"Joel Robles
+GK",24,73,78,"Everton
+2013 ~ 2018","195cm / 6'5""",90kg / 198lbs,GK,2400000.0,35000.0,25,25,45,367,Joel Robles Blázquez
+"M. Bešić
+CDM CB",21,73,82,"Everton
+2014 ~ 2019","177cm / 5'10""",78kg / 172lbs,CB,1700000.0,30000.0,74,70,69,48,Muhamed Bešić
+"E. Can
+CB CDM",20,73,86,"Liverpool
+2014 ~ 2019","188cm / 6'2""",82kg / 181lbs,RM,1800000.0,35000.0,77,78,76,49,Emre Can
+"R. Taylor
+LB RM CDM RB",29,73,73,"Newcastle United
+2009 ~ 2015","179cm / 5'10""",81kg / 179lbs,LB,2000000.0,35000.0,76,64,77,38,Ryan Taylor
+"J. Gutiérrez
+LM",30,73,73,"Newcastle United
+2008 ~ 2015","183cm / 6'0""",73kg / 161lbs,LM,2100000.0,40000.0,76,76,74,46,Jonás Gutiérrez
+"M. Williamson
+CB",30,73,73,"Newcastle United
+2010 ~ 2016","194cm / 6'4""",92kg / 203lbs,CB,1800000.0,35000.0,63,34,70,42,Mike Williamson
+"J. Colback
+CDM LB CM",24,73,76,"Newcastle United
+2014 ~ 2020","176cm / 5'9""",70kg / 154lbs,CDM,2200000.0,35000.0,77,69,86,30,Jack Colback
+"Ayoze Pérez
+ST CAM",20,73,82,"Newcastle United
+2014 ~ 2019","179cm / 5'10""",66kg / 146lbs,ST,2400000.0,30000.0,69,81,70,52,Ayoze Pérez Gutiérrez
+"R. Mason
+CM CDM CAM",23,73,81,"Tottenham Hotspur
+2008 ~ 2020","175cm / 5'9""",68kg / 150lbs,CM,2400000.0,45000.0,80,70,82,52,Ryan Mason
+"E. Dier
+CB RB",20,73,81,"Tottenham Hotspur
+2014 ~ 2019","188cm / 6'2""",86kg / 190lbs,CB,1800000.0,35000.0,71,58,70,48,Eric Dier
+"B. Davies
+LB",21,73,79,"Tottenham Hotspur
+2014 ~ 2019","181cm / 5'11""",76kg / 168lbs,LWB,1800000.0,40000.0,73,70,83,40,Ben Davies
+"J. Jääskeläinen
+GK",39,73,73,"West Ham United
+2012 ~ 2015","191cm / 6'3""",80kg / 176lbs,GK,450000.0,20000.0,24,25,35,361,Jussi Jääskeläinen
+"J. Tomkins
+CB",25,73,77,"West Ham United
+2007 ~ 2020","191cm / 6'3""",74kg / 163lbs,CB,2400000.0,35000.0,58,43,75,43,James Tomkins
+"M. Schwarzer
+GK",41,73,73,"Leicester City
+2015 ~ 2016","194cm / 6'4""",95kg / 209lbs,GK,450000.0,15000.0,23,25,45,358,Mark Schwarzer
+"L. Ulloa
+ST",27,73,73,"Leicester City
+2014 ~ 2018","185cm / 6'1""",80kg / 176lbs,ST,2900000.0,45000.0,65,67,68,51,Leonardo Ulloa
+"A. Kramarić
+ST LW CAM",23,73,81,"Leicester City
+2015 ~ 2018","180cm / 5'11""",70kg / 154lbs,ST,2700000.0,35000.0,63,79,73,53,Andrej Kramarić
+"V. Mannone
+GK",26,73,73,"Sunderland
+2013 ~ 2017","188cm / 6'2""",80kg / 176lbs,GK,2600000.0,40000.0,38,25,31,364,Vito Mannone
+"S. Vergini
+RB CB",25,73,75,"Sunderland
+2015 ~ 2017","191cm / 6'3""",83kg / 183lbs,CB,2400000.0,35000.0,66,66,65,35,Santiago Vergini
+"C. Brunt
+LM LB",29,73,73,"West Bromwich Albion
+2007 ~ 2017","185cm / 6'1""",84kg / 185lbs,LM,2300000.0,35000.0,78,75,60,48,Chris Brunt
+"G. McAuley
+CB",34,73,73,"West Bromwich Albion
+2011 ~ 2015","195cm / 6'5""",90kg / 198lbs,CB,750000.0,20000.0,52,26,67,47,Gareth McAuley
+"J. Morrison
+CM CDM RM",28,73,73,"West Bromwich Albion
+2007 ~ 2016","178cm / 5'10""",64kg / 141lbs,RW,2500000.0,45000.0,77,77,77,49,James Morrison
+"S. Berahino
+ST",20,73,82,"West Bromwich Albion
+2012 ~ 2017","180cm / 5'11""",83kg / 183lbs,ST,2400000.0,30000.0,61,71,64,52,Saido Berahino
+"K. Trippier
+RB",23,73,79,"Burnley
+2012 ~ 2017","179cm / 5'10""",71kg / 157lbs,RB,2100000.0,35000.0,70,69,85,49,Kieran Trippier
+"B. Hangeland
+CB",33,73,73,"Crystal Palace
+2014 ~ 2015","196cm / 6'5""",92kg / 203lbs,CB,1100000.0,25000.0,65,34,69,50,Brede Hangeland
+"D. Delaney
+CB",32,73,73,"Crystal Palace
+2012 ~ 2016","191cm / 6'3""",89kg / 196lbs,CB,1500000.0,30000.0,53,24,77,47,Damien Delaney
+"J. McArthur
+CM CDM",26,73,73,"Crystal Palace
+2014 ~ 2017","178cm / 5'10""",64kg / 141lbs,CDM,2800000.0,40000.0,77,71,79,58,James McArthur
+"M. Kelly
+RB LB",24,73,76,"Crystal Palace
+2014 ~ 2017","191cm / 6'3""",77kg / 170lbs,CB,2300000.0,35000.0,72,60,76,36,Martin Kelly
+"P. Odemwingie
+RM ST LM",32,73,73,"Stoke City
+2014 ~ 2015","182cm / 6'0""",74kg / 163lbs,ST,1800000.0,40000.0,73,78,76,56,Peter Odemwingie
+"C. Adam
+CM CAM",28,73,73,"Stoke City
+2012 ~ 2016","185cm / 6'1""",82kg / 181lbs,CAM,2500000.0,45000.0,80,71,54,31,Charlie Adam
+"E. Pieters
+LB",25,73,75,"Stoke City
+2013 ~ 2017","182cm / 6'0""",86kg / 190lbs,LB,2400000.0,35000.0,72,61,78,56,Erik Pieters
+"A. McGregor
+GK",32,73,73,"Hull City
+2013 ~ 2016","183cm / 6'0""",84kg / 185lbs,GK,2000000.0,35000.0,35,25,30,365,Allan McGregor
+"N. Jelavić
+ST",28,73,73,"Hull City
+2014 ~ 2017","187cm / 6'2""",84kg / 185lbs,ST,2800000.0,50000.0,59,70,75,40,Nikica Jelavić
+"A. Hernández
+ST",23,73,79,"Hull City
+2014 ~ 2017","185cm / 6'1""",73kg / 161lbs,ST,2700000.0,40000.0,66,70,70,38,Abel Hernández
+"M. Diamé
+CM RM LM",27,73,73,"Hull City
+2014 ~ 2017","185cm / 6'1""",80kg / 176lbs,CM,2700000.0,45000.0,77,84,70,53,Mohamed Diamé
+"J. Livermore
+CM CDM",24,73,79,"Hull City
+2014 ~ 2017","180cm / 5'11""",76kg / 168lbs,CDM,2700000.0,35000.0,77,71,85,46,Jake Livermore
+"G. Tremmel
+GK",35,73,73,"Swansea City
+2015 ~ 2017","191cm / 6'3""",92kg / 203lbs,GK,1500000.0,25000.0,22,25,30,354,Gerhard Tremmel
+"Nélson Oliveira
+ST",22,73,79,"Swansea City
+2010 ~ 2018","186cm / 6'1""",82kg / 181lbs,ST,2400000.0,30000.0,68,72,70,34,Nélson Miguel Castro Oliveira
+"S. Squillaci
+CB",33,73,73,"Sporting Club Bastia
+2013 ~ 2016","185cm / 6'1""",76kg / 168lbs,CB,1100000.0,25000.0,70,51,32,44,Sébastien Squillaci
+"Brandão
+ST",34,73,73,"Sporting Club Bastia
+2014 ~ 2015","189cm / 6'2""",78kg / 172lbs,ST,1300000.0,25000.0,73,63,75,39,Evaeverson Lemos da Silva
+"F. Ayité
+LW LM ST",25,73,76,"Sporting Club Bastia
+2014 ~ 2017","174cm / 5'9""",68kg / 150lbs,LW,2800000.0,35000.0,67,80,62,52,Floyd Ayité
+"H. Saivet
+ST RM LM CAM",23,73,77,"FC Girondins de Bordeaux
+2011 ~ 2017","175cm / 5'9""",73kg / 161lbs,RW,2700000.0,50000.0,75,79,75,52,Henri Saivet
+"T. Giresse
+LM",33,73,73,"En Avant Guingamp
+2009 ~ 2015","172cm / 5'8""",65kg / 143lbs,CAM,1400000.0,25000.0,76,73,62,51,Thibault Giresse
+"J. Lössl
+GK",25,73,77,"En Avant Guingamp
+2014 ~ 2017","195cm / 6'5""",89kg / 196lbs,GK,2500000.0,35000.0,29,25,23,364,Jonas Lössl
+"F. Béria
+RB LB",31,73,73,"Lille OSC
+2007 ~ 2018","177cm / 5'10""",76kg / 168lbs,CB,1600000.0,45000.0,74,65,76,42,Franck Béria
+"A. Mvuemba
+CM CDM",29,73,73,"Olympique Lyonnais
+2012 ~ 2016","172cm / 5'8""",67kg / 148lbs,RM,2300000.0,50000.0,80,74,78,34,Arnold Mvuemba
+"C. Tolisso
+CM CDM LB RB",19,73,80,"Olympique Lyonnais
+2013 ~ 2019","181cm / 5'11""",78kg / 172lbs,CDM,2000000.0,45000.0,75,69,83,49,Corentin Tolisso
+"E. Echiéjilé
+LB",26,73,76,"AS Monaco
+2014 ~ 2018","184cm / 6'0""",76kg / 168lbs,CB,2500000.0,45000.0,65,69,89,63,Elderson Echiéjilé
+"I. Cissokho
+RB",29,73,73,"FC Nantes
+2011 ~ 2016","173cm / 5'8""",73kg / 161lbs,RB,2000000.0,30000.0,68,70,90,48,Issa Cissokho
+"L. Deaux
+CDM CM CB",25,73,75,"FC Nantes
+2012 ~ 2016","188cm / 6'2""",80kg / 176lbs,CDM,2300000.0,35000.0,75,66,88,43,Lucas Deaux
+"V. Bessat
+LM LB",28,73,73,"FC Nantes
+2011 ~ 2015","178cm / 5'10""",74kg / 163lbs,LM,2500000.0,40000.0,72,74,65,48,Vincent Bessat
+"S. Diawara
+CB",35,73,73,"OGC Nice
+2014 ~ 2018","187cm / 6'2""",88kg / 194lbs,CB,400000.0,25000.0,63,37,61,42,Souleymane Diawara
+"Carlos Eduardo
+CAM CM",24,73,77,"OGC Nice
+2013 ~ 2017","184cm / 6'0""",76kg / 168lbs,RM,2900000.0,35000.0,76,76,72,37,Carlos Eduardo de Oliveira Alves
+"V. Eysseric
+CAM RM",22,73,77,"OGC Nice
+2013 ~ 2017","181cm / 5'11""",73kg / 161lbs,CAM,2400000.0,30000.0,73,74,70,46,Valentin Eysseric
+"A. Rabiot
+CM CDM",19,73,83,"Paris Saint-Germain
+2012 ~ 2019","188cm / 6'2""",71kg / 157lbs,CM,2000000.0,45000.0,79,70,77,47,Adrien Rabiot
+"J. Makoun
+CDM CM",31,73,73,"Stade Rennais FC
+2013 ~ 2015","173cm / 5'8""",65kg / 143lbs,CDM,1500000.0,35000.0,79,63,78,49,Jean II Makoun
+"Gelson Fernandes
+CDM CM",27,73,73,"Stade Rennais FC
+2014 ~ 2018","183cm / 6'0""",70kg / 154lbs,RB,2200000.0,45000.0,71,66,92,51,Gelson Tavares Fernandes
+"N. Kanté
+CM CDM",23,73,77,"Stade Malherbe Caen
+2013 ~ 2016","169cm / 5'7""",69kg / 152lbs,CM,2400000.0,35000.0,76,69,82,49,N'Golo Kanté
+"Y. Jouffre
+RM CF CDM",29,73,73,"FC Lorient
+2008 ~ 2016","175cm / 5'9""",65kg / 143lbs,RM,2300000.0,30000.0,76,73,60,50,Yann Jouffre
+"B. Mendy
+LB",19,73,79,"Olympique de Marseille
+2013 ~ 2017","185cm / 6'1""",75kg / 165lbs,LWB,1600000.0,45000.0,73,74,86,42,Benjamin Mendy
+"M. Lemina
+CDM CM RB",20,73,79,"Olympique de Marseille
+2013 ~ 2018","184cm / 6'0""",76kg / 168lbs,CDM,1700000.0,45000.0,74,72,77,55,Mario Lemina
+"A. Devaux
+CM CDM",29,73,73,"Stade de Reims
+2012 ~ 2015","185cm / 6'1""",70kg / 154lbs,CM,2300000.0,30000.0,77,66,76,59,Antoine Devaux
+"P. Oniangué
+CM CDM",25,73,76,"Stade de Reims
+2013 ~ 2019","188cm / 6'2""",78kg / 172lbs,CDM,2800000.0,35000.0,75,69,84,47,Prince Oniangué
+"Ó. Trejo
+CM RM CAM",26,73,75,"Toulouse FC
+2013 ~ 2017","180cm / 5'11""",79kg / 174lbs,RM,2800000.0,40000.0,78,81,85,57,Óscar Trejo
+"A. Aguilar
+CDM CM",29,73,73,"Toulouse FC
+2013 ~ 2016","185cm / 6'1""",80kg / 176lbs,CDM,1900000.0,35000.0,74,64,79,50,Abel Aguilar
+"U. Spajić
+CB",21,73,77,"Toulouse FC
+2013 ~ 2019","186cm / 6'1""",82kg / 181lbs,CB,1800000.0,30000.0,68,59,71,52,Uroš Spajić
+"K. Monnet-Paquet
+RM LM",25,73,76,"AS Saint-Étienne
+2014 ~ 2018","183cm / 6'0""",73kg / 161lbs,RW,2800000.0,45000.0,71,78,66,42,Kévin Monnet-Paquet
+"P. Baysse
+CB RB",26,73,76,"AS Saint-Étienne
+2013 ~ 2017","187cm / 6'2""",85kg / 187lbs,CB,2500000.0,50000.0,68,61,76,54,Paul Baysse
+"K. Théophile-Catherine
+RB CB",24,73,76,"AS Saint-Étienne
+2015 ~ 2018","183cm / 6'0""",85kg / 187lbs,RB,2300000.0,45000.0,73,68,74,36,Kévin Théophile-Catherine
+"M. Langerak
+GK",25,73,76,"Borussia Dortmund
+2010 ~ 2016","192cm / 6'4""",81kg / 179lbs,GK,2500000.0,60000.0,35,25,33,366,Mitchell Langerak
+"J. Korb
+RB",22,73,78,"Borussia Mönchengladbach
+2011 ~ 2018","177cm / 5'10""",69kg / 152lbs,RWB,1800000.0,30000.0,74,72,77,56,Julian Korb
+"S. Riether
+RB",31,73,73,"SC Freiburg
+2014 ~ 2017","174cm / 5'9""",72kg / 159lbs,RB,1600000.0,35000.0,70,71,74,52,Sascha Riether
+"S. Mitrović
+CB",24,73,77,"SC Freiburg
+2014 ~ 2018","189cm / 6'2""",84kg / 185lbs,CB,2300000.0,35000.0,59,55,69,51,Stefan Mitrović
+"M. Díaz
+CM CDM CAM",27,73,73,"Hamburger SV
+2015 ~ 2017","166cm / 5'5""",67kg / 148lbs,CM,2700000.0,40000.0,78,67,85,5,Marcelo Díaz
+"I. Iličević
+LM RM",27,73,75,"Hamburger SV
+2011 ~ 2015","174cm / 5'9""",63kg / 139lbs,RW,2700000.0,45000.0,72,77,63,54,Ivo Iličević
+"D. Diekmeier
+RB",24,73,77,"Hamburger SV
+2010 ~ 2016","188cm / 6'2""",79kg / 174lbs,RWB,2300000.0,35000.0,72,73,78,43,Dennis Diekmeier
+"P. Jiráček
+CDM LM CM LB",28,73,73,"Hamburger SV
+2012 ~ 2016","180cm / 5'11""",77kg / 170lbs,CDM,2000000.0,45000.0,72,68,86,47,Petr Jiráček
+"M. Ostrzolek
+LB",24,73,75,"Hamburger SV
+2014 ~ 2017","178cm / 5'10""",72kg / 159lbs,LB,2300000.0,35000.0,68,70,76,52,Matthias Ostrzolek
+"M. Lehmann
+CDM CM",31,73,73,"1. FC Köln
+2012 ~ 2016","177cm / 5'10""",75kg / 165lbs,CDM,1500000.0,35000.0,74,65,82,61,Matthias Lehmann
+"M. Risse
+RM LM",24,73,76,"1. FC Köln
+2013 ~ 2016","183cm / 6'0""",75kg / 165lbs,RW,2700000.0,35000.0,72,75,69,46,Marcel Risse
+"D. Maroh
+CB",27,73,73,"1. FC Köln
+2012 ~ 2018","186cm / 6'1""",85kg / 187lbs,CB,2300000.0,40000.0,59,37,64,37,Dominic Maroh
+"R. Hilbert
+RB",29,73,73,"Bayer 04 Leverkusen
+2013 ~ 2017","183cm / 6'0""",81kg / 179lbs,RWB,2000000.0,45000.0,76,75,78,51,Roberto Hilbert
+"C. Fuchs
+LWB LB LM",28,73,73,"FC Schalke 04
+2011 ~ 2015","186cm / 6'1""",86kg / 190lbs,LWB,2200000.0,60000.0,76,65,78,65,Christian Fuchs
+"F. Giefer
+GK",24,73,79,"FC Schalke 04
+2014 ~ 2018","196cm / 6'5""",93kg / 205lbs,GK,2400000.0,50000.0,31,25,33,348,Fabian Giefer
+"S. Kolašinac
+LB CB",21,73,81,"FC Schalke 04
+2012 ~ 2017","183cm / 6'0""",85kg / 187lbs,CB,1800000.0,50000.0,67,62,77,51,Sead Kolašinac
+"L. Goretzka
+CM RM CDM",19,73,85,"FC Schalke 04
+2013 ~ 2018","189cm / 6'2""",79kg / 174lbs,CM,2000000.0,45000.0,75,75,76,51,Leon Goretzka
+"M. Leitner
+CM CDM CAM RM",21,73,78,"VfB Stuttgart
+2011 ~ 2017","178cm / 5'10""",70kg / 154lbs,CAM,2100000.0,30000.0,75,79,76,57,Moritz Leitner
+"F. Kostić
+LM LW",21,73,80,"VfB Stuttgart
+2014 ~ 2019","180cm / 5'11""",68kg / 150lbs,LW,2100000.0,30000.0,70,78,73,59,Filip Kostić
+"T. Gebre Selassie
+RB RM LB",27,73,73,"SV Werder Bremen
+2012 ~ 2018","181cm / 5'11""",71kg / 157lbs,RWB,2300000.0,40000.0,74,74,82,43,Theodor Gebre Selassie
+"P. Bargfrede
+CDM CM",25,73,75,"SV Werder Bremen
+2008 ~ 2017","174cm / 5'9""",71kg / 157lbs,CDM,2300000.0,35000.0,75,67,76,49,Philipp Bargfrede
+"I. Hajrović
+RM ST",22,73,78,"SV Werder Bremen
+2014 ~ 2018","177cm / 5'10""",71kg / 157lbs,LW,2100000.0,30000.0,70,80,65,44,Izet Hajrović
+"L. Caldirola
+CB LB",23,73,78,"SV Werder Bremen
+2013 ~ 2017","189cm / 6'2""",79kg / 174lbs,CB,2100000.0,35000.0,73,59,69,42,Luca Caldirola
+"S. García
+LB",25,73,76,"SV Werder Bremen
+2013 ~ 2017","191cm / 6'3""",80kg / 176lbs,CB,2400000.0,35000.0,66,66,84,54,Santiago García
+"J. Vestergaard
+CB",21,73,78,"SV Werder Bremen
+2015 ~ 2018","199cm / 6'6""",98kg / 216lbs,CB,1800000.0,30000.0,65,35,63,58,Jannik Vestergaard
+"R. Beerens
+RM RW LW",26,73,75,"Hertha BSC
+2014 ~ 2017","176cm / 5'9""",74kg / 163lbs,RM,2800000.0,45000.0,71,81,74,54,Roy Beerens
+"E. Soto
+CM CDM",33,73,73,"1. FSV Mainz 05
+2007 ~ 2016","179cm / 5'10""",76kg / 168lbs,LWB,1400000.0,25000.0,76,77,74,68,Elkin Soto
+"Park Joo Ho
+LB CDM",27,73,75,"1. FSV Mainz 05
+2013 ~ 2017","176cm / 5'9""",69kg / 152lbs,LWB,2300000.0,40000.0,75,72,78,53,Joo Ho Park
+"C. Moritz
+CM CDM RM CAM",24,73,76,"1. FSV Mainz 05
+2013 ~ 2017","186cm / 6'1""",73kg / 161lbs,RM,2700000.0,35000.0,75,76,85,55,Christoph Moritz
+"S. Bell
+CB RB",22,73,78,"1. FSV Mainz 05
+2010 ~ 2018","192cm / 6'4""",86kg / 190lbs,CB,1800000.0,30000.0,68,51,67,53,Stefan Bell
+"J. Schlaudraff
+RM CAM ST CF",30,73,73,"Hannover 96
+2008 ~ 2015","180cm / 5'11""",72kg / 159lbs,CAM,2100000.0,35000.0,77,75,58,45,Jan Schlaudraff
+"J. Briand
+RM ST RW",28,73,73,"Hannover 96
+2014 ~ 2015","181cm / 5'11""",82kg / 181lbs,ST,2500000.0,50000.0,68,70,81,36,Jimmy Briand
+"C. Pander
+LB LM",30,73,73,"Hannover 96
+2011 ~ 2015","186cm / 6'1""",80kg / 176lbs,LWB,1800000.0,35000.0,76,71,65,48,Christian Pander
+"Marcelo
+CB",27,73,73,"Hannover 96
+2013 ~ 2017","191cm / 6'3""",88kg / 194lbs,CB,2300000.0,40000.0,74,62,75,57,Marcelo Antônio Guedes Filho
+"A. Madlung
+CB",31,73,73,"Eintracht Frankfurt
+2014 ~ 2015","193cm / 6'4""",92kg / 203lbs,CB,1600000.0,35000.0,56,25,62,43,Alexander Madlung
+"C. Djakpa
+LB LM",27,73,73,"Eintracht Frankfurt
+2011 ~ 2016","177cm / 5'10""",71kg / 157lbs,LWB,2300000.0,40000.0,72,74,82,56,Constant Djakpa
+"J. Flum
+CDM CM CF CB",26,73,75,"Eintracht Frankfurt
+2013 ~ 2016","190cm / 6'3""",80kg / 176lbs,CDM,2400000.0,45000.0,75,68,73,56,Johannes Flum
+"F. Wiedwald
+GK",24,73,78,"Eintracht Frankfurt
+2013 ~ 2015","190cm / 6'3""",80kg / 176lbs,GK,2400000.0,35000.0,21,25,44,359,Felix Wiedwald
+"T. Inui
+LM CAM",26,73,77,"Eintracht Frankfurt
+2012 ~ 2015","171cm / 5'7""",59kg / 130lbs,CAM,2800000.0,40000.0,73,78,72,52,Takashi Inui
+"J. Callsen-Bracker
+CB",29,73,73,"FC Augsburg
+2011 ~ 2016","187cm / 6'2""",88kg / 194lbs,CB,2000000.0,30000.0,67,44,67,47,Jan-Ingwer Callsen-Bracker
+"G. Biava
+CB",37,73,73,"Atalanta
+2014 ~ 2015","180cm / 5'11""",73kg / 161lbs,CB,0.0,20000.0,67,41,33,44,Giuseppe Biava
+"U. Emanuelson
+LB LM",28,73,73,"Atalanta
+2015 ~ 2015","176cm / 5'9""",68kg / 150lbs,LM,2200000.0,45000.0,75,79,82,14,Urby Emanuelson
+"M. Moralez
+CF CAM LW",27,73,73,"Atalanta
+2011 ~ 2015","160cm / 5'3""",57kg / 126lbs,RW,2900000.0,45000.0,74,83,69,43,Maximiliano Moralez
+"C. Carmona
+CM CDM",27,73,76,"Atalanta
+2010 ~ 2018","178cm / 5'10""",68kg / 150lbs,CDM,2700000.0,40000.0,77,66,91,46,Carlos Carmona
+"M. Estigarribia
+RM LM",26,73,75,"Atalanta
+2014 ~ 2015","181cm / 5'11""",70kg / 154lbs,RM,2800000.0,40000.0,72,77,75,58,Marcelo Estigarribia
+"Jonathan
+RM",28,73,73,"Inter
+2011 ~ 2015","170cm / 5'7""",72kg / 159lbs,RW,2500000.0,60000.0,68,73,79,40,Jonathan Cícero Moreira
+"J. Carrizo
+GK",30,73,73,"Inter
+2013 ~ 2015","187cm / 6'2""",87kg / 192lbs,GK,2400000.0,50000.0,32,25,31,366,Juan Pablo Carrizo
+"Z. Kuzmanović
+CM CDM",26,73,75,"Inter
+2013 ~ 2017","186cm / 6'1""",79kg / 174lbs,CM,2800000.0,60000.0,77,72,70,44,Zdravko Kuzmanović
+"Y. Nagatomo
+LM RM",27,73,74,"Inter
+2011 ~ 2016","170cm / 5'7""",68kg / 150lbs,RWB,2700000.0,60000.0,67,69,91,56,Yuto Nagatomo
+"D. D'Ambrosio
+RB LB RM LM",25,73,76,"Inter
+2014 ~ 2018","180cm / 5'11""",75kg / 165lbs,RB,2400000.0,50000.0,66,69,83,57,Danilo D'Ambrosio
+"S. Padoin
+RM LB CM",30,73,73,"Juventus
+2012 ~ 2016","179cm / 5'10""",73kg / 161lbs,RM,2100000.0,50000.0,73,75,69,18,Simone Padoin
+"S. Sturaro
+CM CDM",21,73,81,"Juventus
+2014 ~ 2019","182cm / 6'0""",78kg / 172lbs,CM,2100000.0,50000.0,76,73,78,50,Stefano Sturaro
+"A. Konko
+RB",30,73,73,"Lazio
+2011 ~ 2016","184cm / 6'0""",71kg / 157lbs,RM,1800000.0,45000.0,77,78,72,57,Abdoulay Konko
+"E. Berisha
+GK",25,73,77,"Lazio
+2013 ~ 2017","194cm / 6'4""",92kg / 203lbs,GK,2500000.0,45000.0,25,25,39,358,Etrit Berisha
+"M. Essien
+CDM CM",31,73,73,"AC Milan
+2014 ~ 2015","177cm / 5'10""",85kg / 187lbs,CDM,1500000.0,60000.0,77,69,68,12,Michaël Essien
+"C. Zaccardo
+CB RB",32,73,73,"AC Milan
+2013 ~ 2016","184cm / 6'0""",77kg / 170lbs,CB,1500000.0,50000.0,58,50,60,16,Cristian Zaccardo
+"S. Muntari
+CDM CM",29,73,73,"AC Milan
+2012 ~ 2016","179cm / 5'10""",76kg / 168lbs,CB,1900000.0,50000.0,74,70,80,16,Sulley Muntari
+"M. De Sciglio
+LB RB",21,73,81,"AC Milan
+2011 ~ 2016","183cm / 6'0""",74kg / 163lbs,LB,1800000.0,50000.0,70,66,82,16,Mattia De Sciglio
+"M. Andújar
+GK",30,73,73,"Napoli
+2014 ~ 2017","194cm / 6'4""",88kg / 194lbs,GK,2400000.0,45000.0,22,25,38,353,Mariano Andújar
+"M. Britos
+CB",28,73,73,"Napoli
+2011 ~ 2015","188cm / 6'2""",82kg / 181lbs,CB,2200000.0,60000.0,59,46,61,52,Miguel Angel Britos
+"F. Lodi
+CDM CM",30,73,73,"Parma
+2014 ~ 2016","183cm / 6'0""",70kg / 154lbs,CM,1700000.0,35000.0,85,72,68,44,Francesco Lodi
+"M. Cassani
+RB CB",30,73,73,"Parma
+2014 ~ 2017","184cm / 6'0""",75kg / 165lbs,RB,1800000.0,35000.0,73,64,80,46,Mattia Cassani
+"A. Farnerud
+CM CDM",30,73,73,"Torino
+2013 ~ 2016","182cm / 6'0""",73kg / 161lbs,CM,2100000.0,35000.0,78,70,75,42,Alexander Farnerud
+"C. Bovo
+CB",31,73,73,"Torino
+2013 ~ 2016","181cm / 5'11""",79kg / 174lbs,CB,1600000.0,35000.0,54,44,54,45,Cesare Bovo
+"M. Domizzi
+CB",34,73,73,"Udinese
+2008 ~ 2016","185cm / 6'1""",81kg / 179lbs,CB,750000.0,25000.0,50,40,55,40,Maurizio Domizzi
+"Guilherme
+CDM CM",23,73,78,"Udinese
+2014 ~ 2019","178cm / 5'10""",78kg / 172lbs,CDM,2000000.0,35000.0,74,68,78,45,Guilherme dos Santos Torres
+"D. Dainelli
+CB",35,73,73,"AC ChievoVerona
+2012 ~ 2015","191cm / 6'3""",78kg / 172lbs,CB,400000.0,25000.0,55,35,34,50,Dario Dainelli
+"M. Izco
+CM CDM",31,73,73,"AC ChievoVerona
+2014 ~ 2017","180cm / 5'11""",77kg / 170lbs,RM,2000000.0,35000.0,77,77,78,47,Mariano Izco
+"R. Meggiorini
+ST",28,73,73,"AC ChievoVerona
+2014 ~ 2016","182cm / 6'0""",78kg / 172lbs,ST,2800000.0,45000.0,64,73,75,23,Riccardo Meggiorini
+"Rafael
+GK",32,73,73,"Hellas Verona FC
+2007 ~ 2016","187cm / 6'2""",80kg / 176lbs,GK,2000000.0,30000.0,24,25,41,355,Rafael Pinheiro Andrade Bittencourt
+"V. Moras
+CB",32,73,73,"Hellas Verona FC
+2012 ~ 2015","193cm / 6'4""",78kg / 172lbs,CB,1500000.0,30000.0,62,38,54,56,Vangelis Moras
+"M. Obbadi
+CM CDM",31,73,73,"Hellas Verona FC
+2013 ~ 2016","172cm / 5'8""",60kg / 132lbs,CM,2000000.0,30000.0,80,68,78,40,Mounir Obbadi
+"L. Christodoulopoulos
+CM LW",27,73,75,"Hellas Verona FC
+2014 ~ 2017","183cm / 6'0""",77kg / 170lbs,CAM,2700000.0,40000.0,78,78,78,44,Lazaros Christodoulopoulos
+"B. Janković
+LW RW",30,73,73,"Hellas Verona FC
+2014 ~ 2015","183cm / 6'0""",78kg / 172lbs,LW,2100000.0,40000.0,72,76,69,50,Boško Janković
+"P. Tachtsidis
+CDM CM",23,73,80,"Hellas Verona FC
+2014 ~ 2015","191cm / 6'3""",86kg / 190lbs,CDM,2000000.0,35000.0,82,66,78,57,Panagiotis Tachtsidis
+"M. Maccarone
+ST",34,73,73,"Empoli
+2014 ~ 2016","181cm / 5'11""",79kg / 174lbs,ST,1300000.0,25000.0,68,70,55,46,Massimo Maccarone
+"R. Saponara
+CAM",22,73,78,"Empoli
+2015 ~ 2018","184cm / 6'0""",73kg / 161lbs,RM,2400000.0,30000.0,76,78,69,16,Riccardo Saponara
+"L. Muriel
+ST",23,73,81,"Sampdoria
+2015 ~ 2019","178cm / 5'10""",79kg / 174lbs,RW,2700000.0,35000.0,69,85,62,43,Luis Muriel
+"Pedro Obiang
+CM CDM",22,73,80,"Sampdoria
+2010 ~ 2017","185cm / 6'1""",75kg / 165lbs,CDM,2100000.0,30000.0,78,69,76,31,Pedro Mba Obiang Avomo
+"J. Correa
+LM",19,73,81,"Sampdoria
+2015 ~ 2019","188cm / 6'2""",77kg / 170lbs,LM,2000000.0,25000.0,72,76,72,39,Joaquín Correa
+"L. Rossettini
+CB",29,73,73,"Cagliari
+2012 ~ 2017","187cm / 6'2""",82kg / 181lbs,CB,2000000.0,35000.0,52,39,60,20,Luca Rossettini
+"E. Maresca
+CM CDM",34,73,73,"Palermo FC
+2014 ~ 2016","180cm / 5'11""",77kg / 170lbs,CM,1100000.0,25000.0,80,68,55,48,Enzo Maresca
+"R. Vitiello
+CB RB",31,73,73,"Palermo FC
+2014 ~ 2017","178cm / 5'10""",71kg / 157lbs,CB,1600000.0,30000.0,65,60,44,29,Roberto Vitiello
+"S. Anđelković
+CB",28,73,73,"Palermo FC
+2011 ~ 2017","188cm / 6'2""",85kg / 187lbs,CB,2200000.0,40000.0,55,45,58,44,Siniša Anđelković
+"M. El Hamdaoui
+ST",29,73,73,"Fiorentina
+2012 ~ 2015","183cm / 6'0""",84kg / 185lbs,ST,2600000.0,50000.0,67,76,62,29,Mounir El Hamdaoui
+"Marcos Alonso
+LB LM",23,73,76,"Fiorentina
+2013 ~ 2016","188cm / 6'2""",81kg / 179lbs,LB,2100000.0,45000.0,68,70,80,45,Marcos Alonso Mendoza
+"N. Tomović
+RB CB",26,73,74,"Fiorentina
+2012 ~ 2016","184cm / 6'0""",79kg / 174lbs,CB,2500000.0,50000.0,65,63,74,47,Nenad Tomović
+"T. Rincón
+CDM CM RM",26,73,75,"Genoa
+2014 ~ 2018","175cm / 5'9""",75kg / 165lbs,CDM,2400000.0,60000.0,74,65,80,50,Tomás Rincón
+"A. Bertolacci
+CM",23,73,78,"Genoa
+2012 ~ 2017","179cm / 5'10""",75kg / 165lbs,CAM,2400000.0,45000.0,76,73,76,33,Andrea Bertolacci
+"F. Acerbi
+CB",25,73,77,"Sassuolo
+2013 ~ 2018","192cm / 6'4""",88kg / 194lbs,CB,2400000.0,35000.0,49,44,46,48,Francesco Acerbi
+"Hélder Postiga
+ST",31,73,73,"RC Deportivo de La Coruña
+2014 ~ 2015","180cm / 5'11""",76kg / 168lbs,ST,2200000.0,60000.0,62,69,78,56,Hélder Manuel Marques Postiga
+"G. Lux
+GK",32,73,73,"RC Deportivo de La Coruña
+2011 ~ 2016","186cm / 6'1""",77kg / 170lbs,GK,2000000.0,50000.0,25,25,43,361,Germán Lux
+"H. Medunjanin
+CM CDM",29,73,73,"RC Deportivo de La Coruña
+2014 ~ 2017","188cm / 6'2""",76kg / 168lbs,CAM,2300000.0,50000.0,77,81,76,49,Haris Medunjanin
+"Juanfran
+RB RM",25,73,79,"RC Deportivo de La Coruña
+2013 ~ 2016","179cm / 5'10""",72kg / 159lbs,RB,2400000.0,50000.0,68,65,86,54,Juan Francisco Moreno Fuertes
+"C. Borges
+CM CDM",26,73,77,"RC Deportivo de La Coruña
+2015 ~ 2017","184cm / 6'0""",82kg / 181lbs,CAM,2800000.0,60000.0,72,68,85,49,Celso Borges
+"Salomão
+LW RM LM",25,73,78,"RC Deportivo de La Coruña
+2010 ~ 2018","175cm / 5'9""",70kg / 154lbs,LW,2800000.0,60000.0,66,80,55,52,Diogo Ferreira Salomão
+"L. Fariña
+CAM CM LM",23,73,76,"RC Deportivo de La Coruña
+2014 ~ 2019","177cm / 5'10""",71kg / 157lbs,CAM,2700000.0,60000.0,74,77,78,39,Luis Fariña
+"José Rodríguez
+RM CAM CM",19,73,78,"RC Deportivo de La Coruña
+2014 ~ 2019","180cm / 5'11""",68kg / 150lbs,CAM,2000000.0,45000.0,81,73,65,48,José Rodríguez Martínez
+"Ivan Cavaleiro
+LM ST RM",20,73,84,"RC Deportivo de La Coruña
+2012 ~ 2018","175cm / 5'9""",73kg / 161lbs,RW,2100000.0,45000.0,68,79,68,57,Ivan Cavaleiro
+"Williams
+RW LW ST",20,73,82,"Athletic Club
+2012 ~ 2017","186cm / 6'1""",71kg / 157lbs,RW,2400000.0,30000.0,71,70,80,61,Iñaki Williams Dannis
+"G. Cabral
+CB",28,73,73,"RC Celta
+2014 ~ 2016","182cm / 6'0""",80kg / 176lbs,CB,2200000.0,40000.0,65,46,65,42,Gustavo Cabral
+"Fontàs
+CB CDM",24,73,77,"RC Celta
+2013 ~ 2016","186cm / 6'1""",89kg / 196lbs,CB,2300000.0,35000.0,74,55,63,61,Andreu Fontàs Prat
+"Markel Bergara
+CM CDM",28,73,73,"Real Sociedad
+2007 ~ 2016","181cm / 5'11""",78kg / 172lbs,CDM,2500000.0,50000.0,79,64,75,63,Markel Bergara Larrañaga
+"Yoel
+GK",25,73,78,"Valencia CF
+2015 ~ 2017","186cm / 6'1""",78kg / 172lbs,GK,2500000.0,45000.0,30,25,44,362,Yoel Rodríguez Oterino
+"Bóveda
+RB",25,73,76,"SD Eibar
+2011 ~ 2015","180cm / 5'11""",77kg / 170lbs,RB,2400000.0,35000.0,75,75,80,48,Eneko Bóveda Altube
+"Raúl Navas
+CB",26,73,77,"SD Eibar
+2014 ~ 2018","185cm / 6'1""",83kg / 183lbs,CB,2500000.0,40000.0,57,22,76,52,Raúl Rodríguez Navas
+"Abraham
+LB LM",28,73,73,"SD Eibar
+2011 ~ 2017","175cm / 5'9""",71kg / 157lbs,LWB,2200000.0,40000.0,73,70,88,46,Abraham Minero Fernández
+"Ekiza
+CB",26,73,76,"SD Eibar
+2014 ~ 2015","180cm / 5'11""",73kg / 161lbs,CB,2500000.0,40000.0,68,25,68,47,Borja Ekiza Imaz
+"Dani García
+CDM",24,73,75,"SD Eibar
+2012 ~ 2016","180cm / 5'11""",75kg / 165lbs,CDM,2200000.0,35000.0,78,59,71,46,Daniel Garcia Carrillo
+"Pelegrín
+CB",35,73,73,"Elche CF
+2010 ~ 2015","185cm / 6'1""",77kg / 170lbs,CB,400000.0,20000.0,66,46,66,49,Sergio Pelegrín López
+"D. Suárez
+RB LB",26,73,77,"Elche CF
+2012 ~ 2015","172cm / 5'8""",75kg / 165lbs,RB,2500000.0,40000.0,71,64,91,51,Damián Suárez
+"F. Fajr
+CAM CM LM",25,73,78,"Elche CF
+2014 ~ 2017","178cm / 5'10""",72kg / 159lbs,CAM,3000000.0,35000.0,76,77,67,57,Fayçal Fajr
+"E. Roco
+CB",21,73,79,"Elche CF
+2010 ~ 2015","189cm / 6'2""",82kg / 181lbs,CB,1800000.0,30000.0,72,68,70,56,Enzo Roco
+"Licá
+RM",25,73,76,"Rayo Vallecano
+2013 ~ 2017","181cm / 5'11""",70kg / 154lbs,RW,2800000.0,35000.0,72,77,79,42,Luis Carlos Pereira Carneiro
+"J. Aquino
+RM",24,73,79,"Rayo Vallecano
+2013 ~ 2016","168cm / 5'6""",59kg / 130lbs,RW,2700000.0,35000.0,75,78,67,49,Javier Aquino
+"Nacho
+LB LM",25,73,74,"Rayo Vallecano
+2012 ~ 2015","174cm / 5'9""",69kg / 152lbs,LB,2400000.0,35000.0,59,62,86,53,José Ignacio Martínez García
+"Sergio Rico
+GK",20,73,82,"Sevilla FC
+2012 ~ 2017","194cm / 6'4""",88kg / 194lbs,GK,1900000.0,35000.0,22,25,31,363,Sergio Rico González
+"Dorado
+CB LB",31,73,73,"Villarreal CF
+2013 ~ 2015","180cm / 5'11""",69kg / 152lbs,CB,1600000.0,30000.0,71,40,35,59,José Antonio Dorado Ramírez
+"M. Angeleri
+CB RB",31,73,73,"Málaga CF
+2013 ~ 2016","182cm / 6'0""",76kg / 168lbs,CB,1600000.0,30000.0,68,51,79,43,Marcos Angeleri
+"F. Tissone
+CDM",27,73,73,"Málaga CF
+2013 ~ 2016","180cm / 5'11""",77kg / 170lbs,CDM,2200000.0,45000.0,74,64,85,49,Fernando Tissone
+"Miguel Torres
+RB LB CB",28,73,73,"Málaga CF
+2014 ~ 2018","184cm / 6'0""",74kg / 163lbs,CB,2200000.0,40000.0,66,57,78,49,Miguel Torres Gómez
+"R. Rosales
+RB",25,73,76,"Málaga CF
+2014 ~ 2017","174cm / 5'9""",70kg / 154lbs,RWB,2400000.0,35000.0,72,74,86,53,Roberto Rosales
+"Luis Alberto
+CAM CF",21,73,81,"Málaga CF
+2013 ~ 2018","182cm / 6'0""",72kg / 159lbs,CAM,2400000.0,30000.0,79,73,69,38,Luis Alberto Romero Alconchel
+"David Barral
+ST",31,73,73,"Levante UD
+2013 ~ 2015","183cm / 6'0""",78kg / 172lbs,ST,2200000.0,40000.0,60,75,75,47,David Barral Torres
+"Víctor
+ST CAM",29,73,73,"Levante UD
+2014 ~ 2017","180cm / 5'11""",80kg / 176lbs,CF,2600000.0,35000.0,72,75,72,41,Víctor Manuel Casadesús Castaño
+"N. El Zhar
+CAM RM LM",27,73,73,"Levante UD
+2011 ~ 2016","175cm / 5'9""",66kg / 146lbs,RW,2900000.0,45000.0,70,84,66,49,Nabil El Zhar
+"Rafael Martins
+ST LW RW",25,73,75,"Levante UD
+2014 ~ 2017","177cm / 5'10""",74kg / 163lbs,ST,3000000.0,35000.0,64,69,63,55,Clecildo Rafael Martins Ladislau
+"Morales
+LM RM RB",26,73,76,"Levante UD
+2011 ~ 2015","180cm / 5'11""",70kg / 154lbs,RW,2800000.0,40000.0,68,81,73,59,José Luis Morales Nogales
+"Casado
+LB",27,73,73,"UD Almería
+2015 ~ 2016","173cm / 5'8""",72kg / 159lbs,LWB,2300000.0,40000.0,67,68,86,64,José Manuel Casado Bizcocho
+"Michel
+RB",24,73,77,"UD Almería
+2008 ~ 2015","176cm / 5'9""",70kg / 154lbs,RB,2300000.0,35000.0,68,66,90,37,Michel Macedo Rocha Machado
+"S. Dubarbier
+LB LWB LM",28,73,73,"UD Almería
+2013 ~ 2016","178cm / 5'10""",77kg / 170lbs,LB,2200000.0,40000.0,66,76,88,48,Sebastián Dubarbier
+"Wellington Silva
+RM LM",21,73,79,"UD Almería
+2011 ~ 2015","170cm / 5'7""",68kg / 150lbs,RW,2100000.0,30000.0,70,79,56,50,Wellington Alves da Silva
+"Julián
+GK",23,73,78,"UD Almería
+2012 ~ 2016","196cm / 6'5""",95kg / 209lbs,GK,2100000.0,35000.0,24,25,38,366,Julián Cuesta Díaz
+"T. Bifouma
+ST LM RM",22,73,78,"UD Almería
+2011 ~ 2017","180cm / 5'11""",74kg / 163lbs,ST,2400000.0,30000.0,58,71,73,52,Thievy Bifouma
+"T. Hemed
+ST LW",27,73,73,"UD Almería
+2014 ~ 2016","186cm / 6'1""",80kg / 176lbs,ST,2900000.0,45000.0,58,63,53,50,Tomer Hemed
+"Bebé
+ST RW RM",23,73,77,"Córdoba CF
+2014 ~ 2018","190cm / 6'3""",83kg / 183lbs,ST,2700000.0,35000.0,64,76,76,43,Tiago Manuel Dias Correia
+"F. Rossi
+CDM CM",23,73,77,"Córdoba CF
+2011 ~ 2016","177cm / 5'10""",65kg / 143lbs,CDM,2000000.0,35000.0,82,64,65,80,Fausto Rossi
+"Fran Rico
+CM CDM",26,73,77,"Granada CF
+2011 ~ 2020","178cm / 5'10""",72kg / 159lbs,CM,2800000.0,20000.0,80,63,69,46,Francisco Rico Castaño
+"C. Chambers
+RB CB",19,72,84,"Arsenal
+2014 ~ 2019","183cm / 6'0""",66kg / 146lbs,RB,1600000.0,25000.0,72,70,73,51,Calum Chambers
+"P. Senderos
+CB",29,72,72,"Aston Villa
+2014 ~ 2016","190cm / 6'3""",84kg / 185lbs,CB,2000000.0,20000.0,57,30,67,62,Philippe Senderos
+"A. Hutton
+RB",29,72,72,"Aston Villa
+2011 ~ 2017","185cm / 6'1""",72kg / 159lbs,CB,2000000.0,20000.0,61,67,85,54,Alan Hutton
+"S. Sinclair
+LM LW",25,72,75,"Aston Villa
+2015 ~ 2019","177cm / 5'10""",69kg / 152lbs,RW,2800000.0,20000.0,64,82,82,57,Scott Sinclair
+"A. Westwood
+CDM CM",24,72,78,"Aston Villa
+2012 ~ 2017","175cm / 5'9""",67kg / 148lbs,CM,2200000.0,20000.0,82,56,79,46,Ashley Westwood
+"T. Kalas
+CB RB",21,72,80,"Chelsea
+2010 ~ 2017","182cm / 6'0""",73kg / 161lbs,CB,1800000.0,30000.0,65,61,74,34,Tomáš Kalas
+"T. Hibbert
+RB",33,72,72,"Everton
+2000 ~ 2016","173cm / 5'8""",71kg / 157lbs,CB,1100000.0,15000.0,57,21,77,64,Tony Hibbert
+"E. Rivière
+ST",24,72,76,"Newcastle United
+2014 ~ 2020","182cm / 6'0""",76kg / 168lbs,ST,2900000.0,20000.0,66,69,67,56,Emmanuel Rivière
+"M. Phillips
+RM",23,72,78,"Queens Park Rangers
+2013 ~ 2017","183cm / 6'0""",75kg / 165lbs,RW,2400000.0,20000.0,68,74,69,61,Matt Phillips
+"J. Hoilett
+LM RM",24,72,77,"Queens Park Rangers
+2012 ~ 2016","173cm / 5'8""",70kg / 154lbs,RW,2700000.0,20000.0,66,75,70,45,Junior Hoilett
+"M. Yoshida
+CB",25,72,74,"Southampton
+2012 ~ 2018","189cm / 6'2""",78kg / 172lbs,CB,2400000.0,20000.0,60,56,75,50,Maya Yoshida
+"C. Kouyaté
+CDM CM CB",24,72,78,"West Ham United
+2014 ~ 2018","193cm / 6'4""",78kg / 172lbs,CB,2200000.0,20000.0,66,61,92,48,Cheikhou Kouyaté
+"D. Sakho
+ST",24,72,78,"West Ham United
+2014 ~ 2018","184cm / 6'0""",79kg / 174lbs,ST,2900000.0,20000.0,53,69,62,55,Diafra Sakho
+"M. Upson
+CB LB",35,72,72,"Leicester City
+2014 ~ 2015","185cm / 6'1""",72kg / 159lbs,CB,400000.0,15000.0,62,40,66,46,Matthew Upson
+"D. Simpson
+RB RWB",27,72,72,"Leicester City
+2014 ~ 2017","177cm / 5'10""",77kg / 170lbs,RB,2300000.0,25000.0,68,67,79,53,Danny Simpson
+"S. Larsson
+CM RM",29,72,72,"Sunderland
+2011 ~ 2017","178cm / 5'10""",70kg / 154lbs,RM,2300000.0,20000.0,74,73,79,49,Sebastian Larsson
+"L. Bridcutt
+CDM CM",25,72,76,"Sunderland
+2014 ~ 2017","171cm / 5'7""",76kg / 168lbs,RWB,2300000.0,20000.0,75,72,88,57,Liam Bridcutt
+"C. Wickham
+ST LM",21,72,77,"Sunderland
+2011 ~ 2019","189cm / 6'2""",90kg / 198lbs,ST,2400000.0,20000.0,62,73,74,47,Connor Wickham
+"B. Myhill
+GK",31,72,72,"West Bromwich Albion
+2010 ~ 2015","191cm / 6'3""",92kg / 203lbs,GK,2200000.0,20000.0,38,25,29,358,Boaz Myhill
+"S. Pocognoli
+LB",26,72,72,"West Bromwich Albion
+2014 ~ 2017","183cm / 6'0""",78kg / 172lbs,LWB,2500000.0,25000.0,68,73,84,50,Sébastien Pocognoli
+"V. Anichebe
+ST",26,72,72,"West Bromwich Albion
+2013 ~ 2016","185cm / 6'1""",80kg / 176lbs,ST,3100000.0,30000.0,68,74,69,54,Victor Anichebe
+"C. McManaman
+RW ST RM",23,72,77,"West Bromwich Albion
+2015 ~ 2018","174cm / 5'9""",71kg / 157lbs,RW,2700000.0,20000.0,66,80,61,57,Callum McManaman
+"T. Heaton
+GK",28,72,72,"Burnley
+2013 ~ 2017","188cm / 6'2""",86kg / 190lbs,GK,2500000.0,25000.0,27,25,36,361,Tom Heaton
+"Lee Chung Yong
+RM LM CAM",25,72,75,"Crystal Palace
+2015 ~ 2018","178cm / 5'10""",60kg / 132lbs,RM,2800000.0,20000.0,72,74,80,30,Chung-Yong Lee
+"J. Ledley
+CM CAM CDM",27,72,72,"Crystal Palace
+2014 ~ 2017","183cm / 6'0""",73kg / 161lbs,LM,2700000.0,25000.0,76,70,87,52,Joe Ledley
+"W. Hennessey
+GK",27,72,72,"Crystal Palace
+2014 ~ 2017","198cm / 6'6""",90kg / 198lbs,GK,2400000.0,25000.0,25,25,29,371,Wayne Hennessey
+"P. Bardsley
+RB LB",29,72,72,"Stoke City
+2014 ~ 2017","180cm / 5'11""",74kg / 163lbs,CB,2000000.0,20000.0,67,60,78,40,Phil Bardsley
+"M. Wilson
+CB LB CDM",26,72,72,"Stoke City
+2010 ~ 2016","188cm / 6'2""",80kg / 176lbs,RB,2500000.0,25000.0,70,62,84,44,Marc Wilson
+"Marc Muniesa
+CB LB",22,72,78,"Stoke City
+2013 ~ 2017","179cm / 5'10""",72kg / 159lbs,CB,1800000.0,20000.0,75,62,74,62,Marc Muniesa Martínez
+"J. Butland
+GK",21,72,78,"Stoke City
+2013 ~ 2019","196cm / 6'5""",95kg / 209lbs,GK,1900000.0,20000.0,35,20,42,358,Jack Butland
+"A. Elmohamady
+RWB RM RB",26,72,72,"Hull City
+2013 ~ 2016","182cm / 6'0""",78kg / 172lbs,RM,2500000.0,25000.0,76,74,83,42,Ahmed Elmohamady
+"K. Naughton
+RB LB",25,72,73,"Swansea City
+2015 ~ 2018","180cm / 5'11""",73kg / 161lbs,RB,2400000.0,20000.0,72,63,74,46,Kyle Naughton
+"F. Modesto
+CB RB",35,72,72,"Sporting Club Bastia
+2013 ~ 2015","183cm / 6'0""",80kg / 176lbs,CB,400000.0,15000.0,67,48,54,55,François Modesto
+"G. Gillet
+CM CDM",30,72,72,"Sporting Club Bastia
+2008 ~ 2016","186cm / 6'1""",81kg / 179lbs,ST,2100000.0,20000.0,73,69,83,55,Guillaume Gillet
+"D. Diakité
+RB RW",29,72,72,"Sporting Club Bastia
+2013 ~ 2015","175cm / 5'9""",69kg / 152lbs,CB,2000000.0,20000.0,67,56,76,66,Drissa Diakité
+"G. Sio
+ST",25,72,77,"Sporting Club Bastia
+2013 ~ 2017","181cm / 5'11""",77kg / 170lbs,LM,3000000.0,20000.0,73,73,80,60,Giovanni Sio
+"A. Aréola
+GK",21,72,81,"Sporting Club Bastia
+Jun 30, 2016 On loan","191cm / 6'3""",88kg / 194lbs,GK,1900000.0,20000.0,32,25,28,358,Alphonse Aréola

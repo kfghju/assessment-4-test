@@ -1,0 +1,3962 @@
+﻿Name,Age,Overall rating,Potential,Team & Contract,Height,Weight,Best position,Value,Wage,Short passing,Dribbling,Stamina,Total goalkeeping,Full Name
+"L. Messi
+RW ST CF",33,93,93,"Paris Saint-Germain
+2021 ~ 2023","170cm / 5'7""",72kg / 159lbs,RW,103500000.0,320000.0,91,96,72,54,Lionel Messi
+"R. Lewandowski
+ST",31,92,92,"FC Bayern München
+2014 ~ 2023","185cm / 6'1""",81kg / 179lbs,ST,124500000.0,270000.0,85,85,76,51,Robert Lewandowski
+"Cristiano Ronaldo
+ST LW",35,92,92,"Juventus
+2018 ~ 2022","187cm / 6'2""",83kg / 183lbs,ST,63000000.0,220000.0,82,88,84,58,C. Ronaldo dos Santos Aveiro
+"K. De Bruyne
+CM CAM CF",29,91,91,"Manchester City
+2015 ~ 2025","181cm / 5'11""",70kg / 154lbs,CM,127500000.0,370000.0,94,88,89,56,Kevin De Bruyne
+"Neymar Jr
+LW CAM",28,91,91,"Paris Saint-Germain
+2017 ~ 2025","175cm / 5'9""",68kg / 150lbs,LW,132000000.0,270000.0,87,95,80,59,Neymar da Silva Santos Jr.
+"J. Oblak
+GK",27,91,93,"Atlético Madrid
+2014 ~ 2023","188cm / 6'2""",87kg / 192lbs,GK,120000000.0,125000.0,43,12,41,437,Jan Oblak
+"V. van Dijk
+CB",28,90,91,"Liverpool
+2018 ~ 2025","193cm / 6'4""",92kg / 203lbs,CB,113000000.0,210000.0,79,70,73,58,Virgil van Dijk
+"M. Salah
+RW",28,90,90,"Liverpool
+2017 ~ 2023","175cm / 5'9""",71kg / 157lbs,RW,120500000.0,250000.0,84,90,85,62,Mohamed Salah
+"K. Mbappé
+ST LW",21,90,95,"Paris Saint-Germain
+2018 ~ 2022","178cm / 5'10""",73kg / 161lbs,ST,185500000.0,160000.0,83,92,86,42,Kylian Mbappé
+"M. Neuer
+GK",34,90,90,"FC Bayern München
+2011 ~ 2023","193cm / 6'4""",93kg / 205lbs,GK,20500000.0,135000.0,60,30,43,444,Manuel Neuer
+"M. ter Stegen
+GK",28,90,92,"FC Barcelona
+2014 ~ 2025","187cm / 6'2""",85kg / 187lbs,GK,102000000.0,260000.0,61,21,35,439,Marc-André ter Stegen
+"Alisson
+GK",27,89,90,"Liverpool
+2018 ~ 2027","191cm / 6'3""",91kg / 201lbs,GK,88000000.0,155000.0,45,27,32,435,Alisson Ramses Becker
+"H. Son
+LM CF LW",27,89,89,"Tottenham Hotspur
+2015 ~ 2025","183cm / 6'0""",78kg / 172lbs,LM,110000000.0,210000.0,84,89,89,53,Heung Min Son
+"H. Kane
+ST",26,89,89,"Tottenham Hotspur
+2010 ~ 2024","188cm / 6'2""",89kg / 196lbs,ST,114500000.0,230000.0,84,81,84,54,Harry Kane
+"K. Navas
+GK",33,89,89,"Paris Saint-Germain
+2019 ~ 2024","185cm / 6'1""",80kg / 176lbs,GK,33500000.0,135000.0,30,16,39,427,Keylor Navas
+"J. Kimmich
+CDM RB",25,89,90,"FC Bayern München
+2015 ~ 2025","177cm / 5'10""",75kg / 165lbs,CDM,110000000.0,150000.0,87,83,95,60,Joshua Kimmich
+"Sergio Ramos
+CB",34,89,89,"Real Madrid
+2005 ~ 2021","184cm / 6'0""",82kg / 181lbs,CB,33500000.0,300000.0,82,65,81,46,Sergio Ramos García
+"K. Benzema
+CF ST",32,89,89,"Real Madrid
+2009 ~ 2023","185cm / 6'1""",81kg / 179lbs,CF,83500000.0,350000.0,86,87,78,41,Karim Benzema
+"T. Courtois
+GK",28,89,91,"Real Madrid
+2018 ~ 2026","199cm / 6'6""",96kg / 212lbs,GK,88000000.0,250000.0,33,13,38,421,Thibaut Courtois
+"Casemiro
+CDM",28,89,89,"Real Madrid
+2013 ~ 2025","185cm / 6'1""",84kg / 185lbs,CDM,90500000.0,310000.0,84,69,89,67,Carlos Henrique Venancio Casimiro
+"N. Kanté
+CDM CM",29,88,88,"Chelsea
+2016 ~ 2023","168cm / 5'6""",70kg / 154lbs,CDM,78000000.0,190000.0,85,79,96,54,N'Golo Kanté
+"S. Mané
+LW",28,88,88,"Liverpool
+2016 ~ 2023","175cm / 5'9""",69kg / 152lbs,LW,92000000.0,230000.0,84,90,86,56,Sadio Mané
+"Ederson
+GK",26,88,91,"Manchester City
+2017 ~ 2026","188cm / 6'2""",86kg / 190lbs,GK,92000000.0,195000.0,57,23,41,436,Ederson Santana de Moraes
+"Bruno Fernandes
+CAM",25,88,91,"Manchester United
+2020 ~ 2025","179cm / 5'10""",69kg / 152lbs,CAM,121000000.0,240000.0,91,83,93,63,Bruno Miguel Borges Fernandes
+"K. Koulibaly
+CB",29,88,88,"Napoli
+2014 ~ 2023","187cm / 6'2""",89kg / 196lbs,CB,76500000.0,140000.0,74,69,70,43,Kalidou Koulibaly
+"T. Kroos
+CM",30,88,88,"Real Madrid
+2014 ~ 2023","183cm / 6'0""",76kg / 168lbs,CM,87500000.0,310000.0,93,80,75,51,Toni Kroos
+"Fabinho
+CDM CB",26,87,89,"Liverpool
+2018 ~ 2026","188cm / 6'2""",78kg / 172lbs,CDM,88500000.0,155000.0,85,76,88,47,Fábio Henrique Tavares
+"A. Robertson
+LB",26,87,88,"Liverpool
+2017 ~ 2026","178cm / 5'10""",64kg / 141lbs,LB,85500000.0,155000.0,82,81,95,50,Andrew Robertson
+"S. Agüero
+ST",32,87,87,"Manchester City
+2011 ~ 2021","173cm / 5'8""",70kg / 154lbs,ST,64500000.0,240000.0,80,86,62,59,Sergio Agüero
+"R. Sterling
+LW RW",25,87,88,"Manchester City
+2015 ~ 2023","170cm / 5'7""",69kg / 152lbs,LW,95000000.0,230000.0,84,87,79,63,Raheem Sterling
+"H. Lloris
+GK",33,87,87,"Tottenham Hotspur
+2012 ~ 2022","188cm / 6'2""",82kg / 181lbs,GK,26000000.0,125000.0,50,10,41,412,Hugo Lloris
+"J. Vardy
+ST",33,87,87,"Leicester City
+2012 ~ 2023","179cm / 5'10""",74kg / 163lbs,ST,51000000.0,170000.0,70,78,77,62,Jamie Vardy
+"Á. Di María
+RW LW",32,87,87,"Paris Saint-Germain
+2015 ~ 2022","180cm / 5'11""",69kg / 152lbs,RW,63000000.0,160000.0,83,88,78,51,Ángel Di María
+"Marquinhos
+CB CDM",26,87,90,"Paris Saint-Germain
+2013 ~ 2024","183cm / 6'0""",75kg / 165lbs,CB,92500000.0,135000.0,83,68,82,47,Marcos Aoás Corrêa
+"T. Müller
+CAM RM RW",30,87,87,"FC Bayern München
+2008 ~ 2023","185cm / 6'1""",76kg / 168lbs,CAM,77000000.0,140000.0,84,76,86,52,Thomas Müller
+"L. Goretzka
+CM CDM",25,87,88,"FC Bayern München
+2018 ~ 2026","189cm / 6'2""",82kg / 181lbs,CM,94500000.0,130000.0,86,84,88,56,Leon Goretzka
+"M. Hummels
+CB",31,87,87,"Borussia Dortmund
+2019 ~ 2022","191cm / 6'3""",96kg / 212lbs,CB,54500000.0,100000.0,82,69,65,42,Mats Hummels
+"J. Sancho
+RM CF LM",20,87,92,"Borussia Dortmund
+2017 ~ 2023","180cm / 5'11""",76kg / 168lbs,CAM,118500000.0,82000.0,87,92,77,52,Jadon Sancho
+"E. Haaland
+ST",19,87,93,"Borussia Dortmund
+2020 ~ 2024","194cm / 6'4""",88kg / 194lbs,ST,122500000.0,72000.0,77,77,80,52,Erling Haaland
+"S. Handanovič
+GK",35,87,87,"Inter
+2012 ~ 2022","193cm / 6'4""",92kg / 203lbs,GK,9000000.0,84000.0,42,18,41,418,Samir Handanovič
+"W. Szczęsny
+GK",30,87,87,"Juventus
+2017 ~ 2024","195cm / 6'5""",90kg / 198lbs,GK,53000000.0,105000.0,32,11,45,416,Wojciech Szczęsny
+"P. Dybala
+CF CAM",26,87,88,"Juventus
+2015 ~ 2022","177cm / 5'10""",75kg / 165lbs,CAM,95000000.0,160000.0,87,91,78,26,Paulo Dybala
+"C. Immobile
+ST",30,87,87,"Lazio
+2016 ~ 2025","185cm / 6'1""",85kg / 187lbs,ST,78000000.0,125000.0,80,83,78,47,Ciro Immobile
+"L. Suárez
+ST",33,87,87,"Atlético Madrid
+2020 ~ 2022","182cm / 6'0""",83kg / 183lbs,ST,51000000.0,115000.0,83,83,78,153,Luis Suárez
+"L. Modrić
+CM",34,87,87,"Real Madrid
+2012 ~ 2022","172cm / 5'8""",66kg / 146lbs,CM,36500000.0,260000.0,91,85,83,52,Luka Modrić
+"J. Henderson
+CDM CM",30,86,86,"Liverpool
+2011 ~ 2025","182cm / 6'0""",80kg / 176lbs,CDM,57000000.0,140000.0,86,78,91,49,Jordan Henderson
+"T. Alexander-Arnold
+RB",21,86,91,"Liverpool
+2015 ~ 2025","180cm / 5'11""",69kg / 152lbs,RB,97500000.0,100000.0,85,77,87,56,Trent Alexander-Arnold
+"A. Laporte
+CB",26,86,89,"Manchester City
+2018 ~ 2024","191cm / 6'3""",85kg / 187lbs,CB,79000000.0,185000.0,82,63,72,45,Aymeric Laporte
+"Bernardo Silva
+CAM CM RW",25,86,87,"Manchester City
+2017 ~ 2025","173cm / 5'8""",64kg / 141lbs,LM,81000000.0,195000.0,86,92,93,54,Bernardo Mota Carvalho e Silva
+"Rodri
+CDM",24,86,89,"Manchester City
+2019 ~ 2024","191cm / 6'3""",82kg / 181lbs,CDM,84000000.0,160000.0,85,76,87,49,Rodrigo Hernández Cascante
+"De Gea
+GK",29,86,86,"Manchester United
+2011 ~ 2023","192cm / 6'4""",82kg / 181lbs,GK,46500000.0,150000.0,48,18,43,413,David De Gea Quintana
+"P. Pogba
+CM LM",27,86,86,"Manchester United
+2016 ~ 2022","191cm / 6'3""",84kg / 185lbs,CM,72000000.0,190000.0,86,88,75,20,Paul Pogba
+"M. Verratti
+CM CDM",27,86,86,"Paris Saint-Germain
+2012 ~ 2024","165cm / 5'5""",60kg / 132lbs,CM,72000000.0,135000.0,90,90,76,64,Marco Verratti
+"S. Gnabry
+RM LM RW",24,86,88,"FC Bayern München
+2017 ~ 2023","176cm / 5'9""",77kg / 170lbs,RM,88000000.0,110000.0,82,88,78,50,Serge Gnabry
+"K. Coman
+LM RM LW",24,86,89,"FC Bayern München
+2015 ~ 2023","180cm / 5'11""",76kg / 168lbs,CAM,93000000.0,110000.0,80,89,69,21,Kingsley Coman
+"R. Lukaku
+ST",27,86,86,"Inter
+2019 ~ 2024","191cm / 6'3""",94kg / 207lbs,ST,73500000.0,175000.0,77,78,73,54,Romelu Lukaku
+"M. Škriniar
+CB",25,86,88,"Inter
+2017 ~ 2023","188cm / 6'2""",80kg / 176lbs,CB,75500000.0,140000.0,74,67,77,55,Milan Škriniar
+"G. Chiellini
+CB",35,86,86,"Juventus
+2005 ~ 2023","187cm / 6'2""",85kg / 187lbs,CB,18000000.0,88000.0,65,59,54,15,Giorgio Chiellini
+"G. Donnarumma
+GK",21,86,92,"AC Milan
+2015 ~ 2021","196cm / 6'5""",90kg / 198lbs,GK,88500000.0,37000.0,36,28,34,419,Gianluigi Donnarumma
+"Piqué
+CB",33,86,86,"FC Barcelona
+2008 ~ 2024","194cm / 6'4""",85kg / 187lbs,CB,32500000.0,220000.0,81,63,69,58,Gerard Piqué Bernabeu
+"Jordi Alba
+LB LM",31,86,86,"FC Barcelona
+2012 ~ 2024","170cm / 5'7""",68kg / 150lbs,LB,49500000.0,220000.0,85,81,87,60,Jordi Alba Ramos
+"Sergio Busquets
+CDM CM",31,86,86,"FC Barcelona
+2008 ~ 2023","189cm / 6'2""",76kg / 168lbs,CDM,47500000.0,220000.0,86,81,80,48,Sergio Busquets Burgos
+"A. Griezmann
+ST LW RW",29,86,86,"FC Barcelona
+2019 ~ 2024","176cm / 5'9""",73kg / 161lbs,ST,68000000.0,270000.0,85,85,86,63,Antoine Griezmann
+"F. de Jong
+CM CDM CB",23,86,91,"FC Barcelona
+2019 ~ 2026","180cm / 5'11""",74kg / 163lbs,CM,102000000.0,210000.0,90,87,90,49,Frenkie de Jong
+"E. Hazard
+LW",29,86,86,"Real Madrid
+2019 ~ 2024","175cm / 5'9""",74kg / 163lbs,LW,66500000.0,270000.0,85,92,77,45,Eden Hazard
+"Carvajal
+RB",28,86,86,"Real Madrid
+2013 ~ 2025","173cm / 5'8""",73kg / 161lbs,RB,61500000.0,230000.0,83,78,89,65,Daniel Carvajal Ramos
+"David Silva
+CAM CM",34,86,86,"Real Sociedad
+2020 ~ 2022","173cm / 5'8""",67kg / 148lbs,CAM,32000000.0,58000.0,92,86,70,46,David Josué Jiménez Silva
+"A. Gómez
+CAM CF ST",32,86,86,"Sevilla FC
+2021 ~ 2024","167cm / 5'6""",68kg / 150lbs,CAM,54000000.0,55000.0,85,85,75,46,Alejandro Gómez
+"P. Aubameyang
+ST LW",31,85,85,"Arsenal
+2018 ~ 2023","187cm / 6'2""",80kg / 176lbs,ST,45500000.0,145000.0,77,79,79,48,Pierre-Emerick Aubameyang
+"Thiago Silva
+CB",35,85,85,"Chelsea
+2020 ~ 2022","183cm / 6'0""",79kg / 174lbs,CB,14500000.0,95000.0,80,67,71,45,Thiago Emiliano da Silva
+"Thiago
+CM CDM",29,85,85,"Liverpool
+2020 ~ 2024","174cm / 5'9""",70kg / 154lbs,CM,52500000.0,150000.0,89,90,74,46,Thiago Alcântara
+"Roberto Firmino
+CF",28,85,85,"Liverpool
+2015 ~ 2023","181cm / 5'11""",76kg / 168lbs,CF,55000000.0,160000.0,84,89,87,44,Roberto Firmino Barbosa de Oliveira
+"R. Mahrez
+RW RM",29,85,85,"Manchester City
+2018 ~ 2023","179cm / 5'10""",67kg / 148lbs,RW,53000000.0,210000.0,80,91,76,54,Riyad Mahrez
+"João Cancelo
+RB LB",26,85,87,"Manchester City
+2019 ~ 2025","182cm / 6'0""",74kg / 163lbs,RM,61000000.0,170000.0,85,85,90,58,João Pedro Cavaco Cancelo
+"Rúben Dias
+CB",23,85,89,"Manchester City
+2020 ~ 2027","187cm / 6'2""",82kg / 181lbs,CB,69500000.0,145000.0,80,64,89,47,Rúben Santos Gato Alves Dias
+"M. Rashford
+LM ST RM",22,85,91,"Manchester United
+2014 ~ 2023","186cm / 6'1""",70kg / 154lbs,CAM,86500000.0,150000.0,82,88,87,53,Marcus Rashford
+"K. Schmeichel
+GK",33,85,85,"Leicester City
+2011 ~ 2023","189cm / 6'2""",89kg / 196lbs,GK,17500000.0,100000.0,44,12,34,415,Kasper Schmeichel
+"Ricardo Pereira
+RB RM",26,85,85,"Leicester City
+2018 ~ 2023","175cm / 5'9""",70kg / 154lbs,RB,53500000.0,120000.0,83,82,87,65,Ricardo Barbosa Pereira
+"L. Sané
+RM LM",24,85,88,"FC Bayern München
+2020 ~ 2025","183cm / 6'0""",80kg / 176lbs,RM,73500000.0,100000.0,81,88,68,52,Leroy Sané
+"K. Casteels
+GK",28,85,86,"VfL Wolfsburg
+2015 ~ 2024","197cm / 6'6""",86kg / 190lbs,GK,43000000.0,63000.0,35,14,44,419,Koen Casteels
+"P. Gulácsi
+GK",30,85,85,"RB Leipzig
+2015 ~ 2025","191cm / 6'3""",86kg / 190lbs,GK,36000000.0,65000.0,35,19,35,421,Péter Gulácsi
+"S. de Vrij
+CB",28,85,85,"Inter
+2018 ~ 2023","189cm / 6'2""",78kg / 172lbs,CB,46500000.0,145000.0,75,66,66,52,Stefan de Vrij
+"M. de Ligt
+CB",20,85,92,"Juventus
+2019 ~ 2024","189cm / 6'2""",89kg / 196lbs,CB,99000000.0,81000.0,75,66,76,56,Matthijs de Ligt
+"Luis Alberto
+CAM CM CF",27,85,85,"Lazio
+2016 ~ 2025","183cm / 6'0""",74kg / 163lbs,CAM,57500000.0,100000.0,90,86,75,43,Luis Alberto Romero Alconchel
+"S. Milinković-Savić
+CM CDM CAM",25,85,88,"Lazio
+2015 ~ 2024","191cm / 6'3""",76kg / 168lbs,CM,71000000.0,95000.0,85,86,85,47,Sergej Milinković-Savić
+"D. Mertens
+CF ST CAM",33,85,85,"Napoli
+2013 ~ 2022","169cm / 5'7""",61kg / 134lbs,CF,34500000.0,115000.0,82,88,70,39,Dries Mertens
+"L. Insigne
+LW CF",29,85,85,"Napoli
+2010 ~ 2022","163cm / 5'4""",59kg / 130lbs,LW,53000000.0,120000.0,83,90,70,45,Lorenzo Insigne
+"Koke
+CM CDM",28,85,85,"Atlético Madrid
+2011 ~ 2024","176cm / 5'9""",75kg / 165lbs,CM,54000000.0,90000.0,86,80,93,54,Jorge Resurrección
+"R. Varane
+CB",27,85,87,"Real Madrid
+2011 ~ 2022","191cm / 6'3""",81kg / 179lbs,CB,57500000.0,200000.0,77,55,75,50,Raphaël Varane
+"Parejo
+CM",31,85,85,"Villarreal CF
+2020 ~ 2024","182cm / 6'0""",74kg / 163lbs,CM,44000000.0,59000.0,92,82,78,48,Daniel Parejo Muñoz
+"B. Leno
+GK",28,84,85,"Arsenal
+2018 ~ 2023","190cm / 6'3""",82kg / 181lbs,GK,33500000.0,95000.0,50,16,43,413,Bernd Leno
+"H. Ziyech
+RW CAM",27,84,84,"Chelsea
+2020 ~ 2025","181cm / 5'11""",65kg / 143lbs,RW,45000000.0,140000.0,86,83,79,51,Hakim Ziyech
+"T. Werner
+ST LW",24,84,87,"Chelsea
+2020 ~ 2025","180cm / 5'11""",76kg / 168lbs,ST,58500000.0,125000.0,79,84,83,50,Timo Werner
+"L. Digne
+LB",26,84,85,"Everton
+2018 ~ 2023","178cm / 5'10""",74kg / 163lbs,LB,45500000.0,110000.0,81,78,86,46,Lucas Digne
+"G. Wijnaldum
+CM CDM",29,84,84,"Liverpool
+2016 ~ 2021","175cm / 5'9""",69kg / 152lbs,CM,41000000.0,135000.0,87,85,93,54,Georginio Wijnaldum
+"Fernandinho
+CDM CB",35,84,84,"Manchester City
+2013 ~ 2022","179cm / 5'10""",67kg / 148lbs,CDM,12000000.0,110000.0,83,76,69,48,Fernando Luiz Rosa
+"İ. Gündoğan
+CM CDM",29,84,84,"Manchester City
+2016 ~ 2023","180cm / 5'11""",80kg / 176lbs,CM,41000000.0,180000.0,88,86,74,48,İlkay Gündoğan
+"K. Walker
+RB",30,84,84,"Manchester City
+2017 ~ 2024","183cm / 6'0""",83kg / 183lbs,RB,36500000.0,155000.0,79,79,87,57,Kyle Walker
+"E. Cavani
+ST",33,84,84,"Manchester United
+2020 ~ 2022","185cm / 6'1""",77kg / 170lbs,ST,27000000.0,175000.0,76,75,84,53,Edinson Cavani
+"T. Alderweireld
+CB",31,84,84,"Tottenham Hotspur
+2015 ~ 2023","186cm / 6'1""",81kg / 179lbs,CB,29000000.0,120000.0,77,62,78,66,Toby Alderweireld
+"W. Ndidi
+CDM CM",23,84,87,"Leicester City
+2017 ~ 2024","183cm / 6'0""",74kg / 163lbs,CB,52000000.0,95000.0,78,72,91,54,Wilfred Ndidi
+"R. Jiménez
+ST",29,84,84,"Wolverhampton Wanderers
+2019 ~ 2024","188cm / 6'2""",81kg / 179lbs,ST,42000000.0,140000.0,81,84,86,55,Raúl Jiménez
+"M. Depay
+CF LW CAM",26,84,85,"Olympique Lyonnais
+2017 ~ 2021","176cm / 5'9""",78kg / 172lbs,CF,50500000.0,105000.0,81,85,78,50,Memphis Depay
+"W. Ben Yedder
+ST",29,84,84,"AS Monaco
+2019 ~ 2024","170cm / 5'7""",68kg / 150lbs,CF,42000000.0,90000.0,82,87,74,42,Wissam Ben Yedder
+"J. Boateng
+CB",31,84,84,"FC Bayern München
+2011 ~ 2021","190cm / 6'3""",94kg / 207lbs,CB,29000000.0,100000.0,77,64,60,45,Jérôme Boateng
+"M. Reus
+CAM CF",31,84,84,"Borussia Dortmund
+2012 ~ 2023","180cm / 5'11""",71kg / 157lbs,CAM,35000000.0,86000.0,85,85,67,61,Marco Reus
+"Y. Sommer
+GK",31,84,84,"Borussia Mönchengladbach
+2014 ~ 2023","183cm / 6'0""",79kg / 174lbs,GK,22500000.0,47000.0,40,15,45,414,Yann Sommer
+"F. Kostić
+LM LWB",27,84,84,"Eintracht Frankfurt
+2019 ~ 2023","184cm / 6'0""",84kg / 185lbs,LM,45000000.0,50000.0,78,85,90,64,Filip Kostić
+"André Silva
+ST",24,84,85,"Eintracht Frankfurt
+2020 ~ 2023","185cm / 6'1""",82kg / 181lbs,ST,53000000.0,47000.0,79,84,79,53,André Miguel Valente da Silva
+"M. Sabitzer
+CM CDM CAM",26,84,85,"RB Leipzig
+2014 ~ 2022","178cm / 5'10""",76kg / 168lbs,CM,49500000.0,81000.0,84,79,85,66,Marcel Sabitzer
+"J. Iličić
+CF ST",32,84,84,"Atalanta
+2017 ~ 2022","190cm / 6'3""",79kg / 174lbs,CAM,34000000.0,90000.0,86,88,65,52,Josip Iličić
+"M. Brozović
+CDM CM",27,84,84,"Inter
+2016 ~ 2022","181cm / 5'11""",68kg / 150lbs,CDM,39500000.0,125000.0,83,76,94,50,Marcelo Brozović
+"L. Martínez
+ST",22,84,89,"Inter
+2018 ~ 2023","174cm / 5'9""",81kg / 179lbs,ST,65500000.0,130000.0,78,85,77,48,Lautaro Martínez
+"L. Bonucci
+CB",33,84,84,"Juventus
+2018 ~ 2024","190cm / 6'3""",85kg / 187lbs,CB,20000000.0,105000.0,79,69,66,13,Leonardo Bonucci
+"Alex Sandro
+LB LM",29,84,84,"Juventus
+2015 ~ 2023","180cm / 5'11""",80kg / 176lbs,LB,37000000.0,110000.0,81,80,86,40,Alex Sandro Lobo Silva
+"Arthur
+CM",23,84,88,"Juventus
+2020 ~ 2024","171cm / 5'7""",73kg / 161lbs,CM,60000000.0,100000.0,88,87,76,55,Arthur Henrique Ramos Oliveira Melo
+"Z. Ibrahimović
+ST",38,84,84,"AC Milan
+2020 ~ 2022","195cm / 6'5""",95kg / 209lbs,ST,14500000.0,54000.0,80,80,54,59,Zlatan Ibrahimović
+"J. Giménez
+CB",25,84,88,"Atlético Madrid
+2013 ~ 2025","185cm / 6'1""",79kg / 174lbs,CB,52500000.0,71000.0,70,54,64,52,José María Giménez
+"Marcos Llorente
+CM RM ST",25,84,87,"Atlético Madrid
+2019 ~ 2027","184cm / 6'0""",74kg / 163lbs,CAM,55500000.0,78000.0,85,83,89,51,Marcos Llorente Moreno
+"N. Fekir
+CAM RM ST",26,84,85,"Real Betis Balompié
+2019 ~ 2023","173cm / 5'8""",75kg / 165lbs,CAM,49500000.0,42000.0,84,88,79,61,Nabil Fekir
+"Iago Aspas
+ST RW",32,84,84,"RC Celta
+2015 ~ 2023","176cm / 5'9""",67kg / 148lbs,ST,34000000.0,46000.0,80,87,69,62,Iago Aspas Juncal
+"Oyarzabal
+LW",23,84,89,"Real Sociedad
+2014 ~ 2024","181cm / 5'11""",79kg / 174lbs,CAM,63500000.0,47000.0,81,85,82,50,Mikel Oyarzabal Ugarte
+"Jesús Navas
+RB RM",34,84,84,"Sevilla FC
+2017 ~ 2024","172cm / 5'8""",60kg / 132lbs,RB,15500000.0,43000.0,81,84,81,55,Jesús Navas González
+"Gerard Moreno
+ST RM RW",28,84,84,"Villarreal CF
+2018 ~ 2027","180cm / 5'11""",77kg / 170lbs,ST,43000000.0,61000.0,79,85,79,56,Gerard Moreno Balagueró
+"T. Partey
+CM CDM",27,83,84,"Arsenal
+2020 ~ 2024","185cm / 6'1""",77kg / 170lbs,CDM,41500000.0,110000.0,87,84,86,49,Thomas Partey
+"M. Ødegaard
+CAM CM",21,83,89,"Arsenal
+Jun 30, 2021 On loan","178cm / 5'10""",68kg / 150lbs,CAM,58500000.0,135000.0,83,86,78,62,Martin Ødegaard
+"E. Martínez
+GK",27,83,85,"Aston Villa
+2020 ~ 2024","195cm / 6'5""",88kg / 194lbs,GK,33000000.0,64000.0,50,13,40,413,Emiliano Martínez
+"J. Grealish
+LW LM CAM",24,83,86,"Aston Villa
+2012 ~ 2025","180cm / 5'11""",68kg / 150lbs,CAM,49500000.0,82000.0,85,88,80,51,Jack Grealish
+"Azpilicueta
+RB CB RWB",30,83,83,"Chelsea
+2012 ~ 2022","178cm / 5'10""",77kg / 170lbs,RB,31500000.0,110000.0,79,68,79,43,César Azpilicueta Tanco
+"Jorginho
+CM CDM",28,83,83,"Chelsea
+2018 ~ 2023","180cm / 5'11""",68kg / 150lbs,CM,36500000.0,125000.0,90,79,85,56,Luiz Frello Filho Jorge
+"M. Kovačić
+CM CDM",26,83,84,"Chelsea
+2019 ~ 2024","176cm / 5'9""",80kg / 176lbs,CM,42500000.0,120000.0,90,89,79,34,Mateo Kovačić
+"K. Havertz
+CAM CF CM",21,83,91,"Chelsea
+2020 ~ 2025","188cm / 6'2""",82kg / 181lbs,CAM,81500000.0,88000.0,84,85,78,47,Kai Havertz
+"Allan
+CM CDM",29,83,83,"Everton
+2020 ~ 2023","175cm / 5'9""",74kg / 163lbs,CDM,35500000.0,115000.0,84,82,92,44,Allan Marques Loureiro
+"J. Matip
+CB",28,83,84,"Liverpool
+2016 ~ 2024","194cm / 6'4""",90kg / 198lbs,CB,34500000.0,115000.0,77,69,69,53,Joel Matip
+"J. Gomez
+CB",23,83,88,"Liverpool
+2015 ~ 2024","188cm / 6'2""",77kg / 170lbs,CB,49500000.0,95000.0,78,67,74,49,Joe Gomez
+"Gabriel Jesus
+ST",23,83,87,"Manchester City
+2016 ~ 2023","175cm / 5'9""",73kg / 161lbs,ST,52500000.0,150000.0,77,87,79,48,Gabriel Fernando de Jesus
+"P. Foden
+CAM LW CM",20,83,92,"Manchester City
+2016 ~ 2024","171cm / 5'7""",69kg / 152lbs,CAM,79500000.0,115000.0,84,85,76,52,Phil Foden
+"Alex Telles
+LB",27,83,83,"Manchester United
+2020 ~ 2024","181cm / 5'11""",71kg / 157lbs,LB,35000000.0,135000.0,82,78,88,58,Alex Nicolao Telles
+"A. Wan-Bissaka
+RB RWB",22,83,87,"Manchester United
+2019 ~ 2024","183cm / 6'0""",72kg / 159lbs,RWB,49500000.0,115000.0,75,81,81,39,Aaron Wan-Bissaka
+"P. Højbjerg
+CDM CM",24,83,87,"Tottenham Hotspur
+2020 ~ 2025","185cm / 6'1""",84kg / 185lbs,CDM,47500000.0,95000.0,83,76,88,50,Pierre-Emile Højbjerg
+"Y. Tielemans
+CM CDM",23,83,86,"Leicester City
+2019 ~ 2023","176cm / 5'9""",72kg / 159lbs,CM,49500000.0,95000.0,88,79,80,50,Youri Tielemans
+"Rui Patrício
+GK",32,83,83,"Wolverhampton Wanderers
+2018 ~ 2022","190cm / 6'3""",84kg / 185lbs,GK,18000000.0,83000.0,34,20,45,404,Rui Pedro dos Santos Patrício
+"M. Maignan
+GK",24,83,87,"Lille OSC
+2015 ~ 2022","191cm / 6'3""",91kg / 201lbs,GK,41000000.0,34000.0,55,30,39,413,Mike Maignan
+"A. Lopes
+GK",29,83,84,"Olympique Lyonnais
+2011 ~ 2023","184cm / 6'0""",81kg / 179lbs,GK,28000000.0,69000.0,32,15,36,402,Anthony Lopes
+"M. Icardi
+ST",27,83,83,"Paris Saint-Germain
+2020 ~ 2024","181cm / 5'11""",75kg / 165lbs,ST,39500000.0,115000.0,76,76,66,43,Mauro Icardi
+"Juan Bernat
+LB",27,83,83,"Paris Saint-Germain
+2018 ~ 2025","170cm / 5'7""",67kg / 148lbs,LB,35000000.0,95000.0,82,83,79,56,Juan Bernat Velasco
+"P. Kimpembe
+CB",24,83,87,"Paris Saint-Germain
+2015 ~ 2024","189cm / 6'2""",80kg / 176lbs,CB,47000000.0,82000.0,79,63,80,53,Presnel Kimpembe
+"D. Alaba
+CB LB",28,83,83,"FC Bayern München
+2010 ~ 2021","180cm / 5'11""",78kg / 172lbs,CB,31500000.0,95000.0,85,77,75,50,David Alaba
+"L. Hernández
+LB CB",24,83,86,"FC Bayern München
+2019 ~ 2024","184cm / 6'0""",79kg / 174lbs,CB,46000000.0,77000.0,74,65,75,49,Lucas Hernández
+"A. Witsel
+CDM CM",31,83,83,"Borussia Dortmund
+2018 ~ 2022","186cm / 6'1""",81kg / 179lbs,CDM,25500000.0,72000.0,90,78,78,36,Axel Witsel
+"T. Hazard
+LM CF",27,83,83,"Borussia Dortmund
+2019 ~ 2024","175cm / 5'9""",71kg / 157lbs,LM,38500000.0,79000.0,82,86,80,37,Thorgan Hazard
+"R. Guerreiro
+LB LM",26,83,83,"Borussia Dortmund
+2016 ~ 2023","170cm / 5'7""",71kg / 157lbs,CAM,36000000.0,72000.0,88,88,79,45,Raphaël Guerreiro
+"M. Ginter
+CB",26,83,84,"Borussia Mönchengladbach
+2017 ~ 2022","191cm / 6'3""",86kg / 190lbs,CB,37500000.0,52000.0,79,61,74,46,Matthias Ginter
+"L. Hrádecký
+GK",30,83,83,"Bayer 04 Leverkusen
+2018 ~ 2023","192cm / 6'4""",82kg / 181lbs,GK,24000000.0,64000.0,30,10,34,402,Lukáš Hrádecký
+"K. Trapp
+GK",29,83,83,"Eintracht Frankfurt
+2019 ~ 2024","189cm / 6'2""",84kg / 185lbs,GK,25000000.0,35000.0,25,10,45,407,Kevin Trapp
+"Angeliño
+LWB LM",23,83,86,"RB Leipzig
+2021 ~ 2025","175cm / 5'9""",69kg / 152lbs,LWB,46000000.0,58000.0,83,84,85,58,José Ángel Esmoris Tasende
+"D. Zapata
+ST",29,83,83,"Atalanta
+2020 ~ 2023","189cm / 6'2""",88kg / 194lbs,ST,36500000.0,87000.0,74,79,75,40,Duván Zapata
+"R. Gosens
+LM",25,83,83,"Atalanta
+2017 ~ 2022","183cm / 6'0""",76kg / 168lbs,LM,40500000.0,74000.0,80,80,86,64,Robin Gosens
+"C. Eriksen
+CAM CM",28,83,83,"Inter
+2020 ~ 2024","181cm / 5'11""",76kg / 168lbs,CAM,36500000.0,130000.0,88,77,82,43,Christian Eriksen
+"A. Hakimi
+RM",21,83,88,"Inter
+2020 ~ 2025","181cm / 5'11""",73kg / 161lbs,RM,56000000.0,90000.0,81,84,88,46,Achraf Hakimi
+"Morata
+ST",27,83,83,"Juventus
+Jun 30, 2022 On loan","190cm / 6'3""",84kg / 185lbs,ST,39500000.0,80000.0,80,84,77,22,Álvaro Borja Morata Martín
+"Lucas Leiva
+CDM",33,83,83,"Lazio
+2017 ~ 2022","179cm / 5'10""",78kg / 172lbs,CDM,18000000.0,75000.0,81,74,77,37,Lucas Pezzini Leiva
+"F. Acerbi
+CB",32,83,83,"Lazio
+2018 ~ 2023","192cm / 6'4""",88kg / 194lbs,CB,23500000.0,75000.0,75,65,83,53,Francesco Acerbi
+"K. Manolas
+CB",29,83,83,"Napoli
+2019 ~ 2024","189cm / 6'2""",83kg / 183lbs,CB,30500000.0,84000.0,60,54,69,49,Kostas Manolas
+"E. Džeko
+ST",34,83,83,"Roma
+2015 ~ 2022","193cm / 6'4""",80kg / 176lbs,ST,17500000.0,82000.0,77,76,75,63,Edin Džeko
+"S. Sirigu
+GK",33,83,83,"Torino
+2017 ~ 2022","192cm / 6'4""",85kg / 187lbs,GK,12000000.0,49000.0,23,15,34,402,Salvatore Sirigu
+"K. Trippier
+RB RWB RM",29,83,83,"Atlético Madrid
+2019 ~ 2023","173cm / 5'8""",69kg / 152lbs,RB,32000000.0,71000.0,80,74,87,54,Kieran Trippier
+"S. Savić
+CB",29,83,83,"Atlético Madrid
+2015 ~ 2024","187cm / 6'2""",80kg / 176lbs,CB,30500000.0,71000.0,73,47,53,66,Stefan Savić
+"Felipe
+CB",31,83,83,"Atlético Madrid
+2019 ~ 2022","190cm / 6'3""",84kg / 185lbs,CB,25000000.0,68000.0,73,57,68,50,Felipe Augusto de Almeida Monteiro
+"Y. Carrasco
+LM",26,83,83,"Atlético Madrid
+2020 ~ 2024","185cm / 6'1""",73kg / 161lbs,LM,39500000.0,74000.0,77,86,77,49,Yannick Carrasco
+"Saúl
+CM LM",25,83,86,"Atlético Madrid
+2013 ~ 2026","184cm / 6'0""",75kg / 165lbs,CM,47500000.0,71000.0,85,80,86,51,Saúl Ñíguez Esclápez
+"João Félix
+CF ST",20,83,93,"Atlético Madrid
+2019 ~ 2026","181cm / 5'11""",70kg / 154lbs,CAM,80500000.0,61000.0,80,87,75,66,João Félix Sequeira
+"Coutinho
+CAM LW CM",28,83,83,"FC Barcelona
+2018 ~ 2023","172cm / 5'8""",68kg / 150lbs,CAM,36500000.0,190000.0,82,89,74,48,Philippe Coutinho Correia
+"Sergi Roberto
+RB CM RM",28,83,83,"FC Barcelona
+2013 ~ 2022","178cm / 5'10""",68kg / 150lbs,RB,33000000.0,175000.0,84,78,92,66,Sergio Roberto Carnicer
+"C. Lenglet
+CB",25,83,87,"FC Barcelona
+2018 ~ 2026","186cm / 6'1""",81kg / 179lbs,CB,45500000.0,160000.0,78,57,75,48,Clément Lenglet
+"O. Dembélé
+RW RM",23,83,89,"FC Barcelona
+2017 ~ 2022","178cm / 5'10""",67kg / 148lbs,LM,57500000.0,175000.0,78,89,68,49,Ousmane Dembélé
+"Isco
+CAM CM LW",28,83,83,"Real Madrid
+2013 ~ 2022","176cm / 5'9""",79kg / 174lbs,CAM,36500000.0,190000.0,82,92,61,51,Francisco Román Alarcón Suárez
+"F. Mendy
+LB",25,83,88,"Real Madrid
+2019 ~ 2025","180cm / 5'11""",73kg / 161lbs,LWB,49500000.0,160000.0,80,80,89,51,Ferland Mendy
+"F. Valverde
+CM",21,83,89,"Real Madrid
+2016 ~ 2027","182cm / 6'0""",78kg / 172lbs,CM,58000000.0,135000.0,85,79,86,45,Federico Valverde
+"Yuri Berchiche
+LB",30,83,83,"Athletic Club
+2018 ~ 2022","181cm / 5'11""",80kg / 176lbs,LB,31500000.0,35000.0,82,72,86,53,Yuri Berchiche Izeta
+"Muniain
+CAM RW LW",27,83,83,"Athletic Club
+2009 ~ 2024","170cm / 5'7""",66kg / 146lbs,CAM,38500000.0,38000.0,85,87,77,45,Iker Muniain Goñi
+"Portu
+RW RM LW",28,83,83,"Real Sociedad
+2019 ~ 2024","167cm / 5'6""",66kg / 146lbs,RW,36500000.0,50000.0,80,80,89,67,Cristian Portugues Manzanera
+"Gayà
+LB LM LWB",25,83,88,"Valencia CF
+2012 ~ 2023","172cm / 5'8""",66kg / 146lbs,LWB,49500000.0,46000.0,81,79,87,53,José Luís Gayà Peña
+"Fernando
+CDM CM",32,83,83,"Sevilla FC
+2019 ~ 2022","183cm / 6'0""",76kg / 168lbs,CDM,24000000.0,39000.0,83,71,82,29,Fernando Reges
+"Diego Carlos
+CB",27,83,85,"Sevilla FC
+2019 ~ 2024","185cm / 6'1""",86kg / 190lbs,CB,38500000.0,39000.0,76,65,74,49,Diego Carlos Santos Silva
+"M. Acuña
+LB LM",28,83,83,"Sevilla FC
+2020 ~ 2024","172cm / 5'8""",69kg / 152lbs,LB,33000000.0,41000.0,81,87,90,62,Marcos Acuña
+"A. Lacazette
+ST",29,82,82,"Arsenal
+2017 ~ 2022","176cm / 5'9""",77kg / 170lbs,ST,30500000.0,115000.0,79,83,67,37,Alexandre Lacazette
+"A. Rüdiger
+CB",27,82,84,"Chelsea
+2017 ~ 2022","190cm / 6'3""",85kg / 187lbs,CB,32500000.0,100000.0,75,60,68,59,Antonio Rüdiger
+"B. Chilwell
+LWB LB",23,82,86,"Chelsea
+2020 ~ 2025","178cm / 5'10""",77kg / 170lbs,LWB,40500000.0,85000.0,78,78,88,48,Ben Chilwell
+"M. Mount
+CAM CM RW",21,82,88,"Chelsea
+2016 ~ 2024","178cm / 5'10""",70kg / 154lbs,CAM,49000000.0,81000.0,85,81,80,56,Mason Mount
+"J. Rodríguez
+RW CAM CM",28,82,82,"Everton
+2020 ~ 2022","180cm / 5'11""",75kg / 165lbs,CAM,30500000.0,115000.0,84,86,63,64,James Rodríguez
+"Raphinha
+RM RW",23,82,87,"Leeds United
+2020 ~ 2024","176cm / 5'9""",68kg / 150lbs,LM,46000000.0,110000.0,76,84,85,50,Raphael Dias Belloli
+"Diogo Jota
+LW ST CF",23,82,87,"Liverpool
+2020 ~ 2025","178cm / 5'10""",73kg / 161lbs,ST,46000000.0,105000.0,75,85,81,54,Diogo José Teixeira da Silva
+"J. Stones
+CB",26,82,85,"Manchester City
+2016 ~ 2026","188cm / 6'2""",70kg / 154lbs,CB,35500000.0,130000.0,82,74,77,51,John Stones
+"H. Maguire
+CB",27,82,84,"Manchester United
+2019 ~ 2024","194cm / 6'4""",100kg / 220lbs,CB,32500000.0,120000.0,77,72,83,62,Harry Maguire
+"L. Shaw
+LB",24,82,85,"Manchester United
+2014 ~ 2023","181cm / 5'11""",75kg / 165lbs,LWB,38500000.0,105000.0,81,80,79,49,Luke Shaw
+"A. Martial
+ST LM",24,82,85,"Manchester United
+2015 ~ 2024","184cm / 6'0""",76kg / 168lbs,ST,42000000.0,130000.0,79,89,72,51,Anthony Martial
+"M. Dúbravka
+GK",31,82,82,"Newcastle United
+2018 ~ 2025","190cm / 6'3""",80kg / 176lbs,GK,16000000.0,43000.0,48,19,38,401,Martin Dúbravka
+"D. Ings
+ST",27,82,82,"Southampton
+2019 ~ 2022","178cm / 5'10""",73kg / 161lbs,ST,33000000.0,82000.0,76,79,74,57,Danny Ings
+"G. Bale
+RM RW",30,82,82,"Tottenham Hotspur
+Jun 30, 2021 On loan","185cm / 6'1""",82kg / 181lbs,ST,29500000.0,170000.0,80,80,61,52,Gareth Bale
+"Reguilón
+LB",23,82,87,"Tottenham Hotspur
+2020 ~ 2025","178cm / 5'10""",68kg / 150lbs,LB,43000000.0,85000.0,79,78,78,51,Sergio Reguilón Rodríguez
+"T. Souček
+CDM CM",25,82,86,"West Ham United
+2020 ~ 2024","192cm / 6'4""",86kg / 190lbs,CDM,38500000.0,50000.0,81,74,92,43,Tomáš Souček
+"J. Maddison
+CAM CM",23,82,86,"Leicester City
+2018 ~ 2024","175cm / 5'9""",73kg / 161lbs,CAM,43500000.0,89000.0,84,83,75,65,James Maddison
+"Rúben Neves
+CM",23,82,87,"Wolverhampton Wanderers
+2017 ~ 2024","180cm / 5'11""",80kg / 176lbs,CM,46000000.0,89000.0,88,76,78,56,Rúben Diogo da Silva Neves
+"A. Areola
+GK",27,82,85,"Fulham FC
+Jun 30, 2021 On loan","195cm / 6'5""",94kg / 207lbs,GK,30000000.0,71000.0,48,12,38,405,Alphonse Areola
+"N. Pope
+GK",28,82,83,"Burnley
+2016 ~ 2023","199cm / 6'6""",76kg / 168lbs,GK,24000000.0,59000.0,32,15,37,404,Nick Pope
+"W. Zaha
+CF LM ST",27,82,82,"Crystal Palace
+2015 ~ 2023","180cm / 5'11""",66kg / 146lbs,CF,33000000.0,82000.0,75,91,75,61,Wilfried Zaha
+"K. Volland
+ST CF",27,82,82,"AS Monaco
+2020 ~ 2024","179cm / 5'10""",85kg / 187lbs,ST,33000000.0,73000.0,81,79,88,43,Kevin Volland
+"I. Gueye
+CDM CM",30,82,82,"Paris Saint-Germain
+2019 ~ 2023","174cm / 5'9""",66kg / 146lbs,CDM,25500000.0,88000.0,80,76,83,47,Idrissa Gueye
+"S. Mandanda
+GK",35,82,82,"Olympique de Marseille
+2017 ~ 2024","185cm / 6'1""",82kg / 181lbs,GK,3400000.0,26000.0,46,19,31,403,Steve Mandanda
+"N. Süle
+CB RB",24,82,87,"FC Bayern München
+2017 ~ 2022","195cm / 6'5""",99kg / 218lbs,CB,41500000.0,70000.0,78,43,63,58,Niklas Süle
+"T. Delaney
+CDM CM",28,82,82,"Borussia Dortmund
+2018 ~ 2022","182cm / 6'0""",79kg / 174lbs,CDM,27000000.0,69000.0,76,73,88,60,Thomas Delaney
+"E. Can
+CM CB CDM",26,82,83,"Borussia Dortmund
+2020 ~ 2024","186cm / 6'1""",86kg / 190lbs,CB,35500000.0,72000.0,83,82,88,54,Emre Can
+"W. Weghorst
+ST",27,82,82,"VfL Wolfsburg
+2018 ~ 2023","197cm / 6'6""",84kg / 185lbs,ST,33000000.0,67000.0,76,65,83,62,Wout Weghorst
+"O. Baumann
+GK",30,82,82,"TSG 1899 Hoffenheim
+2014 ~ 2023","187cm / 6'2""",82kg / 181lbs,GK,20500000.0,37000.0,30,19,39,401,Oliver Baumann
+"A. Kramarić
+ST CAM",29,82,82,"TSG 1899 Hoffenheim
+2015 ~ 2022","177cm / 5'10""",73kg / 161lbs,ST,30500000.0,56000.0,79,86,76,58,Andrej Kramarić
+"L. Muriel
+ST",29,82,82,"Atalanta
+2019 ~ 2024","179cm / 5'10""",79kg / 174lbs,CF,30500000.0,80000.0,80,88,73,48,Luis Muriel
+"N. Barella
+CM",23,82,89,"Inter
+2020 ~ 2024","172cm / 5'8""",68kg / 150lbs,CM,61000000.0,100000.0,84,83,92,54,Nicolò Barella
+"G. Buffon
+GK",42,82,82,"Juventus
+2019 ~ 2021","192cm / 6'4""",92kg / 203lbs,GK,3400000.0,41000.0,37,26,34,396,Gianluigi Buffon
+"A. Ramsey
+CM CAM LM",29,82,82,"Juventus
+2019 ~ 2023","183cm / 6'0""",76kg / 168lbs,CM,29500000.0,100000.0,84,83,80,40,Aaron Ramsey
+"J. Cuadrado
+RB RM",32,82,82,"Juventus
+2015 ~ 2022","179cm / 5'10""",72kg / 159lbs,RW,21000000.0,86000.0,83,90,75,38,Juan Cuadrado
+"T. Strakosha
+GK",25,82,87,"Lazio
+2012 ~ 2022","193cm / 6'4""",78kg / 172lbs,GK,35500000.0,53000.0,26,14,23,404,Thomas Strakosha
+"S. Kjær
+CB",31,82,82,"AC Milan
+2020 ~ 2022","190cm / 6'3""",86kg / 190lbs,CB,21000000.0,49000.0,76,50,65,54,Simon Kjær
+"A. Romagnoli
+CB",25,82,85,"AC Milan
+2015 ~ 2022","185cm / 6'1""",75kg / 165lbs,CB,36000000.0,47000.0,75,65,70,52,Alessio Romagnoli
+"T. Hernández
+LB",22,82,86,"AC Milan
+2019 ~ 2024","184cm / 6'0""",81kg / 179lbs,LB,41500000.0,42000.0,78,80,89,43,Theo Hernández
+"Fabián
+CM",24,82,86,"Napoli
+2018 ~ 2023","189cm / 6'2""",70kg / 154lbs,CM,43500000.0,70000.0,81,85,75,60,Fabián Ruiz Peña
+"H. Mkhitaryan
+CF RM RW",31,82,82,"Roma
+2020 ~ 2022","177cm / 5'10""",75kg / 165lbs,CF,25500000.0,75000.0,83,84,79,42,Henrikh Mkhitaryan
+"R. Nainggolan
+CAM CM CF",32,82,82,"Cagliari
+Jun 30, 2021 On loan","176cm / 5'9""",65kg / 143lbs,CM,24000000.0,115000.0,85,81,87,55,Radja Nainggolan
+"D. Godín
+CB",34,82,82,"Cagliari
+2020 ~ 2023","187cm / 6'2""",78kg / 172lbs,CB,10000000.0,43000.0,77,53,62,49,Diego Godín
+"A. Cragno
+GK",26,82,86,"Cagliari
+2014 ~ 2024","184cm / 6'0""",78kg / 172lbs,GK,33000000.0,35000.0,31,13,43,404,Alessio Cragno
+"M. Perin
+GK",27,82,84,"Genoa
+Jun 30, 2021 On loan","188cm / 6'2""",77kg / 170lbs,GK,28000000.0,70000.0,33,19,30,401,Mattia Perin
+"T. Lemar
+LM CM RM",24,82,85,"Atlético Madrid
+2018 ~ 2023","171cm / 5'7""",66kg / 146lbs,CAM,41500000.0,59000.0,81,85,76,60,Thomas Lemar
+"Á. Correa
+ST RM",25,82,83,"Atlético Madrid
+2014 ~ 2024","171cm / 5'7""",70kg / 154lbs,CAM,37000000.0,71000.0,79,87,79,56,Ángel Correa
+"Mario Hermoso
+CB LB",25,82,85,"Atlético Madrid
+2019 ~ 2024","185cm / 6'1""",76kg / 168lbs,CB,36000000.0,59000.0,78,66,76,44,Mario Hermoso Canseco
+"M. Pjanić
+CM",30,82,82,"FC Barcelona
+2020 ~ 2024","178cm / 5'10""",72kg / 159lbs,CM,29000000.0,170000.0,86,83,78,42,Miralem Pjanić
+"Neto
+GK",30,82,82,"FC Barcelona
+2019 ~ 2023","190cm / 6'3""",84kg / 185lbs,GK,20500000.0,125000.0,36,19,41,400,Norberto Murara Neto
+"Marcelo
+LB",32,82,82,"Real Madrid
+2007 ~ 2022","174cm / 5'9""",75kg / 165lbs,LB,21000000.0,155000.0,80,89,69,36,Marcelo Vieira da Silva
+"Marco Asensio
+RW LW",24,82,85,"Real Madrid
+2015 ~ 2023","182cm / 6'0""",76kg / 168lbs,CAM,41500000.0,160000.0,81,84,76,50,Marco Asensio Willemsen
+"Canales
+CM CDM LM",29,82,82,"Real Betis Balompié
+2018 ~ 2023","176cm / 5'9""",65kg / 143lbs,CAM,29500000.0,36000.0,84,83,79,68,Sergio Canales Madrazo
+"Merino
+CM",24,82,86,"Real Sociedad
+2018 ~ 2025","189cm / 6'2""",83kg / 183lbs,CM,43500000.0,35000.0,84,83,84,57,Mikel Merino Zazón
+"Gabriel Paulista
+CB",29,82,82,"Valencia CF
+2017 ~ 2024","185cm / 6'1""",72kg / 159lbs,CB,25500000.0,46000.0,80,60,80,58,Gabriel Armando de Abreu
+"Pacheco
+GK",28,82,84,"Deportivo Alavés
+2015 ~ 2023","186cm / 6'1""",81kg / 179lbs,GK,26000000.0,28000.0,28,13,43,398,Fernando Pacheco Flores
+"I. Rakitić
+CM",32,82,82,"Sevilla FC
+2020 ~ 2024","184cm / 6'0""",78kg / 172lbs,CM,24000000.0,39000.0,85,78,75,51,Ivan Rakitić
+"L. Ocampos
+LW RW",25,82,83,"Sevilla FC
+2019 ~ 2024","188cm / 6'2""",84kg / 185lbs,ST,36500000.0,40000.0,80,84,91,53,Lucas Ocampos
+"J. Koundé
+CB",21,82,88,"Sevilla FC
+2019 ~ 2024","181cm / 5'11""",75kg / 165lbs,CB,44500000.0,25000.0,79,69,76,56,Jules Koundé
+"Raúl Albiol
+CB",34,82,82,"Villarreal CF
+2019 ~ 2022","187cm / 6'2""",74kg / 163lbs,CB,10000000.0,41000.0,74,59,55,36,Raúl Albiol Tortajada
+"Sergio Asenjo
+GK",31,82,82,"Villarreal CF
+2014 ~ 2022","189cm / 6'2""",87kg / 192lbs,GK,16000000.0,34000.0,39,15,41,405,Sergio Asenjo Andrés
+"D. Djené
+CB",28,82,83,"Getafe CF
+2017 ~ 2023","178cm / 5'10""",72kg / 159lbs,CB,29000000.0,39000.0,75,50,74,49,Dakonam Djené
+"David Soria
+GK",27,82,84,"Getafe CF
+2018 ~ 2022","192cm / 6'4""",85kg / 187lbs,GK,28000000.0,30000.0,24,16,43,401,David Soria Solís
+"K. Zouma
+CB",25,81,84,"Chelsea
+2014 ~ 2023","190cm / 6'3""",95kg / 209lbs,CB,30500000.0,88000.0,72,50,66,59,Kurt Zouma
+"C. Pulisic
+LW RW LM",21,81,87,"Chelsea
+2019 ~ 2024","177cm / 5'10""",69kg / 152lbs,RM,41500000.0,83000.0,77,87,76,63,Christian Pulisic
+"M. Keane
+CB",27,81,82,"Everton
+2017 ~ 2025","191cm / 6'3""",82kg / 181lbs,CB,26000000.0,86000.0,76,64,68,56,Michael Keane
+"D. Calvert-Lewin
+ST",23,81,85,"Everton
+2016 ~ 2025","187cm / 6'2""",71kg / 157lbs,ST,37500000.0,90000.0,72,76,80,50,Dominic Calvert-Lewin
+"Richarlison
+ST LW LM",23,81,87,"Everton
+2018 ~ 2024","181cm / 5'11""",71kg / 157lbs,ST,41000000.0,90000.0,78,86,83,51,Richarlison de Andrade
+"Ferran Torres
+RW LW ST",20,81,89,"Manchester City
+2020 ~ 2025","184cm / 6'0""",77kg / 170lbs,CAM,56500000.0,110000.0,80,84,73,59,Ferran Torres García
+"Fred
+CDM CM",27,81,82,"Manchester United
+2018 ~ 2023","169cm / 5'7""",62kg / 137lbs,CDM,26500000.0,115000.0,83,81,93,64,Frederico de Paula Santos
+"D. van de Beek
+CM CAM CDM",23,81,86,"Manchester United
+2020 ~ 2025","184cm / 6'0""",74kg / 163lbs,CM,38500000.0,110000.0,81,76,86,51,Donny van de Beek
+"Lucas Moura
+RM CF",27,81,81,"Tottenham Hotspur
+2018 ~ 2024","174cm / 5'9""",70kg / 154lbs,RM,27500000.0,100000.0,72,88,75,54,Lucas Rodrigues M. Silva
+"G. Lo Celso
+CM CAM",24,81,86,"Tottenham Hotspur
+2020 ~ 2025","177cm / 5'10""",68kg / 150lbs,CAM,38500000.0,88000.0,84,83,79,56,Giovani Lo Celso
+"T. Ndombele
+CAM CM CDM",23,81,88,"Tottenham Hotspur
+2019 ~ 2024","179cm / 5'10""",76kg / 168lbs,CAM,51500000.0,88000.0,85,89,60,46,Tanguy Ndombele
+"Ł. Fabiański
+GK",35,81,81,"West Ham United
+2018 ~ 2022","190cm / 6'3""",83kg / 183lbs,GK,2900000.0,26000.0,20,14,25,396,Łukasz Fabiański
+"D. Rice
+CDM CM",21,81,86,"West Ham United
+2016 ~ 2024","185cm / 6'1""",80kg / 176lbs,CDM,36500000.0,35000.0,81,74,83,47,Declan Rice
+"H. Barnes
+LW LM",22,81,85,"Leicester City
+2016 ~ 2025","180cm / 5'11""",66kg / 146lbs,CAM,37500000.0,90000.0,77,82,75,40,Harvey Barnes
+"João Moutinho
+CM",33,81,81,"Wolverhampton Wanderers
+2018 ~ 2022","170cm / 5'7""",61kg / 134lbs,CM,16000000.0,95000.0,87,78,75,69,João Filipe Moutinho
+"Nélson Semedo
+RWB RB",26,81,82,"Wolverhampton Wanderers
+2020 ~ 2023","177cm / 5'10""",69kg / 152lbs,RWB,27500000.0,86000.0,75,81,86,64,Nélson Cabral Semedo
+"J. Tarkowski
+CB",27,81,82,"Burnley
+2016 ~ 2022","188cm / 6'2""",81kg / 179lbs,CB,26000000.0,63000.0,74,63,71,50,James Tarkowski
+"H. Aouar
+CM CAM",22,81,87,"Olympique Lyonnais
+2016 ~ 2023","175cm / 5'9""",70kg / 154lbs,CAM,41000000.0,65000.0,86,87,76,48,Houssem Aouar
+"W. Benítez
+GK",27,81,83,"OGC Nice
+2016 ~ 2023","191cm / 6'3""",93kg / 205lbs,GK,23500000.0,35000.0,26,15,42,399,Walter Benítez
+"Danilo Pereira
+CDM CM CB",28,81,81,"Paris Saint-Germain
+Jun 30, 2021 On loan","188cm / 6'2""",83kg / 183lbs,CDM,22500000.0,19000.0,81,75,84,58,Danilo Luís Hélio Pereira
+"L. Paredes
+CDM CM",26,81,84,"Paris Saint-Germain
+2019 ~ 2023","180cm / 5'11""",75kg / 165lbs,CM,30500000.0,81000.0,84,79,80,48,Leandro Paredes
+"F. Thauvin
+RW RM",27,81,81,"Olympique de Marseille
+2017 ~ 2021","179cm / 5'10""",70kg / 154lbs,RW,27500000.0,54000.0,82,80,80,52,Florian Thauvin
+"A. Davies
+LB LM RM",19,81,89,"FC Bayern München
+2019 ~ 2025","183cm / 6'0""",75kg / 165lbs,LB,53000000.0,40000.0,77,85,79,47,Alphonso Davies
+"R. Bürki
+GK",29,81,81,"Borussia Dortmund
+2015 ~ 2023","187cm / 6'2""",85kg / 187lbs,GK,17500000.0,52000.0,37,12,36,390,Roman Bürki
+"J. Brandt
+CAM CM CF",24,81,86,"Borussia Dortmund
+2019 ~ 2024","185cm / 6'1""",83kg / 183lbs,CAM,39000000.0,58000.0,82,85,80,55,Julian Brandt
+"L. Stindl
+CAM ST",31,81,81,"Borussia Mönchengladbach
+2015 ~ 2023","181cm / 5'11""",80kg / 176lbs,CAM,21500000.0,49000.0,83,79,75,53,Lars Stindl
+"D. Zakaria
+CDM CB",23,81,87,"Borussia Mönchengladbach
+2017 ~ 2022","191cm / 6'3""",81kg / 179lbs,CB,37500000.0,38000.0,80,77,80,55,Denis Zakaria
+"F. Neuhaus
+CM",23,81,87,"Borussia Mönchengladbach
+2017 ~ 2024","185cm / 6'1""",74kg / 163lbs,CM,40500000.0,42000.0,85,83,80,53,Florian Neuhaus
+"C. Aránguiz
+CDM CM",31,81,81,"Bayer 04 Leverkusen
+2015 ~ 2023","171cm / 5'7""",70kg / 154lbs,CDM,18000000.0,66000.0,83,76,83,55,Charles Aránguiz
+"L. Bailey
+RW LW LM",22,81,85,"Bayer 04 Leverkusen
+2017 ~ 2023","178cm / 5'10""",79kg / 174lbs,CAM,37500000.0,70000.0,73,86,75,60,Leon Bailey
+"M. Diaby
+LW LM",20,81,88,"Bayer 04 Leverkusen
+2019 ~ 2025","170cm / 5'7""",67kg / 148lbs,LM,51000000.0,60000.0,79,87,69,47,Moussa Diaby
+"E. Tapsoba
+CB",21,81,88,"Bayer 04 Leverkusen
+2020 ~ 2026","192cm / 6'4""",78kg / 172lbs,CB,48500000.0,48000.0,81,63,74,50,Edmond Tapsoba
+"M. Arnold
+CDM CM",26,81,82,"VfL Wolfsburg
+2011 ~ 2026","184cm / 6'0""",74kg / 163lbs,CM,27000000.0,52000.0,82,78,78,51,Maximilian Arnold
+"M. Kruse
+CAM CF",32,81,81,"1. FC Union Berlin
+2020 ~ 2022","180cm / 5'11""",76kg / 168lbs,CAM,20500000.0,42000.0,83,82,67,46,Max Kruse
+"K. Kampl
+CM CDM",29,81,81,"RB Leipzig
+2017 ~ 2023","178cm / 5'10""",66kg / 146lbs,CM,25000000.0,65000.0,84,85,86,53,Kevin Kampl
+"E. Forsberg
+CAM CF",28,81,81,"RB Leipzig
+2015 ~ 2025","177cm / 5'10""",76kg / 168lbs,CAM,26000000.0,65000.0,86,83,69,55,Emil Forsberg
+"K. Laimer
+CDM CM RB",23,81,85,"RB Leipzig
+2017 ~ 2023","180cm / 5'11""",72kg / 159lbs,RWB,33500000.0,49000.0,82,78,88,58,Konrad Laimer
+"N. Mukiele
+RWB CB RM",22,81,87,"RB Leipzig
+2018 ~ 2023","187cm / 6'2""",84kg / 185lbs,CB,38500000.0,49000.0,73,73,78,57,Nordi Mukiele
+"D. Upamecano
+CB",21,81,90,"RB Leipzig
+2017 ~ 2023","186cm / 6'1""",90kg / 198lbs,CB,54000000.0,41000.0,76,69,65,45,Dayot Upamecano
+"C. Nkunku
+CAM CM CF",22,81,86,"RB Leipzig
+2019 ~ 2024","179cm / 5'10""",72kg / 159lbs,CAM,39500000.0,54000.0,83,86,74,43,Christopher Nkunku
+"M. de Roon
+CDM CM",29,81,81,"Atalanta
+2017 ~ 2024","185cm / 6'1""",76kg / 168lbs,CDM,22000000.0,63000.0,78,71,90,60,Marten de Roon
+"P. Gollini
+GK",25,81,86,"Atalanta
+2018 ~ 2023","194cm / 6'4""",94kg / 207lbs,GK,30000000.0,46000.0,31,18,40,398,Pierluigi Gollini
+"I. Perišić
+LM LW",31,81,81,"Inter
+2015 ~ 2022","186cm / 6'1""",80kg / 176lbs,LM,21500000.0,105000.0,78,78,84,38,Ivan Perišić
+"A. Vidal
+CM",33,81,81,"Inter
+2020 ~ 2022","180cm / 5'11""",75kg / 165lbs,CM,16000000.0,105000.0,81,76,84,16,Arturo Vidal
+"A. Rabiot
+CM CDM",25,81,82,"Juventus
+2019 ~ 2023","192cm / 6'4""",80kg / 176lbs,CM,30500000.0,83000.0,84,78,77,52,Adrien Rabiot
+"J. Correa
+CF ST CAM",25,81,84,"Lazio
+2018 ~ 2024","188cm / 6'2""",77kg / 170lbs,CAM,34500000.0,73000.0,81,88,76,44,Joaquín Correa
+"M. Lazzari
+RM",26,81,81,"Lazio
+2019 ~ 2024","174cm / 5'9""",67kg / 148lbs,RM,28000000.0,70000.0,77,82,86,47,Manuel Lazzari
+"H. Çalhanoğlu
+CAM LM",26,81,82,"AC Milan
+2017 ~ 2021","178cm / 5'10""",76kg / 168lbs,CAM,30500000.0,50000.0,85,85,71,50,Hakan Çalhanoğlu
+"F. Kessié
+CDM CM",23,81,85,"AC Milan
+2019 ~ 2022","183cm / 6'0""",88kg / 194lbs,CDM,33500000.0,39000.0,82,78,92,54,Franck Yannick Kessié
+"P. Zieliński
+CM CAM",26,81,82,"Napoli
+2016 ~ 2024","180cm / 5'11""",75kg / 165lbs,CAM,30000000.0,74000.0,85,86,75,50,Piotr Zieliński
+"M. Politano
+RM RW",26,81,81,"Napoli
+Jun 30, 2021 On loan","171cm / 5'7""",67kg / 148lbs,RM,28000000.0,105000.0,79,83,77,48,Matteo Politano
+"H. Lozano
+RW LW",24,81,84,"Napoli
+2019 ~ 2024","175cm / 5'9""",70kg / 154lbs,RM,35000000.0,71000.0,73,81,76,59,Hirving Lozano
+"J. Veretout
+CDM CM",27,81,82,"Roma
+2019 ~ 2024","177cm / 5'10""",67kg / 148lbs,CM,26500000.0,58000.0,85,79,84,47,Jordan Veretout
+"Pau López
+GK",25,81,81,"Roma
+2019 ~ 2024","189cm / 6'2""",77kg / 170lbs,GK,21000000.0,44000.0,38,18,42,397,Pau López Sabata
+"A. Belotti
+ST",26,81,82,"Torino
+2015 ~ 2022","181cm / 5'11""",84kg / 185lbs,ST,31000000.0,61000.0,71,78,80,53,Andrea Belotti
+"J. Musso
+GK",26,81,84,"Udinese
+2018 ~ 2023","191cm / 6'3""",93kg / 205lbs,GK,26000000.0,19000.0,31,16,35,404,Juan Musso
+"F. Ribéry
+CF LW",37,81,81,"Fiorentina
+2019 ~ 2021","170cm / 5'7""",72kg / 159lbs,CAM,9000000.0,54000.0,83,87,54,47,Franck Ribéry
+"José Callejón
+RM RW",33,81,81,"Fiorentina
+2020 ~ 2022","178cm / 5'10""",73kg / 161lbs,RM,16000000.0,65000.0,80,80,77,49,José María Callejón Bueno
+"A. Consigli
+GK",33,81,81,"Sassuolo
+2014 ~ 2022","189cm / 6'2""",82kg / 181lbs,GK,8500000.0,32000.0,31,10,31,398,Andrea Consigli
+"D. Berardi
+RM RW",25,81,82,"Sassuolo
+2012 ~ 2024","183cm / 6'0""",72kg / 159lbs,CAM,31000000.0,42000.0,82,81,70,27,Domenico Berardi
+"H. Herrera
+CM",30,81,81,"Atlético Madrid
+2019 ~ 2022","185cm / 6'1""",78kg / 172lbs,CM,24500000.0,63000.0,81,76,94,54,Héctor Herrera
+"Renan Lodi
+LB",22,81,86,"Atlético Madrid
+2019 ~ 2025","173cm / 5'8""",70kg / 154lbs,LB,37000000.0,49000.0,76,81,84,55,Renan Augusto Lodi dos Santos
+"S. Umtiti
+CB",26,81,82,"FC Barcelona
+2016 ~ 2023","182cm / 6'0""",75kg / 165lbs,CB,26500000.0,140000.0,77,64,65,66,Samuel Umtiti
+"Nacho Fernández
+CB RB LB",30,81,81,"Real Madrid
+2010 ~ 2023","180cm / 5'11""",76kg / 168lbs,CB,21000000.0,140000.0,78,64,81,51,José Ignacio Fernández Iglesias
+"Iñigo Martínez
+CB",29,81,81,"Athletic Club
+2018 ~ 2023","182cm / 6'0""",77kg / 170lbs,CB,21500000.0,31000.0,75,53,72,63,Iñigo Martínez Berridi
+"Capa
+RB",28,81,81,"Athletic Club
+2018 ~ 2022","175cm / 5'9""",75kg / 165lbs,RB,23500000.0,31000.0,80,76,93,54,Ander Capa Rodríguez
+"Iñaki Williams
+ST RW",26,81,84,"Athletic Club
+2012 ~ 2028","186cm / 6'1""",80kg / 176lbs,ST,34000000.0,35000.0,74,81,83,66,Iñaki Williams Arthuer
+"Gonçalo Guedes
+LM ST CF",23,81,86,"Valencia CF
+2018 ~ 2024","179cm / 5'10""",68kg / 150lbs,LM,39000000.0,39000.0,76,83,75,50,Gonçalo Manuel Ganchinho Guedes
+"M. Dmitrović
+GK",28,81,82,"SD Eibar
+2017 ~ 2021","194cm / 6'4""",94kg / 207lbs,GK,20500000.0,30000.0,40,8,45,400,Marko Dmitrović
+"Suso
+RW CAM",26,81,81,"Sevilla FC
+2020 ~ 2025","176cm / 5'9""",70kg / 154lbs,CAM,28000000.0,39000.0,84,87,75,56,Jesús Joaquín Fernández Sáez
+"T. Vaclík
+GK",31,81,81,"Sevilla FC
+2018 ~ 2021","188cm / 6'2""",85kg / 187lbs,GK,13500000.0,27000.0,17,14,38,396,Tomáš Vaclík
+"Paco Alcácer
+ST",26,81,81,"Villarreal CF
+2020 ~ 2025","175cm / 5'9""",72kg / 159lbs,ST,28500000.0,45000.0,78,78,62,53,Francisco Alcácer García
+"Aitor
+GK",29,81,81,"Levante UD
+2018 ~ 2023","182cm / 6'0""",78kg / 172lbs,GK,17500000.0,26000.0,38,22,42,394,Aitor Fernández
+"Campaña
+CM LM RM",27,81,82,"Levante UD
+2016 ~ 2023","179cm / 5'10""",70kg / 154lbs,CAM,29500000.0,33000.0,84,83,82,42,José Gómez Campaña
+"Cucurella
+LM LB",21,81,87,"Getafe CF
+2020 ~ 2024","172cm / 5'8""",66kg / 146lbs,LM,41500000.0,28000.0,81,79,88,50,Marc Cucurella Saseta
+"N. Pépé
+RM RW",25,80,83,"Arsenal
+2019 ~ 2024","183cm / 6'0""",73kg / 161lbs,LM,28000000.0,84000.0,73,85,77,50,Nicolas Pépé
+"K. Tierney
+LB CB LWB",23,80,86,"Arsenal
+2019 ~ 2024","178cm / 5'10""",76kg / 168lbs,LWB,31000000.0,69000.0,77,78,86,62,Kieran Tierney
+"A. Christensen
+CB",24,80,85,"Chelsea
+2013 ~ 2022","187cm / 6'2""",81kg / 179lbs,CB,29000000.0,74000.0,79,66,68,44,Andreas Christensen
+"É. Mendy
+GK",28,80,82,"Chelsea
+2020 ~ 2025","197cm / 6'6""",86kg / 190lbs,GK,18000000.0,74000.0,39,13,35,394,Édouard Mendy
+"R. James
+RB RWB",20,80,86,"Chelsea
+2017 ~ 2025","178cm / 5'10""",87kg / 192lbs,RB,30500000.0,61000.0,78,77,79,51,Reece James
+"J. Pickford
+GK",26,80,82,"Everton
+2017 ~ 2024","185cm / 6'1""",77kg / 170lbs,GK,20000000.0,65000.0,55,14,45,404,Jordan Pickford
+"N. Keïta
+CM",25,80,83,"Liverpool
+2018 ~ 2023","172cm / 5'8""",64kg / 141lbs,CAM,27500000.0,90000.0,83,85,75,59,Naby Keïta
+"O. Zinchenko
+LB",23,80,85,"Manchester City
+2016 ~ 2024","175cm / 5'9""",64kg / 141lbs,LB,29500000.0,95000.0,82,80,76,61,Oleksandr Zinchenko
+"V. Lindelöf
+CB",25,80,84,"Manchester United
+2017 ~ 2024","187cm / 6'2""",80kg / 176lbs,CB,26500000.0,100000.0,79,71,77,52,Victor Lindelöf
+"D. Henderson
+GK",23,80,87,"Manchester United
+2015 ~ 2025","190cm / 6'3""",85kg / 187lbs,GK,36000000.0,70000.0,37,13,34,394,Dean Henderson
+"S. McTominay
+CDM CM",23,80,85,"Manchester United
+2013 ~ 2025","193cm / 6'4""",88kg / 194lbs,CDM,29000000.0,90000.0,80,78,85,42,Scott McTominay
+"J. Ward-Prowse
+CM",25,80,83,"Southampton
+2011 ~ 2026","173cm / 5'8""",66kg / 146lbs,CM,27500000.0,62000.0,85,76,91,64,James Ward-Prowse
+"S. Aurier
+RB",27,80,80,"Tottenham Hotspur
+2017 ~ 2022","174cm / 5'9""",74kg / 163lbs,RB,20500000.0,86000.0,77,76,78,57,Serge Aurier
+"D. Alli
+CAM CM ST",24,80,83,"Tottenham Hotspur
+2015 ~ 2024","188cm / 6'2""",80kg / 176lbs,CAM,29000000.0,82000.0,82,82,80,41,Dele Alli
+"D. Sánchez
+CB",24,80,82,"Tottenham Hotspur
+2017 ~ 2024","187cm / 6'2""",79kg / 174lbs,CB,24500000.0,74000.0,73,62,70,47,Davinson Sánchez
+"S. Bergwijn
+LM LW RM",22,80,85,"Tottenham Hotspur
+2020 ~ 2025","178cm / 5'10""",78kg / 172lbs,CAM,32500000.0,82000.0,80,84,75,64,Steven Bergwijn
+"J. Evans
+CB",32,80,80,"Leicester City
+2018 ~ 2023","188cm / 6'2""",77kg / 170lbs,CB,13500000.0,81000.0,74,42,64,67,Jonny Evans
+"Ç. Söyüncü
+CB",24,80,83,"Leicester City
+2018 ~ 2023","185cm / 6'1""",82kg / 181lbs,CB,25500000.0,69000.0,76,65,68,34,Çağlar Söyüncü
+"Jonny
+LWB RWB",26,80,81,"Wolverhampton Wanderers
+2019 ~ 2025","170cm / 5'7""",70kg / 154lbs,LWB,22500000.0,81000.0,76,76,79,45,Jonathan Castro Otto
+"Guaita
+GK",33,80,80,"Crystal Palace
+2018 ~ 2023","190cm / 6'3""",80kg / 176lbs,GK,7000000.0,48000.0,39,16,41,396,Vicente Guaita Panadero
+"B. Yılmaz
+ST",34,80,80,"Lille OSC
+2020 ~ 2022","188cm / 6'2""",77kg / 170lbs,ST,10500000.0,47000.0,69,70,70,60,Burak Yılmaz
+"José Fonte
+CB",36,80,80,"Lille OSC
+2018 ~ 2022","191cm / 6'3""",84kg / 185lbs,CB,3800000.0,28000.0,73,60,58,50,José Miguel da Rocha Fonte
+"B. André
+CDM CM",29,80,80,"Lille OSC
+2019 ~ 2023","180cm / 5'11""",74kg / 163lbs,CDM,18000000.0,42000.0,78,75,92,54,Benjamin André
+"J. Bamba
+LM",24,80,83,"Lille OSC
+2018 ~ 2023","175cm / 5'9""",70kg / 154lbs,RM,29000000.0,38000.0,76,81,80,61,Jonathan Bamba
+"J. Denayer
+CB",25,80,83,"Olympique Lyonnais
+2018 ~ 2022","184cm / 6'0""",80kg / 176lbs,CB,25000000.0,61000.0,77,69,80,62,Jason Denayer
+"Lucas Paquetá
+CM CAM",22,80,85,"Olympique Lyonnais
+2020 ~ 2025","180cm / 5'11""",72kg / 159lbs,CAM,32000000.0,61000.0,81,85,82,57,Lucas Tolentino Coelho de Lima
+"B. Lecomte
+GK",29,80,81,"AS Monaco
+2019 ~ 2024","187cm / 6'2""",78kg / 172lbs,GK,16000000.0,46000.0,17,11,34,396,Benjamin Lecomte
+"A. Delort
+ST",28,80,80,"Montpellier HSC
+2019 ~ 2024","181cm / 5'11""",83kg / 183lbs,ST,21500000.0,46000.0,74,76,81,53,Andy Delort
+"T. Savanier
+CM CAM",28,80,80,"Montpellier HSC
+2019 ~ 2023","172cm / 5'8""",69kg / 152lbs,CM,21000000.0,42000.0,83,80,78,58,Téji Savanier
+"Pablo Sarabia
+RW CAM",28,80,80,"Paris Saint-Germain
+2019 ~ 2024","174cm / 5'9""",70kg / 154lbs,CAM,21000000.0,95000.0,83,83,71,58,Pablo Sarabia García
+"Rafinha
+CM CAM",27,80,80,"Paris Saint-Germain
+2020 ~ 2023","174cm / 5'9""",71kg / 157lbs,CAM,22500000.0,83000.0,85,86,65,52,Rafael Alcântara
+"J. Draxler
+CAM CM LW",26,80,81,"Paris Saint-Germain
+2017 ~ 2024","187cm / 6'2""",77kg / 170lbs,CAM,25000000.0,83000.0,81,83,68,50,Julian Draxler
+"A. Florenzi
+RB",29,80,80,"Paris Saint-Germain
+Jun 30, 2021 On loan","173cm / 5'8""",67kg / 148lbs,RB,18500000.0,57000.0,76,77,82,48,Alessandro Florenzi
+"D. Payet
+LW CAM LM",33,80,80,"Olympique de Marseille
+2017 ~ 2024","175cm / 5'9""",77kg / 170lbs,CAM,13000000.0,51000.0,83,84,69,61,Dimitri Payet
+"A. Milik
+ST",26,80,81,"Olympique de Marseille
+Jun 30, 2022 On loan","186cm / 6'1""",78kg / 172lbs,ST,25000000.0,75000.0,66,76,62,62,Arkadiusz Milik
+"B. Kamara
+CDM CM CB",20,80,86,"Olympique de Marseille
+2017 ~ 2022","184cm / 6'0""",68kg / 150lbs,CDM,30000000.0,30000.0,79,70,77,45,Boubacar Kamara
+"C. Tolisso
+CM CDM",25,80,80,"FC Bayern München
+2017 ~ 2022","181cm / 5'11""",81kg / 179lbs,CM,23000000.0,74000.0,82,76,77,54,Corentin Tolisso
+"A. Plea
+ST LW",27,80,80,"Borussia Mönchengladbach
+2018 ~ 2023","181cm / 5'11""",79kg / 174lbs,ST,23000000.0,49000.0,79,79,77,69,Alassane Plea
+"S. Lainer
+RB",27,80,80,"Borussia Mönchengladbach
+2019 ~ 2024","175cm / 5'9""",73kg / 161lbs,RB,20500000.0,41000.0,76,76,93,46,Stefan Lainer
+"S. Arias
+RB",28,80,80,"Bayer 04 Leverkusen
+Jun 30, 2021 On loan","178cm / 5'10""",72kg / 159lbs,RB,19000000.0,56000.0,75,74,84,66,Santiago Arias
+"J. Pavlenka
+GK",28,80,82,"SV Werder Bremen
+2017 ~ 2022","196cm / 6'5""",81kg / 179lbs,GK,18000000.0,28000.0,28,12,20,380,Jiří Pavlenka
+"M. Hinteregger
+CB",27,80,81,"Eintracht Frankfurt
+2019 ~ 2024","186cm / 6'1""",82kg / 181lbs,CB,21000000.0,33000.0,72,54,76,60,Martin Hinteregger
+"W. Orban
+CB",27,80,81,"RB Leipzig
+2015 ~ 2025","186cm / 6'1""",87kg / 192lbs,CB,21000000.0,53000.0,69,52,68,58,Willi Orban
+"L. Klostermann
+CB RB RWB",24,80,85,"RB Leipzig
+2014 ~ 2024","187cm / 6'2""",88kg / 194lbs,RB,29000000.0,46000.0,74,71,82,44,Lukas Klostermann
+"Dani Olmo
+CAM CF",22,80,87,"RB Leipzig
+2020 ~ 2024","179cm / 5'10""",72kg / 159lbs,CAM,43000000.0,51000.0,80,83,79,66,Daniel Olmo Carvajal
+"R. Malinovskyi
+CF CM",27,80,80,"Atalanta
+2019 ~ 2024","181cm / 5'11""",79kg / 174lbs,CAM,23000000.0,66000.0,85,83,81,52,Ruslan Malinovskyi
+"A. Sánchez
+CF ST",31,80,80,"Inter
+2020 ~ 2023","168cm / 5'6""",62kg / 137lbs,CAM,18000000.0,105000.0,79,85,68,60,Alexis Sánchez
+"Danilo
+RB LB CB",28,80,80,"Juventus
+2019 ~ 2024","184cm / 6'0""",78kg / 172lbs,RB,19000000.0,78000.0,77,74,75,53,Danilo Luiz da Silva
+"Pepe Reina
+GK",37,80,80,"Lazio
+2020 ~ 2022","188cm / 6'2""",92kg / 203lbs,GK,2300000.0,31000.0,37,10,34,397,José Manuel Reina Páez
+"L. Spinazzola
+LM LB RB",27,80,80,"Roma
+2019 ~ 2024","186cm / 6'1""",75kg / 165lbs,LM,22500000.0,59000.0,78,82,87,65,Leonardo Spinazzola
+"A. Izzo
+CB",28,80,81,"Torino
+2018 ~ 2024","183cm / 6'0""",81kg / 179lbs,CB,20000000.0,50000.0,66,63,63,51,Armando Izzo
+"R. De Paul
+CM CF",26,80,82,"Udinese
+2016 ~ 2024","180cm / 5'11""",70kg / 154lbs,CAM,26000000.0,23000.0,86,84,79,56,Rodrigo Javier De Paul
+"João Pedro
+CF ST CAM",28,80,80,"Cagliari
+2014 ~ 2023","184cm / 6'0""",73kg / 161lbs,CF,21500000.0,46000.0,81,81,75,60,João Pedro G. Santos Galvão
+"M. Locatelli
+CDM CM",22,80,86,"Sassuolo
+2019 ~ 2023","185cm / 6'1""",75kg / 165lbs,CDM,31000000.0,32000.0,83,78,75,59,Manuel Locatelli
+"Š. Vrsaljko
+RB RM",28,80,80,"Atlético Madrid
+2016 ~ 2022","181cm / 5'11""",76kg / 168lbs,RB,19000000.0,56000.0,76,74,84,58,Šime Vrsaljko
+"L. Torreira
+CDM CM",24,80,84,"Atlético Madrid
+Jun 30, 2021 On loan","166cm / 5'5""",60kg / 132lbs,CDM,27500000.0,69000.0,78,77,83,39,Lucas Torreira
+"Lucas Vázquez
+RW RB RM",29,80,80,"Real Madrid
+2015 ~ 2024","173cm / 5'8""",70kg / 154lbs,RW,20500000.0,165000.0,79,80,91,50,Lucas Vázquez Iglesias
+"Vinícius Jr.
+LW",19,80,90,"Real Madrid
+2018 ~ 2025","176cm / 5'9""",73kg / 161lbs,RM,45500000.0,95000.0,72,89,79,36,Vinícius José de Oliveira Júnior
+"Éder Militão
+CB",22,80,87,"Real Madrid
+2019 ~ 2025","186cm / 6'1""",78kg / 172lbs,CB,40000000.0,115000.0,73,70,85,61,Éder Gabriel Militão
+"Raúl García
+ST CAM",33,80,80,"Athletic Club
+2015 ~ 2022","184cm / 6'0""",83kg / 183lbs,CM,13500000.0,33000.0,83,80,75,75,Raúl García Escudero
+"Yeray
+CB",25,80,82,"Athletic Club
+2014 ~ 2026","182cm / 6'0""",79kg / 174lbs,CB,23500000.0,26000.0,76,56,69,52,Yeray Álvarez López
+"Unai Simón
+GK",23,80,85,"Athletic Club
+2015 ~ 2025","190cm / 6'3""",89kg / 196lbs,GK,25500000.0,18000.0,33,12,45,400,Unai Simón Mendibil
+"Joaquín
+RM LM",38,80,80,"Real Betis Balompié
+2015 ~ 2022","179cm / 5'10""",75kg / 165lbs,CAM,7000000.0,22000.0,83,83,51,50,Joaquín Sánchez Rodríguez
+"Bartra
+CB CDM",29,80,80,"Real Betis Balompié
+2018 ~ 2023","184cm / 6'0""",73kg / 161lbs,CB,17500000.0,29000.0,79,70,69,58,Marc Bartra Aregall
+"A. Mandi
+CB",28,80,81,"Real Betis Balompié
+2016 ~ 2021","184cm / 6'0""",78kg / 172lbs,CB,20000000.0,29000.0,81,65,66,64,Aïssa Mandi
+"Nacho Monreal
+LB",34,80,80,"Real Sociedad
+2019 ~ 2022","180cm / 5'11""",77kg / 170lbs,LB,7500000.0,32000.0,77,73,69,29,Ignacio Monreal Eraso
+"Illarramendi
+CDM CM",30,80,80,"Real Sociedad
+2015 ~ 2023","179cm / 5'10""",74kg / 163lbs,CDM,17500000.0,32000.0,81,78,69,59,Asier Illarramendi
+"A. Januzaj
+RW RM",25,80,80,"Real Sociedad
+2017 ~ 2022","186cm / 6'1""",76kg / 168lbs,RW,23500000.0,37000.0,81,86,71,55,Adnan Januzaj
+"Álex Remiro
+GK",25,80,83,"Real Sociedad
+2019 ~ 2023","191cm / 6'3""",83kg / 183lbs,GK,21500000.0,25000.0,34,19,42,400,Alejandro Remiro Gargallo
+"A. Isak
+ST",20,80,85,"Real Sociedad
+2019 ~ 2026","192cm / 6'4""",77kg / 170lbs,ST,31500000.0,29000.0,77,78,70,40,Alexander Isak
+"D. Wass
+RB RM CM",31,80,80,"Valencia CF
+2018 ~ 2022","181cm / 5'11""",74kg / 163lbs,RB,15500000.0,38000.0,80,76,86,56,Daniel Wass
+"J. Cillessen
+GK",31,80,80,"Valencia CF
+2019 ~ 2023","185cm / 6'1""",83kg / 183lbs,GK,11000000.0,31000.0,50,12,40,396,Jasper Cillessen
+"M. Gómez
+ST",23,80,85,"Valencia CF
+2019 ~ 2024","186cm / 6'1""",84kg / 185lbs,ST,32000000.0,40000.0,73,72,79,46,Maximiliano Gómez
+"L. de Jong
+ST",29,80,80,"Sevilla FC
+2019 ~ 2023","188cm / 6'2""",86kg / 190lbs,ST,21000000.0,38000.0,80,67,72,53,Luuk de Jong
+"F. Coquelin
+CM CDM RM",29,80,80,"Villarreal CF
+2020 ~ 2024","176cm / 5'9""",74kg / 163lbs,CM,20500000.0,41000.0,82,80,76,51,Francis Coquelin
+"Rubén Peña
+RB LB RM",28,80,80,"Villarreal CF
+2019 ~ 2024","170cm / 5'7""",65kg / 143lbs,RB,19000000.0,37000.0,78,77,77,54,Rubén Peña Jiménez
+"G. Rulli
+GK",28,80,80,"Villarreal CF
+2020 ~ 2024","189cm / 6'2""",84kg / 185lbs,GK,15000000.0,31000.0,32,14,42,396,Gerónimo Rulli
+"Pau Torres
+CB",23,80,86,"Villarreal CF
+2016 ~ 2024","191cm / 6'3""",80kg / 176lbs,CB,30000000.0,31000.0,78,64,80,59,Pau Francisco Torres
+"Morales
+ST LM",32,80,80,"Levante UD
+2011 ~ 2023","180cm / 5'11""",70kg / 154lbs,ST,17000000.0,34000.0,77,87,78,64,José Luis Morales Nogales
+"M. Arambarri
+CDM CM",24,80,85,"Getafe CF
+2018 ~ 2023","175cm / 5'9""",74kg / 163lbs,CDM,29000000.0,28000.0,80,72,74,55,Mauro Arambarri
+"Rui Silva
+GK",26,80,84,"Granada CF
+2017 ~ 2021","191cm / 6'3""",91kg / 201lbs,GK,22500000.0,25000.0,25,18,27,399,Rui Tiago Dantas da Silva
+"D. Machís
+LM RM ST",27,80,80,"Granada CF
+2019 ~ 2022","174cm / 5'9""",74kg / 163lbs,LM,22500000.0,33000.0,76,82,73,49,Darwin Machís
+"David Luiz
+CB",33,79,79,"Arsenal
+2019 ~ 2021","189cm / 6'2""",86kg / 190lbs,CB,8500000.0,76000.0,77,65,67,54,David Luiz Moreira Marinho
+"Willian
+RM RW LW",31,79,79,"Arsenal
+2020 ~ 2023","175cm / 5'9""",77kg / 170lbs,RM,14500000.0,83000.0,79,84,74,59,Willian Borges da Silva
+"G. Xhaka
+CDM CM",27,79,79,"Arsenal
+2016 ~ 2024","185cm / 6'1""",80kg / 176lbs,CDM,16500000.0,76000.0,84,66,86,46,Granit Xhaka
+"Gabriel
+CB",22,79,85,"Arsenal
+2020 ~ 2025","190cm / 6'3""",87kg / 192lbs,CB,25500000.0,65000.0,75,52,67,50,Gabriel dos S. Magalhães
+"B. Saka
+RM LM LB",18,79,88,"Arsenal
+2018 ~ 2025","178cm / 5'10""",65kg / 143lbs,CAM,37000000.0,29000.0,79,84,76,50,Bukayo Saka
+"O. Giroud
+ST",33,79,79,"Chelsea
+2018 ~ 2022","193cm / 6'4""",91kg / 201lbs,ST,11000000.0,95000.0,75,69,54,49,Olivier Giroud
+"Marcos Alonso
+LWB LB",29,79,79,"Chelsea
+2016 ~ 2023","188cm / 6'2""",85kg / 187lbs,LWB,15500000.0,85000.0,81,78,86,50,Marcos Alonso Mendoza
+"Kepa
+GK",25,79,83,"Chelsea
+2018 ~ 2025","186cm / 6'1""",88kg / 194lbs,GK,19000000.0,62000.0,51,10,37,397,Kepa Arrizabalaga
+"S. Coleman
+RB",31,79,79,"Everton
+2009 ~ 2023","177cm / 5'10""",77kg / 170lbs,RB,12500000.0,76000.0,77,77,72,50,Séamus Coleman
+"A. Doucouré
+CM CDM",27,79,79,"Everton
+2020 ~ 2023","184cm / 6'0""",76kg / 168lbs,CM,18500000.0,83000.0,79,77,89,68,Abdoulaye Doucouré
+"André Gomes
+CM CDM",26,79,79,"Everton
+2019 ~ 2024","188cm / 6'2""",84kg / 185lbs,CM,19000000.0,83000.0,82,78,71,49,André Filipe Tavares Gomes
+"Y. Mina
+CB",25,79,81,"Everton
+2018 ~ 2023","195cm / 6'5""",94kg / 207lbs,CB,19500000.0,73000.0,76,62,67,51,Yerry Mina
+"Rodrigo
+CAM ST CM",29,79,79,"Leeds United
+2020 ~ 2024","182cm / 6'0""",77kg / 170lbs,CAM,17000000.0,105000.0,78,79,76,46,Rodrigo Moreno Machado
+"K. Phillips
+CDM CB",24,79,83,"Leeds United
+2014 ~ 2024","178cm / 5'10""",72kg / 159lbs,CDM,23000000.0,80000.0,77,72,85,50,Kalvin Phillips
+"J. Milner
+CM RB LB",34,79,79,"Liverpool
+2015 ~ 2022","175cm / 5'9""",70kg / 154lbs,CDM,8000000.0,89000.0,82,76,84,45,James Milner
+"X. Shaqiri
+RW RM",28,79,79,"Liverpool
+2018 ~ 2023","169cm / 5'7""",72kg / 159lbs,RW,17500000.0,100000.0,80,82,66,59,Xherdan Shaqiri
+"N. Aké
+CB",25,79,83,"Manchester City
+2020 ~ 2025","180cm / 5'11""",75kg / 165lbs,CB,22000000.0,100000.0,77,69,75,50,Nathan Aké
+"S. Romero
+GK",33,79,79,"Manchester United
+2015 ~ 2021","192cm / 6'4""",86kg / 190lbs,GK,5500000.0,81000.0,44,12,31,393,Sergio Romero
+"N. Matić
+CDM CM",31,79,79,"Manchester United
+2017 ~ 2023","194cm / 6'4""",83kg / 183lbs,CDM,12500000.0,100000.0,82,77,61,57,Nemanja Matić
+"E. Bailly
+CB",26,79,82,"Manchester United
+2016 ~ 2022","186cm / 6'1""",77kg / 170lbs,CB,20500000.0,100000.0,68,64,60,55,Eric Bailly
+"C. Wilson
+ST",28,79,79,"Newcastle United
+2020 ~ 2024","180cm / 5'11""",66kg / 146lbs,ST,18000000.0,53000.0,72,78,78,49,Callum Wilson
+"A. Saint-Maximin
+LM RM ST",23,79,85,"Newcastle United
+2019 ~ 2026","173cm / 5'8""",67kg / 148lbs,CAM,27500000.0,41000.0,74,90,74,45,Allan Saint-Maximin
+"E. Lamela
+RM CAM",28,79,79,"Tottenham Hotspur
+2013 ~ 2022","184cm / 6'0""",80kg / 176lbs,RM,17500000.0,95000.0,80,83,64,57,Erik Lamela
+"M. Sissoko
+CDM CM",30,79,79,"Tottenham Hotspur
+2016 ~ 2023","187cm / 6'2""",91kg / 201lbs,CDM,14500000.0,81000.0,79,80,89,51,Moussa Sissoko
+"E. Dier
+CB CDM",26,79,81,"Tottenham Hotspur
+2014 ~ 2024","190cm / 6'3""",90kg / 198lbs,CB,19000000.0,81000.0,73,65,67,53,Eric Dier
+"B. Davies
+LB CB",27,79,79,"Tottenham Hotspur
+2014 ~ 2024","182cm / 6'0""",76kg / 168lbs,LB,17000000.0,81000.0,79,75,79,45,Ben Davies
+"A. Cresswell
+LB CB",30,79,79,"West Ham United
+2014 ~ 2023","175cm / 5'9""",66kg / 146lbs,LB,15000000.0,43000.0,77,76,74,51,Aaron Cresswell
+"M. Antonio
+ST RM",30,79,79,"West Ham United
+2015 ~ 2023","178cm / 5'10""",82kg / 181lbs,ST,17000000.0,51000.0,76,79,77,57,Michail Antonio
+"J. Lingard
+CAM LM",27,79,79,"West Ham United
+Jun 30, 2021 On loan","175cm / 5'9""",62kg / 137lbs,CAM,18500000.0,110000.0,78,79,79,54,Jesse Lingard
+"Pablo Fornals
+LM RM CAM",24,79,82,"West Ham United
+2019 ~ 2024","178cm / 5'10""",67kg / 148lbs,CM,24000000.0,41000.0,81,79,80,54,Pablo Fornals Malla
+"V. Coufal
+RB RWB",27,79,79,"West Ham United
+2020 ~ 2023","175cm / 5'9""",76kg / 168lbs,RB,17000000.0,43000.0,75,73,88,56,Vladimír Coufal
+"T. Castagne
+RB RM LB",24,79,82,"Leicester City
+2020 ~ 2025","180cm / 5'11""",80kg / 176lbs,RWB,22000000.0,65000.0,75,77,85,63,Timothy Castagne
+"Willian José
+ST",28,79,79,"Wolverhampton Wanderers
+Jun 30, 2021 On loan","189cm / 6'2""",91kg / 201lbs,ST,18000000.0,38000.0,78,76,68,68,Willian José da Silva
+"C. Coady
+CB",27,79,81,"Wolverhampton Wanderers
+2015 ~ 2025","186cm / 6'1""",80kg / 176lbs,CDM,18500000.0,76000.0,81,62,78,53,Conor Coady
+"W. Boly
+CB",29,79,79,"Wolverhampton Wanderers
+2018 ~ 2023","195cm / 6'5""",97kg / 214lbs,CB,14500000.0,80000.0,76,63,67,49,Willy Boly
+"R. Saïss
+CB CM",30,79,79,"Wolverhampton Wanderers
+2016 ~ 2022","188cm / 6'2""",84kg / 185lbs,CB,14500000.0,76000.0,78,68,73,50,Romain Saïss
+"B. Mee
+CB",30,79,79,"Burnley
+2012 ~ 2022","180cm / 5'11""",82kg / 181lbs,CB,14500000.0,56000.0,60,59,67,58,Ben Mee
+"B. Costil
+GK",32,79,79,"FC Girondins de Bordeaux
+2017 ~ 2022","187cm / 6'2""",88kg / 194lbs,GK,8500000.0,28000.0,35,13,28,390,Benoît Costil
+"Z. Çelik
+RB",23,79,83,"Lille OSC
+2018 ~ 2023","180cm / 5'11""",78kg / 172lbs,RB,23500000.0,32000.0,76,71,85,53,Zeki Çelik
+"Renato Sanches
+CM RM",22,79,85,"Lille OSC
+2019 ~ 2023","176cm / 5'9""",70kg / 154lbs,CM,28000000.0,36000.0,81,83,88,50,Renato Júnior Luz Sanches
+"J. Ikoné
+RM ST",22,79,84,"Lille OSC
+2018 ~ 2023","175cm / 5'9""",73kg / 161lbs,CAM,27000000.0,36000.0,74,83,71,52,Jonathan Ikoné
+"Thiago Mendes
+CDM CM",28,79,79,"Olympique Lyonnais
+2019 ~ 2023","177cm / 5'10""",75kg / 165lbs,CDM,15500000.0,63000.0,80,76,78,56,Thiago Henrique Mendes Ribeiro
+"Bruno Guimarães
+CDM CM",22,79,85,"Olympique Lyonnais
+2020 ~ 2024","182cm / 6'0""",78kg / 172lbs,CM,26000000.0,52000.0,84,78,82,55,Bruno Guimarães Moura
+"R. Aguilar
+RB",27,79,79,"AS Monaco
+2019 ~ 2024","172cm / 5'8""",71kg / 157lbs,RB,17000000.0,50000.0,77,76,91,62,Ruben Aguilar
+"A. Golovin
+CM CAM",24,79,83,"AS Monaco
+2018 ~ 2024","180cm / 5'11""",69kg / 152lbs,RM,25000000.0,48000.0,79,84,86,66,Alexandr Golovin
+"Gelson Martins
+LM RM RW",25,79,80,"AS Monaco
+2019 ~ 2024","173cm / 5'8""",74kg / 163lbs,LM,21000000.0,53000.0,73,87,86,43,Gelson Dany Batalha Martins
+"G. Laborde
+ST RM",26,79,80,"Montpellier HSC
+2018 ~ 2023","181cm / 5'11""",78kg / 172lbs,ST,21000000.0,42000.0,78,79,85,61,Gaëtan Laborde
+"Ander Herrera
+CM CDM",30,79,79,"Paris Saint-Germain
+2019 ~ 2024","182cm / 6'0""",71kg / 157lbs,CM,17000000.0,78000.0,80,78,81,53,Ander Herrera Agüera
+"H. Traoré
+RB",28,79,79,"Stade Rennais FC
+2017 ~ 2023","175cm / 5'9""",71kg / 157lbs,RB,16000000.0,49000.0,76,76,89,56,Hamari Traoré
+"Álvaro
+CB",30,79,79,"Olympique de Marseille
+2020 ~ 2024","182cm / 6'0""",75kg / 165lbs,CB,14500000.0,40000.0,74,49,76,53,Álvaro González Soberón
+"D. Ćaleta-Car
+CB",23,79,85,"Olympique de Marseille
+2018 ~ 2023","192cm / 6'4""",89kg / 196lbs,CB,25000000.0,35000.0,78,59,77,44,Duje Ćaleta-Car
+"B. Pavard
+RB CB",24,79,82,"FC Bayern München
+2019 ~ 2024","186cm / 6'1""",81kg / 179lbs,RB,22000000.0,57000.0,75,68,79,53,Benjamin Pavard
+"M. Akanji
+CB",24,79,83,"Borussia Dortmund
+2018 ~ 2023","187cm / 6'2""",91kg / 201lbs,CB,22500000.0,46000.0,78,69,72,47,Manuel Akanji
+"C. Kramer
+CDM",29,79,79,"Borussia Mönchengladbach
+2016 ~ 2023","191cm / 6'3""",76kg / 168lbs,CDM,15000000.0,41000.0,78,72,90,44,Christoph Kramer
+"J. Hofmann
+CM RM LM",27,79,79,"Borussia Mönchengladbach
+2016 ~ 2023","176cm / 5'9""",73kg / 161lbs,CM,18500000.0,43000.0,81,78,86,42,Jonas Hofmann
+"R. Bensebaini
+LB CB",25,79,82,"Borussia Mönchengladbach
+2019 ~ 2023","186cm / 6'1""",82kg / 181lbs,CB,21500000.0,37000.0,77,77,78,54,Ramy Bensebaini
+"M. Thuram
+LM ST",22,79,85,"Borussia Mönchengladbach
+2019 ~ 2023","192cm / 6'4""",87kg / 192lbs,ST,28000000.0,37000.0,75,84,79,62,Marcus Thuram
+"C. Günter
+LB LM LWB",27,79,79,"SC Freiburg
+2012 ~ 2024","185cm / 6'1""",87kg / 192lbs,LB,17000000.0,28000.0,69,72,87,55,Christian Günter
+"V. Grifo
+LM CF",27,79,79,"SC Freiburg
+2019 ~ 2024","180cm / 5'11""",77kg / 170lbs,LM,18500000.0,31000.0,77,82,71,52,Vincenzo Grifo
+"B. Santamaria
+CDM CM",25,79,81,"SC Freiburg
+2020 ~ 2025","183cm / 6'0""",73kg / 161lbs,CDM,20000000.0,27000.0,80,75,91,42,Baptiste Santamaria
+"K. Bellarabi
+RW RM",30,79,79,"Bayer 04 Leverkusen
+2011 ~ 2023","184cm / 6'0""",81kg / 179lbs,RW,17000000.0,70000.0,73,83,74,50,Karim Bellarabi
+"K. Demirbay
+CM CDM",26,79,80,"Bayer 04 Leverkusen
+2019 ~ 2024","183cm / 6'0""",74kg / 163lbs,CAM,20500000.0,64000.0,82,83,75,68,Kerem Demirbay
+"Matheus Cunha
+CAM LM ST",21,79,86,"Hertha BSC
+2020 ~ 2025","183cm / 6'0""",76kg / 168lbs,CAM,35500000.0,37000.0,76,85,75,52,Matheus Santos Carneiro Da Cunha
+"K. Mbabu
+RB",25,79,82,"VfL Wolfsburg
+2019 ~ 2023","184cm / 6'0""",83kg / 183lbs,RB,21500000.0,44000.0,69,72,91,50,Kevin Mbabu
+"L. Jović
+ST",22,79,84,"Eintracht Frankfurt
+Jun 30, 2021 On loan","182cm / 6'0""",82kg / 181lbs,ST,27500000.0,130000.0,72,78,75,49,Luka Jović
+"P. Kadeřábek
+RWB RB RM",28,79,79,"TSG 1899 Hoffenheim
+2015 ~ 2023","182cm / 6'0""",81kg / 179lbs,RWB,16000000.0,39000.0,76,76,83,55,Pavel Kadeřábek
+"R. Gikiewicz
+GK",32,79,79,"FC Augsburg
+2020 ~ 2023","190cm / 6'3""",81kg / 179lbs,GK,8500000.0,25000.0,24,18,20,377,Rafał Gikiewicz
+"M. Halstenberg
+CB LB",28,79,79,"RB Leipzig
+2015 ~ 2022","188cm / 6'2""",87kg / 192lbs,CB,15000000.0,53000.0,77,71,82,64,Marcel Halstenberg
+"R. Freuler
+CM",28,79,79,"Atalanta
+2016 ~ 2022","180cm / 5'11""",80kg / 176lbs,CM,17500000.0,60000.0,81,78,84,56,Remo Freuler
+"B. Djimsiti
+CB",27,79,81,"Atalanta
+2016 ~ 2022","190cm / 6'3""",83kg / 183lbs,CB,18500000.0,53000.0,68,34,79,49,Berat Djimsiti
+"H. Hateboer
+RM",26,79,79,"Atalanta
+2017 ~ 2022","185cm / 6'1""",72kg / 159lbs,RM,19000000.0,58000.0,78,79,86,54,Hans Hateboer
+"A. Young
+LM RM",34,79,79,"Inter
+2020 ~ 2021","175cm / 5'9""",65kg / 143lbs,LM,8000000.0,95000.0,79,79,68,72,Ashley Young
+"A. Kolarov
+LB CB",34,79,79,"Inter
+2020 ~ 2022","187cm / 6'2""",81kg / 179lbs,LB,6500000.0,85000.0,78,77,71,61,Aleksandar Kolarov
+"M. Vecino
+CDM",28,79,79,"Inter
+2017 ~ 2022","187cm / 6'2""",81kg / 179lbs,CDM,15500000.0,89000.0,81,81,79,20,Matias Vecino
+"F. Bernardeschi
+CAM RM",26,79,79,"Juventus
+2017 ~ 2022","185cm / 6'1""",77kg / 170lbs,CAM,19000000.0,77000.0,83,84,75,64,Federico Bernardeschi
+"R. Bentancur
+CM",23,79,85,"Juventus
+2017 ~ 2024","187cm / 6'2""",78kg / 172lbs,CM,27500000.0,67000.0,85,84,87,55,Rodrigo Bentancur
+"F. Chiesa
+RM LM",22,79,85,"Juventus
+Jun 1, 2022 On loan","175cm / 5'9""",70kg / 154lbs,CAM,28000000.0,50000.0,78,82,79,37,Federico Chiesa
+"M. Parolo
+CDM CM",35,79,79,"Lazio
+2014 ~ 2021","184cm / 6'0""",75kg / 165lbs,CDM,4900000.0,40000.0,78,75,75,44,Marco Parolo
+"A. Rebić
+LM ST",26,79,79,"AC Milan
+2020 ~ 2025","185cm / 6'1""",78kg / 172lbs,LM,19000000.0,44000.0,72,80,78,67,Ante Rebić
+"D. Ospina
+GK",31,79,79,"Napoli
+2019 ~ 2022","183cm / 6'0""",80kg / 176lbs,GK,9500000.0,48000.0,36,12,29,392,David Ospina
+"D. Demme
+CDM CM",28,79,79,"Napoli
+2020 ~ 2024","172cm / 5'8""",71kg / 157lbs,CDM,15500000.0,63000.0,80,72,93,59,Diego Demme
+"T. Bakayoko
+CDM CM",25,79,81,"Napoli
+Jun 30, 2021 On loan","189cm / 6'2""",85kg / 187lbs,CDM,20000000.0,77000.0,78,77,78,61,Tiemoué Bakayoko
+"V. Osimhen
+ST",21,79,87,"Napoli
+2020 ~ 2025","185cm / 6'1""",78kg / 172lbs,ST,39500000.0,54000.0,67,70,86,53,Victor Osimhen
+"C. Smalling
+CB",30,79,79,"Roma
+2020 ~ 2023","194cm / 6'4""",81kg / 179lbs,CB,14500000.0,51000.0,65,59,67,71,Chris Smalling
+"L. Pellegrini
+CAM CM CDM",24,79,83,"Roma
+2017 ~ 2022","186cm / 6'1""",77kg / 170lbs,CM,25000000.0,49000.0,86,77,73,53,Lorenzo Pellegrini
+"R. Pereyra
+CM LM CF",29,79,79,"Udinese
+2020 ~ 2023","182cm / 6'0""",77kg / 170lbs,CM,17000000.0,23000.0,80,83,78,24,Roberto Pereyra
+"Deulofeu
+LM CF",26,79,79,"Udinese
+2021 ~ 2024","177cm / 5'10""",73kg / 161lbs,RW,19000000.0,22000.0,75,86,69,64,Gerard Deulofeu Lázaro
+"M. Silvestri
+GK",29,79,79,"Hellas Verona FC
+2017 ~ 2022","191cm / 6'3""",80kg / 176lbs,GK,12000000.0,26000.0,22,18,34,384,Marco Silvestri
+"F. Quagliarella
+ST",37,79,79,"Sampdoria
+2016 ~ 2022","180cm / 5'11""",79kg / 174lbs,CF,6000000.0,21000.0,79,79,62,26,Fabio Quagliarella
+"G. Bonaventura
+CM CAM",30,79,79,"Fiorentina
+2020 ~ 2022","181cm / 5'11""",75kg / 165lbs,CM,17000000.0,58000.0,82,82,76,60,Giacomo Bonaventura
+"F. Caputo
+ST",32,79,79,"Sassuolo
+2019 ~ 2022","181cm / 5'11""",74kg / 163lbs,ST,14000000.0,42000.0,70,77,70,53,Francesco Caputo
+"Vitolo
+LM",30,79,79,"Atlético Madrid
+2017 ~ 2022","185cm / 6'1""",79kg / 174lbs,LM,17000000.0,55000.0,76,82,74,65,Víctor Machín Pérez
+"G. Kondogbia
+CM CDM",27,79,79,"Atlético Madrid
+2020 ~ 2024","188cm / 6'2""",80kg / 176lbs,CM,18500000.0,55000.0,81,76,82,53,Geoffrey Kondogbia
+"M. Dembélé
+ST",23,79,83,"Atlético Madrid
+Jun 30, 2021 On loan","183cm / 6'0""",79kg / 174lbs,ST,25500000.0,63000.0,72,75,78,49,Moussa Dembélé
+"Odriozola
+RB",24,79,82,"Real Madrid
+2018 ~ 2024","176cm / 5'9""",66kg / 146lbs,RB,22000000.0,110000.0,76,76,78,52,Álvaro Odriozola Arzalluz
+"Rodrygo
+RW",19,79,88,"Real Madrid
+2019 ~ 2025","174cm / 5'9""",64kg / 141lbs,CAM,38000000.0,90000.0,74,84,81,42,Rodrygo Silva de Goes
+"Dani García
+CM",30,79,79,"Athletic Club
+2018 ~ 2022","180cm / 5'11""",80kg / 176lbs,CDM,17000000.0,29000.0,82,72,91,51,Daniel García Carrillo
+"Álex Berenguer
+LW LM RM",24,79,81,"Athletic Club
+2020 ~ 2024","175cm / 5'9""",73kg / 161lbs,LW,23000000.0,27000.0,78,80,74,57,Alejandro Berenguer Remiro
+"Unai Núñez
+CB",23,79,83,"Athletic Club
+2016 ~ 2023","186cm / 6'1""",81kg / 179lbs,CB,22500000.0,22000.0,76,35,68,50,Unai Núñez Gestoso
+"Sidnei
+CB",30,79,79,"Real Betis Balompié
+2018 ~ 2022","185cm / 6'1""",80kg / 176lbs,CB,14500000.0,26000.0,79,63,65,61,Sidnei Rechel da Silva Júnior
+"Cristian Tello
+LM RM",28,79,79,"Real Betis Balompié
+2017 ~ 2022","178cm / 5'10""",65kg / 143lbs,LM,17500000.0,30000.0,74,81,73,56,Cristian Tello Herrera
+"William Carvalho
+CDM CM",28,79,79,"Real Betis Balompié
+2018 ~ 2023","187cm / 6'2""",79kg / 174lbs,CDM,15500000.0,27000.0,81,71,81,45,William Silva de Carvalho
+"Borja Iglesias
+ST",27,79,79,"Real Betis Balompié
+2019 ~ 2024","187cm / 6'2""",86kg / 190lbs,ST,19000000.0,31000.0,73,73,72,71,Borja Iglesias Quintas
+"Zubeldia
+CB CM CDM",23,79,84,"Real Sociedad
+2015 ~ 2024","181cm / 5'11""",73kg / 161lbs,CDM,24000000.0,26000.0,81,70,83,46,Igor Zubeldia Elorza
+"Carlos Soler
+CM RM LM",23,79,85,"Valencia CF
+2015 ~ 2023","180cm / 5'11""",76kg / 168lbs,CAM,27500000.0,34000.0,81,78,81,51,Carlos Soler Barragán
+"F. Orellana
+RM LM CAM",34,79,79,"Real Valladolid CF
+2020 ~ 2022","171cm / 5'7""",64kg / 141lbs,RM,8000000.0,25000.0,79,84,56,65,Fabián Orellana
+"Jordi Masip
+GK",31,79,79,"Real Valladolid CF
+2017 ~ 2022","180cm / 5'11""",68kg / 150lbs,GK,9500000.0,19000.0,42,17,41,384,Jordi Masip López
+"Lucas Pérez
+ST",31,79,79,"Deportivo Alavés
+2019 ~ 2022","180cm / 5'11""",73kg / 161lbs,ST,15000000.0,32000.0,75,78,69,50,Lucas Pérez Martínez
+"Pedro León
+RM LM",33,79,79,"SD Eibar
+2016 ~ 2021","183cm / 6'0""",73kg / 161lbs,RM,11000000.0,33000.0,85,78,59,64,Pedro León Sánchez Gil
+"Rubén García
+LM ST RM",26,79,79,"CA Osasuna
+2018 ~ 2024","171cm / 5'7""",71kg / 157lbs,LM,19000000.0,37000.0,80,79,69,60,Rubén García Santos
+"E. Ávila
+ST RM",26,79,80,"CA Osasuna
+2019 ~ 2023","172cm / 5'8""",81kg / 179lbs,ST,21000000.0,40000.0,71,79,78,47,Ezequiel Ávila
+"Escudero
+LB LM",30,79,79,"Sevilla FC
+2015 ~ 2021","176cm / 5'9""",72kg / 159lbs,LB,15000000.0,29000.0,79,68,75,58,Sergio Escudero Palomo
+"N. Gudelj
+CDM CM CB",28,79,79,"Sevilla FC
+2019 ~ 2023","187cm / 6'2""",73kg / 161lbs,CDM,15500000.0,30000.0,82,67,85,53,Nemanja Gudelj
+"Y. Bounou
+GK",29,79,79,"Sevilla FC
+2020 ~ 2024","192cm / 6'4""",78kg / 172lbs,GK,12000000.0,25000.0,39,20,43,390,Yassine Bounou
+"Munir
+ST LW RW",24,79,84,"Sevilla FC
+2019 ~ 2023","175cm / 5'9""",69kg / 152lbs,ST,27000000.0,30000.0,80,82,73,56,Munir El Haddadi
+"Joan Jordán
+CM CDM CAM",25,79,82,"Sevilla FC
+2019 ~ 2023","183cm / 6'0""",74kg / 163lbs,CM,23000000.0,30000.0,82,79,79,59,Joan Jordán Moreno
+"Y. En-Nesyri
+ST LW",23,79,84,"Sevilla FC
+2020 ~ 2025","188cm / 6'2""",78kg / 172lbs,ST,27000000.0,30000.0,63,81,76,58,Youssef En-Nesyri
+"Iborra
+CDM CM",32,79,79,"Villarreal CF
+2019 ~ 2024","190cm / 6'3""",80kg / 176lbs,CDM,11500000.0,34000.0,82,69,67,54,Vicente Iborra de la Fuente
+"Mario Gaspar
+RB",29,79,79,"Villarreal CF
+2008 ~ 2023","182cm / 6'0""",74kg / 163lbs,RB,15500000.0,35000.0,76,73,77,53,Mario Gaspar Pérez Martínez
+"Manu Trigueros
+CM RM LM",28,79,79,"Villarreal CF
+2011 ~ 2022","178cm / 5'10""",75kg / 165lbs,CM,17500000.0,39000.0,80,76,75,50,Manuel Trigueros Muñoz
+"P. Estupiñán
+LB LWB",22,79,85,"Villarreal CF
+2020 ~ 2027","175cm / 5'9""",73kg / 161lbs,LB,26500000.0,29000.0,79,72,79,49,Pervis Estupiñán
+"Roger
+ST",29,79,79,"Levante UD
+2011 ~ 2023","179cm / 5'10""",74kg / 163lbs,ST,17500000.0,33000.0,69,74,75,65,Roger Martí Salvador
+"E. Bardhi
+LM CM",24,79,82,"Levante UD
+2017 ~ 2022","172cm / 5'8""",64kg / 141lbs,CAM,24000000.0,26000.0,77,82,76,51,Enis Bardhi
+"Ángel
+ST",33,79,79,"Getafe CF
+2017 ~ 2021","172cm / 5'8""",68kg / 150lbs,ST,11000000.0,36000.0,72,77,59,52,Ángel Luís Rodríguez Díaz
+"D. Suárez
+RB",32,79,79,"Getafe CF
+2015 ~ 2022","173cm / 5'8""",68kg / 150lbs,RB,12000000.0,30000.0,77,74,79,56,Damián Suárez
+"Mata
+ST",31,79,79,"Getafe CF
+2018 ~ 2024","185cm / 6'1""",79kg / 174lbs,ST,15000000.0,36000.0,65,79,71,48,Jaime Mata Arnaiz
+"N. Maksimović
+CDM CM",25,79,84,"Getafe CF
+2018 ~ 2024","189cm / 6'2""",78kg / 172lbs,CDM,23500000.0,29000.0,80,70,84,67,Nemanja Maksimović
+"Montoro
+CDM CM CAM",32,79,79,"Granada CF
+2017 ~ 2022","181cm / 5'11""",72kg / 159lbs,CDM,11500000.0,29000.0,85,72,68,64,Ángel Montoro Sánchez
+"Germán
+CB",33,79,79,"Granada CF
+2017 ~ 2022","187cm / 6'2""",82kg / 181lbs,CB,8500000.0,29000.0,74,51,77,46,Germán Sánchez Barahona
+"Luis Milla
+CDM CM CAM",25,79,83,"Granada CF
+2020 ~ 2024","175cm / 5'9""",67kg / 148lbs,CDM,22000000.0,28000.0,82,72,87,53,Luis Milla Manzanares
+"Héctor Bellerín
+RB RWB",25,78,81,"Arsenal
+2014 ~ 2023","178cm / 5'10""",74kg / 163lbs,RB,17000000.0,66000.0,76,77,76,61,Héctor Bellerín Moruno
+"R. Barkley
+CAM CM",26,78,79,"Aston Villa
+Jun 30, 2021 On loan","189cm / 6'2""",76kg / 168lbs,CAM,16500000.0,81000.0,82,81,65,51,Ross Barkley
+"J. McGinn
+CDM CM",25,78,81,"Aston Villa
+2018 ~ 2025","178cm / 5'10""",68kg / 150lbs,CM,17000000.0,51000.0,80,80,90,56,John McGinn
+"T. Mings
+CB",27,78,80,"Aston Villa
+2019 ~ 2024","196cm / 6'5""",77kg / 170lbs,CB,15000000.0,53000.0,69,68,72,52,Tyrone Mings
+"O. Watkins
+ST",24,78,83,"Aston Villa
+2020 ~ 2025","180cm / 5'11""",70kg / 154lbs,ST,21500000.0,56000.0,70,74,86,58,Ollie Watkins
+"Emerson
+LB",25,78,81,"Chelsea
+2018 ~ 2022","176cm / 5'9""",79kg / 174lbs,LWB,17000000.0,70000.0,77,79,70,52,Emerson Palmieri dos Santos
+"T. Abraham
+ST",22,78,85,"Chelsea
+2014 ~ 2023","196cm / 6'5""",87kg / 192lbs,ST,29000000.0,77000.0,70,72,69,53,Tammy Abraham
+"G. Sigurðsson
+CAM CM",30,78,78,"Everton
+2017 ~ 2022","186cm / 6'1""",77kg / 170lbs,CAM,13500000.0,76000.0,82,78,77,58,Gylfi Sigurðsson
+"P. Bamford
+ST",26,78,78,"Leeds United
+2018 ~ 2026","185cm / 6'1""",71kg / 157lbs,ST,15500000.0,100000.0,72,70,91,49,Patrick Bamford
+"A. Oxlade-Chamberlain
+CM",26,78,79,"Liverpool
+2017 ~ 2023","175cm / 5'9""",70kg / 154lbs,CAM,16500000.0,81000.0,80,83,78,49,Alex Oxlade-Chamberlain
+"Juan Mata
+CAM RM",32,78,78,"Manchester United
+2014 ~ 2022","170cm / 5'7""",63kg / 139lbs,CAM,11000000.0,100000.0,83,80,56,46,Juan Manuel Mata García
+"M. Greenwood
+RM ST",18,78,89,"Manchester United
+2018 ~ 2025","181cm / 5'11""",70kg / 154lbs,CAM,29500000.0,35000.0,74,81,72,34,Mason Greenwood
+"Oriol Romeu
+CDM CM",28,78,78,"Southampton
+2015 ~ 2023","183cm / 6'0""",83kg / 183lbs,CDM,12500000.0,53000.0,78,63,74,63,Oriol Romeu Vidal
+"J. Vestergaard
+CB",27,78,79,"Southampton
+2018 ~ 2022","199cm / 6'6""",96kg / 212lbs,CB,14000000.0,51000.0,70,45,65,63,Jannik Vestergaard
+"M. Doherty
+RB RWB",28,78,78,"Tottenham Hotspur
+2020 ~ 2024","182cm / 6'0""",87kg / 192lbs,RB,12500000.0,77000.0,78,74,79,55,Matt Doherty
+"H. Winks
+CDM CM",24,78,83,"Tottenham Hotspur
+2014 ~ 2024","176cm / 5'9""",74kg / 163lbs,CM,19500000.0,63000.0,84,78,77,56,Harry Winks
+"Vinícius
+ST",25,78,81,"Tottenham Hotspur
+Jun 30, 2021 On loan","190cm / 6'3""",83kg / 183lbs,ST,19000000.0,16000.0,71,76,77,54,Carlos Vinícius Alves Morais
+"A. Ogbonna
+CB",32,78,78,"West Ham United
+2015 ~ 2022","191cm / 6'3""",86kg / 190lbs,CB,9000000.0,39000.0,68,61,63,21,Angelo Ogbonna
+"J. Bowen
+RM ST",23,78,83,"West Ham United
+2020 ~ 2025","175cm / 5'9""",70kg / 154lbs,LM,21000000.0,37000.0,73,80,78,53,Jarrod Bowen
+"D. Praet
+CM RM",26,78,78,"Leicester City
+2019 ~ 2024","181cm / 5'11""",78kg / 172lbs,CM,15000000.0,76000.0,82,81,74,46,Dennis Praet
+"Ayoze Pérez
+RW RM",26,78,78,"Leicester City
+2019 ~ 2023","178cm / 5'10""",72kg / 159lbs,RW,15500000.0,82000.0,76,81,79,57,Ayoze Pérez Gutiérrez
+"W. Fofana
+CB",19,78,86,"Leicester City
+2020 ~ 2025","190cm / 6'3""",76kg / 168lbs,CB,28500000.0,36000.0,69,61,73,55,Wesley Fofana
+"Adama Traoré
+RW RWB",24,78,81,"Wolverhampton Wanderers
+2018 ~ 2023","178cm / 5'10""",72kg / 159lbs,RM,19000000.0,72000.0,71,92,77,52,Adama Traoré Diarra
+"Daniel Podence
+LW RW",24,78,81,"Wolverhampton Wanderers
+2020 ~ 2024","165cm / 5'5""",58kg / 128lbs,CAM,19000000.0,72000.0,75,86,75,58,Daniel Castelo Podence
+"Pedro Neto
+LW RW",20,78,86,"Wolverhampton Wanderers
+2019 ~ 2025","172cm / 5'8""",62kg / 137lbs,CAM,31000000.0,62000.0,75,83,72,44,Pedro Lomba Neto
+"A. Westwood
+CDM CM",30,78,78,"Burnley
+2017 ~ 2023","175cm / 5'9""",73kg / 161lbs,CDM,12000000.0,51000.0,80,70,86,51,Ashley Westwood
+"C. Wood
+ST",28,78,78,"Burnley
+2017 ~ 2023","191cm / 6'3""",92kg / 203lbs,ST,14500000.0,63000.0,67,67,76,69,Chris Wood
+"C. Kouyaté
+CB CDM",30,78,78,"Crystal Palace
+2018 ~ 2022","189cm / 6'2""",83kg / 183lbs,CB,11500000.0,51000.0,69,68,89,53,Cheikhou Kouyaté
+"L. Dunk
+CB",28,78,79,"Brighton & Hove Albion
+2010 ~ 2025","192cm / 6'4""",88kg / 194lbs,CB,13500000.0,56000.0,75,65,67,58,Lewis Dunk
+"Y. Bissouma
+CM CDM",23,78,84,"Brighton & Hove Albion
+2018 ~ 2023","182cm / 6'0""",80kg / 176lbs,CM,22000000.0,51000.0,80,80,80,48,Yves Bissouma
+"L. Koscielny
+CB",34,78,78,"FC Girondins de Bordeaux
+2019 ~ 2022","186cm / 6'1""",75kg / 165lbs,CB,4600000.0,32000.0,76,62,62,51,Laurent Koscielny
+"G. Kakuta
+CAM",29,78,78,"RC Lens
+Jun 30, 2021 On loan","173cm / 5'8""",72kg / 159lbs,CAM,14000000.0,9000.0,76,84,68,53,Gaël Kakuta
+"Y. Yazıcı
+CF ST CAM",23,78,82,"Lille OSC
+2019 ~ 2024","185cm / 6'1""",74kg / 163lbs,CAM,20500000.0,36000.0,81,82,75,47,Yusuf Yazıcı
+"B. Soumaré
+CDM CM",21,78,85,"Lille OSC
+2017 ~ 2022","188cm / 6'2""",82kg / 181lbs,CDM,27000000.0,24000.0,79,78,81,45,Boubakary Soumaré
+"Marcelo
+CB",33,78,78,"Olympique Lyonnais
+2017 ~ 2023","191cm / 6'3""",85kg / 187lbs,CB,6500000.0,55000.0,72,49,75,62,Marcelo Antônio Guedes Filho
+"L. Dubois
+RB",25,78,80,"Olympique Lyonnais
+2018 ~ 2024","178cm / 5'10""",65kg / 143lbs,RWB,16000000.0,52000.0,78,73,79,54,Léo Dubois
+"K. Toko Ekambi
+LW ST",27,78,78,"Olympique Lyonnais
+2020 ~ 2024","185cm / 6'1""",74kg / 163lbs,LW,15000000.0,65000.0,74,77,76,56,Karl Toko Ekambi
+"M. Caqueret
+CM CDM",20,78,86,"Olympique Lyonnais
+2018 ~ 2023","174cm / 5'9""",63kg / 139lbs,CM,30500000.0,44000.0,81,80,85,45,Maxence Caqueret
+"F. Mollet
+CAM CM",28,78,78,"Montpellier HSC
+2018 ~ 2023","170cm / 5'7""",67kg / 148lbs,CAM,14000000.0,36000.0,81,80,75,61,Florent Mollet
+"A. Lafont
+GK",21,78,83,"FC Nantes
+2021 ~ 2024","196cm / 6'5""",90kg / 198lbs,GK,17500000.0,14000.0,54,14,40,381,Alban Lafont
+"K. Dolberg
+ST",22,78,82,"OGC Nice
+2019 ~ 2024","187cm / 6'2""",84kg / 185lbs,ST,21000000.0,36000.0,79,78,72,51,Kasper Dolberg
+"A. Diallo
+CB LB",24,78,82,"Paris Saint-Germain
+2019 ~ 2024","187cm / 6'2""",79kg / 174lbs,CB,18000000.0,56000.0,78,75,74,41,Abdou Diallo
+"M. Kean
+ST RW",20,78,86,"Paris Saint-Germain
+Jun 30, 2021 On loan","182cm / 6'0""",72kg / 159lbs,ST,31000000.0,62000.0,68,80,70,47,Moise Kean
+"D. Da Silva
+CB",32,78,78,"Stade Rennais FC
+2018 ~ 2021","184cm / 6'0""",83kg / 183lbs,CB,9000000.0,43000.0,75,42,74,53,Damien Da Silva
+"S. Nzonzi
+CDM CM",31,78,78,"Stade Rennais FC
+2020 ~ 2021","196cm / 6'5""",89kg / 196lbs,CDM,10000000.0,43000.0,79,70,83,68,Steven Nzonzi
+"E. Camavinga
+CM CDM",17,78,89,"Stade Rennais FC
+2019 ~ 2022","182cm / 6'0""",68kg / 150lbs,CM,29000000.0,6000.0,81,80,79,50,Eduardo Camavinga
+"M. Sels
+GK",28,78,80,"RC Strasbourg Alsace
+2018 ~ 2024","190cm / 6'3""",88kg / 194lbs,GK,12000000.0,25000.0,38,19,26,385,Matz Sels
+"L. Ajorque
+ST",26,78,79,"RC Strasbourg Alsace
+2018 ~ 2024","197cm / 6'6""",92kg / 203lbs,ST,17000000.0,35000.0,68,72,76,56,Ludovic Ajorque
+"J. Amavi
+LB",26,78,79,"Olympique de Marseille
+2018 ~ 2025","176cm / 5'9""",70kg / 154lbs,LB,15000000.0,37000.0,75,74,80,58,Jordan Amavi
+"V. Rongier
+CM CDM",25,78,81,"Olympique de Marseille
+2019 ~ 2024","172cm / 5'8""",70kg / 154lbs,CDM,18500000.0,38000.0,82,75,80,49,Valentin Rongier
+"P. Rajković
+GK",24,78,83,"Stade de Reims
+2019 ~ 2023","191cm / 6'3""",85kg / 187lbs,GK,17000000.0,18000.0,26,8,26,387,Predrag Rajković
+"P. Bernardoni
+GK",23,78,84,"Angers SCO
+2020 ~ 2024","190cm / 6'3""",78kg / 172lbs,GK,18000000.0,16000.0,28,16,36,386,Paul Bernardoni
+"A. Fulgini
+CAM CM RM",23,78,82,"Angers SCO
+2017 ~ 2023","183cm / 6'0""",71kg / 157lbs,CAM,20000000.0,23000.0,79,81,79,58,Angelo Fulgini
+"Javi Martínez
+CDM CB",31,78,78,"FC Bayern München
+2012 ~ 2021","189cm / 6'2""",89kg / 196lbs,CB,10000000.0,61000.0,73,60,55,45,Javier Martínez Aginaga
+"M. Hitz
+GK",32,78,78,"Borussia Dortmund
+2018 ~ 2023","194cm / 6'4""",89kg / 196lbs,GK,7000000.0,39000.0,29,13,38,387,Marwin Hitz
+"N. Schulz
+LB LM LWB",27,78,78,"Borussia Dortmund
+2019 ~ 2024","181cm / 5'11""",83kg / 183lbs,LB,13500000.0,49000.0,74,73,77,58,Nico Schulz
+"M. Dahoud
+CM CDM",24,78,81,"Borussia Dortmund
+2017 ~ 2023","178cm / 5'10""",68kg / 150lbs,CAM,19000000.0,46000.0,82,84,89,53,Mahmoud Dahoud
+"D. Zagadou
+CB",21,78,85,"Borussia Dortmund
+2017 ~ 2022","196cm / 6'5""",90kg / 198lbs,CB,26500000.0,35000.0,75,51,65,55,Dan-Axel Zagadou
+"N. Elvedi
+CB",23,78,82,"Borussia Mönchengladbach
+2015 ~ 2024","189cm / 6'2""",81kg / 179lbs,CB,18000000.0,30000.0,74,67,75,55,Nico Elvedi
+"J. Baumgartlinger
+CDM CM",32,78,78,"Bayer 04 Leverkusen
+2016 ~ 2022","184cm / 6'0""",84kg / 185lbs,CDM,9500000.0,53000.0,81,65,83,55,Julian Baumgartlinger
+"J. Tah
+CB",24,78,82,"Bayer 04 Leverkusen
+2015 ~ 2023","195cm / 6'5""",97kg / 214lbs,CB,18000000.0,46000.0,72,55,64,49,Jonathan Tah
+"L. Alario
+ST",27,78,78,"Bayer 04 Leverkusen
+2017 ~ 2024","184cm / 6'0""",78kg / 172lbs,ST,15000000.0,63000.0,69,74,68,60,Lucas Alario
+"N. Amiri
+CAM CM",23,78,82,"Bayer 04 Leverkusen
+2019 ~ 2024","180cm / 5'11""",73kg / 161lbs,CAM,20000000.0,51000.0,79,85,76,60,Nadiem Amiri
+"P. Schick
+ST",24,78,82,"Bayer 04 Leverkusen
+2020 ~ 2025","186cm / 6'1""",73kg / 161lbs,ST,20500000.0,56000.0,78,82,64,57,Patrik Schick
+"D. Boyata
+CB",29,78,78,"Hertha BSC
+2019 ~ 2024","188cm / 6'2""",84kg / 185lbs,CB,12000000.0,44000.0,73,53,74,53,Dedryck Boyata
+"J. Roussillon
+LB LM",27,78,78,"VfL Wolfsburg
+2018 ~ 2023","175cm / 5'9""",80kg / 176lbs,LB,13500000.0,42000.0,73,78,76,52,Jérôme Roussillon
+"J. Brooks
+CB",27,78,79,"VfL Wolfsburg
+2017 ~ 2022","193cm / 6'4""",78kg / 172lbs,CB,14000000.0,42000.0,74,64,61,44,John Brooks
+"R. Steffen
+LM RM",28,78,78,"VfL Wolfsburg
+2018 ~ 2023","170cm / 5'7""",65kg / 143lbs,LM,14000000.0,48000.0,77,79,76,55,Renato Steffen
+"M. Philipp
+CF CAM LM",26,78,79,"VfL Wolfsburg
+2019 ~ 2023","183cm / 6'0""",79kg / 174lbs,CAM,17000000.0,50000.0,77,82,68,49,Maximilian Philipp
+"X. Schlager
+CDM CM CAM",22,78,83,"VfL Wolfsburg
+2019 ~ 2023","174cm / 5'9""",76kg / 168lbs,CM,20000000.0,36000.0,79,76,85,41,Xaver Schlager
+"R. Baku
+RM RB CM",22,78,85,"VfL Wolfsburg
+2020 ~ 2025","176cm / 5'9""",75kg / 165lbs,RWB,28500000.0,40000.0,76,81,90,46,Ridle Baku
+"A. Younes
+CAM CF LM",26,78,78,"Eintracht Frankfurt
+Jun 30, 2022 On loan","168cm / 5'6""",67kg / 148lbs,CAM,15500000.0,59000.0,80,87,72,65,Amin Younes
+"D. Kamada
+CAM CF",23,78,81,"Eintracht Frankfurt
+2017 ~ 2023","184cm / 6'0""",76kg / 168lbs,CAM,19000000.0,27000.0,79,83,73,44,Daichi Kamada
+"F. Grillitsch
+CM CDM CB",24,78,82,"TSG 1899 Hoffenheim
+2017 ~ 2022","187cm / 6'2""",77kg / 170lbs,CM,20000000.0,32000.0,85,78,70,53,Florian Grillitsch
+"Y. Poulsen
+ST",26,78,80,"RB Leipzig
+2013 ~ 2024","192cm / 6'4""",84kg / 185lbs,ST,17500000.0,54000.0,73,75,86,54,Yussuf Poulsen
+"I. Konaté
+CB",21,78,87,"RB Leipzig
+2017 ~ 2023","194cm / 6'4""",95kg / 209lbs,CB,29500000.0,33000.0,75,69,68,49,Ibrahima Konaté
+"Rafael Tolói
+CB",29,78,78,"Atalanta
+2015 ~ 2023","185cm / 6'1""",75kg / 165lbs,CB,12000000.0,50000.0,66,58,69,63,Rafael Tolói
+"A. Miranchuk
+CAM ST",24,78,81,"Atalanta
+2020 ~ 2025","182cm / 6'0""",67kg / 148lbs,CAM,19000000.0,46000.0,80,81,75,52,Alexey Miranchuk
+"C. Romero
+CB",22,78,84,"Atalanta
+Jun 30, 2021 On loan","185cm / 6'1""",79kg / 174lbs,CB,20500000.0,55000.0,60,50,77,47,Cristian Romero
+"M. Darmian
+RWB RM LM",30,78,78,"Inter
+Jun 30, 2021 On loan","182cm / 6'0""",70kg / 154lbs,RWB,12000000.0,32000.0,74,72,75,39,Matteo Darmian
+"R. Gagliardini
+CDM CM",26,78,80,"Inter
+2017 ~ 2023","188cm / 6'2""",77kg / 170lbs,CDM,15500000.0,77000.0,78,75,83,42,Roberto Gagliardini
+"S. Sensi
+CM CDM",24,78,82,"Inter
+2020 ~ 2024","168cm / 5'6""",62kg / 137lbs,CM,20000000.0,74000.0,83,79,77,48,Stefano Sensi
+"A. Bastoni
+CB",21,78,87,"Inter
+2017 ~ 2024","190cm / 6'3""",75kg / 165lbs,CB,29500000.0,55000.0,71,68,68,48,Alessandro Bastoni
+"D. Kulusevski
+RW CF",20,78,88,"Juventus
+2019 ~ 2024","186cm / 6'1""",75kg / 165lbs,CAM,31000000.0,58000.0,79,82,90,44,Dejan Kulusevski
+"Ș. Radu
+CB",33,78,78,"Lazio
+2008 ~ 2021","183cm / 6'0""",79kg / 174lbs,CB,6500000.0,51000.0,71,66,62,52,Ștefan Radu
+"F. Caicedo
+CF ST",31,78,78,"Lazio
+2017 ~ 2022","183cm / 6'0""",82kg / 181lbs,ST,12000000.0,61000.0,79,77,59,45,Felipe Caicedo
+"A. Marušić
+RM LM CB",27,78,78,"Lazio
+2017 ~ 2022","185cm / 6'1""",85kg / 187lbs,RM,15000000.0,56000.0,75,79,77,44,Adam Marušić
+"Luiz Felipe
+CB",23,78,86,"Lazio
+2016 ~ 2022","187cm / 6'2""",80kg / 176lbs,CB,29000000.0,44000.0,72,69,52,54,Luiz Felipe Ramos Marchi
+"C. Tătărușanu
+GK",34,78,78,"AC Milan
+2020 ~ 2023","198cm / 6'6""",90kg / 198lbs,GK,2400000.0,30000.0,36,16,42,387,Ciprian Tătărușanu
+"I. Bennacer
+CM CDM",22,78,83,"AC Milan
+2019 ~ 2024","175cm / 5'9""",70kg / 154lbs,CM,21500000.0,35000.0,82,82,78,62,Ismaël Bennacer
+"D. Calabria
+RB",23,78,82,"AC Milan
+2015 ~ 2025","177cm / 5'10""",70kg / 154lbs,RB,18500000.0,31000.0,72,70,79,56,Davide Calabria
+"Mário Rui
+LB",29,78,78,"Napoli
+2018 ~ 2025","170cm / 5'7""",67kg / 148lbs,LB,12500000.0,57000.0,75,78,91,49,Mário Rui Silva Duarte
+"E. Hysaj
+LB RB",26,78,79,"Napoli
+2015 ~ 2021","182cm / 6'0""",70kg / 154lbs,LB,15000000.0,54000.0,75,72,80,52,Elseid Hysaj
+"A. Meret
+GK",23,78,86,"Napoli
+2018 ~ 2023","190cm / 6'3""",83kg / 183lbs,GK,27000000.0,36000.0,29,16,29,382,Alex Meret
+"A. Mirante
+GK",36,78,78,"Roma
+2018 ~ 2021","193cm / 6'4""",79kg / 174lbs,GK,1600000.0,24000.0,35,24,33,379,Antonio Mirante
+"Pedro
+CF RW",32,78,78,"Roma
+2020 ~ 2023","169cm / 5'7""",65kg / 143lbs,CF,11500000.0,55000.0,79,81,68,52,Pedro Rodríguez Ledesma
+"S. El Shaarawy
+LW LM",27,78,78,"Roma
+2021 ~ 2023","178cm / 5'10""",73kg / 161lbs,LW,15000000.0,55000.0,76,80,71,21,Stephan El Shaarawy
+"B. Cristante
+CDM CB CM",25,78,79,"Roma
+2019 ~ 2024","186cm / 6'1""",80kg / 176lbs,CDM,15000000.0,44000.0,81,76,74,19,Bryan Cristante
+"C. Ansaldi
+LM LB",33,78,78,"Torino
+2019 ~ 2022","181cm / 5'11""",76kg / 168lbs,LWB,9000000.0,45000.0,79,82,77,57,Cristian Ansaldi
+"N. Nkoulou
+CB",30,78,78,"Torino
+2018 ~ 2021","184cm / 6'0""",78kg / 172lbs,CB,11500000.0,41000.0,71,67,61,41,Nicolas Nkoulou
+"R. Soriano
+CAM CM",29,78,78,"Bologna
+2019 ~ 2023","182cm / 6'0""",76kg / 168lbs,CAM,14000000.0,37000.0,79,80,74,61,Roberto Soriano
+"A. Barák
+CF CM",25,78,81,"Hellas Verona FC
+Jun 30, 2021 On loan","190cm / 6'3""",86kg / 190lbs,CAM,19000000.0,21000.0,83,81,81,62,Antonín Barák
+"A. Candreva
+RM",33,78,78,"Sampdoria
+Jun 30, 2021 On loan","180cm / 5'11""",70kg / 154lbs,RM,9000000.0,85000.0,79,80,80,46,Antonio Candreva
+"E. Audero
+GK",23,78,83,"Sampdoria
+2019 ~ 2026","192cm / 6'4""",83kg / 183lbs,GK,17000000.0,14000.0,29,19,25,384,Emil Audero
+"D. Rugani
+CB",25,78,80,"Cagliari
+Jun 30, 2021 On loan","190cm / 6'3""",84kg / 185lbs,CB,15500000.0,61000.0,69,61,62,30,Daniele Rugani
+"D. Zappacosta
+RWB RM LM",28,78,78,"Genoa
+Jun 30, 2021 On loan","185cm / 6'1""",70kg / 154lbs,RWB,12500000.0,77000.0,75,76,79,45,Davide Zappacosta
+"Junior Firpo
+LB LM",23,78,84,"FC Barcelona
+2019 ~ 2024","184cm / 6'0""",78kg / 172lbs,LB,21000000.0,100000.0,74,73,79,49,Héctor Junior Firpo Adamés
+"De Marcos
+RB RM RW",31,78,78,"Athletic Club
+2009 ~ 2022","182cm / 6'0""",80kg / 176lbs,RB,10000000.0,24000.0,80,75,87,51,Oscar De Marcos Arana
+"Ibai Gómez
+RM LM RW",30,78,78,"Athletic Club
+2019 ~ 2022","177cm / 5'10""",72kg / 159lbs,RM,13500000.0,26000.0,79,78,66,53,Ibai Gómez Pérez
+"A. Guardado
+CDM CM LM",33,78,78,"Real Betis Balompié
+2017 ~ 2022","169cm / 5'7""",67kg / 148lbs,CDM,7000000.0,24000.0,81,79,81,48,Andrés Guardado
+"Emerson
+RB RM RWB",21,78,85,"Real Betis Balompié
+2019 ~ 2021","181cm / 5'11""",79kg / 174lbs,RB,27000000.0,17000.0,77,72,79,56,Emerson Leite De Souza
+"R. Tapia
+CDM CM",24,78,82,"RC Celta
+2020 ~ 2024","185cm / 6'1""",80kg / 176lbs,CB,18500000.0,20000.0,77,74,80,60,Renato Tapia
+"Zaldúa
+RB",28,78,78,"Real Sociedad
+2014 ~ 2023","176cm / 5'9""",69kg / 152lbs,RB,12500000.0,29000.0,78,60,79,58,Joseba Zaldúa Bengoetxea
+"Aritz Elustondo
+CB RB",26,78,81,"Real Sociedad
+2014 ~ 2024","180cm / 5'11""",71kg / 157lbs,CB,16500000.0,28000.0,73,48,75,52,Aritz Elustondo
+"Laguardia
+CB",30,78,78,"Deportivo Alavés
+2014 ~ 2022","185cm / 6'1""",80kg / 176lbs,CB,11500000.0,25000.0,70,42,71,58,Víctor Laguardia Cisneros
+"P. Diop
+CDM CM",34,78,78,"SD Eibar
+2018 ~ 2021","179cm / 5'10""",77kg / 170lbs,CDM,4800000.0,28000.0,72,63,73,54,Papakouli Diop
+"T. Inui
+LM RM CAM",32,78,78,"SD Eibar
+2019 ~ 2022","169cm / 5'7""",69kg / 152lbs,LM,11000000.0,30000.0,76,83,74,57,Takashi Inui
+"Roberto Torres
+RM LM CM",31,78,78,"CA Osasuna
+2011 ~ 2023","178cm / 5'10""",72kg / 159lbs,RM,11500000.0,33000.0,77,76,78,52,Roberto Torres Morales
+"Jony
+LM",28,78,78,"CA Osasuna
+Jun 30, 2021 On loan","179cm / 5'10""",71kg / 157lbs,LM,14000000.0,58000.0,77,78,73,62,Jonathan Rodríguez Menéndez
+"E. Capoue
+CM CDM",31,78,78,"Villarreal CF
+2021 ~ 2023","190cm / 6'3""",80kg / 176lbs,CM,11500000.0,33000.0,79,75,77,60,Etienne Capoue
+"Jaume Costa
+LB RB",32,78,78,"Villarreal CF
+2010 ~ 2021","171cm / 5'7""",62kg / 137lbs,LB,9500000.0,31000.0,78,70,65,61,Jaume Vicent Costa Jordá
+"Moi Gómez
+LM RM LW",26,78,79,"Villarreal CF
+2019 ~ 2025","176cm / 5'9""",71kg / 157lbs,LM,16500000.0,33000.0,80,79,78,49,Moisés Gómez Bordonado
+"Negredo
+ST",34,78,78,"Cádiz CF
+2020 ~ 2022","186cm / 6'1""",86kg / 190lbs,ST,7000000.0,35000.0,71,70,63,48,Álvaro Negredo Sánchez
+"Jorge Molina
+ST",38,78,78,"Granada CF
+2020 ~ 2022","188cm / 6'2""",72kg / 159lbs,ST,4800000.0,24000.0,78,72,40,55,Jorge Molina Vidal
+"Puertas
+RM LM",28,78,78,"Granada CF
+2017 ~ 2024","183cm / 6'0""",77kg / 170lbs,RM,14000000.0,30000.0,74,78,77,60,Antonio José Rodríguez Díaz
+"Y. Herrera
+CM CDM CAM",22,78,85,"Granada CF
+Jun 30, 2021 On loan","184cm / 6'0""",77kg / 170lbs,CDM,28500000.0,90000.0,83,76,76,44,Yangel Herrera
+"Domingos Duarte
+CB",25,78,82,"Granada CF
+2019 ~ 2023","190cm / 6'3""",78kg / 172lbs,CB,17500000.0,25000.0,78,48,75,59,Domingos Sousa Menezes Duarte
+"Carlos Neva
+LB",24,78,83,"Granada CF
+2017 ~ 2025","174cm / 5'9""",64kg / 141lbs,LB,20000000.0,23000.0,71,74,78,46,Carlos Neva Tey
+"M. Ryan
+GK",28,77,79,"Arsenal
+Jun 30, 2021 On loan","184cm / 6'0""",82kg / 181lbs,GK,9000000.0,43000.0,40,13,34,389,Mathew Ryan
+"M. Elneny
+CDM CM",27,77,78,"Arsenal
+2016 ~ 2022","181cm / 5'11""",74kg / 163lbs,CDM,11000000.0,65000.0,79,68,89,55,Mohamed Elneny
+"Dani Ceballos
+CM CDM",23,77,80,"Arsenal
+Jun 30, 2021 On loan","179cm / 5'10""",68kg / 150lbs,CM,14500000.0,100000.0,80,83,75,63,Daniel Ceballos Fernández
+"R. Holding
+CB",24,77,81,"Arsenal
+2016 ~ 2024","189cm / 6'2""",81kg / 179lbs,CB,13500000.0,56000.0,75,63,67,62,Rob Holding
+"B. Traoré
+RM RW",24,77,80,"Aston Villa
+2020 ~ 2024","181cm / 5'11""",73kg / 161lbs,CAM,14500000.0,48000.0,74,82,68,50,Bertrand Traoré
+"M. Sanson
+CM",25,77,80,"Aston Villa
+2021 ~ 2025","180cm / 5'11""",73kg / 161lbs,CM,14000000.0,52000.0,78,76,81,56,Morgan Sanson
+"M. Targett
+LB",24,77,81,"Aston Villa
+2019 ~ 2025","183cm / 6'0""",70kg / 154lbs,LB,14000000.0,43000.0,74,69,78,58,Matt Targett
+"M. Cash
+RB",22,77,83,"Aston Villa
+2020 ~ 2025","179cm / 5'10""",74kg / 163lbs,RWB,16000000.0,43000.0,68,73,90,65,Matty Cash
+"E. Konsa
+CB RB",22,77,84,"Aston Villa
+2019 ~ 2026","183cm / 6'0""",77kg / 170lbs,CB,20000000.0,43000.0,74,70,72,55,Ezri Konsa
+"C. Hudson-Odoi
+RW LW",19,77,87,"Chelsea
+2017 ~ 2024","178cm / 5'10""",79kg / 174lbs,CAM,23000000.0,49000.0,77,83,66,58,Callum Hudson-Odoi
+"R. Olsen
+GK",30,77,77,"Everton
+Jun 30, 2021 On loan","196cm / 6'5""",86kg / 190lbs,GK,7000000.0,35000.0,32,11,37,383,Robin Olsen
+"A. Iwobi
+RM LW",24,77,79,"Everton
+2019 ~ 2024","185cm / 6'1""",75kg / 165lbs,CAM,13500000.0,62000.0,80,83,74,58,Alex Iwobi
+"J. Gbamin
+CDM CM",24,77,80,"Everton
+2019 ~ 2024","186cm / 6'1""",83kg / 183lbs,CB,13000000.0,56000.0,78,74,68,56,Jean-Philippe Gbamin
+"M. Holgate
+CB RB",23,77,81,"Everton
+2015 ~ 2025","184cm / 6'0""",75kg / 165lbs,CB,13500000.0,56000.0,77,67,76,58,Mason Holgate
+"Diego Llorente
+CB",26,77,79,"Leeds United
+2020 ~ 2024","186cm / 6'1""",76kg / 168lbs,CB,11500000.0,80000.0,75,60,71,47,Diego Javier Llorente Ríos
+"R. Koch
+CB CDM",23,77,84,"Leeds United
+2020 ~ 2024","191cm / 6'3""",83kg / 183lbs,CB,19500000.0,68000.0,74,59,73,44,Robin Koch
+"Z. Steffen
+GK",25,77,82,"Manchester City
+2019 ~ 2022","191cm / 6'3""",86kg / 190lbs,GK,12500000.0,69000.0,52,15,39,380,Zack Steffen
+"J. Lascelles
+CB",26,77,80,"Newcastle United
+2014 ~ 2024","188cm / 6'2""",83kg / 183lbs,CB,12000000.0,37000.0,64,52,69,57,Jamaal Lascelles
+"M. Almirón
+CAM RM LM",26,77,78,"Newcastle United
+2019 ~ 2024","174cm / 5'9""",70kg / 154lbs,LM,12500000.0,40000.0,77,82,79,53,Miguel Almirón
+"N. Redmond
+LM",26,77,77,"Southampton
+2016 ~ 2023","173cm / 5'8""",69kg / 152lbs,LM,11500000.0,52000.0,74,82,73,58,Nathan Redmond
+"S. Armstrong
+RM",28,77,77,"Southampton
+2018 ~ 2024","183cm / 6'0""",75kg / 165lbs,RM,10500000.0,54000.0,77,77,85,59,Stuart Armstrong
+"K. Walker-Peters
+RB",23,77,82,"Southampton
+2020 ~ 2025","174cm / 5'9""",64kg / 141lbs,RB,15000000.0,41000.0,73,74,78,47,Kyle Walker-Peters
+"M. Lanzini
+CAM CM LM",27,77,77,"West Ham United
+2016 ~ 2023","167cm / 5'6""",59kg / 130lbs,CAM,11000000.0,40000.0,79,82,61,51,Manuel Lanzini
+"A. Masuaku
+LWB LB",26,77,78,"West Ham United
+2016 ~ 2024","179cm / 5'10""",70kg / 154lbs,LWB,11500000.0,37000.0,75,82,78,39,Arthur Masuaku
+"S. Benrahma
+CAM LW LM",24,77,80,"West Ham United
+2021 ~ 2026","172cm / 5'8""",67kg / 148lbs,CAM,14500000.0,35000.0,75,83,69,53,Saïd Benrahma
+"I. Diop
+CB",23,77,83,"West Ham United
+2018 ~ 2023","194cm / 6'4""",92kg / 203lbs,CB,15000000.0,31000.0,67,50,69,46,Issa Diop
+"J. Justin
+LWB LB",22,77,82,"Leicester City
+2019 ~ 2024","183cm / 6'0""",80kg / 176lbs,LWB,15000000.0,56000.0,72,73,77,45,James Justin
+"C. Ünder
+RM RW",22,77,82,"Leicester City
+2020 ~ 2025","173cm / 5'8""",66kg / 146lbs,CAM,16000000.0,62000.0,72,82,67,46,Cengiz Ünder
+"S. Johnstone
+GK",27,77,80,"West Bromwich Albion
+2018 ~ 2022","193cm / 6'4""",85kg / 187lbs,GK,10500000.0,56000.0,27,16,42,378,Sam Johnstone
+"L. Dendoncker
+CM CB",25,77,80,"Wolverhampton Wanderers
+2019 ~ 2023","189cm / 6'2""",88kg / 194lbs,CM,14000000.0,68000.0,81,73,88,56,Leander Dendoncker
+"J. Andersen
+CB",24,77,83,"Fulham FC
+Jun 30, 2021 On loan","192cm / 6'4""",90kg / 198lbs,CB,15000000.0,44000.0,78,53,69,58,Joachim Andersen
+"A. Lookman
+LM CAM ST",22,77,84,"Fulham FC
+Jun 30, 2021 On loan","174cm / 5'9""",71kg / 157lbs,RM,21500000.0,41000.0,72,83,74,54,Ademola Lookman
+"S. Berge
+CDM CM",22,77,83,"Sheffield United
+2020 ~ 2024","195cm / 6'5""",96kg / 212lbs,CDM,15500000.0,29000.0,77,76,86,51,Sander Berge
+"D. McNeil
+LM",20,77,83,"Burnley
+2018 ~ 2024","183cm / 6'0""",70kg / 154lbs,CAM,16500000.0,39000.0,77,81,78,60,Dwight McNeil
+"A. Townsend
+RM",28,77,77,"Crystal Palace
+2016 ~ 2021","178cm / 5'10""",73kg / 161lbs,RM,10500000.0,54000.0,75,81,75,59,Andros Townsend
+"E. Eze
+LM CAM",22,77,83,"Crystal Palace
+2020 ~ 2025","178cm / 5'10""",67kg / 148lbs,CAM,17000000.0,45000.0,77,83,77,55,Eberechi Eze
+"L. Trossard
+LM LW ST",25,77,78,"Brighton & Hove Albion
+2019 ~ 2023","172cm / 5'8""",67kg / 148lbs,CAM,12500000.0,52000.0,75,79,73,47,Leandro Trossard
+"J. Veltman
+CB RB RWB",28,77,78,"Brighton & Hove Albion
+2020 ~ 2023","184cm / 6'0""",75kg / 165lbs,CB,10000000.0,52000.0,74,66,75,43,Joël Veltman
+"N. Maupay
+ST",23,77,81,"Brighton & Hove Albion
+2019 ~ 2023","171cm / 5'7""",69kg / 152lbs,ST,15500000.0,52000.0,74,68,74,52,Neal Maupay
+"Otávio
+CDM CM",26,77,79,"FC Girondins de Bordeaux
+2017 ~ 2022","176cm / 5'9""",73kg / 161lbs,CDM,11500000.0,30000.0,76,71,79,54,Otávio Henrique Passos Santos
+"Reinildo
+LB",26,77,78,"Lille OSC
+2019 ~ 2022","180cm / 5'11""",73kg / 161lbs,LB,11500000.0,32000.0,72,73,80,49,Reinildo Isnard Mandava
+"Xeka
+CDM CM",25,77,80,"Lille OSC
+2017 ~ 2022","186cm / 6'1""",83kg / 183lbs,CM,12500000.0,30000.0,80,77,78,34,Miguel Ângelo da Silva Rocha
+"J. David
+ST",20,77,86,"Lille OSC
+2020 ~ 2025","177cm / 5'10""",77kg / 170lbs,ST,23500000.0,29000.0,76,79,83,39,Jonathan David
+"S. Botman
+CB",20,77,84,"Lille OSC
+2020 ~ 2025","193cm / 6'4""",81kg / 179lbs,CB,19500000.0,23000.0,69,49,68,49,Sven Botman
+"T. Kadewere
+RW ST",24,77,80,"Olympique Lyonnais
+2020 ~ 2024","183cm / 6'0""",71kg / 157lbs,ST,14500000.0,54000.0,74,78,77,58,Tino Kadewere
+"A. Oukidja
+GK",31,77,77,"FC Metz
+2018 ~ 2023","184cm / 6'0""",80kg / 176lbs,GK,5500000.0,16000.0,25,15,35,376,Alexandre Oukidja
+"S. Jovetić
+ST",30,77,77,"AS Monaco
+2017 ~ 2021","183cm / 6'0""",79kg / 174lbs,CF,10500000.0,51000.0,80,79,49,40,Stevan Jovetić
+"D. Sidibé
+RB",27,77,77,"AS Monaco
+2016 ~ 2022","182cm / 6'0""",71kg / 157lbs,RB,10000000.0,43000.0,75,75,84,54,Djibril Sidibé
+"G. Maripán
+CB",26,77,79,"AS Monaco
+2019 ~ 2024","193cm / 6'4""",83kg / 183lbs,CB,11500000.0,43000.0,68,45,59,54,Guillermo Maripán
+"A. Disasi
+CB",22,77,82,"AS Monaco
+2020 ~ 2025","190cm / 6'3""",86kg / 190lbs,CB,14500000.0,37000.0,71,56,69,45,Axel Disasi
+"K. Diatta
+RM",21,77,85,"AS Monaco
+2021 ~ 2025","175cm / 5'9""",69kg / 152lbs,RM,23500000.0,35000.0,69,83,88,52,Krépin Diatta
+"A. Tchouaméni
+CM CDM",20,77,85,"AS Monaco
+2020 ~ 2024","187cm / 6'2""",81kg / 179lbs,CM,23000000.0,35000.0,79,75,81,48,Aurélien Tchouaméni
+"Y. Fofana
+CM CDM",21,77,83,"AS Monaco
+2020 ~ 2024","176cm / 5'9""",69kg / 152lbs,CM,17000000.0,35000.0,78,76,82,45,Youssouf Fofana
+"J. Omlin
+GK",26,77,81,"Montpellier HSC
+2020 ~ 2024","189cm / 6'2""",80kg / 176lbs,GK,11500000.0,24000.0,45,27,35,379,Jonas Omlin
+"N. Pallois
+CB",32,77,77,"FC Nantes
+2017 ~ 2022","189cm / 6'2""",89kg / 196lbs,CB,7000000.0,25000.0,69,55,66,62,Nicolas Pallois
+"Rony Lopes
+RW LW RM",24,77,79,"OGC Nice
+Jun 30, 2021 On loan","174cm / 5'9""",68kg / 150lbs,CAM,13500000.0,26000.0,74,80,68,56,Marcos Paulo Mesquita Lopes
+"H. Kamara
+LB LWB LM",26,77,78,"OGC Nice
+2020 ~ 2024","168cm / 5'6""",67kg / 148lbs,LB,11500000.0,32000.0,73,74,82,55,Hassane Kamara
+"P. Lees-Melou
+CM",27,77,78,"OGC Nice
+2017 ~ 2023","186cm / 6'1""",70kg / 154lbs,CAM,12000000.0,35000.0,80,78,84,51,Pierre Lees-Melou
+"A. Claude-Maurice
+CM LW",22,77,83,"OGC Nice
+2019 ~ 2024","175cm / 5'9""",64kg / 141lbs,CAM,17000000.0,30000.0,80,80,73,68,Alexis Claude-Maurice
+"A. Gouiri
+LW ST LM",20,77,84,"OGC Nice
+2020 ~ 2024","180cm / 5'11""",72kg / 159lbs,LW,21000000.0,29000.0,75,79,74,42,Amine Gouiri
+"Sergio Rico
+GK",26,77,79,"Paris Saint-Germain
+2020 ~ 2024","195cm / 6'5""",90kg / 198lbs,GK,10000000.0,49000.0,28,14,36,382,Sergio Rico González
+"A. Gomis
+GK",26,77,79,"Stade Rennais FC
+2020 ~ 2025","196cm / 6'5""",80kg / 176lbs,GK,10000000.0,32000.0,34,15,33,376,Alfred Gomis
+"B. Bourigeaud
+CM LM",26,77,78,"Stade Rennais FC
+2017 ~ 2023","178cm / 5'10""",68kg / 150lbs,CM,12500000.0,44000.0,79,76,83,62,Benjamin Bourigeaud
+"F. Maouassa
+LB",21,77,81,"Stade Rennais FC
+2017 ~ 2022","170cm / 5'7""",73kg / 161lbs,LWB,14500000.0,29000.0,74,75,82,42,Faitout Maouassa
+"M. Terrier
+ST LW",23,77,81,"Stade Rennais FC
+2020 ~ 2025","184cm / 6'0""",73kg / 161lbs,ST,15500000.0,42000.0,78,76,69,43,Martin Terrier
+"Z. Ferhat
+LM RM",27,77,77,"Nîmes Olympique
+2019 ~ 2022","183cm / 6'0""",77kg / 170lbs,LM,11000000.0,25000.0,76,78,78,60,Zinedine Ferhat
+"X. Chavalerin
+CDM CM",29,77,77,"Stade de Reims
+2017 ~ 2022","178cm / 5'10""",66kg / 146lbs,CDM,9000000.0,26000.0,80,71,90,53,Xavier Chavalerin
+"Y. Abdelhamid
+CB",32,77,77,"Stade de Reims
+2017 ~ 2022","190cm / 6'3""",83kg / 183lbs,CB,7000000.0,25000.0,75,68,79,60,Yunis Abdelhamid
+"M. Debuchy
+RB CB RWB",34,77,77,"AS Saint-Étienne
+2018 ~ 2021","176cm / 5'9""",76kg / 168lbs,RB,3900000.0,30000.0,77,74,69,49,Mathieu Debuchy
+"D. Bouanga
+LM RM ST",25,77,78,"AS Saint-Étienne
+2019 ~ 2023","180cm / 5'11""",70kg / 154lbs,LM,12500000.0,31000.0,71,81,68,55,Denis Bouanga
+"Marc Roca
+CDM CM",23,77,82,"FC Bayern München
+2020 ~ 2025","184cm / 6'0""",77kg / 170lbs,CM,14500000.0,49000.0,82,72,72,52,Marc Roca Junqué
+"V. Lazaro
+RM RB",24,77,80,"Borussia Mönchengladbach
+Jun 30, 2021 On loan","180cm / 5'11""",77kg / 170lbs,CAM,14500000.0,69000.0,76,80,68,48,Valentino Lazaro
+"B. Embolo
+ST CAM",23,77,83,"Borussia Mönchengladbach
+2019 ~ 2023","187cm / 6'2""",88kg / 194lbs,ST,17000000.0,35000.0,76,77,78,45,Breel Embolo
+"F. Müller
+GK",22,77,81,"SC Freiburg
+Jun 30, 2021 On loan","192cm / 6'4""",85kg / 187lbs,GK,12000000.0,18000.0,32,18,34,376,Florian Müller
+"E. Palacios
+CM CAM CDM",21,77,84,"Bayer 04 Leverkusen
+2020 ~ 2025","177cm / 5'10""",70kg / 154lbs,CM,21500000.0,40000.0,79,76,87,38,Exequiel Palacios
+"S. Sané
+CB",29,77,77,"FC Schalke 04
+2018 ~ 2022","196cm / 6'5""",85kg / 187lbs,CB,9000000.0,27000.0,71,62,69,60,Salif Sané
+"W. Endo
+CDM CM",27,77,78,"VfB Stuttgart
+2020 ~ 2024","178cm / 5'10""",76kg / 168lbs,CDM,11000000.0,24000.0,77,72,77,45,Wataru Endo
+"G. Kobel
+GK",22,77,82,"VfB Stuttgart
+2020 ~ 2024","194cm / 6'4""",88kg / 194lbs,GK,13000000.0,16000.0,39,24,21,382,Gregor Kobel
+"N. González
+ST LM LW",22,77,84,"VfB Stuttgart
+2018 ~ 2024","180cm / 5'11""",72kg / 159lbs,ST,21500000.0,25000.0,74,84,69,38,Nicolás González
+"Ö. Toprak
+CB",30,77,77,"SV Werder Bremen
+2020 ~ 2023","186cm / 6'1""",83kg / 183lbs,CB,8500000.0,26000.0,71,66,55,57,Ömer Toprak
+"M. Rashica
+CF LW RW",24,77,83,"SV Werder Bremen
+2018 ~ 2022","177cm / 5'10""",73kg / 161lbs,CAM,17000000.0,27000.0,71,85,76,48,Milot Rashica
+"R. Jarstein
+GK",35,77,77,"Hertha BSC
+2014 ~ 2023","190cm / 6'3""",86kg / 190lbs,GK,1200000.0,21000.0,29,17,31,377,Rune Almenning Jarstein
+"A. Schwolow
+GK",28,77,79,"Hertha BSC
+2020 ~ 2024","190cm / 6'3""",84kg / 185lbs,GK,9000000.0,34000.0,26,15,31,375,Alexander Schwolow
+"J. Córdoba
+ST",27,77,77,"Hertha BSC
+2020 ~ 2024","188cm / 6'2""",85kg / 187lbs,ST,11500000.0,47000.0,67,75,74,53,Jhon Córdoba
+"K. Piątek
+ST",25,77,81,"Hertha BSC
+2020 ~ 2025","183cm / 6'0""",77kg / 170lbs,ST,15000000.0,45000.0,64,74,73,54,Krzysztof Piątek
+"M. Guendouzi
+CDM CM",21,77,86,"Hertha BSC
+Jun 30, 2021 On loan","185cm / 6'1""",80kg / 176lbs,CM,22500000.0,46000.0,79,75,79,49,Mattéo Guendouzi
+"J. Guilavogui
+CDM CM CB",29,77,77,"VfL Wolfsburg
+2016 ~ 2023","188cm / 6'2""",77kg / 170lbs,CB,9000000.0,41000.0,75,63,74,61,Josuha Guilavogui
+"M. Lacroix
+CB",20,77,84,"VfL Wolfsburg
+2020 ~ 2024","190cm / 6'3""",88kg / 194lbs,CB,19500000.0,28000.0,72,56,67,56,Maxence Lacroix
+"M. Hasebe
+CDM CB",36,77,77,"Eintracht Frankfurt
+2014 ~ 2022","180cm / 5'11""",72kg / 159lbs,CDM,2100000.0,19000.0,78,66,61,56,Makoto Hasebe
+"S. Rode
+CDM CM",29,77,77,"Eintracht Frankfurt
+2019 ~ 2024","180cm / 5'11""",71kg / 157lbs,CDM,9000000.0,27000.0,76,72,75,49,Sebastian Rode
+"D. Sow
+CM CDM",23,77,82,"Eintracht Frankfurt
+2019 ~ 2024","184cm / 6'0""",76kg / 168lbs,CDM,16000000.0,25000.0,80,75,85,42,Djibril Sow
+"E. Ndicka
+CB LB",20,77,84,"Eintracht Frankfurt
+2018 ~ 2023","192cm / 6'4""",82kg / 181lbs,CB,19500000.0,19000.0,76,76,75,44,Evan Ndicka
+"M. Friedrich
+CB",24,77,80,"1. FC Union Berlin
+2019 ~ 2022","192cm / 6'4""",81kg / 179lbs,CB,13000000.0,25000.0,67,43,62,65,Marvin Friedrich
+"S. Rudy
+CM CDM RB",30,77,77,"TSG 1899 Hoffenheim
+Jun 30, 2021 On loan","180cm / 5'11""",74kg / 163lbs,CM,10000000.0,29000.0,80,76,77,56,Sebastian Rudy
+"K. Vogt
+CB CDM",28,77,77,"TSG 1899 Hoffenheim
+2016 ~ 2022","194cm / 6'4""",85kg / 187lbs,CB,9000000.0,33000.0,80,67,67,48,Kevin Vogt
+"M. Dabbur
+ST",28,77,77,"TSG 1899 Hoffenheim
+2020 ~ 2024","182cm / 6'0""",76kg / 168lbs,ST,11000000.0,39000.0,73,76,75,61,Munas Dabbur
+"D. Caligiuri
+RM RWB CM",32,77,77,"FC Augsburg
+2020 ~ 2023","182cm / 6'0""",80kg / 176lbs,RM,8500000.0,29000.0,76,75,82,55,Daniel Caligiuri
+"T. Adams
+CDM RWB",21,77,83,"RB Leipzig
+2019 ~ 2025","175cm / 5'9""",72kg / 159lbs,CDM,15500000.0,31000.0,80,70,86,46,Tyler Adams
+"D. Szoboszlai
+CAM LM",19,77,87,"RB Leipzig
+2021 ~ 2026","186cm / 6'1""",74kg / 163lbs,CAM,23000000.0,27000.0,78,80,74,49,Dominik Szoboszlai
+"A. Haidara
+CM RM LM",22,77,83,"RB Leipzig
+2019 ~ 2025","175cm / 5'9""",72kg / 159lbs,CAM,17000000.0,41000.0,79,79,79,43,Amadou Haidara
+"J. Palomino
+CB",30,77,77,"Atalanta
+2017 ~ 2023","188cm / 6'2""",87kg / 192lbs,CB,8500000.0,45000.0,66,56,73,53,José Luis Palomino
+"M. Pašalić
+CM CAM",25,77,80,"Atalanta
+2018 ~ 2024","188cm / 6'2""",82kg / 181lbs,CM,14000000.0,47000.0,80,78,78,64,Mario Pašalić
+"M. Pessina
+CAM CM CF",23,77,84,"Atalanta
+2017 ~ 2022","187cm / 6'2""",75kg / 165lbs,CAM,21000000.0,43000.0,80,78,79,49,Matteo Pessina
+"D. D'Ambrosio
+CB RB",31,77,77,"Inter
+2021 ~ 2022","180cm / 5'11""",75kg / 165lbs,CB,7000000.0,73000.0,71,71,80,62,Danilo D'Ambrosio
+"W. McKennie
+CM RM LM",21,77,85,"Juventus
+2021 ~ 2025","183cm / 6'0""",84kg / 185lbs,CB,23500000.0,48000.0,79,75,83,48,Weston McKennie
+"M. Musacchio
+CB",29,77,77,"Lazio
+2021 ~ 2023","180cm / 5'11""",73kg / 161lbs,CB,9000000.0,50000.0,69,65,61,46,Mateo Musacchio
+"G. Escalante
+CDM CM",27,77,78,"Lazio
+2020 ~ 2024","182cm / 6'0""",76kg / 168lbs,CDM,11000000.0,48000.0,78,69,78,52,Gonzalo Escalante
+"Samu Castillejo
+RM",25,77,77,"AC Milan
+2018 ~ 2023","182cm / 6'0""",67kg / 148lbs,RM,11500000.0,36000.0,76,82,64,66,Samuel Castillejo Azuaga
+"F. Tomori
+CB",22,77,85,"AC Milan
+Jun 30, 2021 On loan","185cm / 6'1""",79kg / 174lbs,CB,22000000.0,59000.0,70,60,67,51,Fikayo Tomori
+"S. Tonali
+CDM CM",20,77,87,"AC Milan
+2017 ~ 2022","181cm / 5'11""",79kg / 174lbs,CM,22000000.0,25000.0,81,76,76,44,Sandro Tonali
+"F. Ghoulam
+LB",29,77,77,"Napoli
+2014 ~ 2022","184cm / 6'0""",80kg / 176lbs,LB,9500000.0,53000.0,77,78,74,48,Faouzi Ghoulam
+"S. Lobotka
+CM CDM",25,77,80,"Napoli
+2020 ~ 2024","170cm / 5'7""",64kg / 141lbs,CM,14000000.0,53000.0,84,77,83,60,Stanislav Lobotka
+"G. Di Lorenzo
+RB",26,77,77,"Napoli
+2019 ~ 2026","183cm / 6'0""",83kg / 183lbs,RB,10500000.0,51000.0,73,75,80,43,Giovanni Di Lorenzo
+"J. Kucka
+CM CDM",33,77,77,"Parma
+2019 ~ 2022","186cm / 6'1""",84kg / 185lbs,CB,6500000.0,33000.0,76,75,86,54,Juraj Kucka
+"L. Sepe
+GK",29,77,77,"Parma
+2020 ~ 2024","185cm / 6'1""",75kg / 165lbs,GK,7000000.0,26000.0,32,14,27,380,Luigi Sepe
+"G. Mancini
+CB CDM",24,77,83,"Roma
+2020 ~ 2024","190cm / 6'3""",77kg / 170lbs,CB,15000000.0,37000.0,65,51,79,47,Gianluca Mancini
+"Miguel Veloso
+CM CDM",34,77,77,"Hellas Verona FC
+2019 ~ 2022","180cm / 5'11""",79kg / 174lbs,CM,4900000.0,28000.0,83,73,65,55,Miguel Luís Pinto Veloso
+"M. Zaccagni
+CF ST",25,77,81,"Hellas Verona FC
+2012 ~ 2022","177cm / 5'10""",63kg / 139lbs,CAM,15000000.0,29000.0,79,82,75,58,Mattia Zaccagni
+"N. Nández
+CM CDM RM",24,77,82,"Cagliari
+2019 ~ 2024","172cm / 5'8""",70kg / 154lbs,CDM,16000000.0,29000.0,80,75,93,50,Nahitan Nández
+"A. Kokorin
+ST RW",29,77,77,"Fiorentina
+2021 ~ 2024","184cm / 6'0""",83kg / 183lbs,ST,10500000.0,56000.0,75,81,74,53,Alexandr Kokorin
+"G. Pezzella
+CB",29,77,77,"Fiorentina
+2018 ~ 2022","186cm / 6'1""",81kg / 179lbs,CB,9000000.0,47000.0,64,54,57,54,Germán Pezzella
+"B. Drągowski
+GK",22,77,83,"Fiorentina
+2016 ~ 2023","188cm / 6'2""",74kg / 163lbs,GK,14000000.0,30000.0,35,20,34,379,Bartłomiej Drągowski
+"S. Amrabat
+CM CDM",23,77,80,"Fiorentina
+2020 ~ 2024","185cm / 6'1""",70kg / 154lbs,CDM,14500000.0,43000.0,80,81,86,60,Sofyan Amrabat
+"D. Criscito
+CB LB LM",33,77,77,"Genoa
+2018 ~ 2022","183cm / 6'0""",75kg / 165lbs,CB,5000000.0,17000.0,77,72,79,57,Domenico Criscito
+"G. Defrel
+CAM ST LW",29,77,77,"Sassuolo
+2020 ~ 2024","179cm / 5'10""",77kg / 170lbs,CAM,10500000.0,34000.0,67,83,49,59,Gregoire Defrel
+"J. Boga
+LM LW",23,77,83,"Sassuolo
+2018 ~ 2022","174cm / 5'9""",72kg / 159lbs,CAM,16500000.0,29000.0,73,84,68,62,Jérémie Boga
+"Trincão
+RW RM",20,77,87,"FC Barcelona
+2020 ~ 2025","183cm / 6'0""",77kg / 170lbs,CAM,23000000.0,95000.0,71,84,77,42,Francisco Mota Castro Trincão
+"Pedri
+CM LM CAM",17,77,91,"FC Barcelona
+2020 ~ 2022","174cm / 5'9""",61kg / 134lbs,CAM,24000000.0,15000.0,80,80,74,46,Pedro González López
+"Unai López
+CM",24,77,81,"Athletic Club
+2013 ~ 2022","170cm / 5'7""",70kg / 154lbs,CAM,15000000.0,21000.0,82,76,79,62,Unai López Cabrera
+"C. Bravo
+GK",37,77,77,"Real Betis Balompié
+2020 ~ 2022","184cm / 6'0""",80kg / 176lbs,GK,1200000.0,12000.0,56,22,39,390,Claudio Bravo
+"Víctor Ruiz
+CB",31,77,77,"Real Betis Balompié
+2020 ~ 2023","185cm / 6'1""",78kg / 172lbs,CB,7000000.0,22000.0,71,53,74,46,Víctor Ruiz Torre
+"Álex Moreno
+LB LWB LM",27,77,78,"Real Betis Balompié
+2019 ~ 2024","179cm / 5'10""",68kg / 150lbs,LB,11000000.0,22000.0,73,78,93,54,Alexandre Moreno Lopera
+"G. Rodríguez
+CDM CM",25,77,79,"Real Betis Balompié
+2020 ~ 2024","185cm / 6'1""",80kg / 176lbs,CDM,12000000.0,21000.0,74,60,76,59,Guido Rodríguez
+"Loren
+ST",26,77,78,"Real Betis Balompié
+2015 ~ 2024","188cm / 6'2""",82kg / 181lbs,ST,12500000.0,26000.0,73,76,71,54,Lorenzo Morón García
+"Hugo Mallo
+RB RWB",29,77,77,"RC Celta
+2009 ~ 2023","173cm / 5'8""",69kg / 152lbs,RB,9500000.0,23000.0,71,62,82,54,Hugo Mallo Novegil
+"J. Murillo
+CB",28,77,78,"RC Celta
+Jun 30, 2022 On loan","184cm / 6'0""",78kg / 172lbs,CB,10000000.0,20000.0,67,58,69,60,Jeison Murillo
+"Denis Suárez
+CM LM LW",26,77,78,"RC Celta
+2019 ~ 2023","178cm / 5'10""",66kg / 146lbs,CAM,12500000.0,24000.0,82,81,66,48,Denis Suárez Fernández
+"Moyá
+GK",36,77,77,"Real Sociedad
+2018 ~ 2021","188cm / 6'2""",83kg / 183lbs,GK,1200000.0,14000.0,31,13,30,382,Miguel Ángel Moyá Rumbo
+"K. Gameiro
+ST",33,77,77,"Valencia CF
+2018 ~ 2021","172cm / 5'8""",70kg / 154lbs,ST,6500000.0,37000.0,79,73,69,38,Kévin Gameiro
+"U. Račić
+CM CDM",22,77,84,"Valencia CF
+2018 ~ 2024","193cm / 6'4""",81kg / 179lbs,CM,21500000.0,29000.0,78,74,78,53,Uroš Račić
+"L. Olaza
+LB LWB CB",25,77,80,"Real Valladolid CF
+Jun 30, 2021 On loan","175cm / 5'9""",70kg / 154lbs,LB,13000000.0,16000.0,77,72,75,56,Lucas Olaza
+"F. Lejeune
+CB",29,77,77,"Deportivo Alavés
+Jun 30, 2021 On loan","189cm / 6'2""",89kg / 196lbs,CB,9000000.0,38000.0,75,62,60,60,Florian Lejeune
+"Rubén Duarte
+LB CB",24,77,82,"Deportivo Alavés
+2017 ~ 2023","180cm / 5'11""",75kg / 165lbs,LB,15000000.0,20000.0,77,64,69,56,Rubén Duarte Sánchez
+"Cote
+LB",30,77,77,"SD Eibar
+2017 ~ 2022","182cm / 6'0""",77kg / 170lbs,LB,9000000.0,26000.0,76,74,69,64,José Ángel Valdés Díaz
+"Kike García
+ST",30,77,77,"SD Eibar
+2016 ~ 2023","186cm / 6'1""",79kg / 174lbs,ST,10500000.0,31000.0,78,74,66,50,Enrique García Martínez
+"P. Piatti
+RM LM LW",31,77,77,"Elche CF
+2021 ~ 2023","163cm / 5'4""",63kg / 139lbs,RM,8500000.0,22000.0,76,80,67,49,Pablo Piatti
+"Edgar Badia
+GK",28,77,79,"Elche CF
+2019 ~ 2022","180cm / 5'11""",70kg / 154lbs,GK,9000000.0,17000.0,30,14,35,382,Edgar Badia Guardiola
+"P. Gazzaniga
+GK",28,77,77,"Elche CF
+Jun 30, 2021 On loan","196cm / 6'5""",90kg / 198lbs,GK,7500000.0,59000.0,49,20,45,394,Paulo Gazzaniga
+"I. Marcone
+CDM CM",30,77,77,"Elche CF
+Jun 30, 2021 On loan","182cm / 6'0""",79kg / 174lbs,CDM,9000000.0,17000.0,78,71,82,65,Iván Marcone
+"A. Budimir
+ST",28,77,77,"CA Osasuna
+Jun 30, 2021 On loan","190cm / 6'3""",75kg / 165lbs,ST,11000000.0,13000.0,68,74,69,64,Ante Budimir
+"Aridane
+CB",31,77,77,"CA Osasuna
+2017 ~ 2023","186cm / 6'1""",77kg / 170lbs,CB,7000000.0,29000.0,67,40,78,55,Aridane Hernández Umpiérrez
+"Oier
+CDM CM",34,77,77,"CA Osasuna
+2008 ~ 2022","178cm / 5'10""",72kg / 159lbs,CDM,3600000.0,29000.0,78,65,74,34,Oier Sanjurjo Maté
+"Sergio Herrera
+GK",27,77,79,"CA Osasuna
+2017 ~ 2023","192cm / 6'4""",82kg / 181lbs,GK,9500000.0,23000.0,24,15,42,379,Sergio Herrera Pirón
+"Sergi Gómez
+CB",28,77,78,"Sevilla FC
+2018 ~ 2022","185cm / 6'1""",80kg / 176lbs,CB,10000000.0,26000.0,77,57,67,60,Sergi Gómez Solà
+"Óliver Torres
+CM LW",25,77,80,"Sevilla FC
+2019 ~ 2024","175cm / 5'9""",70kg / 154lbs,CAM,14000000.0,26000.0,81,83,75,42,Óliver Torres Muñoz
+"C. Bacca
+ST",33,77,77,"Villarreal CF
+2018 ~ 2022","181cm / 5'11""",77kg / 170lbs,ST,6500000.0,34000.0,68,75,59,45,Carlos Bacca
+"Pedraza
+LB LM LWB",24,77,82,"Villarreal CF
+2014 ~ 2025","184cm / 6'0""",73kg / 161lbs,LB,15000000.0,25000.0,72,76,83,51,Alfonso Pedraza Sag
+"S. Chukwueze
+RM RW CF",21,77,85,"Villarreal CF
+2018 ~ 2023","172cm / 5'8""",70kg / 154lbs,CAM,23500000.0,23000.0,69,87,73,42,Samuel Chukwueze
+"Rochina
+RM CM CAM",29,77,77,"Levante UD
+2018 ~ 2021","182cm / 6'0""",76kg / 168lbs,CAM,10500000.0,26000.0,78,82,68,60,Rubén Rochina Naixes
+"Rúben Vezo
+CB RB",26,77,80,"Levante UD
+2019 ~ 2024","183cm / 6'0""",80kg / 176lbs,CB,12000000.0,23000.0,70,59,72,52,Rúben Miguel Nunes Vezo
+"M. Olivera
+LB LM",22,77,85,"Getafe CF
+2017 ~ 2025","184cm / 6'0""",78kg / 172lbs,LB,22500000.0,22000.0,68,70,78,68,Mathías Olivera
+"Salvi Sánchez
+RM",29,77,77,"Cádiz CF
+2015 ~ 2022","175cm / 5'9""",64kg / 141lbs,RM,10500000.0,32000.0,77,77,73,44,Salvador Sánchez Ponce
+"Soldado
+ST",35,77,77,"Granada CF
+2019 ~ 2022","180cm / 5'11""",74kg / 163lbs,ST,4500000.0,22000.0,79,73,54,55,Roberto Soldado Rillo
+"Víctor Díaz
+RB",32,77,77,"Granada CF
+2017 ~ 2022","184cm / 6'0""",72kg / 159lbs,RB,7500000.0,25000.0,73,65,79,57,Víctor David Díaz Miguel
+"M. Gonalons
+CDM CM",31,77,77,"Granada CF
+2020 ~ 2023","187cm / 6'2""",76kg / 168lbs,CDM,7500000.0,25000.0,80,66,65,46,Maxime Gonalons
+"D. Foulquier
+RB RM LB",27,77,77,"Granada CF
+2020 ~ 2023","183cm / 6'0""",78kg / 172lbs,RB,10000000.0,25000.0,75,76,81,48,Dimitri Foulquier
+"Kenedy
+LM RM",24,77,80,"Granada CF
+Jun 30, 2021 On loan","182cm / 6'0""",77kg / 170lbs,CAM,14500000.0,66000.0,75,80,71,64,Robert Kenedy Nunes do Nascimento
+"L. Suárez
+ST LM",22,77,86,"Granada CF
+2020 ~ 2022","185cm / 6'1""",74kg / 163lbs,ST,24000000.0,26000.0,66,74,79,44,Luis Javier Suárez
+"Andrés Fernández
+GK",33,77,77,"SD Huesca
+2020 ~ 2023","187cm / 6'2""",82kg / 181lbs,GK,3400000.0,19000.0,35,14,39,375,Andrés Eduardo Fernández Moreno
+"Cédric
+RB RWB LB",28,76,76,"Arsenal
+2020 ~ 2024","172cm / 5'8""",67kg / 148lbs,RB,7000000.0,63000.0,75,75,75,60,Cédric Ricardo Alves Soares
+"Pablo Marí
+CB",26,76,79,"Arsenal
+2020 ~ 2024","193cm / 6'4""",87kg / 192lbs,CB,8500000.0,60000.0,71,41,72,52,Pablo Marí Villar
+"E. Smith Rowe
+CAM",19,76,86,"Arsenal
+2017 ~ 2023","182cm / 6'0""",64kg / 141lbs,CAM,16000000.0,38000.0,79,79,72,51,Emile Smith Rowe
+"T. Heaton
+GK",34,76,76,"Aston Villa
+2019 ~ 2023","188cm / 6'2""",85kg / 187lbs,GK,1300000.0,38000.0,32,17,40,378,Tom Heaton
+"Wesley
+ST",23,76,80,"Aston Villa
+2019 ~ 2024","191cm / 6'3""",93kg / 205lbs,ST,11000000.0,49000.0,72,71,72,53,Wesley Moraes Ferreira da Silva
+"Douglas Luiz
+CDM CM",22,76,83,"Aston Villa
+2019 ~ 2023","175cm / 5'9""",66kg / 146lbs,CDM,14500000.0,40000.0,77,74,73,48,Douglas Luiz Soares de Paulo
+"Bernard
+LM LW",27,76,76,"Everton
+2018 ~ 2022","164cm / 5'5""",60kg / 132lbs,LM,8000000.0,66000.0,73,81,62,52,Bernard Anício Caldeira Duarte
+"B. Godfrey
+CB LB",22,76,85,"Everton
+2020 ~ 2025","183cm / 6'0""",79kg / 174lbs,CB,15500000.0,52000.0,70,62,76,50,Ben Godfrey
+"L. Ayling
+RB CB",28,76,76,"Leeds United
+2016 ~ 2023","185cm / 6'1""",72kg / 159lbs,RB,7000000.0,78000.0,71,71,85,48,Luke Ayling
+"S. Dallas
+LB CM RB",29,76,76,"Leeds United
+2015 ~ 2024","183cm / 6'0""",81kg / 179lbs,LB,6500000.0,78000.0,75,72,91,51,Stuart Dallas
+"J. Harrison
+LM RM",23,76,82,"Leeds United
+Jun 30, 2021 On loan","175cm / 5'9""",70kg / 154lbs,LM,12000000.0,80000.0,69,77,85,46,Jack Harrison
+"D. Origi
+ST LW",25,76,79,"Liverpool
+2014 ~ 2024","189cm / 6'2""",90kg / 198lbs,ST,10000000.0,74000.0,73,76,70,70,Divock Origi
+"K. Tsimikas
+LB LWB",24,76,81,"Liverpool
+2020 ~ 2025","179cm / 5'10""",68kg / 150lbs,LB,10500000.0,55000.0,70,72,79,51,Konstantinos Tsimikas
+"O. Kabak
+CB",20,76,85,"Liverpool
+Jun 30, 2021 On loan","186cm / 6'1""",86kg / 190lbs,CB,15500000.0,18000.0,73,67,65,44,Ozan Kabak
+"D. James
+RM LM CF",22,76,81,"Manchester United
+2019 ~ 2024","170cm / 5'7""",76kg / 168lbs,RM,11500000.0,76000.0,74,72,78,48,Daniel James
+"K. Darlow
+GK",29,76,77,"Newcastle United
+2014 ~ 2025","190cm / 6'3""",88kg / 194lbs,GK,6000000.0,29000.0,36,14,44,371,Karl Darlow
+"I. Hayden
+CDM CM CB",25,76,79,"Newcastle United
+2016 ~ 2026","185cm / 6'1""",79kg / 174lbs,CDM,9000000.0,33000.0,74,71,78,52,Isaac Hayden
+"F. Schär
+CB",28,76,77,"Newcastle United
+2018 ~ 2022","188cm / 6'2""",84kg / 185lbs,CB,7000000.0,36000.0,72,66,75,53,Fabian Schär
+"T. Walcott
+RM",31,76,76,"Southampton
+Jun 30, 2021 On loan","176cm / 5'9""",68kg / 150lbs,RM,6000000.0,66000.0,70,78,64,45,Theo Walcott
+"R. Bertrand
+LB",30,76,76,"Southampton
+2015 ~ 2021","179cm / 5'10""",76kg / 168lbs,LB,6500000.0,44000.0,76,76,70,64,Ryan Bertrand
+"J. Bednarek
+CB",24,76,82,"Southampton
+2017 ~ 2025","189cm / 6'2""",77kg / 170lbs,CB,11000000.0,38000.0,65,50,71,56,Jan Bednarek
+"T. Minamino
+RW ST LM",25,76,77,"Southampton
+Jun 30, 2021 On loan","174cm / 5'9""",67kg / 148lbs,RW,9000000.0,74000.0,71,82,79,58,Takumi Minamino
+"M. Salisu
+CB",21,76,84,"Southampton
+2020 ~ 2024","191cm / 6'3""",85kg / 187lbs,CB,15500000.0,32000.0,72,47,65,41,Mohammed Salisu
+"A. Yarmolenko
+RM RW ST",30,76,76,"West Ham United
+2018 ~ 2022","190cm / 6'3""",83kg / 183lbs,CAM,7000000.0,37000.0,77,81,52,39,Andriy Yarmolenko
+"C. Dawson
+CB",30,76,76,"West Ham United
+Jun 30, 2021 On loan","188cm / 6'2""",77kg / 170lbs,CB,6000000.0,17000.0,66,57,72,34,Craig Dawson
+"R. Fredericks
+RB RWB",27,76,76,"West Ham United
+2018 ~ 2022","181cm / 5'11""",74kg / 163lbs,RB,7000000.0,34000.0,72,74,76,55,Ryan Fredericks
+"M. Albrighton
+RM RWB RW",30,76,76,"Leicester City
+2014 ~ 2024","175cm / 5'9""",74kg / 163lbs,RM,7000000.0,66000.0,74,77,77,61,Marc Albrighton
+"N. Mendy
+CDM CM",28,76,76,"Leicester City
+2016 ~ 2023","167cm / 5'6""",73kg / 161lbs,CDM,6500000.0,63000.0,81,71,76,62,Nampalys Mendy
+"K. Iheanacho
+ST CF",23,76,81,"Leicester City
+2017 ~ 2024","185cm / 6'1""",82kg / 181lbs,CAM,11500000.0,63000.0,77,78,73,48,Kelechi Iheanacho
+"O. Yokuşlu
+CDM CM",26,76,79,"West Bromwich Albion
+Jun 30, 2021 On loan","191cm / 6'3""",79kg / 174lbs,CDM,9000000.0,21000.0,74,73,87,58,Okay Yokuşlu
+"Matheus Pereira
+CAM RM RW",24,76,81,"West Bromwich Albion
+2020 ~ 2022","175cm / 5'9""",74kg / 163lbs,CAM,11500000.0,61000.0,77,79,71,66,Matheus Fellipe Costa Pereira
+"Marçal
+LB LWB",31,76,76,"Wolverhampton Wanderers
+2020 ~ 2022","178cm / 5'10""",72kg / 159lbs,LB,5500000.0,60000.0,75,70,67,55,Fernando Marçal de Oliveira
+"A. Zambo Anguissa
+CM CDM",24,76,81,"Fulham FC
+2018 ~ 2023","184cm / 6'0""",78kg / 172lbs,CDM,11500000.0,71000.0,78,84,78,50,André-Franck Zambo Anguissa
+"J. O'Connell
+CB",26,76,79,"Sheffield United
+2016 ~ 2023","191cm / 6'3""",85kg / 187lbs,CB,8500000.0,31000.0,71,61,72,46,Jack O'Connell
+"J. Cork
+CDM CM",31,76,76,"Burnley
+2017 ~ 2022","184cm / 6'0""",75kg / 165lbs,CDM,5000000.0,44000.0,76,64,82,52,Jack Cork
+"M. Lowton
+RB",31,76,76,"Burnley
+2015 ~ 2023","181cm / 5'11""",78kg / 172lbs,RB,5500000.0,44000.0,74,72,76,43,Matthew Lowton
+"C. Taylor
+LB",26,76,77,"Burnley
+2017 ~ 2024","185cm / 6'1""",70kg / 154lbs,LB,8000000.0,44000.0,72,74,77,54,Charlie Taylor
+"J. Brownhill
+CM RM",24,76,79,"Burnley
+2020 ~ 2024","180cm / 5'11""",69kg / 152lbs,CM,10000000.0,42000.0,76,73,89,47,Josh Brownhill
+"G. Cahill
+CB",34,76,76,"Crystal Palace
+2019 ~ 2021","193cm / 6'4""",88kg / 194lbs,CB,2400000.0,44000.0,60,56,55,43,Gary Cahill
+"P. van Aanholt
+LB",29,76,76,"Crystal Palace
+2017 ~ 2021","176cm / 5'9""",67kg / 148lbs,LB,6500000.0,46000.0,74,76,74,45,Patrick van Aanholt
+"M. Batshuayi
+ST",26,76,77,"Crystal Palace
+Jun 30, 2021 On loan","184cm / 6'0""",78kg / 172lbs,ST,9000000.0,77000.0,62,76,64,57,Michy Batshuayi
+"L. Milivojević
+CDM CM",29,76,76,"Crystal Palace
+2017 ~ 2023","186cm / 6'1""",80kg / 176lbs,CDM,6500000.0,46000.0,77,62,75,56,Luka Milivojević
+"A. Lallana
+CM CAM",32,76,76,"Brighton & Hove Albion
+2020 ~ 2023","178cm / 5'10""",73kg / 161lbs,CAM,6000000.0,51000.0,81,80,50,54,Adam Lallana
+"P. Groß
+CM RM CAM",29,76,76,"Brighton & Hove Albion
+2017 ~ 2022","181cm / 5'11""",78kg / 172lbs,CM,7500000.0,53000.0,80,76,79,65,Pascal Groß
+"B. White
+CB CM",22,76,87,"Brighton & Hove Albion
+2015 ~ 2024","185cm / 6'1""",77kg / 170lbs,CB,15500000.0,40000.0,76,65,79,42,Ben White
+"H. Ben Arfa
+CAM ST",33,76,76,"FC Girondins de Bordeaux
+2020 ~ 2025","178cm / 5'10""",65kg / 143lbs,CAM,4700000.0,30000.0,75,84,65,54,Hatem Ben Arfa
+"S. Fofana
+CM",25,76,79,"RC Lens
+2020 ~ 2024","185cm / 6'1""",74kg / 163lbs,CM,10000000.0,36000.0,78,77,78,47,Seko Fofana
+"J. Clauss
+RWB RW",27,76,76,"RC Lens
+2020 ~ 2023","185cm / 6'1""",67kg / 148lbs,RWB,7000000.0,34000.0,72,75,86,67,Jonathan Clauss
+"Luiz Araújo
+RM LM",24,76,82,"Lille OSC
+2017 ~ 2022","175cm / 5'9""",70kg / 154lbs,CAM,12000000.0,28000.0,71,82,67,49,Luiz Araújo
+"M. De Sciglio
+LB RB",27,76,76,"Olympique Lyonnais
+Jun 30, 2021 On loan","182cm / 6'0""",78kg / 172lbs,LB,7000000.0,56000.0,74,74,77,21,Mattia De Sciglio
+"I. Slimani
+ST",32,76,76,"Olympique Lyonnais
+2021 ~ 2022","188cm / 6'2""",83kg / 183lbs,ST,6000000.0,57000.0,76,72,63,51,Islam Slimani
+"F. Centonze
+RWB RB",24,76,81,"FC Metz
+2019 ~ 2024","182cm / 6'0""",75kg / 165lbs,RWB,10500000.0,15000.0,71,71,90,60,Fabien Centonze
+"Cesc Fàbregas
+CM CAM CDM",33,76,76,"AS Monaco
+2019 ~ 2022","179cm / 5'10""",76kg / 168lbs,CM,4600000.0,44000.0,83,75,47,54,Francesc Fàbregas i Soler
+"Caio Henrique
+LB",22,76,81,"AS Monaco
+2020 ~ 2025","179cm / 5'10""",70kg / 154lbs,LWB,11000000.0,34000.0,78,73,79,49,Caio Henrique Oliveira Silva
+"S. Diop
+RM LM CM",20,76,84,"AS Monaco
+2018 ~ 2026","175cm / 5'9""",65kg / 143lbs,CAM,16500000.0,32000.0,75,81,79,53,Sofiane Diop
+"Pedro Mendes
+CB",29,76,76,"Montpellier HSC
+2017 ~ 2023","186cm / 6'1""",78kg / 172lbs,CB,6500000.0,29000.0,66,62,72,49,Pedro Filipe Teodósio Mendes
+"J. Ferri
+CDM CM",28,76,76,"Montpellier HSC
+2019 ~ 2023","173cm / 5'8""",73kg / 161lbs,CDM,6500000.0,29000.0,80,71,78,59,Jordan Ferri
+"S. Mavididi
+LM ST",22,76,81,"Montpellier HSC
+2020 ~ 2024","182cm / 6'0""",71kg / 157lbs,ST,11500000.0,26000.0,71,79,68,46,Stephy Mavididi
+"Andrei Girotto
+CB CDM",28,76,76,"FC Nantes
+2017 ~ 2024","186cm / 6'1""",79kg / 174lbs,CB,6500000.0,24000.0,77,65,71,45,Andrei Girotto
+"L. Blas
+CAM RM",22,76,82,"FC Nantes
+2019 ~ 2024","180cm / 5'11""",70kg / 154lbs,CAM,12000000.0,22000.0,77,80,75,64,Ludovic Blas
+"Dante
+CB",36,76,76,"OGC Nice
+2016 ~ 2022","189cm / 6'2""",91kg / 201lbs,CB,1300000.0,21000.0,74,57,60,51,Dante Bonfim Costa Santos
+"M. Schneiderlin
+CDM CM",30,76,76,"OGC Nice
+2020 ~ 2023","185cm / 6'1""",75kg / 165lbs,CDM,6500000.0,30000.0,79,68,75,50,Morgan Schneiderlin
+"Y. Atal
+RB RW RWB",24,76,81,"OGC Nice
+2018 ~ 2023","175cm / 5'9""",66kg / 146lbs,RM,10500000.0,26000.0,72,81,71,47,Youcef Atal
+"J. Todibo
+CB",20,76,84,"OGC Nice
+Jun 30, 2021 On loan","190cm / 6'3""",81kg / 179lbs,CB,15500000.0,71000.0,75,62,69,52,Jean-Clair Todibo
+"L. Kurzawa
+LB",27,76,76,"Paris Saint-Germain
+2015 ~ 2024","182cm / 6'0""",74kg / 163lbs,LB,7000000.0,57000.0,75,76,72,55,Layvin Kurzawa
+"T. Kehrer
+CB RB",23,76,81,"Paris Saint-Germain
+2018 ~ 2023","186cm / 6'1""",76kg / 168lbs,CB,10000000.0,49000.0,73,65,74,54,Thilo Kehrer
+"S. Guirassy
+ST",24,76,81,"Stade Rennais FC
+2020 ~ 2025","187cm / 6'2""",82kg / 181lbs,ST,11500000.0,39000.0,73,75,69,51,Serhou Guirassy
+"N. Aguerd
+CB",24,76,80,"Stade Rennais FC
+2020 ~ 2024","188cm / 6'2""",76kg / 168lbs,CB,9500000.0,32000.0,73,56,74,51,Nayef Aguerd
+"A. Thomasson
+CAM",26,76,77,"RC Strasbourg Alsace
+2018 ~ 2024","177cm / 5'10""",72kg / 159lbs,CAM,9000000.0,28000.0,78,77,78,60,Adrien Thomasson
+"A. Djiku
+CB",25,76,79,"RC Strasbourg Alsace
+2019 ~ 2023","182cm / 6'0""",81kg / 179lbs,CB,9000000.0,24000.0,75,67,80,48,Alexander Djiku
+"H. Diallo
+ST RM",25,76,80,"RC Strasbourg Alsace
+2020 ~ 2025","186cm / 6'1""",79kg / 174lbs,ST,10500000.0,29000.0,66,71,69,68,Habib Diallo
+"D. Benedetto
+ST LW",30,76,76,"Olympique de Marseille
+2019 ~ 2023","177cm / 5'10""",75kg / 165lbs,ST,7500000.0,38000.0,70,73,72,55,Darío Benedetto
+"G. Larsonneur
+GK",23,76,79,"Stade Brestois 29
+2017 ~ 2023","181cm / 5'11""",70kg / 154lbs,GK,8000000.0,12000.0,29,20,35,378,Gautier Larsonneur
+"R. Perraud
+LB",22,76,83,"Stade Brestois 29
+2019 ~ 2025","173cm / 5'8""",68kg / 150lbs,LB,14500000.0,15000.0,75,74,84,47,Romain Perraud
+"T. Foket
+RB LB",25,76,78,"Stade de Reims
+2018 ~ 2023","177cm / 5'10""",67kg / 148lbs,RWB,8500000.0,22000.0,70,72,89,54,Thomas Foket
+"B. Dia
+ST",23,76,82,"Stade de Reims
+2018 ~ 2022","180cm / 5'11""",75kg / 165lbs,ST,12000000.0,24000.0,66,77,72,60,Boulaye Dia
+"R. Thomas
+CB",32,76,76,"Angers SCO
+2013 ~ 2022","193cm / 6'4""",84kg / 185lbs,CB,4900000.0,21000.0,69,31,51,55,Romain Thomas
+"I. Traoré
+CB",33,76,76,"Angers SCO
+2015 ~ 2022","184cm / 6'0""",87kg / 192lbs,CB,3600000.0,21000.0,68,35,78,53,Ismaël Traoré
+"S. Bahoken
+ST",28,76,76,"Angers SCO
+2018 ~ 2022","185cm / 6'1""",88kg / 194lbs,ST,7500000.0,26000.0,68,75,72,61,Stéphane Bahoken
+"I. Amadou
+CDM CB CM",27,76,77,"Angers SCO
+Jun 30, 2021 On loan","183cm / 6'0""",81kg / 179lbs,CDM,7500000.0,23000.0,74,72,79,52,Ibrahim Amadou
+"R. Hamouma
+ST RM RW",33,76,76,"AS Saint-Étienne
+2012 ~ 2022","178cm / 5'10""",76kg / 168lbs,CAM,4800000.0,33000.0,79,79,70,59,Romain Hamouma
+"Mama Baldé
+ST RM",24,76,79,"Dijon FCO
+2019 ~ 2022","176cm / 5'9""",69kg / 152lbs,ST,10500000.0,15000.0,71,75,77,50,Mama Samba Baldé
+"B. Sarr
+RB RW",28,76,76,"FC Bayern München
+2020 ~ 2024","177cm / 5'10""",69kg / 152lbs,RB,7000000.0,56000.0,76,76,88,58,Bouna Sarr
+"T. Meunier
+RB RM",28,76,76,"Borussia Dortmund
+2020 ~ 2024","190cm / 6'3""",82kg / 181lbs,RB,7000000.0,45000.0,71,75,83,51,Thomas Meunier
+"G. Reyna
+CAM LM CF",17,76,87,"Borussia Dortmund
+2019 ~ 2025","185cm / 6'1""",79kg / 174lbs,CAM,15500000.0,6000.0,79,84,74,56,Giovanni Reyna
+"J. Bellingham
+CM LM",17,76,88,"Borussia Dortmund
+2020 ~ 2025","186cm / 6'1""",75kg / 165lbs,CAM,17000000.0,6000.0,79,78,79,48,Jude Bellingham
+"J. Schmid
+RB RM RWB",30,76,76,"SC Freiburg
+2019 ~ 2024","180cm / 5'11""",80kg / 176lbs,RB,6500000.0,22000.0,74,77,77,47,Jonathan Schmid
+"T. Horn
+GK",27,76,79,"1. FC Köln
+2011 ~ 2023","192cm / 6'4""",90kg / 198lbs,GK,7500000.0,20000.0,30,20,31,362,Timo Horn
+"J. Hector
+CDM LB",30,76,76,"1. FC Köln
+2012 ~ 2023","185cm / 6'1""",75kg / 165lbs,CDM,6500000.0,25000.0,75,73,77,55,Jonas Hector
+"E. Skhiri
+CDM CM",25,76,78,"1. FC Köln
+2019 ~ 2023","185cm / 6'1""",73kg / 161lbs,CDM,8500000.0,23000.0,73,73,88,65,Ellyes Skhiri
+"D. Sinkgraven
+LB CM",24,76,78,"Bayer 04 Leverkusen
+2019 ~ 2023","179cm / 5'10""",65kg / 143lbs,CAM,9000000.0,40000.0,78,80,71,63,Daley Sinkgraven
+"Wendell
+LB CB",26,76,76,"Bayer 04 Leverkusen
+2014 ~ 2022","178cm / 5'10""",72kg / 159lbs,LB,7500000.0,47000.0,77,80,77,54,Wendell Nascimento Borges
+"F. Wirtz
+CAM CM RW",17,76,89,"Bayer 04 Leverkusen
+2020 ~ 2026","175cm / 5'9""",68kg / 150lbs,CAM,17000000.0,7000.0,79,83,77,57,Florian Wirtz
+"S. Mustafi
+CB",28,76,76,"FC Schalke 04
+2021 ~ 2021","184cm / 6'0""",83kg / 183lbs,CB,6500000.0,26000.0,70,53,68,51,Shkodran Mustafi
+"Gonçalo Paciência
+ST",25,76,78,"FC Schalke 04
+Jun 30, 2021 On loan","184cm / 6'0""",79kg / 174lbs,ST,9500000.0,28000.0,64,77,75,50,Gonçalo Mendes Paciência
+"S. Serdar
+CM CDM",23,76,82,"FC Schalke 04
+2018 ~ 2022","184cm / 6'0""",75kg / 165lbs,CDM,12000000.0,23000.0,76,81,80,51,Suat Serdar
+"A. Harit
+LM CAM CM",23,76,82,"FC Schalke 04
+2017 ~ 2024","180cm / 5'11""",67kg / 148lbs,CAM,12000000.0,23000.0,77,83,73,57,Amine Harit
+"T. Gebre Selassie
+RB RM RWB",33,76,76,"SV Werder Bremen
+2012 ~ 2021","181cm / 5'11""",71kg / 157lbs,RB,3900000.0,25000.0,76,75,75,48,Theodor Gebre Selassie
+"L. Bittencourt
+CAM RM",26,76,76,"SV Werder Bremen
+2020 ~ 2024","170cm / 5'7""",62kg / 137lbs,CAM,8000000.0,27000.0,76,84,76,62,Leonardo Bittencourt
+"N. Füllkrug
+ST",27,76,76,"SV Werder Bremen
+2019 ~ 2023","189cm / 6'2""",83kg / 183lbs,ST,8000000.0,29000.0,67,70,63,56,Niclas Füllkrug
+"L. Augustinsson
+LB LWB LM",26,76,77,"SV Werder Bremen
+2017 ~ 2022","181cm / 5'11""",72kg / 159lbs,LB,8000000.0,25000.0,74,73,88,55,Ludwig Augustinsson
+"M. Eggestein
+CM CDM",23,76,82,"SV Werder Bremen
+2014 ~ 2023","181cm / 5'11""",75kg / 165lbs,CM,12000000.0,23000.0,75,77,94,61,Maximilian Eggestein
+"S. Ortega
+GK",27,76,77,"DSC Arminia Bielefeld
+2017 ~ 2022","185cm / 6'1""",88kg / 194lbs,GK,6500000.0,18000.0,40,20,33,382,Stefan Ortega
+"V. Darida
+CM CAM CDM",29,76,76,"Hertha BSC
+2015 ~ 2023","172cm / 5'8""",67kg / 148lbs,CM,7500000.0,42000.0,76,79,95,74,Vladimír Darida
+"N. Stark
+CB CDM",25,76,79,"Hertha BSC
+2015 ~ 2022","190cm / 6'3""",88kg / 194lbs,CB,9000000.0,35000.0,74,70,73,60,Niklas Stark
+"L. Tousart
+CDM CM",23,76,81,"Hertha BSC
+2020 ~ 2025","185cm / 6'1""",83kg / 183lbs,CB,10500000.0,31000.0,77,64,85,67,Lucas Tousart
+"D. Lukébakio
+RM ST",22,76,81,"Hertha BSC
+2019 ~ 2024","187cm / 6'2""",77kg / 170lbs,CAM,11500000.0,35000.0,73,82,69,53,Dodi Lukébakio
+"Y. Gerhardt
+CM",26,76,77,"VfL Wolfsburg
+2016 ~ 2025","184cm / 6'0""",81kg / 179lbs,CM,9000000.0,40000.0,79,76,76,50,Yannick Gerhardt
+"C. Trimmel
+RB RM RWB",33,76,76,"1. FC Union Berlin
+2014 ~ 2023","189cm / 6'2""",82kg / 181lbs,RB,3900000.0,27000.0,74,69,85,53,Christopher Trimmel
+"R. Knoche
+CB",28,76,78,"1. FC Union Berlin
+2020 ~ 2024","190cm / 6'3""",77kg / 170lbs,CB,7500000.0,28000.0,68,42,62,59,Robin Knoche
+"B. Hübner
+CB",30,76,76,"TSG 1899 Hoffenheim
+2016 ~ 2022","193cm / 6'4""",86kg / 190lbs,CB,6000000.0,29000.0,62,58,55,55,Benjamin Hübner
+"I. Bebou
+ST RM LW",26,76,77,"TSG 1899 Hoffenheim
+2019 ~ 2023","184cm / 6'0""",78kg / 172lbs,RW,9000000.0,35000.0,74,81,75,55,Ihlas Bebou
+"D. Samassékou
+CDM CM",24,76,80,"TSG 1899 Hoffenheim
+2019 ~ 2024","176cm / 5'9""",68kg / 150lbs,CDM,10000000.0,25000.0,74,68,83,49,Diadié Samassékou
+"C. Baumgartner
+CAM LM CM",20,76,84,"TSG 1899 Hoffenheim
+2018 ~ 2025","180cm / 5'11""",71kg / 157lbs,CAM,16500000.0,24000.0,78,79,54,55,Christoph Baumgartner
+"J. Gouweleeuw
+CB",28,76,76,"FC Augsburg
+2016 ~ 2024","188cm / 6'2""",78kg / 172lbs,CB,6500000.0,26000.0,68,60,68,56,Jeffrey Gouweleeuw
+"F. Uduokhai
+CB",22,76,83,"FC Augsburg
+2020 ~ 2024","192cm / 6'4""",78kg / 172lbs,CB,14000000.0,21000.0,71,49,63,49,Felix Uduokhai
+"A. Sørloth
+ST",24,76,80,"RB Leipzig
+2020 ~ 2025","194cm / 6'4""",90kg / 198lbs,ST,11000000.0,42000.0,67,70,83,58,Alexander Sørloth
+"B. Henrichs
+RB LB RM",23,76,80,"RB Leipzig
+2021 ~ 2025","183cm / 6'0""",79kg / 174lbs,RB,10000000.0,34000.0,74,76,74,56,Benjamin Henrichs
+"J. Kluivert
+LM RM LW",21,76,83,"RB Leipzig
+Jun 30, 2021 On loan","172cm / 5'8""",66kg / 146lbs,CAM,15000000.0,33000.0,68,83,65,44,Justin Kluivert
+"M. Sportiello
+GK",28,76,76,"Atalanta
+2012 ~ 2022","192cm / 6'4""",87kg / 192lbs,GK,5500000.0,36000.0,32,19,37,372,Marco Sportiello
+"M. Caldara
+CB",26,76,76,"Atalanta
+Jun 30, 2021 On loan","187cm / 6'2""",80kg / 176lbs,CB,7000000.0,32000.0,63,62,52,43,Mattia Caldara
+"J. Mæhle
+RM RB",23,76,81,"Atalanta
+2021 ~ 2025","185cm / 6'1""",79kg / 174lbs,RWB,11500000.0,40000.0,73,72,94,50,Joakim Mæhle
+"M. Demiral
+CB",22,76,85,"Juventus
+2019 ~ 2024","192cm / 6'4""",85kg / 187lbs,CB,15500000.0,48000.0,64,59,68,52,Merih Demiral
+"S. Lulić
+LM",34,76,76,"Lazio
+2011 ~ 2021","183cm / 6'0""",78kg / 172lbs,LM,3500000.0,49000.0,75,76,89,46,Senad Lulić
+"Andreas Pereira
+CAM RM",24,76,79,"Lazio
+Jun 30, 2020 On loan","177cm / 5'10""",70kg / 154lbs,CAM,10000000.0,76000.0,76,79,78,53,Andreas Hugo Hoelgebaum Pereira
+"S. Meïté
+CM CDM",26,76,77,"AC Milan
+Jun 30, 2021 On loan","187cm / 6'2""",80kg / 176lbs,CM,9000000.0,39000.0,79,80,80,51,Soualiho Meïté
+"Brahim
+CAM LM",20,76,85,"AC Milan
+Jun 30, 2021 On loan","171cm / 5'7""",59kg / 130lbs,CAM,16500000.0,81000.0,76,82,55,51,Brahim Díaz
+"Diogo Dalot
+RB LB",21,76,82,"AC Milan
+Jun 30, 2021 On loan","184cm / 6'0""",75kg / 165lbs,RB,11500000.0,57000.0,74,78,74,40,José Diogo Dalot Teixeira
+"Rafael Leão
+LM ST",21,76,83,"AC Milan
+2019 ~ 2024","188cm / 6'2""",81kg / 179lbs,CAM,15000000.0,26000.0,72,84,68,57,Rafael da Conceição Leão
+"A. Saelemaekers
+RM",21,76,82,"AC Milan
+2020 ~ 2024","180cm / 5'11""",72kg / 159lbs,RM,12000000.0,26000.0,76,78,76,48,Alexis Saelemaekers
+"N. Maksimović
+CB",28,76,76,"Napoli
+2017 ~ 2021","193cm / 6'4""",87kg / 192lbs,CB,6500000.0,50000.0,59,49,61,52,Nikola Maksimović
+"A. Petagna
+ST",25,76,80,"Napoli
+2020 ~ 2024","190cm / 6'3""",85kg / 187lbs,ST,10500000.0,54000.0,76,78,76,17,Andrea Petagna
+"A. Rrahmani
+CB",26,76,79,"Napoli
+2020 ~ 2024","192cm / 6'4""",83kg / 183lbs,CB,8500000.0,47000.0,62,59,73,48,Amir Rrahmani
+"Gervinho
+LW RW",33,76,76,"Parma
+2018 ~ 2021","179cm / 5'10""",65kg / 143lbs,LW,4700000.0,33000.0,68,77,73,54,Gervais Yao Kouassi
+"A. Conti
+RB RM",26,76,77,"Parma
+Jun 30, 2021 On loan","184cm / 6'0""",76kg / 168lbs,RB,8000000.0,32000.0,74,74,78,54,Andrea Conti
+"R. Karsdorp
+RM RB",25,76,77,"Roma
+2017 ~ 2025","184cm / 6'0""",80kg / 176lbs,RWB,9000000.0,43000.0,75,76,76,65,Rick Karsdorp
+"Borja Mayoral
+ST",23,76,82,"Roma
+Jun 30, 2022 On loan","182cm / 6'0""",74kg / 163lbs,ST,12000000.0,105000.0,79,76,71,51,Borja Mayoral Moya
+"N. Zaniolo
+CAM RM",20,76,86,"Roma
+2018 ~ 2024","190cm / 6'3""",79kg / 174lbs,CAM,16500000.0,33000.0,77,78,74,48,Nicolò Zaniolo
+"R. Rodríguez
+LB",27,76,76,"Torino
+2020 ~ 2024","182cm / 6'0""",77kg / 170lbs,LB,7000000.0,36000.0,75,74,74,66,Ricardo Rodríguez
+"S. Verdi
+CF CAM",27,76,76,"Torino
+2020 ~ 2023","174cm / 5'9""",72kg / 159lbs,CAM,8000000.0,43000.0,78,81,66,53,Simone Verdi
+"S. Zaza
+ST",29,76,76,"Torino
+2019 ~ 2023","186cm / 6'1""",78kg / 172lbs,ST,7500000.0,44000.0,67,75,70,45,Simone Zaza
+"D. Baselli
+CM",28,76,76,"Torino
+2015 ~ 2022","182cm / 6'0""",75kg / 165lbs,CAM,7500000.0,41000.0,82,80,70,49,Daniele Baselli
+"A. Soumaoro
+CB",28,76,77,"Bologna
+Jun 30, 2021 On loan","187cm / 6'2""",91kg / 201lbs,CB,7000000.0,31000.0,73,47,61,54,Adama Soumaoro
+"J. Schouten
+CDM CM",23,76,83,"Bologna
+2019 ~ 2024","185cm / 6'1""",74kg / 163lbs,CDM,14000000.0,24000.0,76,75,77,43,Jerdy Schouten
+"D. Lazović
+LM RM",29,76,76,"Hellas Verona FC
+2019 ~ 2022","181cm / 5'11""",66kg / 146lbs,LM,7500000.0,27000.0,73,78,82,55,Darko Lazović
+"Adrien Silva
+CM CDM",31,76,76,"Sampdoria
+2020 ~ 2022","175cm / 5'9""",69kg / 152lbs,CM,6000000.0,20000.0,79,76,69,46,Adrien S. Perruchet Silva
+"G. Ramírez
+CAM",29,76,76,"Sampdoria
+2017 ~ 2021","183cm / 6'0""",78kg / 172lbs,CAM,7500000.0,21000.0,79,80,57,51,Gastón Ramírez
+"K. Baldé
+ST LM LW",25,76,79,"Sampdoria
+Jun 30, 2021 On loan","181cm / 5'11""",80kg / 176lbs,RM,10000000.0,46000.0,74,81,73,56,Keita Baldé
+"K. Malcuit
+RB",28,76,76,"Fiorentina
+Jun 30, 2021 On loan","178cm / 5'10""",77kg / 170lbs,RB,7000000.0,50000.0,76,79,70,57,Kévin Malcuit
+"G. Castrovilli
+CM",23,76,80,"Fiorentina
+2014 ~ 2024","179cm / 5'10""",72kg / 159lbs,CAM,10500000.0,40000.0,80,82,76,63,Gaetano Castrovilli
+"L. Martínez Quarta
+CB",24,76,82,"Fiorentina
+2020 ~ 2025","183cm / 6'0""",78kg / 172lbs,CB,11000000.0,36000.0,76,68,73,62,Lucas Martínez Quarta
+"D. Vlahović
+ST",20,76,83,"Fiorentina
+2018 ~ 2023","190cm / 6'3""",75kg / 165lbs,ST,15000000.0,38000.0,68,74,71,47,Dušan Vlahović
+"K. Strootman
+CDM CM",30,76,76,"Genoa
+Jun 30, 2021 On loan","186cm / 6'1""",78kg / 172lbs,CDM,6500000.0,32000.0,77,71,76,43,Kevin Strootman
+"M. Badelj
+CDM CM",31,76,76,"Genoa
+2020 ~ 2023","186cm / 6'1""",80kg / 176lbs,CDM,5000000.0,16000.0,80,72,69,52,Milan Badelj
+"J. Zoet
+GK",29,76,76,"Spezia
+2020 ~ 2022","189cm / 6'2""",88kg / 194lbs,GK,5000000.0,15000.0,37,15,40,380,Jeroen Zoet
+"F. Đuričić
+CAM LW",28,76,76,"Sassuolo
+2018 ~ 2022","181cm / 5'11""",75kg / 165lbs,CAM,7500000.0,32000.0,79,79,55,48,Filip Đuričić
+"Pedro Obiang
+CDM CM",28,76,76,"Sassuolo
+2019 ~ 2023","185cm / 6'1""",75kg / 165lbs,CDM,6500000.0,29000.0,77,74,72,36,Pedro Mba Obiang Avomo
+"M. Braithwaite
+ST",29,76,76,"FC Barcelona
+2020 ~ 2024","177cm / 5'10""",73kg / 161lbs,ST,7500000.0,125000.0,74,77,76,53,Martin Braithwaite
+"Ansu Fati
+LW ST RW",17,76,90,"FC Barcelona
+2018 ~ 2022","178cm / 5'10""",66kg / 146lbs,LW,17000000.0,24000.0,72,79,64,40,Anssumane Fati
+"Mariano
+ST",26,76,76,"Real Madrid
+2018 ~ 2023","180cm / 5'11""",76kg / 168lbs,ST,8500000.0,120000.0,66,72,75,55,Mariano Díaz Mejía
+"Balenziaga
+LB CB",32,76,76,"Athletic Club
+2013 ~ 2022","177cm / 5'10""",76kg / 168lbs,LB,5000000.0,21000.0,73,68,76,49,Mikel Balenziaga
+"Herrerín
+GK",32,76,76,"Athletic Club
+2012 ~ 2021","187cm / 6'2""",89kg / 196lbs,GK,3700000.0,17000.0,16,19,41,382,Iago Herrerín Buisán
+"Montoya
+RB RWB",29,76,76,"Real Betis Balompié
+2020 ~ 2024","175cm / 5'9""",73kg / 161lbs,RB,6500000.0,22000.0,72,71,79,53,Martín Montoya Torralbo
+"Nolito
+LM LW CM",33,76,76,"RC Celta
+2020 ~ 2022","175cm / 5'9""",73kg / 161lbs,LM,4700000.0,23000.0,76,77,56,53,Manuel Agudo Durán
+"Rubén Blanco
+GK",24,76,80,"RC Celta
+2012 ~ 2023","189cm / 6'2""",80kg / 176lbs,GK,8500000.0,14000.0,35,17,44,377,Rubén Blanco Veiga
+"Santi Mina
+ST RW",24,76,80,"RC Celta
+2019 ~ 2024","181cm / 5'11""",77kg / 170lbs,ST,11000000.0,22000.0,71,76,74,54,Santiago Mina Lorenzo
+"Brais Méndez
+RM CM ST",23,76,82,"RC Celta
+2015 ~ 2024","187cm / 6'2""",76kg / 168lbs,CAM,12000000.0,20000.0,77,76,66,45,Brais Méndez Portela
+"Carlos Fernández
+ST CAM",24,76,83,"Real Sociedad
+2021 ~ 2026","186cm / 6'1""",72kg / 159lbs,ST,15000000.0,25000.0,75,78,65,54,Carlos Fernández Luna
+"R. Le Normand
+CB",23,76,81,"Real Sociedad
+2016 ~ 2022","187cm / 6'2""",81kg / 179lbs,CB,10000000.0,21000.0,77,32,62,61,Robin Le Normand
+"Ander Guevara
+CM CDM",22,76,82,"Real Sociedad
+2017 ~ 2024","180cm / 5'11""",73kg / 161lbs,CM,12000000.0,23000.0,82,71,77,65,Ander Guevara Lajo
+"Gorosabel
+RB",23,76,81,"Real Sociedad
+2017 ~ 2024","174cm / 5'9""",70kg / 154lbs,RWB,10500000.0,21000.0,76,70,77,49,Andoni Gorosabel Espinosa
+"C. Piccini
+RB RWB",27,76,76,"Valencia CF
+2018 ~ 2022","189cm / 6'2""",86kg / 190lbs,RB,7000000.0,29000.0,70,71,73,40,Cristiano Piccini
+"D. Cheryshev
+LM",29,76,76,"Valencia CF
+2019 ~ 2022","179cm / 5'10""",74kg / 163lbs,LM,7500000.0,33000.0,72,74,72,52,Denis Cheryshev
+"Ferro
+CB",23,76,82,"Valencia CF
+Jun 30, 2021 On loan","191cm / 6'3""",78kg / 172lbs,CB,11000000.0,11000.0,70,61,68,49,Francisco Reis Ferreira
+"Roque Mesa
+CM CDM",31,76,76,"Real Valladolid CF
+2020 ~ 2023","171cm / 5'7""",74kg / 163lbs,CM,6000000.0,20000.0,80,73,73,50,Roque Mesa Quevedo
+"Óscar Plano
+LM RM CAM",29,76,76,"Real Valladolid CF
+2017 ~ 2023","180cm / 5'11""",72kg / 159lbs,LM,7500000.0,21000.0,77,71,77,59,Óscar Plano Pedreño
+"Toni Villa
+LM CAM",25,76,77,"Real Valladolid CF
+2017 ~ 2023","172cm / 5'8""",63kg / 139lbs,LM,9000000.0,19000.0,76,80,68,58,Antonio Villa Suárez
+"Sergi Guardiola
+ST",29,76,76,"Real Valladolid CF
+2019 ~ 2023","184cm / 6'0""",78kg / 172lbs,ST,7500000.0,23000.0,74,76,72,58,Sergio Guardiola Navarro
+"Rubén Alcaraz
+CM CDM",29,76,76,"Real Valladolid CF
+2018 ~ 2023","183cm / 6'0""",81kg / 179lbs,CDM,7500000.0,21000.0,77,71,81,58,Rubén Alcaraz Jiménez
+"Joaquín
+CB CDM CM",24,76,83,"Real Valladolid CF
+2018 ~ 2023","190cm / 6'3""",72kg / 159lbs,CB,14000000.0,16000.0,73,60,69,62,Joaquín Fernández Moreno
+"S. Weissman
+ST",24,76,80,"Real Valladolid CF
+2020 ~ 2024","174cm / 5'9""",72kg / 159lbs,ST,11000000.0,19000.0,71,69,69,43,Shon Weissman
+"Joselu
+ST",30,76,76,"Deportivo Alavés
+2019 ~ 2022","192cm / 6'4""",80kg / 176lbs,ST,7500000.0,26000.0,74,72,65,52,José Luis Sanmartín Mato
+"Tomás Pina
+CM CDM",32,76,76,"Deportivo Alavés
+2018 ~ 2022","184cm / 6'0""",78kg / 172lbs,CM,6000000.0,24000.0,79,76,71,53,Tomás Pina Isla
+"Córdoba
+LW LM",23,76,82,"Deportivo Alavés
+Jun 30, 2021 On loan","180cm / 5'11""",73kg / 161lbs,LW,12000000.0,22000.0,74,79,73,54,Iñigo Córdoba Kerejeta
+"Sergi Enrich
+ST",30,76,76,"SD Eibar
+2015 ~ 2022","181cm / 5'11""",77kg / 170lbs,ST,7500000.0,29000.0,79,73,73,44,Sergi Enrich Ametller
+"Paulo Oliveira
+CB",28,76,77,"SD Eibar
+2017 ~ 2021","187cm / 6'2""",82kg / 181lbs,CB,7000000.0,25000.0,67,60,69,52,Paulo André Rodrigues Oliveira
+"Edu Expósito
+CDM CM CAM",23,76,83,"SD Eibar
+2019 ~ 2024","179cm / 5'10""",67kg / 148lbs,CM,14000000.0,21000.0,80,76,68,46,Eduardo Expósito Jaén
+"Adrián López
+ST LM",32,76,76,"CA Osasuna
+2019 ~ 2021","183cm / 6'0""",73kg / 161lbs,CF,6000000.0,32000.0,74,79,54,60,Adrián López Álvarez
+"David García
+CB",26,76,79,"CA Osasuna
+2013 ~ 2026","185cm / 6'1""",72kg / 159lbs,CB,8500000.0,27000.0,74,60,73,49,David García Zubiria
+"D. Brašanac
+CM CDM RM",28,76,76,"CA Osasuna
+2019 ~ 2023","178cm / 5'10""",73kg / 161lbs,CM,7500000.0,31000.0,79,73,72,47,Darko Brašanac
+"Aleix Vidal
+RM LM RB",30,76,76,"Sevilla FC
+2018 ~ 2022","177cm / 5'10""",70kg / 154lbs,RM,7000000.0,25000.0,79,79,69,47,Aleix Vidal Parreu
+"F. Vázquez
+CM CAM LM",31,76,76,"Sevilla FC
+2016 ~ 2021","187cm / 6'2""",82kg / 181lbs,CM,6000000.0,25000.0,78,81,63,58,Franco Vázquez
+"J. Gnagnon
+CB",23,76,81,"Sevilla FC
+2018 ~ 2023","182cm / 6'0""",89kg / 196lbs,CB,10000000.0,20000.0,68,60,64,46,Joris Gnagnon
+"Alberto Moreno
+LB",27,76,76,"Villarreal CF
+2019 ~ 2024","171cm / 5'7""",65kg / 143lbs,LB,7000000.0,27000.0,73,76,76,54,Alberto Moreno Pérez
+"Clerc
+LB",28,76,76,"Levante UD
+2019 ~ 2022","182cm / 6'0""",69kg / 152lbs,LB,7000000.0,22000.0,73,75,86,56,Carlos Clerc Martínez
+"Melero
+CM ST LM",26,76,77,"Levante UD
+2019 ~ 2023","183cm / 6'0""",77kg / 170lbs,CM,9000000.0,24000.0,78,72,79,57,Gonzalo Melero Manzanares
+"D. Siovas
+CB",31,76,76,"SD Huesca
+2020 ~ 2022","192cm / 6'4""",83kg / 183lbs,CB,5000000.0,21000.0,72,62,68,54,Dimitrios Siovas
+"C. Chambers
+RB CB CDM",25,75,77,"Arsenal
+2014 ~ 2022","182cm / 6'0""",82kg / 181lbs,RB,6500000.0,55000.0,76,66,74,56,Calum Chambers
+"Gabriel Martinelli
+LM LW",19,75,87,"Arsenal
+2019 ~ 2024","179cm / 5'10""",75kg / 165lbs,RM,13500000.0,36000.0,70,77,76,35,Gabriel Teodoro Martinelli Silva
+"M. Nakamba
+CDM CM",26,75,77,"Aston Villa
+2019 ~ 2024","178cm / 5'10""",71kg / 157lbs,CDM,6000000.0,44000.0,74,70,76,57,Marvelous Nakamba
+"Trezeguet
+RW RM LM",25,75,76,"Aston Villa
+2019 ~ 2023","180cm / 5'11""",71kg / 157lbs,RM,6500000.0,51000.0,76,80,79,50,Mahmoud Hassan
+"F. Delph
+CDM CM LB",30,75,75,"Everton
+2019 ~ 2022","174cm / 5'9""",78kg / 172lbs,CDM,4700000.0,58000.0,77,72,68,50,Fabian Delph
+"J. King
+ST LM",28,75,75,"Everton
+2021 ~ 2021","184cm / 6'0""",82kg / 181lbs,CF,6000000.0,71000.0,72,77,67,51,Joshua King
+"T. Davies
+CM CDM",22,75,80,"Everton
+2015 ~ 2023","180cm / 5'11""",70kg / 154lbs,CM,8500000.0,55000.0,79,76,79,56,Tom Davies
+"Pablo Hernández
+CAM CM RM",35,75,75,"Leeds United
+2017 ~ 2022","173cm / 5'8""",66kg / 146lbs,CAM,2300000.0,57000.0,75,77,74,54,Pablo Hernández Dominguez
+"L. Cooper
+CB",28,75,76,"Leeds United
+2014 ~ 2024","188cm / 6'2""",73kg / 161lbs,CB,5500000.0,74000.0,72,53,72,56,Liam Cooper
+"I. Meslier
+GK",20,75,86,"Leeds United
+2020 ~ 2026","196cm / 6'5""",74kg / 163lbs,GK,10500000.0,37000.0,40,20,40,370,Illan Meslier
+"Eric García
+CB",19,75,85,"Manchester City
+2017 ~ 2022","182cm / 6'0""",79kg / 174lbs,CB,11500000.0,42000.0,77,62,68,50,Eric García Martret
+"P. Jones
+CB",28,75,75,"Manchester United
+2011 ~ 2023","185cm / 6'1""",71kg / 157lbs,CB,4800000.0,79000.0,69,57,40,51,Phil Jones
+"B. Williams
+LB LWB RB",19,75,83,"Manchester United
+2018 ~ 2024","182cm / 6'0""",63kg / 139lbs,LB,11500000.0,40000.0,71,73,73,48,Brandon Williams
+"C. Clark
+CB",30,75,75,"Newcastle United
+2016 ~ 2023","185cm / 6'1""",88kg / 194lbs,CB,4600000.0,33000.0,61,50,62,59,Ciaran Clark
+"J. Shelvey
+CM CAM CDM",28,75,75,"Newcastle United
+2016 ~ 2023","184cm / 6'0""",80kg / 176lbs,CM,5500000.0,37000.0,81,73,70,64,Jonjo Shelvey
+"F. Fernández
+CB",31,75,75,"Newcastle United
+2018 ~ 2023","190cm / 6'3""",83kg / 183lbs,CB,3800000.0,33000.0,68,44,62,63,Federico Fernández
+"R. Fraser
+LM CF",26,75,75,"Newcastle United
+2020 ~ 2025","163cm / 5'4""",70kg / 154lbs,LM,6000000.0,36000.0,64,77,62,61,Ryan Fraser
+"A. McCarthy
+GK",30,75,75,"Southampton
+2016 ~ 2022","193cm / 6'4""",79kg / 174lbs,GK,3700000.0,34000.0,33,17,35,364,Alex McCarthy
+"C. Adams
+ST",23,75,80,"Southampton
+2019 ~ 2024","178cm / 5'10""",70kg / 154lbs,ST,8500000.0,44000.0,70,73,77,65,Ché Adams
+"D. Rose
+LB",29,75,75,"Tottenham Hotspur
+2007 ~ 2021","174cm / 5'9""",76kg / 168lbs,LB,4900000.0,64000.0,74,75,54,55,Danny Rose
+"M. Noble
+CM CDM CAM",33,75,75,"West Ham United
+2004 ~ 2022","177cm / 5'10""",76kg / 168lbs,CM,3500000.0,36000.0,77,74,69,54,Mark Noble
+"D. Randolph
+GK",33,75,75,"West Ham United
+2020 ~ 2023","188cm / 6'2""",78kg / 172lbs,GK,1800000.0,26000.0,33,14,34,365,Darren Randolph
+"F. Balbuena
+CB",28,75,75,"West Ham United
+2018 ~ 2021","188cm / 6'2""",85kg / 187lbs,CB,4800000.0,34000.0,66,47,67,61,Fabián Balbuena
+"R. Snodgrass
+RM CM",32,75,75,"West Bromwich Albion
+2021 ~ 2022","182cm / 6'0""",82kg / 181lbs,RM,4500000.0,67000.0,76,76,73,59,Robert Snodgrass
+"A. Maitland-Niles
+CDM RB RWB",22,75,81,"West Bromwich Albion
+Jun 30, 2021 On loan","177cm / 5'10""",70kg / 154lbs,RWB,8500000.0,49000.0,75,78,82,54,Ainsley Maitland-Niles
+"T. Cairney
+CAM CM",29,75,75,"Fulham FC
+2015 ~ 2024","186cm / 6'1""",84kg / 185lbs,CAM,5500000.0,81000.0,80,76,69,46,Tom Cairney
+"M. Lemina
+CM CDM",26,75,76,"Fulham FC
+Jun 30, 2021 On loan","184cm / 6'0""",85kg / 187lbs,CM,6500000.0,46000.0,77,77,76,60,Mario Lemina
+"R. Loftus-Cheek
+RM CAM",24,75,78,"Fulham FC
+Jun 30, 2021 On loan","191cm / 6'3""",88kg / 194lbs,CAM,7500000.0,58000.0,79,80,68,58,Ruben Loftus-Cheek
+"A. Mitrović
+ST",25,75,78,"Fulham FC
+2018 ~ 2024","189cm / 6'2""",90kg / 198lbs,ST,7500000.0,81000.0,70,66,66,53,Aleksandar Mitrović
+"K. Tete
+RB",24,75,80,"Fulham FC
+2020 ~ 2024","180cm / 5'11""",71kg / 157lbs,CB,8000000.0,61000.0,71,67,74,51,Kenny Tete
+"C. Basham
+CB",31,75,75,"Sheffield United
+2014 ~ 2022","190cm / 6'3""",80kg / 176lbs,CB,3800000.0,30000.0,67,63,75,48,Chris Basham
+"J. Fleck
+CM",28,75,75,"Sheffield United
+2016 ~ 2023","170cm / 5'7""",72kg / 159lbs,CM,5500000.0,34000.0,76,75,84,41,John Fleck
+"J. Egan
+CB",27,75,77,"Sheffield United
+2018 ~ 2024","185cm / 6'1""",75kg / 165lbs,CB,6000000.0,30000.0,71,55,69,48,John Egan
+"A. Barnes
+ST",30,75,75,"Burnley
+2014 ~ 2022","186cm / 6'1""",84kg / 185lbs,ST,5500000.0,50000.0,72,69,74,47,Ashley Barnes
+"J. Guðmundsson
+RM LM",29,75,75,"Burnley
+2016 ~ 2023","179cm / 5'10""",77kg / 170lbs,RM,5500000.0,48000.0,77,75,65,45,Jóhann Berg Guðmundsson
+"J. McArthur
+CM CDM",32,75,75,"Crystal Palace
+2014 ~ 2023","178cm / 5'10""",66kg / 146lbs,CDM,4400000.0,46000.0,77,71,79,45,James McArthur
+"J. Tomkins
+CB",31,75,75,"Crystal Palace
+2016 ~ 2022","192cm / 6'4""",74kg / 163lbs,CB,3800000.0,42000.0,68,50,54,48,James Tomkins
+"M. Sakho
+CB",30,75,75,"Crystal Palace
+2017 ~ 2021","187cm / 6'2""",83kg / 183lbs,CB,4600000.0,42000.0,74,50,53,50,Mamadou Sakho
+"N. Clyne
+RB",29,75,75,"Crystal Palace
+2020 ~ 2022","175cm / 5'9""",67kg / 148lbs,RB,4900000.0,44000.0,75,75,58,56,Nathaniel Clyne
+"J. Ayew
+ST",28,75,75,"Crystal Palace
+2019 ~ 2022","182cm / 6'0""",81kg / 179lbs,ST,6000000.0,52000.0,73,79,77,45,Jordan Ayew
+"J. Schlupp
+LM LB",27,75,75,"Crystal Palace
+2017 ~ 2023","178cm / 5'10""",72kg / 159lbs,LM,6000000.0,46000.0,72,79,78,43,Jeffrey Schlupp
+"J. Riedewald
+CDM LB CB",23,75,78,"Crystal Palace
+2017 ~ 2024","182cm / 6'0""",79kg / 174lbs,CDM,7000000.0,36000.0,77,66,58,61,Jaïro Riedewald
+"J. Mateta
+ST",23,75,81,"Crystal Palace
+Jun 30, 2022 On loan","192cm / 6'4""",88kg / 194lbs,ST,9000000.0,24000.0,65,74,65,47,Jean-Philippe Mateta
+"D. Pröpper
+CM CDM",28,75,75,"Brighton & Hove Albion
+2017 ~ 2023","185cm / 6'1""",79kg / 174lbs,CM,5500000.0,51000.0,80,76,72,55,Davy Pröpper
+"D. Burn
+CB LB",28,75,75,"Brighton & Hove Albion
+2018 ~ 2023","198cm / 6'6""",87kg / 192lbs,CB,4800000.0,46000.0,69,59,69,53,Dan Burn
+"S. March
+LWB RW RM",25,75,78,"Brighton & Hove Albion
+2013 ~ 2024","180cm / 5'11""",77kg / 170lbs,LM,7000000.0,42000.0,74,79,76,55,Solly March
+"A. Webster
+CB",25,75,79,"Brighton & Hove Albion
+2019 ~ 2026","191cm / 6'3""",75kg / 165lbs,CB,7000000.0,42000.0,73,68,69,51,Adam Webster
+"A. Mac Allister
+CAM CM",21,75,85,"Brighton & Hove Albion
+2019 ~ 2023","174cm / 5'9""",72kg / 159lbs,CAM,12500000.0,36000.0,76,74,68,56,Alexis Mac Allister
+"Hwang Ui Jo
+ST CF LM",27,75,75,"FC Girondins de Bordeaux
+2019 ~ 2023","184cm / 6'0""",73kg / 161lbs,ST,6000000.0,31000.0,67,74,78,47,Ui Jo Hwang
+"R. Oudin
+RM LM",23,75,78,"FC Girondins de Bordeaux
+2020 ~ 2024","185cm / 6'1""",79kg / 174lbs,CAM,7500000.0,25000.0,75,76,73,51,Rémi Oudin
+"S. Kalu
+LM RM RW",22,75,80,"FC Girondins de Bordeaux
+2018 ~ 2023","176cm / 5'9""",74kg / 163lbs,RM,8500000.0,25000.0,70,81,69,52,Samuel Kalu
+"T. Bašić
+CM CDM",23,75,82,"FC Girondins de Bordeaux
+2018 ~ 2022","189cm / 6'2""",80kg / 176lbs,CM,11000000.0,25000.0,78,75,74,52,Toma Bašić
+"J. Leca
+GK",34,75,75,"RC Lens
+2018 ~ 2022","180cm / 5'11""",75kg / 165lbs,GK,950000.0,26000.0,33,13,24,373,Jean-Louis Leca
+"O. Karnezis
+GK",34,75,75,"Lille OSC
+2020 ~ 2023","190cm / 6'3""",81kg / 179lbs,GK,950000.0,23000.0,24,15,27,372,Orestis Karnezis
+"H. Maïga
+CDM CM",24,75,81,"FC Metz
+2019 ~ 2024","181cm / 5'11""",80kg / 176lbs,CDM,8000000.0,15000.0,72,70,89,51,Habib Maïga
+"B. Badiashile
+CB",19,75,84,"AS Monaco
+2018 ~ 2024","194cm / 6'4""",75kg / 165lbs,CB,11500000.0,20000.0,77,57,65,43,Benoît Badiashile
+"D. Congré
+CB",35,75,75,"Montpellier HSC
+2012 ~ 2021","185cm / 6'1""",80kg / 176lbs,CB,1500000.0,19000.0,69,61,64,48,Daniel Congré
+"J. Sambia
+RB RWB",23,75,80,"Montpellier HSC
+2018 ~ 2022","185cm / 6'1""",73kg / 161lbs,RB,8000000.0,23000.0,73,74,77,61,Junior Sambia
+"M. Simon
+LM ST RM",24,75,78,"FC Nantes
+2020 ~ 2024","168cm / 5'6""",69kg / 152lbs,RM,7500000.0,21000.0,67,80,74,54,Moses Simon
+"J. Reine-Adélaïde
+CM CAM RW",22,75,84,"OGC Nice
+Jun 30, 2021 On loan","184cm / 6'0""",75kg / 165lbs,CAM,12500000.0,43000.0,78,83,75,60,Jeff Reine-Adélaïde
+"W. Saliba
+CB",19,75,84,"OGC Nice
+Jun 30, 2021 On loan","192cm / 6'4""",85kg / 187lbs,CB,11500000.0,30000.0,73,66,73,42,William Saliba
+"C. Dagba
+RB",21,75,80,"Paris Saint-Germain
+2018 ~ 2024","170cm / 5'7""",62kg / 137lbs,RWB,8000000.0,39000.0,77,76,69,44,Colin Dagba
+"C. Grenier
+CM CAM",29,75,75,"Stade Rennais FC
+2018 ~ 2021","187cm / 6'2""",79kg / 174lbs,CM,5500000.0,41000.0,80,75,69,52,Clément Grenier
+"F. Tait
+LM LW CM",27,75,75,"Stade Rennais FC
+2019 ~ 2023","175cm / 5'9""",70kg / 154lbs,LM,6000000.0,39000.0,75,78,76,58,Flavien Tait
+"J. Aholou
+CDM CM",26,75,78,"RC Strasbourg Alsace
+Jun 30, 2022 On loan","186cm / 6'1""",71kg / 157lbs,CDM,6500000.0,38000.0,76,69,72,49,Jean-Eudes Aholou
+"F. Guilbert
+RB RWB",25,75,78,"RC Strasbourg Alsace
+Jun 30, 2022 On loan","178cm / 5'10""",78kg / 172lbs,CB,7000000.0,42000.0,71,66,74,58,Frédéric Guilbert
+"P. Gueye
+CDM CM",21,75,83,"Olympique de Marseille
+2020 ~ 2024","187cm / 6'2""",79kg / 174lbs,CDM,12000000.0,22000.0,76,67,80,62,Pape Gueye
+"R. Ripart
+ST LM CM",27,75,75,"Nîmes Olympique
+2012 ~ 2023","181cm / 5'11""",73kg / 161lbs,ST,6000000.0,24000.0,70,72,87,55,Renaud Ripart
+"B. Meling
+LB",25,75,77,"Nîmes Olympique
+2020 ~ 2023","173cm / 5'8""",64kg / 141lbs,LWB,6500000.0,19000.0,69,73,88,51,Birger Meling
+"A. Cubas
+CDM CM",24,75,82,"Nîmes Olympique
+2020 ~ 2024","166cm / 5'5""",60kg / 132lbs,CDM,10500000.0,18000.0,77,67,85,52,Andrés Cubas
+"H. Belkebla
+CDM CM",26,75,77,"Stade Brestois 29
+2018 ~ 2023","177cm / 5'10""",68kg / 150lbs,CDM,6000000.0,17000.0,77,74,91,67,Haris Belkebla
+"A. Zeneli
+LM LW",25,75,76,"Stade de Reims
+2019 ~ 2024","176cm / 5'9""",72kg / 159lbs,LM,6500000.0,23000.0,70,83,69,49,Arbër Zeneli
+"G. Konan
+LB",24,75,78,"Stade de Reims
+2018 ~ 2022","176cm / 5'9""",71kg / 157lbs,LB,7000000.0,19000.0,71,75,81,37,Ghislain Konan
+"T. Mangani
+CM CDM",33,75,75,"Angers SCO
+2015 ~ 2022","183cm / 6'0""",79kg / 174lbs,CM,3500000.0,22000.0,81,68,77,62,Thomas Mangani
+"P. Capelle
+RM CM LB",33,75,75,"Angers SCO
+2015 ~ 2022","181cm / 5'11""",73kg / 161lbs,RM,3500000.0,22000.0,75,73,77,62,Pierrick Capelle
+"S. Boufal
+LM LW",26,75,75,"Angers SCO
+2020 ~ 2024","175cm / 5'9""",67kg / 148lbs,LM,6000000.0,22000.0,75,86,54,56,Sofiane Boufal
+"R. Boudebouz
+CAM RM",30,75,75,"AS Saint-Étienne
+2019 ~ 2022","177cm / 5'10""",74kg / 163lbs,CAM,5500000.0,29000.0,76,78,59,62,Ryad Boudebouz
+"W. Khazri
+ST CAM",29,75,75,"AS Saint-Étienne
+2018 ~ 2022","182cm / 6'0""",76kg / 168lbs,ST,5500000.0,33000.0,76,77,68,41,Wahbi Khazri
+"E. Choupo-Moting
+ST LW",31,75,75,"FC Bayern München
+2020 ~ 2023","191cm / 6'3""",90kg / 198lbs,ST,4800000.0,60000.0,74,80,73,49,Eric Maxim Choupo-Moting
+"A. Nübel
+GK",23,75,80,"FC Bayern München
+2020 ~ 2025","193cm / 6'4""",88kg / 194lbs,GK,7000000.0,34000.0,29,18,39,372,Alexander Nübel
+"P. Herrmann
+RM RW",29,75,75,"Borussia Mönchengladbach
+2010 ~ 2022","179cm / 5'10""",71kg / 157lbs,RM,5500000.0,34000.0,75,75,69,50,Patrick Herrmann
+"N. Petersen
+ST",31,75,75,"SC Freiburg
+2015 ~ 2022","188cm / 6'2""",80kg / 176lbs,ST,4800000.0,25000.0,64,62,80,53,Nils Petersen
+"M. Flekken
+GK",27,75,77,"SC Freiburg
+2018 ~ 2022","194cm / 6'4""",90kg / 198lbs,GK,5000000.0,17000.0,27,12,28,370,Mark Flekken
+"P. Lienhart
+CB",23,75,78,"SC Freiburg
+2018 ~ 2022","189cm / 6'2""",82kg / 181lbs,CB,7000000.0,18000.0,66,54,67,59,Philipp Lienhart
+"R. Sallai
+RM CF",23,75,78,"SC Freiburg
+2018 ~ 2022","182cm / 6'0""",77kg / 170lbs,RM,7500000.0,20000.0,74,80,62,46,Roland Sallai
+"F. Kainz
+LM RM CAM",27,75,75,"1. FC Köln
+2019 ~ 2022","176cm / 5'9""",71kg / 157lbs,LM,6000000.0,26000.0,72,77,75,56,Florian Kainz
+"S. Andersson
+ST",28,75,75,"1. FC Köln
+2020 ~ 2023","190cm / 6'3""",86kg / 190lbs,ST,6000000.0,29000.0,71,69,74,54,Sebastian Andersson
+"M. Meyer
+LM CM",24,75,78,"1. FC Köln
+2021 ~ 2021","173cm / 5'8""",68kg / 150lbs,CAM,7500000.0,22000.0,77,78,75,58,Max Meyer
+"O. Duda
+CAM CF",25,75,78,"1. FC Köln
+2020 ~ 2024","181cm / 5'11""",75kg / 165lbs,CAM,7500000.0,24000.0,76,80,73,67,Ondrej Duda
+"M. Wolf
+RM RB RWB",25,75,78,"1. FC Köln
+Jun 30, 2021 On loan","188cm / 6'2""",81kg / 179lbs,RM,7500000.0,42000.0,74,77,82,58,Marius Wolf
+"A. Dragović
+CB RB",29,75,75,"Bayer 04 Leverkusen
+2016 ~ 2021","186cm / 6'1""",84kg / 185lbs,CB,4700000.0,46000.0,67,62,66,49,Aleksandar Dragović
+"D. Gray
+LW CF RW",24,75,78,"Bayer 04 Leverkusen
+2021 ~ 2022","180cm / 5'11""",74kg / 163lbs,LW,7500000.0,46000.0,68,83,66,51,Demarai Gray
+"R. Fährmann
+GK",31,75,75,"FC Schalke 04
+2011 ~ 2025","197cm / 6'6""",98kg / 216lbs,GK,3000000.0,19000.0,25,15,32,346,Ralf Fährmann
+"M. Uth
+CAM CF ST",28,75,75,"FC Schalke 04
+2018 ~ 2022","185cm / 6'1""",72kg / 159lbs,CF,5500000.0,27000.0,75,76,75,48,Mark Uth
+"F. Rønnow
+GK",27,75,76,"FC Schalke 04
+Jun 30, 2021 On loan","190cm / 6'3""",80kg / 176lbs,GK,4800000.0,19000.0,25,13,32,365,Frederik Rønnow
+"M. Nastasić
+CB",27,75,76,"FC Schalke 04
+2015 ~ 2022","188cm / 6'2""",83kg / 183lbs,CB,5500000.0,23000.0,72,43,63,66,Matija Nastasić
+"S. Kolašinac
+LB LWB CB",27,75,76,"FC Schalke 04
+Jun 30, 2021 On loan","183cm / 6'0""",86kg / 190lbs,LB,6000000.0,58000.0,71,74,76,56,Sead Kolašinac
+"Omar Mascarell
+CDM CM",27,75,75,"FC Schalke 04
+2018 ~ 2022","181cm / 5'11""",76kg / 168lbs,CDM,5500000.0,23000.0,76,71,77,43,Omar Mascarell González
+"G. Castro
+CAM CF CM",33,75,75,"VfB Stuttgart
+2018 ~ 2021","172cm / 5'8""",72kg / 159lbs,CAM,3500000.0,23000.0,78,75,67,60,Gonzalo Castro
+"M. Kempf
+CB",25,75,78,"VfB Stuttgart
+2018 ~ 2022","186cm / 6'1""",87kg / 192lbs,CB,6500000.0,20000.0,64,59,65,57,Marc-Oliver Kempf
+"O. Mangala
+CM CDM",22,75,82,"VfB Stuttgart
+2017 ~ 2024","178cm / 5'10""",78kg / 172lbs,CM,11500000.0,20000.0,78,83,75,37,Orel Mangala
+"Silas
+RM LM ST",21,75,85,"VfB Stuttgart
+2019 ~ 2024","189cm / 6'2""",79kg / 174lbs,ST,12500000.0,17000.0,70,83,72,54,Silas Katompa Mvumpa
+"R. Doan
+RM CAM RW",22,75,83,"DSC Arminia Bielefeld
+Jun 30, 2021 On loan","172cm / 5'8""",70kg / 154lbs,CAM,12500000.0,15000.0,74,79,77,46,Ritsu Doan
+"N. Radonjić
+LM RM",24,75,78,"Hertha BSC
+Jun 30, 2021 On loan","185cm / 6'1""",76kg / 168lbs,LM,7500000.0,29000.0,73,76,67,49,Nemanja Radonjić
+"D. da Costa
+RWB RM",26,75,76,"1. FSV Mainz 05
+Jun 30, 2021 On loan","187cm / 6'2""",87kg / 192lbs,RWB,6000000.0,23000.0,69,70,90,54,Danny da Costa
+"J. St. Juste
+CB RB",23,75,80,"1. FSV Mainz 05
+2019 ~ 2023","184cm / 6'0""",74kg / 163lbs,CB,7500000.0,20000.0,75,75,76,59,Jeremiah St. Juste
+"A. Mehmedi
+CF LM CAM",29,75,75,"VfL Wolfsburg
+2018 ~ 2022","183cm / 6'0""",78kg / 172lbs,CF,5500000.0,43000.0,74,81,64,66,Admir Mehmedi
+"J. Brekalo
+LM CF",22,75,81,"VfL Wolfsburg
+2016 ~ 2023","175cm / 5'9""",70kg / 154lbs,CAM,9000000.0,33000.0,74,84,65,41,Josip Brekalo
+"M. Pongračić
+CB",22,75,82,"VfL Wolfsburg
+2020 ~ 2024","190cm / 6'3""",95kg / 209lbs,CB,10500000.0,30000.0,64,63,59,39,Marin Pongračić
+"A. Luthe
+GK",33,75,75,"1. FC Union Berlin
+2020 ~ 2023","195cm / 6'5""",85kg / 187lbs,GK,1800000.0,21000.0,24,12,36,360,Andreas Luthe
+"L. Karius
+GK",27,75,78,"1. FC Union Berlin
+Jun 30, 2021 On loan","189cm / 6'2""",87kg / 192lbs,GK,5500000.0,50000.0,38,16,36,374,Loris Karius
+"E. Bičakčić
+CB",30,75,75,"TSG 1899 Hoffenheim
+2014 ~ 2022","185cm / 6'1""",85kg / 187lbs,CB,4600000.0,28000.0,60,35,61,64,Ermin Bičakčić
+"S. Posch
+CB RB",23,75,79,"TSG 1899 Hoffenheim
+2017 ~ 2024","189cm / 6'2""",82kg / 181lbs,CB,7000000.0,24000.0,69,34,63,35,Stefan Posch
+"T. Strobl
+CDM CB",30,75,75,"FC Augsburg
+2020 ~ 2023","188cm / 6'2""",87kg / 192lbs,CDM,4700000.0,23000.0,76,57,78,55,Tobias Strobl
+"F. Niederlechner
+ST",29,75,75,"FC Augsburg
+2019 ~ 2022","187cm / 6'2""",86kg / 190lbs,ST,5500000.0,29000.0,72,73,82,60,Florian Niederlechner
+"R. Vargas
+LM RM",21,75,83,"FC Augsburg
+2019 ~ 2025","174cm / 5'9""",68kg / 150lbs,RM,12500000.0,19000.0,71,78,78,41,Ruben Vargas
+"Iago
+LB LM",23,75,79,"FC Augsburg
+2019 ~ 2024","181cm / 5'11""",68kg / 150lbs,LB,7500000.0,20000.0,72,72,76,55,Iago Amaral Borduchi
+"Hwang Hee Chan
+ST",24,75,79,"RB Leipzig
+2020 ~ 2025","177cm / 5'10""",77kg / 170lbs,ST,8000000.0,40000.0,74,79,74,54,Hee Chan Hwang
+"I. Radu
+GK",23,75,80,"Inter
+2013 ~ 2024","188cm / 6'2""",78kg / 172lbs,GK,7000000.0,43000.0,24,15,32,375,Ionuț Andrei Radu
+"J. Akpa Akpro
+CM",27,75,75,"Lazio
+2020 ~ 2022","180cm / 5'11""",70kg / 154lbs,RM,6000000.0,47000.0,75,78,84,43,Jean-Daniel Akpa Akpro
+"V. Muriqi
+ST",26,75,76,"Lazio
+2020 ~ 2025","194cm / 6'4""",86kg / 190lbs,ST,6500000.0,51000.0,70,69,75,50,Vedat Muriqi
+"J. Hauge
+LM",20,75,83,"AC Milan
+2020 ~ 2025","184cm / 6'0""",75kg / 165lbs,RM,12500000.0,25000.0,68,78,83,47,Jens Petter Hauge
+"Hernani
+CDM CM",26,75,78,"Parma
+2020 ~ 2023","188cm / 6'2""",77kg / 170lbs,CDM,6500000.0,27000.0,75,73,67,53,Hernani Azevedo Júnior
+"Y. Karamoh
+RM RW",21,75,79,"Parma
+2020 ~ 2023","185cm / 6'1""",77kg / 170lbs,CAM,8000000.0,22000.0,73,82,69,54,Yann Karamoh
+"F. Fazio
+CB",33,75,75,"Roma
+2017 ~ 2022","195cm / 6'5""",85kg / 187lbs,CB,2700000.0,39000.0,64,44,63,54,Federico Fazio
+"J. Pastore
+CAM CM",31,75,75,"Roma
+2018 ~ 2023","187cm / 6'2""",78kg / 172lbs,CAM,4700000.0,42000.0,82,76,33,51,Javier Pastore
+"Bruno Peres
+RM RB",30,75,75,"Roma
+2016 ~ 2021","178cm / 5'10""",72kg / 159lbs,RWB,5500000.0,42000.0,73,76,80,47,Bruno da Silva Peres
+"A. Diawara
+CDM CM",22,75,80,"Roma
+2019 ~ 2024","183cm / 6'0""",75kg / 165lbs,CDM,8000000.0,33000.0,75,74,74,52,Amadou Diawara
+"M. Kumbulla
+CB",20,75,83,"Roma
+Jun 30, 2022 On loan","185cm / 6'1""",78kg / 172lbs,CB,11500000.0,16000.0,61,52,68,53,Marash Kumbulla
+"T. Rincón
+CM CDM",32,75,75,"Torino
+2018 ~ 2022","177cm / 5'10""",78kg / 172lbs,CDM,4400000.0,38000.0,78,75,86,55,Tomás Rincón
+"S. Lukić
+CM CDM CAM",23,75,82,"Torino
+2016 ~ 2023","183cm / 6'0""",77kg / 170lbs,CM,11000000.0,33000.0,80,79,69,48,Saša Lukić
+"S. Okaka
+ST",30,75,75,"Udinese
+2019 ~ 2022","186cm / 6'1""",90kg / 198lbs,ST,5500000.0,18000.0,70,71,64,34,Stefano Okaka
+"J. Larsen
+RM",29,75,75,"Udinese
+2017 ~ 2022","180cm / 5'11""",82kg / 181lbs,RM,5500000.0,18000.0,75,72,83,43,Jens Stryger Larsen
+"R. Palacio
+ST CAM",38,75,75,"Bologna
+2017 ~ 2021","176cm / 5'9""",70kg / 154lbs,RW,1900000.0,24000.0,76,82,68,82,Rodrigo Palacio
+"L. De Silvestri
+RB RM",32,75,75,"Bologna
+2020 ~ 2022","186cm / 6'1""",84kg / 185lbs,RB,3900000.0,27000.0,74,74,74,64,Lorenzo De Silvestri
+"A. Poli
+CDM CM",30,75,75,"Bologna
+2017 ~ 2022","182cm / 6'0""",77kg / 170lbs,CDM,4700000.0,27000.0,78,76,67,25,Andrea Poli
+"Ł. Skorupski
+GK",29,75,76,"Bologna
+2018 ~ 2023","187cm / 6'2""",84kg / 185lbs,GK,4300000.0,23000.0,29,18,31,359,Łukasz Skorupski
+"T. Tomiyasu
+CB RB",21,75,85,"Bologna
+2019 ~ 2024","188cm / 6'2""",84kg / 185lbs,CB,12000000.0,19000.0,71,68,75,45,Takehiro Tomiyasu
+"R. Orsolini
+CAM RW",23,75,82,"Bologna
+2019 ~ 2024","183cm / 6'0""",73kg / 161lbs,CAM,11500000.0,25000.0,76,81,68,54,Riccardo Orsolini
+"M. Barrow
+CAM ST",21,75,84,"Bologna
+Aug 31, 2021 On loan","183cm / 6'0""",70kg / 154lbs,CAM,12500000.0,32000.0,72,79,73,54,Musa Barrow
+"N. Kalinić
+ST",32,75,75,"Hellas Verona FC
+2020 ~ 2022","187cm / 6'2""",79kg / 174lbs,ST,4600000.0,27000.0,74,73,61,47,Nikola Kalinić
+"M. Faraoni
+RM RB",28,75,75,"Hellas Verona FC
+2019 ~ 2024","180cm / 5'11""",71kg / 157lbs,RM,5500000.0,26000.0,76,74,84,59,Marco Davide Faraoni
+"A. Tameze
+CDM CM",26,75,76,"Hellas Verona FC
+2020 ~ 2024","180cm / 5'11""",78kg / 172lbs,CDM,6000000.0,23000.0,76,77,79,72,Adrien Tameze
+"A. Ekdal
+CM CDM",30,75,75,"Sampdoria
+2018 ~ 2022","186cm / 6'1""",82kg / 181lbs,CM,5500000.0,19000.0,80,74,71,25,Albin Ekdal
+"M. Gabbiadini
+ST",28,75,75,"Sampdoria
+2019 ~ 2026","181cm / 5'11""",75kg / 165lbs,CF,6000000.0,21000.0,72,77,56,44,Manolo Gabbiadini
+"G. Simeone
+ST",24,75,79,"Cagliari
+2020 ~ 2024","181cm / 5'11""",81kg / 179lbs,ST,8000000.0,28000.0,68,74,73,61,Giovanni Simeone
+"M. Cáceres
+CB RB",33,75,75,"Fiorentina
+2019 ~ 2022","180cm / 5'11""",78kg / 172lbs,CB,2700000.0,40000.0,66,66,61,15,Martín Cáceres
+"C. Biraghi
+LM LB",27,75,75,"Fiorentina
+2018 ~ 2024","185cm / 6'1""",78kg / 172lbs,LM,6000000.0,44000.0,75,75,76,49,Cristiano Biraghi
+"E. Pulgar
+CDM CM",26,75,77,"Fiorentina
+2019 ~ 2023","187cm / 6'2""",74kg / 163lbs,CDM,6000000.0,40000.0,78,72,79,61,Erick Pulgar
+"N. Milenković
+CB RB",22,75,82,"Fiorentina
+2017 ~ 2023","195cm / 6'5""",90kg / 198lbs,CB,10500000.0,34000.0,68,60,76,49,Nikola Milenković
+"A. Masiello
+CB",34,75,75,"Genoa
+2020 ~ 2022","184cm / 6'0""",82kg / 181lbs,CB,1800000.0,15000.0,66,54,50,57,Andrea Masiello
+"M. Pjaca
+LW RW CAM",25,75,76,"Genoa
+Jun 30, 2021 On loan","186cm / 6'1""",83kg / 183lbs,CAM,6500000.0,61000.0,77,86,67,47,Marko Pjaca
+"F. Magnanelli
+CDM",35,75,75,"Sassuolo
+2005 ~ 2022","181cm / 5'11""",79kg / 174lbs,CDM,1600000.0,19000.0,74,56,60,43,Francesco Magnanelli
+"K. Ayhan
+CB",25,75,78,"Sassuolo
+2020 ~ 2024","184cm / 6'0""",84kg / 185lbs,CB,6500000.0,25000.0,75,65,68,58,Kaan Ayhan
+"Iago Falqué
+CF ST RW",30,75,75,"Benevento
+Jun 30, 2021 On loan","174cm / 5'9""",69kg / 152lbs,CAM,5500000.0,41000.0,81,81,60,54,Iago Falqué Silva
+"K. Glik
+CB",32,75,75,"Benevento
+2020 ~ 2023","190cm / 6'3""",80kg / 176lbs,CB,3600000.0,16000.0,63,49,62,47,Kamil Glik
+"G. Caprari
+CF ST",26,75,75,"Benevento
+Jun 30, 2021 On loan","176cm / 5'9""",72kg / 159lbs,RW,6000000.0,21000.0,74,81,65,48,Gianluca Caprari
+"Riqui Puig
+CM",20,75,87,"FC Barcelona
+2018 ~ 2023","169cm / 5'7""",56kg / 123lbs,CAM,13500000.0,77000.0,82,81,66,62,Ricard Puig Martí
+"S. Dest
+RB RM",19,75,88,"FC Barcelona
+2020 ~ 2025","175cm / 5'9""",62kg / 137lbs,RM,13000000.0,50000.0,77,83,79,61,Sergiño Dest
+"A. Lunin
+GK",21,75,86,"Real Madrid
+2018 ~ 2024","192cm / 6'4""",87kg / 192lbs,GK,11000000.0,50000.0,25,11,32,369,Andriy Lunin
+"Vesga
+CM",27,75,76,"Athletic Club
+2016 ~ 2024","191cm / 6'3""",84kg / 185lbs,CDM,6500000.0,22000.0,78,68,77,58,Mikel Vesga Arruti
+"Joel Robles
+GK",30,75,75,"Real Betis Balompié
+2018 ~ 2022","195cm / 6'5""",90kg / 198lbs,GK,3700000.0,16000.0,15,18,25,371,Joel Robles Blázquez
+"Juanmi
+LM ST LW",27,75,75,"Real Betis Balompié
+2019 ~ 2024","172cm / 5'8""",69kg / 152lbs,RW,6000000.0,22000.0,74,76,67,47,Juan Miguel Jiménez López
+"N. Araújo
+CB",28,75,76,"RC Celta
+2018 ~ 2023","188cm / 6'2""",87kg / 192lbs,CB,5500000.0,21000.0,72,53,69,43,Néstor Araújo
+"Fran Beltrán
+CM CDM CAM",21,75,82,"RC Celta
+2018 ~ 2023","165cm / 5'5""",64kg / 141lbs,CM,11500000.0,16000.0,79,79,69,55,Francisco José Beltrán Peinado
+"Merquelanz
+LW RW CAM",25,75,78,"Real Sociedad
+2014 ~ 2025","176cm / 5'9""",72kg / 159lbs,CAM,7500000.0,26000.0,74,75,68,54,Martín Merquelanz
+"Jaume
+GK",29,75,75,"Valencia CF
+2013 ~ 2023","185cm / 6'1""",73kg / 161lbs,GK,3800000.0,23000.0,57,13,40,371,Jaume Domenech Sánchez
+"Manu Vallejo
+ST LM CAM",23,75,81,"Valencia CF
+2019 ~ 2024","167cm / 5'6""",72kg / 159lbs,ST,9000000.0,29000.0,71,77,76,50,Manuel Vallejo Galván
+"Kiko Olivas
+CB",31,75,75,"Real Valladolid CF
+2017 ~ 2022","186cm / 6'1""",80kg / 176lbs,CB,3800000.0,18000.0,74,56,78,52,Francisco José Olivas Alba
+"Nacho
+LB LWB",31,75,75,"Real Valladolid CF
+2017 ~ 2022","175cm / 5'9""",67kg / 148lbs,LB,4099999.9999999995,18000.0,62,62,81,58,José Ignacio Martínez García
+"Manu García
+CM CDM",34,75,75,"Deportivo Alavés
+2012 ~ 2021","182cm / 6'0""",74kg / 163lbs,CDM,2600000.0,22000.0,77,69,75,49,Manuel García Sánchez
+"Rodrigo Ely
+CB",26,75,78,"Deportivo Alavés
+2017 ~ 2024","188cm / 6'2""",83kg / 183lbs,CB,6500000.0,20000.0,64,50,55,52,Rodrigo Ely
+"Pere Pons
+CM CDM RM",27,75,75,"Deportivo Alavés
+2019 ~ 2022","177cm / 5'10""",70kg / 154lbs,CM,6000000.0,22000.0,79,74,79,51,Pere Pons Riera
+"R. Battaglia
+CM CDM",28,75,75,"Deportivo Alavés
+Jun 30, 2021 On loan","187cm / 6'2""",79kg / 174lbs,CDM,5500000.0,14000.0,76,74,79,39,Rodrigo Battaglia
+"Martín
+RB RM LB",24,75,80,"Deportivo Alavés
+2014 ~ 2022","178cm / 5'10""",69kg / 152lbs,RB,8000000.0,18000.0,75,66,74,47,Martín Aguirregabiria
+"Sergio Álvarez
+CDM CB CM",28,75,75,"SD Eibar
+2018 ~ 2022","183cm / 6'0""",74kg / 163lbs,CDM,4900000.0,24000.0,73,64,89,65,Sergio Álvarez Díaz
+"Arbilla
+CB LB RB",33,75,75,"SD Eibar
+2016 ~ 2023","178cm / 5'10""",76kg / 168lbs,CB,2700000.0,23000.0,71,63,69,59,Anaitz Arbilla Zabala
+"Kévin Rodrigues
+LB LM LWB",26,75,76,"SD Eibar
+Jun 30, 2021 On loan","170cm / 5'7""",70kg / 154lbs,LB,6000000.0,23000.0,80,70,64,67,Kévin Manuel Rodrigues
+"J. Calleri
+ST",26,75,"75
+-1","CA Osasuna
+2016 ~ 2021","181cm / 5'11""",72kg / 159lbs,ST,6000000.0,30000.0,67,76,73,45,Jonathan Calleri
+"Nacho Vidal
+RB RWB",25,75,78,"CA Osasuna
+2018 ~ 2025","180cm / 5'11""",75kg / 165lbs,RB,7000000.0,24000.0,75,68,69,43,Ignacio Vidal Miralles
+"Óscar
+CAM CM RM",22,75,86,"Sevilla FC
+2020 ~ 2025","174cm / 5'9""",68kg / 150lbs,CAM,12500000.0,21000.0,76,80,59,46,Óscar Rodríguez Arnaiz
+"J. Foyth
+CB RB CDM",22,75,83,"Villarreal CF
+Jun 30, 2021 On loan","187cm / 6'2""",69kg / 152lbs,CB,12000000.0,53000.0,74,71,69,53,Juan Foyth
+"Postigo
+CB",31,75,75,"Levante UD
+2016 ~ 2023","185cm / 6'1""",78kg / 172lbs,CB,3800000.0,20000.0,66,51,61,50,Sergio Postigo Redondo
+"N. Vukčević
+CM CDM",28,75,75,"Levante UD
+2018 ~ 2022","184cm / 6'0""",76kg / 168lbs,CDM,5500000.0,23000.0,77,72,76,67,Nikola Vukčević
+"N. Radoja
+CM",27,75,75,"Levante UD
+2019 ~ 2022","186cm / 6'1""",77kg / 170lbs,CDM,6000000.0,22000.0,81,74,75,52,Nemanja Radoja
+"De Frutos
+RM LM",23,75,81,"Levante UD
+2020 ~ 2025","176cm / 5'9""",71kg / 157lbs,CAM,9000000.0,20000.0,71,81,77,61,Jorge de Frutos Sebastián
+"Etxeita
+CB",32,75,75,"Getafe CF
+2019 ~ 2021","186cm / 6'1""",78kg / 172lbs,CB,3600000.0,23000.0,67,47,68,38,Xabier Etxeita Gorritxat.
+"A. Nyom
+RM LB RB",32,75,75,"Getafe CF
+2019 ~ 2022","189cm / 6'2""",80kg / 176lbs,CB,4500000.0,25000.0,75,74,79,52,Allan-Roméo Nyom
+"E. Ünal
+ST",23,75,81,"Getafe CF
+2020 ~ 2025","187cm / 6'2""",78kg / 172lbs,ST,9000000.0,24000.0,74,77,69,56,Enes Ünal
+"J. Hernández
+ST RM LM",21,75,81,"Getafe CF
+Jun 30, 2021 On loan","176cm / 5'9""",73kg / 161lbs,ST,9000000.0,15000.0,70,75,77,46,Juan Camilo Hernández
+"T. Kubo
+RM CM CAM",19,75,88,"Getafe CF
+Jun 30, 2021 On loan","173cm / 5'8""",67kg / 148lbs,CAM,13500000.0,59000.0,73,85,77,48,Takefusa Kubo
+"Álex Fernández
+CAM CDM LM",27,75,75,"Cádiz CF
+2017 ~ 2022","182cm / 6'0""",72kg / 159lbs,CM,6000000.0,27000.0,82,68,78,64,Alejandro Fernández Iglesias
+"J. Ledesma
+GK",27,75,78,"Cádiz CF
+Jun 30, 2021 On loan","186cm / 6'1""",83kg / 183lbs,GK,5500000.0,12000.0,33,16,40,368,Jeremías Conan Ledesma
+"Vallejo
+CB",23,75,79,"Granada CF
+Jun 30, 2021 On loan","184cm / 6'0""",79kg / 174lbs,CB,7000000.0,82000.0,71,56,54,57,Jesús Vallejo Lázaro
+"Pulido
+CB",29,75,75,"SD Huesca
+2017 ~ 2022","186cm / 6'1""",72kg / 159lbs,CB,4700000.0,21000.0,70,39,78,45,Jorge Pulido Mayoral
+"Pablo Maffeo
+RB RWB",22,75,82,"SD Huesca
+Jun 30, 2021 On loan","172cm / 5'8""",70kg / 154lbs,RB,11000000.0,18000.0,72,72,75,58,Pablo Maffeo Becerra
+"Ontiveros
+LM",22,75,82,"SD Huesca
+Jun 30, 2021 On loan","172cm / 5'8""",75kg / 165lbs,RM,11500000.0,24000.0,74,78,74,43,Javier Ontiveros Parra
+"E. Nketiah
+ST",21,74,81,"Arsenal
+2016 ~ 2022","175cm / 5'9""",72kg / 159lbs,ST,8500000.0,48000.0,66,74,68,47,Eddie Nketiah
+"K. Hause
+CB",24,74,77,"Aston Villa
+2019 ~ 2022","191cm / 6'3""",77kg / 170lbs,CB,5000000.0,35000.0,65,54,61,69,Kortney Hause
+"A. El Ghazi
+LM RW LW",25,74,75,"Aston Villa
+2019 ~ 2023","188cm / 6'2""",90kg / 198lbs,ST,5000000.0,43000.0,73,78,73,54,Anwar El Ghazi
+"W. Caballero
+GK",38,74,74,"Chelsea
+2017 ~ 2021","186cm / 6'1""",83kg / 183lbs,GK,475000.0,30000.0,33,12,32,367,Willy Caballero
+"M. Klich
+CM",30,74,74,"Leeds United
+2017 ~ 2024","183cm / 6'0""",82kg / 181lbs,CM,4000000.0,72000.0,77,72,88,64,Mateusz Klich
+"Hélder Costa
+RM RW LM",26,74,74,"Leeds United
+2020 ~ 2024","179cm / 5'10""",77kg / 170lbs,RM,4600000.0,72000.0,69,77,68,50,Hélder Wander Sousa Azevedo Costa
+"Adrián
+GK",33,74,74,"Liverpool
+2019 ~ 2023","190cm / 6'3""",80kg / 176lbs,GK,1400000.0,46000.0,21,15,38,364,Adrián San Miguel Castillo
+"A. Tuanzebe
+CB RB",22,74,81,"Manchester United
+2015 ~ 2023","185cm / 6'1""",75kg / 165lbs,CB,8000000.0,60000.0,75,68,67,43,Axel Tuanzebe
+"M. Ritchie
+LWB RM",30,74,74,"Newcastle United
+2016 ~ 2023","172cm / 5'8""",76kg / 168lbs,LWB,3600000.0,30000.0,75,77,75,61,Matt Ritchie
+"J. Hendrick
+CM CDM",28,74,74,"Newcastle United
+2020 ~ 2024","185cm / 6'1""",79kg / 174lbs,CM,4200000.0,34000.0,76,76,77,50,Jeff Hendrick
+"P. Dummett
+CB LB",28,74,74,"Newcastle United
+2010 ~ 2022","183cm / 6'0""",82kg / 181lbs,CB,3600000.0,32000.0,71,65,67,63,Paul Dummett
+"Manquillo
+RB RWB LB",26,74,75,"Newcastle United
+2017 ~ 2024","178cm / 5'10""",76kg / 168lbs,RB,4500000.0,30000.0,70,72,76,60,Javier Manquillo Gaitán
+"Joelinton
+ST LM",23,74,80,"Newcastle United
+2019 ~ 2024","186cm / 6'1""",81kg / 179lbs,ST,6500000.0,32000.0,75,75,75,56,Joelinton Apolinário de Lira
+"J. Willock
+CAM CM",20,74,82,"Newcastle United
+Jun 30, 2021 On loan","186cm / 6'1""",76kg / 168lbs,CAM,9500000.0,43000.0,74,78,74,46,Joseph Willock
+"F. Forster
+GK",32,74,74,"Southampton
+2014 ~ 2022","201cm / 6'7""",93kg / 205lbs,GK,2100000.0,32000.0,27,20,29,362,Fraser Forster
+"J. Stephens
+CB",26,74,76,"Southampton
+2011 ~ 2022","185cm / 6'1""",75kg / 165lbs,CB,4600000.0,39000.0,70,67,68,57,Jack Stephens
+"M. Djenepo
+LM RM",22,74,82,"Southampton
+2019 ~ 2023","177cm / 5'10""",65kg / 143lbs,CAM,9500000.0,37000.0,67,83,69,54,Moussa Djenepo
+"J. Hart
+GK",33,74,74,"Tottenham Hotspur
+2020 ~ 2022","196cm / 6'5""",91kg / 201lbs,GK,1400000.0,46000.0,34,23,28,358,Joe Hart
+"C. Fuchs
+CB LB",34,74,74,"Leicester City
+2015 ~ 2021","187cm / 6'2""",89kg / 196lbs,CB,1400000.0,53000.0,77,66,54,70,Christian Fuchs
+"D. Ward
+GK",27,74,74,"Leicester City
+2018 ~ 2022","191cm / 6'3""",88kg / 194lbs,GK,3200000.0,43000.0,30,19,22,361,Danny Ward
+"D. Amartey
+RB CDM CB",25,74,77,"Leicester City
+2016 ~ 2022","186cm / 6'1""",79kg / 174lbs,CB,5000000.0,51000.0,75,69,67,62,Daniel Amartey
+"H. Choudhury
+CDM CM",22,74,78,"Leicester City
+2015 ~ 2023","178cm / 5'10""",64kg / 141lbs,CB,5500000.0,46000.0,76,63,76,52,Hamza Choudhury
+"B. Ivanović
+CB RB",36,74,74,"West Bromwich Albion
+2020 ~ 2021","185cm / 6'1""",91kg / 201lbs,CB,750000.0,41000.0,66,51,58,61,Branislav Ivanović
+"M. Diagne
+ST",28,74,74,"West Bromwich Albion
+Jun 30, 2021 On loan","191cm / 6'3""",86kg / 190lbs,ST,4300000.0,56000.0,61,61,59,45,Mbaye Diagne
+"G. Diangana
+LM RM",22,74,83,"West Bromwich Albion
+2020 ~ 2025","180cm / 5'11""",73kg / 161lbs,LM,9500000.0,54000.0,73,80,66,45,Grady Diangana
+"C. Gallagher
+CM",20,74,83,"West Bromwich Albion
+Jun 30, 2021 On loan","182cm / 6'0""",74kg / 163lbs,CM,9000000.0,46000.0,74,75,76,46,Conor Gallagher
+"B. Decordova-Reid
+RM CM ST",27,74,74,"Fulham FC
+2020 ~ 2023","170cm / 5'7""",68kg / 150lbs,RM,4500000.0,72000.0,72,75,78,51,Bobby Decordova-Reid
+"J. Bryan
+LB LWB",26,74,75,"Fulham FC
+2018 ~ 2023","173cm / 5'8""",75kg / 165lbs,LB,4500000.0,66000.0,68,66,83,64,Joe Bryan
+"H. Reed
+CDM",25,74,79,"Fulham FC
+2020 ~ 2024","175cm / 5'9""",72kg / 159lbs,CDM,5500000.0,62000.0,75,67,76,54,Harrison Reed
+"T. Adarabioyo
+CB",22,74,82,"Fulham FC
+2020 ~ 2023","196cm / 6'5""",78kg / 172lbs,CB,9000000.0,56000.0,73,48,68,53,Tosin Adarabioyo
+"O. Aina
+RB CB",23,74,78,"Fulham FC
+Jun 30, 2021 On loan","184cm / 6'0""",82kg / 181lbs,RB,5500000.0,27000.0,70,75,75,50,Ola Aina
+"E. Stevens
+LWB",29,74,74,"Sheffield United
+2017 ~ 2023","183cm / 6'0""",78kg / 172lbs,LWB,3700000.0,29000.0,69,74,81,55,Enda Stevens
+"A. Ramsdale
+GK",22,74,79,"Sheffield United
+2020 ~ 2024","188cm / 6'2""",77kg / 170lbs,GK,5000000.0,18000.0,31,18,35,363,Aaron Ramsdale
+"J. Rodriguez
+ST",30,74,74,"Burnley
+2019 ~ 2022","185cm / 6'1""",84kg / 185lbs,ST,4099999.9999999995,47000.0,69,73,74,63,Jay Rodriguez
+"E. Pieters
+LB LM",31,74,74,"Burnley
+2019 ~ 2022","183cm / 6'0""",87kg / 192lbs,LB,3100000.0,39000.0,71,70,74,61,Erik Pieters
+"M. Vydra
+CF CAM ST",28,74,74,"Burnley
+2018 ~ 2022","180cm / 5'11""",71kg / 157lbs,CF,4300000.0,48000.0,71,74,75,61,Matěj Vydra
+"R. Brady
+LM RM",28,74,74,"Burnley
+2017 ~ 2021","176cm / 5'9""",69kg / 152lbs,LM,4200000.0,45000.0,71,74,68,47,Robbie Brady
+"W. Hennessey
+GK",33,74,74,"Crystal Palace
+2014 ~ 2021","198cm / 6'6""",90kg / 198lbs,GK,1400000.0,32000.0,29,8,29,372,Wayne Hennessey
+"M. Kelly
+CB RB",30,74,74,"Crystal Palace
+2014 ~ 2023","191cm / 6'3""",77kg / 170lbs,CB,3500000.0,39000.0,68,58,54,41,Martin Kelly
+"C. Benteke
+ST",29,74,74,"Crystal Palace
+2016 ~ 2023","190cm / 6'3""",83kg / 183lbs,ST,4200000.0,48000.0,66,64,57,44,Christian Benteke
+"J. Ward
+RB",30,74,74,"Crystal Palace
+2012 ~ 2023","188cm / 6'2""",83kg / 183lbs,RB,3600000.0,39000.0,70,64,69,43,Joel Ward
+"J. McCarthy
+CDM CM",29,74,74,"Crystal Palace
+2019 ~ 2022","180cm / 5'11""",72kg / 159lbs,CDM,3600000.0,41000.0,76,72,60,54,James McCarthy
+"P. Tau
+CAM ST",26,74,75,"Brighton & Hove Albion
+2018 ~ 2022","175cm / 5'9""",65kg / 143lbs,CAM,5000000.0,45000.0,72,80,68,58,Percy Tau
+"P. Baysse
+CB",32,74,74,"FC Girondins de Bordeaux
+2018 ~ 2024","187cm / 6'2""",85kg / 187lbs,CB,2700000.0,24000.0,68,62,67,59,Paul Baysse
+"N. De Préville
+CAM LM ST",29,74,74,"FC Girondins de Bordeaux
+2017 ~ 2021","177cm / 5'10""",77kg / 170lbs,CAM,4099999.9999999995,28000.0,74,74,73,52,Nicolas De Préville
+"Y. Sabaly
+RB RM",27,74,74,"FC Girondins de Bordeaux
+2017 ~ 2021","173cm / 5'8""",67kg / 148lbs,RB,4099999.9999999995,24000.0,73,69,77,54,Youssouf Sabaly
+"J. Seri
+CDM CM",28,74,74,"FC Girondins de Bordeaux
+Jun 30, 2021 On loan","170cm / 5'7""",73kg / 161lbs,CAM,3700000.0,69000.0,81,74,74,58,Jean Michaël Seri
+"Y. Cahuzac
+CDM CM",35,74,74,"RC Lens
+2019 ~ 2022","178cm / 5'10""",72kg / 159lbs,CDM,1200000.0,22000.0,69,56,79,68,Yannick Cahuzac
+"J. Gradit
+CB RB",27,74,75,"RC Lens
+2019 ~ 2024","180cm / 5'11""",75kg / 165lbs,CB,4200000.0,30000.0,71,61,90,54,Jonathan Gradit
+"F. Sotoca
+ST",29,74,74,"RC Lens
+2019 ~ 2023","187cm / 6'2""",77kg / 170lbs,ST,4200000.0,37000.0,69,69,90,65,Florian Sotoca
+"W. Faríñez
+GK",22,74,78,"RC Lens
+2018 ~ 2022","180cm / 5'11""",77kg / 170lbs,GK,4900000.0,20000.0,25,14,41,361,Wuilker Faríñez
+"F. Medina
+CB",21,74,80,"RC Lens
+2020 ~ 2024","184cm / 6'0""",77kg / 170lbs,CB,6000000.0,22000.0,71,66,69,56,Facundo Medina
+"D. Bradarić
+LB",20,74,81,"Lille OSC
+2019 ~ 2024","178cm / 5'10""",69kg / 152lbs,LWB,8000000.0,19000.0,73,74,76,53,Domagoj Bradarić
+"M. Cornet
+LB LW",23,74,78,"Olympique Lyonnais
+2015 ~ 2023","179cm / 5'10""",69kg / 152lbs,ST,5500000.0,36000.0,74,73,90,58,Maxwel Cornet
+"T. Delaine
+LWB LB RB",28,74,74,"FC Metz
+2018 ~ 2022","180cm / 5'11""",70kg / 154lbs,LWB,3800000.0,17000.0,69,71,82,60,Thomas Delaine
+"F. Boulaya
+CAM RW",27,74,74,"FC Metz
+2018 ~ 2022","179cm / 5'10""",70kg / 154lbs,CAM,4500000.0,17000.0,72,80,64,52,Farid Boulaya
+"O. Nguette
+LW RW",25,74,75,"FC Metz
+2016 ~ 2022","182cm / 6'0""",76kg / 168lbs,LW,5000000.0,18000.0,70,77,61,45,Opa Nguette
+"Florentino
+CDM CM",20,74,81,"AS Monaco
+Jun 30, 2021 On loan","184cm / 6'0""",73kg / 161lbs,CDM,8000000.0,8000.0,74,64,74,58,Florentino Morris Luís
+"D. Le Tallec
+CDM CM",30,74,74,"Montpellier HSC
+2018 ~ 2022","187cm / 6'2""",80kg / 176lbs,CB,3500000.0,24000.0,73,70,72,48,Damien Le Tallec
+"A. Souquet
+RB RWB",28,74,74,"Montpellier HSC
+2019 ~ 2023","179cm / 5'10""",74kg / 163lbs,RB,3800000.0,26000.0,73,71,76,57,Arnaud Souquet
+"Fábio
+LB RB",29,74,74,"FC Nantes
+2018 ~ 2022","172cm / 5'8""",74kg / 163lbs,LB,3700000.0,21000.0,75,70,63,54,Fábio Pereira da Silva
+"S. Corchia
+RB",29,74,74,"FC Nantes
+2020 ~ 2023","175cm / 5'9""",67kg / 148lbs,RB,3700000.0,21000.0,72,74,60,46,Sébastien Corchia
+"A. Touré
+CDM CM",26,74,75,"FC Nantes
+2014 ~ 2022","188cm / 6'2""",84kg / 185lbs,CDM,4400000.0,20000.0,64,60,75,48,Abdoulaye Touré
+"M. Coco
+RM LM RW",24,74,78,"FC Nantes
+2019 ~ 2023","184cm / 6'0""",78kg / 172lbs,RW,6000000.0,19000.0,75,76,55,47,Marcus Coco
+"I. Louza
+CM CAM CDM",21,74,80,"FC Nantes
+2018 ~ 2024","178cm / 5'10""",65kg / 143lbs,CM,6500000.0,17000.0,78,76,71,39,Imran Louza
+"R. Salin
+GK",35,74,74,"Stade Rennais FC
+2019 ~ 2022","189cm / 6'2""",76kg / 168lbs,GK,475000.0,17000.0,36,14,38,363,Romain Salin
+"R. Del Castillo
+RW CF LW",24,74,77,"Stade Rennais FC
+2018 ~ 2022","172cm / 5'8""",65kg / 143lbs,CAM,6000000.0,34000.0,72,79,69,51,Romain Del Castillo
+"J. Doku
+RW RM",18,74,86,"Stade Rennais FC
+2020 ~ 2025","171cm / 5'7""",60kg / 132lbs,RW,10000000.0,16000.0,67,85,69,50,Jérémy Doku
+"D. Liénard
+CM CDM",32,74,74,"RC Strasbourg Alsace
+2013 ~ 2023","181cm / 5'11""",77kg / 170lbs,CM,3300000.0,25000.0,80,73,72,68,Dimitri Liénard
+"A. Caci
+LB",23,74,80,"RC Strasbourg Alsace
+2018 ~ 2022","186cm / 6'1""",74kg / 163lbs,LB,6000000.0,19000.0,71,66,74,47,Anthony Caci
+"M. Simakan
+CB RB",20,74,84,"RC Strasbourg Alsace
+2018 ~ 2023","187cm / 6'2""",82kg / 181lbs,CB,8500000.0,16000.0,69,62,74,46,Mohamed Simakan
+"L. Abergel
+CDM CM",27,74,75,"FC Lorient
+2019 ~ 2025","170cm / 5'7""",65kg / 143lbs,CDM,4300000.0,24000.0,74,69,90,51,Laurent Abergel
+"Y. Nagatomo
+LB LWB RB",33,74,74,"Olympique de Marseille
+2020 ~ 2021","170cm / 5'7""",68kg / 150lbs,LB,2200000.0,28000.0,72,65,75,61,Yuto Nagatomo
+"V. Germain
+ST RW LW",30,74,74,"Olympique de Marseille
+2017 ~ 2021","180cm / 5'11""",73kg / 161lbs,ST,4099999.9999999995,34000.0,74,70,78,55,Valère Germain
+"B. Reynet
+GK",29,74,74,"Nîmes Olympique
+2020 ~ 2021","185cm / 6'1""",90kg / 198lbs,GK,2900000.0,16000.0,38,18,35,369,Baptiste Reynet
+"A. Briançon
+CB",25,74,77,"Nîmes Olympique
+2014 ~ 2022","185cm / 6'1""",79kg / 174lbs,CB,5000000.0,18000.0,73,45,75,60,Anthony Briançon
+"S. Alakouch
+RB",21,74,79,"Nîmes Olympique
+2017 ~ 2021","175cm / 5'9""",66kg / 146lbs,RB,6000000.0,14000.0,72,71,75,51,Sofiane Alakouch
+"C. Hérelle
+CB",27,74,75,"Stade Brestois 29
+2020 ~ 2024","188cm / 6'2""",79kg / 174lbs,CB,4200000.0,16000.0,75,58,75,64,Christophe Hérelle
+"V. Berisha
+CM CDM",27,74,74,"Stade de Reims
+2020 ~ 2024","176cm / 5'9""",81kg / 179lbs,CAM,4500000.0,22000.0,74,77,84,63,Valon Berisha
+"M. Cafaro
+LM RM CM",23,74,80,"Stade de Reims
+2017 ~ 2022","178cm / 5'10""",74kg / 163lbs,CAM,6500000.0,19000.0,72,77,70,47,Mathieu Cafaro
+"A. Bamba
+RB RWB LB",30,74,74,"Angers SCO
+2017 ~ 2023","182cm / 6'0""",72kg / 159lbs,RB,3600000.0,19000.0,69,60,78,50,Abdoulaye Bamba
+"L. Diony
+ST LM",27,74,74,"Angers SCO
+2020 ~ 2023","183cm / 6'0""",82kg / 181lbs,ST,4600000.0,22000.0,68,74,66,51,Loïs Diony
+"M. Pavlović
+CB",30,74,74,"Angers SCO
+2016 ~ 2023","196cm / 6'5""",94kg / 207lbs,CB,3500000.0,19000.0,67,49,65,54,Mateo Pavlović
+"S. Thioub
+RM LM RW",25,74,77,"Angers SCO
+2019 ~ 2023","179cm / 5'10""",75kg / 165lbs,LM,5500000.0,20000.0,72,77,71,56,Sada Thioub
+"M. Pereira Lage
+LM RM CM",23,74,80,"Angers SCO
+2019 ~ 2022","180cm / 5'11""",67kg / 148lbs,RM,6500000.0,18000.0,73,73,85,46,Mathias Pereira Lage
+"T. Kolodziejczak
+CB LB",28,74,75,"AS Saint-Étienne
+2020 ~ 2022","185cm / 6'1""",75kg / 165lbs,CB,4000000.0,26000.0,74,55,79,53,Timothée Kolodziejczak
+"M. Trauco
+LB LWB LM",27,74,74,"AS Saint-Étienne
+2019 ~ 2022","175cm / 5'9""",62kg / 137lbs,LB,4099999.9999999995,24000.0,76,76,79,52,Miguel Trauco
+"P. Cissé
+CB",24,74,79,"AS Saint-Étienne
+2017 ~ 2022","197cm / 6'6""",90kg / 198lbs,CB,6000000.0,21000.0,58,38,70,67,Pape Abou Cissé
+"D. Ndong
+CDM CM",26,74,76,"Dijon FCO
+2019 ~ 2023","180cm / 5'11""",75kg / 165lbs,CDM,4700000.0,13000.0,76,70,81,61,Didier Ndong
+"J. Musiala
+CAM LM",17,74,87,"FC Bayern München
+2020 ~ 2026","180cm / 5'11""",68kg / 150lbs,CAM,9500000.0,7000.0,71,85,58,42,Jamal Musiala
+"T. Jantschke
+CB RB",30,74,74,"Borussia Mönchengladbach
+2009 ~ 2023","177cm / 5'10""",76kg / 168lbs,CB,3500000.0,27000.0,72,62,66,43,Tony Jantschke
+"D. Heintz
+CB",26,74,76,"SC Freiburg
+2018 ~ 2022","188cm / 6'2""",90kg / 198lbs,CB,4600000.0,20000.0,69,58,68,60,Dominique Heintz
+"E. Dennis
+ST RW LW",22,74,79,"1. FC Köln
+Jun 30, 2021 On loan","175cm / 5'9""",66kg / 146lbs,ST,6500000.0,21000.0,64,76,71,55,Emmanuel Dennis
